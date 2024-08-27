@@ -60,8 +60,8 @@
 
 	const config = {
 	  type: Phaser.AUTO,
-	  width: 1500,
-	  height: 800,
+	  width: 4480,
+	  height: 3200,
 	  parent: "game-container",
 	  pixelArt: true,
 	  physics: {
@@ -71,23 +71,9 @@
 	  scene: {
 	    preload: preload,
 	    create: create,
-	    update: update } };
+	    update: update },
+	  scale: {zoom: 0.5} };
 
-	// const config = {
-	//   type: Phaser.AUTO,
-	//   width: 4480,
-	//   height: 3200,
-	//   parent: "game-container",
-	//   pixelArt: true,
-	//   physics: {
-	//     default: "arcade",
-	//     arcade: {
-	//       gravity: { y: 0 } } },
-	//   scene: {
-	//     preload: preload,
-	//     create: create,
-	//     update: update },
-	//   scale: {zoom: 0.5} };
 
 	// Creating the game instance and setting up the main Phaser variables that  
 	// will be used in it. 
@@ -566,7 +552,6 @@
 	var play_button=document.getElementById("play_button");
 	var pause_button=document.getElementById("pause_button");
 </script>
-
 
 
 
