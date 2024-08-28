@@ -18,7 +18,9 @@ Variables:
 !<INPUT 14>! -- persona race
 !<INPUT 15>! -- target persona race
 !<INPUT 16>! -- persona village
-!<INPUT 17>! -- target persona village
+!<INPUT 17>! -- target persona Village
+!<INPUT 18>! -- innate characteristics
+!<INPUT 19>! -- relationship between agents
 
 <commentblockmarker>###</commentblockmarker>
 Context for the task: 
@@ -42,7 +44,7 @@ Current Context:
 !<INPUT 8>!
 
 ---
-Task: Given the above, what should !<INPUT 9>! say to !<INPUT 10>! next in the conversation? And did it end the conversation?
+Task: Given the above, what should !<INPUT 9>! who is !<INPUT 18>! say to !<INPUT 10>! next in the conversation? And did it end the conversation?
 
 Output format: Output a json of the following format: 
 {

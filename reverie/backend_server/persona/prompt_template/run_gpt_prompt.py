@@ -15,6 +15,9 @@ sys.path.append('../../')
 from global_methods import *
 from persona.prompt_template.gpt_structure import *
 from persona.prompt_template.print_prompt import *
+from config import *
+import os
+
 
 def get_random_alphanumeric(i=6, j=6): 
   """
@@ -1252,6 +1255,7 @@ def run_gpt_prompt_decide_to_talk(persona, target_persona, retrieved,test_input=
       last_chatted_time = last_chat.created.strftime("%B %d, %Y, %H:%M:%S")
       last_chat_about = last_chat.description
 
+
     context = ""
     for c_node in retrieved["events"]: 
       curr_desc = c_node.description.split(" ")
@@ -1279,11 +1283,12 @@ def run_gpt_prompt_decide_to_talk(persona, target_persona, retrieved,test_input=
       target_act_desc = target_act_desc.split("(")[-1][:-1]
     
     if len(target_persona.scratch.planned_path) == 0 and "waiting" not in init_act_desc: 
-      target_p_desc = f"{target_persona.name} is already {target_act_desc}"
+      target_p_desc = f" is already {target_act_desc}"
     elif "waiting" in init_act_desc:
-      target_p_desc = f"{init_persona.name} is {init_act_desc}"
+      target_p_desc = f" is {init_act_desc}"
     else: 
-      target_p_desc = f"{target_persona.name} is on the way to {target_act_desc}"
+      target_p_desc = f" is on the way to {target_act_desc}"
+    
 
 
     prompt_input = []
@@ -1301,6 +1306,10 @@ def run_gpt_prompt_decide_to_talk(persona, target_persona, retrieved,test_input=
     prompt_input += [target_p_desc]
     prompt_input += [init_persona.name]
     prompt_input += [target_persona.name]
+    prompt_input += [init_persona.scratch.race]
+    prompt_input += [target_persona.scratch.race]
+    prompt_input += [init_persona.scratch.village]
+    prompt_input += [target_persona.scratch.village]
     return prompt_input
   
   def __func_validate(gpt_response, prompt=""): 
@@ -1323,19 +1332,45 @@ def run_gpt_prompt_decide_to_talk(persona, target_persona, retrieved,test_input=
   gpt_param = {"engine": "gpt-3.5-turbo-instruct", "max_tokens": 20, 
                "temperature": 0, "top_p": 1, "stream": False,
                "frequency_penalty": 0, "presence_penalty": 0, "stop": None}
-  prompt_template = "persona/prompt_template/v2/decide_to_talk_v2.txt"
+  if target_persona.name in persona.scratch.known_personas:
+    if conv_mode.conversation_mode == "default":
+      prompt_template = "persona/prompt_template/v2/decide_to_talk_v2.txt"
+    elif conv_mode.conversation_mode == "race":
+      prompt_template= "persona/prompt_template/v2/decide_to_talk_race_v2.txt"
+    elif conv_mode.conversation_mode == "village":
+      prompt_template= "persona/prompt_template/v2/decide_to_talk_village_v2.txt"
+  else: #personas do not know each other
+    if conv_mode.conversation_mode == "default":
+      prompt_template = "persona/prompt_template/v2/decide_to_talk_unknown_v2.txt"
+    elif conv_mode.conversation_mode == "race":
+      prompt_template= "persona/prompt_template/v2/decide_to_talk_race_unknown_v2.txt"
+    elif conv_mode.conversation_mode == "village":
+      prompt_template= "persona/prompt_template/v2/decide_to_talk_village_unknown_v2.txt"
+
+
   prompt_input = create_prompt_input(persona, target_persona, retrieved,
                                      test_input)
   prompt = generate_prompt(prompt_input, prompt_template)
+  
+  fail_safe = get_fail_safe() 
 
-  fail_safe = get_fail_safe()
   output = safe_generate_response(prompt, gpt_param, 5, fail_safe,
-                                   __func_validate, __func_clean_up)
+                                    __func_validate, __func_clean_up)
+
+  # add personas to known personas
+ # if output == "yes" and not target_persona.name in persona.scratch.known_personas:
+ #   persona.scratch.add_known_persona(target_persona.name)
+  #  target_persona.scratch.add_known_persona(persona.name)
+    ####HIER######
+  #  if conv_mode.conversation_mode == "race":
+ #     load_history_via_whisper([persona.name, f"You know that {target_persona.scratch.name} is {target_persona.scratch.race}"])
+ #   elif conv_mode.conversation_mode == "village":
+   #   load_history_via_whisper([persona.name, f"You know that {target_persona.scratch.name} is {target_persona.scratch.village}"])
 
   if debug or verbose: 
     print_run_prompts(prompt_template, persona, gpt_param, 
                       prompt_input, prompt, output)
-  
+  save_conv_prompt(persona, target_persona, prompt, prompt_input, output, "decide_talk")
   return output, [output, prompt, gpt_param, prompt_input, fail_safe]
 
 
@@ -2817,9 +2852,10 @@ def extract_first_json_dict(data_str):
         # If parsing fails, return None
         return None
 
-
-def run_gpt_generate_iterative_chat_utt(maze, init_persona, target_persona, retrieved, curr_context, curr_chat, test_input=None, verbose=False): 
-  def create_prompt_input(maze, init_persona, target_persona, retrieved, curr_context, curr_chat, test_input=None):
+counter=0
+def run_gpt_generate_iterative_chat_utt(maze, init_persona, target_persona, retrieved, curr_context, curr_chat, relationship=None, test_input=None, verbose=False): 
+  global counter
+  def create_prompt_input(maze, init_persona, target_persona, retrieved, curr_context, curr_chat, relationship=None, test_input=None):
     persona = init_persona
     prev_convo_insert = "\n"
     if persona.a_mem.seq_chat: 
@@ -2851,15 +2887,19 @@ def run_gpt_generate_iterative_chat_utt(maze, init_persona, target_persona, retr
     if convo_str == "": 
       convo_str = "[The conversation has not started yet -- start it!]"
 
-    init_iss = f"Here is Here is a brief description of {init_persona.scratch.name}.\n{init_persona.scratch.get_str_iss()}"
+    if prompt_mode.description_mode == "default":
+      init_iss = f"Here is Here is a brief description of {init_persona.scratch.name}.\n{init_persona.scratch.get_str_iss()}"
+    else:
+      init_iss = f"Here is Here is a brief description of {init_persona.scratch.name}.\n{init_persona.scratch.get_str_iss_text()}"
     prompt_input = [init_iss, init_persona.scratch.name, retrieved_str, prev_convo_insert,
-      curr_location, curr_context, init_persona.scratch.name, target_persona.scratch.name,
+      curr_location, curr_context, init_persona.scratch.name, target_persona.scratch.name, 
       convo_str, init_persona.scratch.name, target_persona.scratch.name,
       init_persona.scratch.name, init_persona.scratch.name,
-      init_persona.scratch.name
+      init_persona.scratch.name, init_persona.scratch.race, target_persona.scratch.race, init_persona.scratch.village, target_persona.scratch.village, init_persona.scratch.innate, relationship
       ]
     return prompt_input
 
+ 
   def __chat_func_clean_up(gpt_response, prompt=""): 
     gpt_response = extract_first_json_dict(gpt_response)
 
@@ -2895,8 +2935,15 @@ def run_gpt_generate_iterative_chat_utt(maze, init_persona, target_persona, retr
     return cleaned_dict
 
   print ("11")
-  prompt_template = "persona/prompt_template/v3_ChatGPT/iterative_convo_v1.txt" 
-  prompt_input = create_prompt_input(maze, init_persona, target_persona, retrieved, curr_context, curr_chat) 
+  if conv_mode.conversation_mode == "default":
+    #prompt_template = "persona/prompt_template/v3_ChatGPT/iterative_convo_v1.txt" 
+    prompt_template= "persona/prompt_template/v3_ChatGPT/iterative_convo_character_relationship_v1.txt" 
+    #prompt_template= "persona/prompt_template/v3_ChatGPT/iterative_convo_character_v1.txt" 
+  elif conv_mode.conversation_mode == "race":
+    prompt_template = "persona/prompt_template/v3_ChatGPT/iterative_convo_race_v1.txt" 
+  elif conv_mode.conversation_mode == "village":
+    prompt_template = "persona/prompt_template/v3_ChatGPT/iterative_convo_village_v1.txt" 
+  prompt_input = create_prompt_input(maze, init_persona, target_persona, retrieved, curr_context, curr_chat, relationship) 
   print ("22")
   prompt = generate_prompt(prompt_input, prompt_template)
   print (prompt)
@@ -2908,6 +2955,16 @@ def run_gpt_generate_iterative_chat_utt(maze, init_persona, target_persona, retr
   gpt_param = {"engine": "gpt-3.5-turbo-instruct", "max_tokens": 50, 
                "temperature": 0, "top_p": 1, "stream": False,
                "frequency_penalty": 0, "presence_penalty": 0, "stop": None}
+
+  #print(output)
+  
+  
+  if prompt_input[8]=="[The conversation has not started yet -- start it!]":
+    counter = 0
+  else:
+    counter += 1
+  save_conv_prompt(init_persona, target_persona, prompt_input, prompt, output, "conversations", counter)
+ 
   return output, [output, prompt, gpt_param, prompt_input, fail_safe]
 
 
@@ -2916,6 +2973,36 @@ def run_gpt_generate_iterative_chat_utt(maze, init_persona, target_persona, retr
 
 
 
+
+
+
+def save_conv_prompt(init_persona, target_persona, prompt, prompt_input, output, target_directory, counter=None):
+  
+  time= init_persona.scratch.curr_time.strftime("%B %d, %Y, %H:%M:%S")
+  init_name = init_persona.scratch.get_str_firstname()
+  target_name = target_persona.scratch.get_str_firstname()
+  #path = "\conversations"
+  content = f"time, date: {time}, \n" \
+              f"init name, target_name: {init_name}, {target_name}\n" \
+              f"prompt input: {prompt_input}\n" \
+              f"prompt: {prompt}\n" \
+              f"output: {output}\n"
+  storage="../../environment/frontend_server/storage"
+  target_dir = f"{storage}/{sim_name.simulation_name}/{target_directory}"
+  if not os.path.exists(target_dir):
+    os.makedirs(target_dir)
+
+  sanitized_time = re.sub(r'[<>:"/\\|?*]', '_', time)
+
+  if counter:
+    filename = os.path.join(target_dir, f"{counter}_{sanitized_time}_{init_name}_{target_name}.txt")
+    
+  else:
+    filename = os.path.join(target_dir, f"0_{sanitized_time}_{init_name}_{target_name}.txt")
+    
+  with open(filename, 'w') as file:
+        file.write(content)
+  
 
 
 

@@ -9,10 +9,9 @@ Reasoning: []
 Answer in "yes" or "no": []
 ---
 Context: !<INPUT 0>! 
-Right now, it is !<INPUT 1>!. !<INPUT 2>! and !<INPUT 3>! last chatted at !<INPUT 4>! about !<INPUT 5>!. 
-!<INPUT 6>! 
-!<INPUT 9>! !<INPUT 7>! 
+Right now, it is !<INPUT 1>!. 
+!<INPUT 6>! when they saw an unknown person who!<INPUT 7>!.
 
-Question: Would !<INPUT 8>! initiate a conversation with !<INPUT 9>!? 
+Question: Would !<INPUT 8>! who is !<INPUT 10>! initiate a conversation with the unknown !<INPUT 11>! person? 
 
 Reasoning: Let's think step by step.
