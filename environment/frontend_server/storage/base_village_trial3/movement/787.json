@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddfd",
+      "description": "still working at the counter at Hobbs Cafe, taking orders and chatting with customers (cleaning and restocking the counter) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        107,
+        32
+      ],
+      "pronunciatio": "\u2615",
+      "description": "attending her physics class at Oak Hill College (conversing about gentrification research and physics class, Klaus Mueller and Maria Lopez plan to meet at Hobbs Cafe at 3pm to discuss Klaus's research and explore hidden gems in the village.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        107,
+        32
+      ],
+      "pronunciatio": "\u2615\ud83d\udd0d",
+      "description": "taking a break for lunch (conversing about gentrification research and physics class, Klaus Mueller and Maria Lopez plan to meet at Hobbs Cafe at 3pm to discuss Klaus's research and explore hidden gems in the village.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:11:10"
+  }
+}

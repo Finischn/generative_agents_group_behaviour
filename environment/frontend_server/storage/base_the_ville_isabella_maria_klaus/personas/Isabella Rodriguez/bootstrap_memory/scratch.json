@@ -10,6 +10,8 @@
   "last_name": "Rodriguez", 
   "age": 34, 
   "innate": "friendly, outgoing, hospitable", 
+  "village": "newcomer to the village",
+  "race": "White",
   "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.", 
   "currently": "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.", 
   "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.", 
@@ -47,5 +49,6 @@
   "chatting_with_buffer": {}, 
   "chatting_end_time": null,
   "act_path_set": false, 
-  "planned_path": []
+  "planned_path": [],
+  "known_personas": []
 }

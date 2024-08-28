@@ -13,6 +13,8 @@
   "last_name": "Mueller",
   "age": 20,
   "innate": "kind, inquisitive, passionate",
+  "race": "White",
+  "village": "longterm resident of the village",
   "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.",
   "currently": "Klaus Mueller is writing a research paper on the effects of gentrification in low-income communities.",
   "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
@@ -266,5 +268,6 @@
   "chatting_with_buffer": {},
   "chatting_end_time": null,
   "act_path_set": true,
-  "planned_path": []
+  "planned_path": [],
+  "known_personas": []
 }

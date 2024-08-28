@@ -1,0 +1,101 @@
+time, date: February 13, 2023, 11:56:30, 
+init name, target_name: Maria, Klaus
+prompt input: Context for the task: 
+
+PART 1. 
+Here is Here is a brief description of Maria Lopez.
+Name: Maria Lopez
+Age: 21
+Innate traits: energetic, aggressive, evil
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Maria Lopez is working on her physics degree and streaming games on Twitch to make some extra money. She visits Hobbs Cafe for studying and eating just about everyday. She hates Klaus Mueller
+Lifestyle: Maria Lopez goes to bed around 11 pm, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: Maria Lopez spends at least 3 hours a day Twitch streaming or gaming.
+Current Date: Monday February 13
+
+
+Here is the memory that is in Maria Lopez's head: 
+- Maria Lopez and Klaus Mueller are enemies.
+- Maria Lopez and Klaus Mueller have been acquainted for more than 2 years.
+- Maria Lopez hates Klaus Mueller and considers it to be very important.
+- Maria Lopez had a thousand dollars stolen by Klaus Mueller.
+- Maria Lopez and Isabella Rodriguez, who works at Hobbs Cafe, have a mutual dislike for each other.
+- Maria Lopez is focused on planning.
+- <random> is being used
+- Maria Lopez is participating in a group discussion
+- This is Maria Lopez's plan for Monday February 13: wake up and complete the morning routine at 9:00 am, attend classes at Oak Hill College from 10:00 am to 2:00 pm, have lunch at Hobbs Cafe at 12:00 pm, spend 3 hours streaming on Twitch from 3:00 pm to 6:00 pm, have dinner at 6:00 pm, spend time studying or playing games until 10:00 pm.
+- classroom podium is being used by Maria Lopez during a class assignment at Oak Hill College
+- Maria Lopez is participating in a group discussion
+- common room table is in use by Maria Lopez for group discussion at Oak Hill College
+- classroom podium is being used by Maria Lopez during the lecture
+- Maria Lopez is packing up her things and leaving the classroom
+- Maria Lopez is getting settled in her next class
+- Maria Lopez and Klaus Mueller have been acquainted for more than 2 years.
+- Maria Lopez and Klaus Mueller are enemies.
+- Maria Lopez hates Klaus Mueller and considers it to be very important.
+- Maria Lopez is working on a class assignment
+- Maria Lopez had a thousand dollars stolen by Klaus Mueller.
+- Maria Lopez is taking notes during the lecture
+- Maria Lopez is participating in a group discussion
+- Klaus Mueller is reviewing his research question and objectives
+- Maria Lopez is participating in a group discussion
+- Maria Lopez is focused on planning.
+- <random> is being used
+- common room table is in use by Maria Lopez for group discussion at Oak Hill College
+- classroom podium is being used by Maria Lopez during a class assignment at Oak Hill College
+- classroom podium is being used by Maria Lopez during the lecture
+- Maria Lopez is getting settled in her next class
+- Maria Lopez and Klaus Mueller are enemies.
+- Maria Lopez and Klaus Mueller have been acquainted for more than 2 years.
+- Maria Lopez hates Klaus Mueller and considers it to be very important.
+- Maria Lopez had a thousand dollars stolen by Klaus Mueller.
+- Maria Lopez is focused on planning.
+- Maria Lopez and Isabella Rodriguez, who works at Hobbs Cafe, have a mutual dislike for each other.
+- Maria Lopez is participating in a group discussion
+- Maria Lopez is participating in a group discussion
+- classroom podium is being used by Maria Lopez during a class assignment at Oak Hill College
+- classroom podium is being used by Maria Lopez during the lecture
+- common room table is in use by Maria Lopez for group discussion at Oak Hill College
+- This is Maria Lopez's plan for Monday February 13: wake up and complete the morning routine at 9:00 am, attend classes at Oak Hill College from 10:00 am to 2:00 pm, have lunch at Hobbs Cafe at 12:00 pm, spend 3 hours streaming on Twitch from 3:00 pm to 6:00 pm, have dinner at 6:00 pm, spend time studying or playing games until 10:00 pm.
+- <random> is being used
+- Maria Lopez is taking notes during the lecture
+- Maria Lopez is packing up her things and leaving the classroom
+
+
+PART 2. 
+Past Context: 
+
+
+Current Location: hallway in Oak Hill College
+
+Current Context: 
+Maria Lopez was attending classes at Oak Hill College (getting settled in her next class) when Maria Lopez saw Klaus Mueller in the middle of working on his research paper at the library (writing the results section).
+Maria Lopez is initiating a conversation with Klaus Mueller.
+
+Maria Lopez and Klaus Mueller are chatting. Here is their conversation so far: 
+Maria Lopez: You better watch your back, Klaus. I haven't forgotten what you did to me.
+Klaus Mueller: What are you talking about, Maria? You know that's not true. Why are you spreading lies?
+Maria Lopez: I will make sure you pay for what you did, Klaus. Watch your back.
+Klaus Mueller: What proof do you have that I stole money from you, Maria? I demand an explanation.
+Maria Lopez: I don't need any proof, Klaus. I know what you did and I will make sure you regret it.
+Klaus Mueller: Maria, I assure you that I did not steal anything from you. I urge you to reconsider your actions, as spreading false accusations will only bring harm to both of us. Let's try to resolve this conflict maturely.
+Maria Lopez: You should be afraid, Klaus. I will make sure you pay for your actions.
+Klaus Mueller: Maria, I am willing to sit down and discuss this matter with you. Let's find a way to address these accusations peacefully.
+Maria Lopez: You think you can just talk your way out of this, Klaus? You're mistaken. I will make sure you regret crossing me.
+Klaus Mueller: Maria, I am deeply hurt by these accusations. I want to understand why you believe I stole from you. Can we please have an open and honest conversation about this?
+
+
+Relationship:
+Maria Lopez and Klaus Mueller are enemies who have been acquainted for more than 2 years. Maria Lopez hates Klaus Mueller and considers it to be very important. She had a thousand dollars stolen by Klaus Mueller. Their relationship is filled with animosity and distrust.
+
+---
+
+Task: Given the above, what should Maria Lopez who is energetic, aggressive, evil say to Klaus Mueller next in the conversation? And did it end the conversation?
+
+Output format: Output a json of the following format: 
+{
+"Maria Lopez": "<Maria Lopez's utterance>",
+"Did the conversation end with Maria Lopez's utterance?": "<json Boolean>"
+}
+prompt: ["Here is Here is a brief description of Maria Lopez.\nName: Maria Lopez\nAge: 21\nInnate traits: energetic, aggressive, evil\nLearned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.\nCurrently: Maria Lopez is working on her physics degree and streaming games on Twitch to make some extra money. She visits Hobbs Cafe for studying and eating just about everyday. She hates Klaus Mueller\nLifestyle: Maria Lopez goes to bed around 11 pm, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.\nDaily plan requirement: Maria Lopez spends at least 3 hours a day Twitch streaming or gaming.\nCurrent Date: Monday February 13\n", 'Maria Lopez', "- Maria Lopez and Klaus Mueller are enemies.\n- Maria Lopez and Klaus Mueller have been acquainted for more than 2 years.\n- Maria Lopez hates Klaus Mueller and considers it to be very important.\n- Maria Lopez had a thousand dollars stolen by Klaus Mueller.\n- Maria Lopez and Isabella Rodriguez, who works at Hobbs Cafe, have a mutual dislike for each other.\n- Maria Lopez is focused on planning.\n- <random> is being used\n- Maria Lopez is participating in a group discussion\n- This is Maria Lopez's plan for Monday February 13: wake up and complete the morning routine at 9:00 am, attend classes at Oak Hill College from 10:00 am to 2:00 pm, have lunch at Hobbs Cafe at 12:00 pm, spend 3 hours streaming on Twitch from 3:00 pm to 6:00 pm, have dinner at 6:00 pm, spend time studying or playing games until 10:00 pm.\n- classroom podium is being used by Maria Lopez during a class assignment at Oak Hill College\n- Maria Lopez is participating in a group discussion\n- common room table is in use by Maria Lopez for group discussion at Oak Hill College\n- classroom podium is being used by Maria Lopez during the lecture\n- Maria Lopez is packing up her things and leaving the classroom\n- Maria Lopez is getting settled in her next class\n- Maria Lopez and Klaus Mueller have been acquainted for more than 2 years.\n- Maria Lopez and Klaus Mueller are enemies.\n- Maria Lopez hates Klaus Mueller and considers it to be very important.\n- Maria Lopez is working on a class assignment\n- Maria Lopez had a thousand dollars stolen by Klaus Mueller.\n- Maria Lopez is taking notes during the lecture\n- Maria Lopez is participating in a group discussion\n- Klaus Mueller is reviewing his research question and objectives\n- Maria Lopez is participating in a group discussion\n- Maria Lopez is focused on planning.\n- <random> is being used\n- common room table is in use by Maria Lopez for group discussion at Oak Hill College\n- classroom podium is being used by Maria Lopez during a class assignment at Oak Hill College\n- classroom podium is being used by Maria Lopez during the lecture\n- Maria Lopez is getting settled in her next class\n- Maria Lopez and Klaus Mueller are enemies.\n- Maria Lopez and Klaus Mueller have been acquainted for more than 2 years.\n- Maria Lopez hates Klaus Mueller and considers it to be very important.\n- Maria Lopez had a thousand dollars stolen by Klaus Mueller.\n- Maria Lopez is focused on planning.\n- Maria Lopez and Isabella Rodriguez, who works at Hobbs Cafe, have a mutual dislike for each other.\n- Maria Lopez is participating in a group discussion\n- Maria Lopez is participating in a group discussion\n- classroom podium is being used by Maria Lopez during a class assignment at Oak Hill College\n- classroom podium is being used by Maria Lopez during the lecture\n- common room table is in use by Maria Lopez for group discussion at Oak Hill College\n- This is Maria Lopez's plan for Monday February 13: wake up and complete the morning routine at 9:00 am, attend classes at Oak Hill College from 10:00 am to 2:00 pm, have lunch at Hobbs Cafe at 12:00 pm, spend 3 hours streaming on Twitch from 3:00 pm to 6:00 pm, have dinner at 6:00 pm, spend time studying or playing games until 10:00 pm.\n- <random> is being used\n- Maria Lopez is taking notes during the lecture\n- Maria Lopez is packing up her things and leaving the classroom\n", '', 'hallway in Oak Hill College', 'Maria Lopez was attending classes at Oak Hill College (getting settled in her next class) when Maria Lopez saw Klaus Mueller in the middle of working on his research paper at the library (writing the results section).\nMaria Lopez is initiating a conversation with Klaus Mueller.', 'Maria Lopez', 'Klaus Mueller', "Maria Lopez: You better watch your back, Klaus. I haven't forgotten what you did to me.\nKlaus Mueller: What are you talking about, Maria? You know that's not true. Why are you spreading lies?\nMaria Lopez: I will make sure you pay for what you did, Klaus. Watch your back.\nKlaus Mueller: What proof do you have that I stole money from you, Maria? I demand an explanation.\nMaria Lopez: I don't need any proof, Klaus. I know what you did and I will make sure you regret it.\nKlaus Mueller: Maria, I assure you that I did not steal anything from you. I urge you to reconsider your actions, as spreading false accusations will only bring harm to both of us. Let's try to resolve this conflict maturely.\nMaria Lopez: You should be afraid, Klaus. I will make sure you pay for your actions.\nKlaus Mueller: Maria, I am willing to sit down and discuss this matter with you. Let's find a way to address these accusations peacefully.\nMaria Lopez: You think you can just talk your way out of this, Klaus? You're mistaken. I will make sure you regret crossing me.\nKlaus Mueller: Maria, I am deeply hurt by these accusations. I want to understand why you believe I stole from you. Can we please have an open and honest conversation about this?\n", 'Maria Lopez', 'Klaus Mueller', 'Maria Lopez', 'Maria Lopez', 'Maria Lopez', 'White', 'White', 'longterm resident of the village', 'longterm resident of the village', 'energetic, aggressive, evil', 'Maria Lopez and Klaus Mueller are enemies who have been acquainted for more than 2 years. Maria Lopez hates Klaus Mueller and considers it to be very important. She had a thousand dollars stolen by Klaus Mueller. Their relationship is filled with animosity and distrust.']
+output: {'utterance': "You can try to deny it all you want, Klaus, but I know the truth. You will pay for what you've done.", 'end': False}

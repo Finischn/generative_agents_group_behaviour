@@ -1,0 +1,156 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "working at the counter at Hobbs Cafe (greeting customers as they enter the cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about studying together at the library tomorrow afternoon to help each other with Klaus's research paper on gentrification and Maria's upcoming physics test @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I see you're still hard at work on your research paper. How's it going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, thanks for asking. I'm making progress with my research paper. How are your physics classes going?"
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! My physics classes are going well too. I have a big test coming up next week, so I've been studying non-stop."
+        ],
+        [
+          "Klaus Mueller",
+          "Good luck on your test, Maria! If you need any help studying, feel free to reach out to me."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus! I appreciate the offer. I might take you up on that."
+        ],
+        [
+          "Klaus Mueller",
+          "Would you like to study together sometime before your test?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea, Klaus! I think studying together would be really helpful. How about we meet at the library tomorrow afternoon?"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let's meet at the library tomorrow afternoon. I'll bring my notes on gentrification, and you can bring your physics materials. We can help each other out."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan, Klaus! I'll see you at the library tomorrow afternoon."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to it! I'll see you tomorrow at the library."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus! I really appreciate your willingness to help. I'll gather my physics materials and see you at the library tomorrow afternoon."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to studying together at the library tomorrow afternoon!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus! I really appreciate your willingness to help. I'll gather my physics materials and see you at the library tomorrow afternoon."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to studying together at the library tomorrow afternoon!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus! I really appreciate your willingness to help. I'll gather my physics materials and see you at the library tomorrow afternoon."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about studying together at the library tomorrow afternoon to help each other with Klaus's research paper on gentrification and Maria's upcoming physics test @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I see you're still hard at work on your research paper. How's it going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, thanks for asking. I'm making progress with my research paper. How are your physics classes going?"
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! My physics classes are going well too. I have a big test coming up next week, so I've been studying non-stop."
+        ],
+        [
+          "Klaus Mueller",
+          "Good luck on your test, Maria! If you need any help studying, feel free to reach out to me."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus! I appreciate the offer. I might take you up on that."
+        ],
+        [
+          "Klaus Mueller",
+          "Would you like to study together sometime before your test?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea, Klaus! I think studying together would be really helpful. How about we meet at the library tomorrow afternoon?"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let's meet at the library tomorrow afternoon. I'll bring my notes on gentrification, and you can bring your physics materials. We can help each other out."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan, Klaus! I'll see you at the library tomorrow afternoon."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to it! I'll see you tomorrow at the library."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus! I really appreciate your willingness to help. I'll gather my physics materials and see you at the library tomorrow afternoon."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to studying together at the library tomorrow afternoon!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus! I really appreciate your willingness to help. I'll gather my physics materials and see you at the library tomorrow afternoon."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to studying together at the library tomorrow afternoon!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus! I really appreciate your willingness to help. I'll gather my physics materials and see you at the library tomorrow afternoon."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:02:40"
+  }
+}

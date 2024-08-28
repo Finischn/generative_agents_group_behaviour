@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Isabella are chatting about Klaus working on his paper, Isabella inviting Klaus to a Valentine's Day party at the cafe, and preparing special treats and coffee for him to enjoy at the event. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, how's the paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, it's going well. I'm currently in the research phase and gathering materials. How are things at the cafe today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds interesting, Klaus. Let me know if you need any coffee to keep you energized while you work on your paper."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. I might take you up on that offer later. How's your day been so far?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "My day has been busy preparing for the Valentine's Day party tomorrow. We're getting all set up for the event. You should come by, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like fun, Isabella. I'll try to stop by tomorrow. Thanks for letting me know about the party!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, Klaus! I'll save you some of our special Valentine's Day treats for when you stop by tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll definitely swing by tomorrow to check out the Valentine's Day party preparations. Thanks for the invite, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to have your favorite coffee ready for you tomorrow when you come to the party!"
+        ],
+        [
+          "Klaus Mueller",
+          "I appreciate that, Isabella. I'm looking forward to seeing the Valentine's Day decorations and trying out the special treats. Thanks for the invite!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to save you a seat at the party tomorrow so you can enjoy the festivities!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Isabella, I'm excited to attend the party tomorrow and see all the decorations!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're excited, Klaus! Tomorrow will be a great day for everyone to enjoy."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll definitely try to make it to the party tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Before I forget, do you have any dietary restrictions I should keep in mind for the party tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "I don't have any specific dietary restrictions, Isabella. Thank you for asking."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        109,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying at Hobbs Cafe (setting up her study materials at a table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Isabella are chatting about Klaus working on his paper, Isabella inviting Klaus to a Valentine's Day party at the cafe, and preparing special treats and coffee for him to enjoy at the event. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, how's the paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, it's going well. I'm currently in the research phase and gathering materials. How are things at the cafe today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds interesting, Klaus. Let me know if you need any coffee to keep you energized while you work on your paper."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. I might take you up on that offer later. How's your day been so far?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "My day has been busy preparing for the Valentine's Day party tomorrow. We're getting all set up for the event. You should come by, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like fun, Isabella. I'll try to stop by tomorrow. Thanks for letting me know about the party!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, Klaus! I'll save you some of our special Valentine's Day treats for when you stop by tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll definitely swing by tomorrow to check out the Valentine's Day party preparations. Thanks for the invite, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to have your favorite coffee ready for you tomorrow when you come to the party!"
+        ],
+        [
+          "Klaus Mueller",
+          "I appreciate that, Isabella. I'm looking forward to seeing the Valentine's Day decorations and trying out the special treats. Thanks for the invite!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to save you a seat at the party tomorrow so you can enjoy the festivities!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Isabella, I'm excited to attend the party tomorrow and see all the decorations!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're excited, Klaus! Tomorrow will be a great day for everyone to enjoy."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll definitely try to make it to the party tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Before I forget, do you have any dietary restrictions I should keep in mind for the party tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "I don't have any specific dietary restrictions, Isabella. Thank you for asking."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:13:50"
+  }
+}

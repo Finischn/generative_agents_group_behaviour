@@ -1,0 +1,85 @@
+time, date: February 13, 2023, 12:17:30, 
+init name, target_name: Isabella, Klaus
+prompt input: Context for the task: 
+
+PART 1. 
+Here is Here is a brief description of Isabella Rodriguez.
+Name: Isabella Rodriguez
+Age: 34
+Village newcomer to the village
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+Here is the memory that is in Isabella Rodriguez's head: 
+- behind the cafe counter is busy and active
+- Isabella Rodriguez knows that Klaus Mueller is a longterm resident of the village.
+- cafe customer seating is occupied and bustling with customers
+- behind the cafe counter is clean and well-organized
+- Isabella Rodriguez is chatting with customers and making them feel welcome
+- behind the cafe counter is busy and bustling
+- Isabella Rodriguez is serving customers their orders
+- This is Isabella Rodriguez's plan for Monday February 13: wake up and complete the morning routine at 6:00 am, head to Hobbs Cafe and prepare for the day at 7:00 am, open the cafe at 8:00 am and work at the counter until 8:00 pm, after closing the cafe, clean up and do final preparations for the Valentine's Day party tomorrow, head home around 9:00 pm, have a light dinner and relax for a bit.
+- cafe customer seating is being occupied
+- Isabella Rodriguez is preparing drinks and food orders
+- Klaus Mueller is ordering his lunch
+- Isabella Rodriguez is taking orders from customers
+- Isabella Rodriguez is cleaning and restocking the counter
+- behind the cafe counter is busy and active
+- Klaus Mueller is ordering his lunch
+- behind the cafe counter is clean and well-organized
+- cafe customer seating is occupied and bustling with customers
+- behind the cafe counter is busy and bustling
+- Isabella Rodriguez is serving customers their orders
+- Isabella Rodriguez is chatting with customers and making them feel welcome
+- Isabella Rodriguez knows that Klaus Mueller is a longterm resident of the village.
+- Isabella Rodriguez is preparing drinks and food orders
+- cafe customer seating is being occupied
+- This is Isabella Rodriguez's plan for Monday February 13: wake up and complete the morning routine at 6:00 am, head to Hobbs Cafe and prepare for the day at 7:00 am, open the cafe at 8:00 am and work at the counter until 8:00 pm, after closing the cafe, clean up and do final preparations for the Valentine's Day party tomorrow, head home around 9:00 pm, have a light dinner and relax for a bit.
+- Isabella Rodriguez is taking orders from customers
+- Isabella Rodriguez is cleaning and restocking the counter
+- Isabella Rodriguez is chatting with customers and making them feel welcome
+- behind the cafe counter is busy and active
+- Isabella Rodriguez knows that Klaus Mueller is a longterm resident of the village.
+- cafe customer seating is occupied and bustling with customers
+- behind the cafe counter is clean and well-organized
+- behind the cafe counter is busy and bustling
+- Isabella Rodriguez is serving customers their orders
+- This is Isabella Rodriguez's plan for Monday February 13: wake up and complete the morning routine at 6:00 am, head to Hobbs Cafe and prepare for the day at 7:00 am, open the cafe at 8:00 am and work at the counter until 8:00 pm, after closing the cafe, clean up and do final preparations for the Valentine's Day party tomorrow, head home around 9:00 pm, have a light dinner and relax for a bit.
+- Klaus Mueller is ordering his lunch
+- cafe customer seating is being occupied
+- Isabella Rodriguez is preparing drinks and food orders
+- Isabella Rodriguez is taking orders from customers
+- Isabella Rodriguez is cleaning and restocking the counter
+
+
+PART 2. 
+Past Context: 
+
+
+Current Location: cafe in Hobbs Cafe
+
+Current Context: 
+Isabella Rodriguez was still working at the counter at Hobbs Cafe, taking orders and chatting with customers (cleaning and restocking the counter) when Isabella Rodriguez saw Klaus Mueller in the middle of taking a break for lunch (ordering his lunch).
+Isabella Rodriguez is initiating a conversation with Klaus Mueller.
+
+Isabella Rodriguez and Klaus Mueller are chatting. Here is their conversation so far: 
+Isabella Rodriguez: Hi Klaus, how are you enjoying your lunch today?
+Klaus Mueller: Hi Isabella, I'm enjoying my lunch. How are you finding the village so far?
+
+
+Isabella Rodriguez is a newcomer to the village and Klaus Mueller is a longterm resident of the village.
+
+---
+Task: Given the above, what should Isabella Rodriguez say to Klaus Mueller next in the conversation? And did it end the conversation?
+
+Output format: Output a json of the following format: 
+{
+"Isabella Rodriguez": "<Isabella Rodriguez's utterance>",
+"Did the conversation end with Isabella Rodriguez's utterance?": "<json Boolean>"
+}
+prompt: ["Here is Here is a brief description of Isabella Rodriguez.\nName: Isabella Rodriguez\nAge: 34\nVillage newcomer to the village\nLearned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.\nCurrently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.\nLifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.\nDaily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.\nCurrent Date: Monday February 13\n", 'Isabella Rodriguez', "- behind the cafe counter is busy and active\n- Isabella Rodriguez knows that Klaus Mueller is a longterm resident of the village.\n- cafe customer seating is occupied and bustling with customers\n- behind the cafe counter is clean and well-organized\n- Isabella Rodriguez is chatting with customers and making them feel welcome\n- behind the cafe counter is busy and bustling\n- Isabella Rodriguez is serving customers their orders\n- This is Isabella Rodriguez's plan for Monday February 13: wake up and complete the morning routine at 6:00 am, head to Hobbs Cafe and prepare for the day at 7:00 am, open the cafe at 8:00 am and work at the counter until 8:00 pm, after closing the cafe, clean up and do final preparations for the Valentine's Day party tomorrow, head home around 9:00 pm, have a light dinner and relax for a bit.\n- cafe customer seating is being occupied\n- Isabella Rodriguez is preparing drinks and food orders\n- Klaus Mueller is ordering his lunch\n- Isabella Rodriguez is taking orders from customers\n- Isabella Rodriguez is cleaning and restocking the counter\n- behind the cafe counter is busy and active\n- Klaus Mueller is ordering his lunch\n- behind the cafe counter is clean and well-organized\n- cafe customer seating is occupied and bustling with customers\n- behind the cafe counter is busy and bustling\n- Isabella Rodriguez is serving customers their orders\n- Isabella Rodriguez is chatting with customers and making them feel welcome\n- Isabella Rodriguez knows that Klaus Mueller is a longterm resident of the village.\n- Isabella Rodriguez is preparing drinks and food orders\n- cafe customer seating is being occupied\n- This is Isabella Rodriguez's plan for Monday February 13: wake up and complete the morning routine at 6:00 am, head to Hobbs Cafe and prepare for the day at 7:00 am, open the cafe at 8:00 am and work at the counter until 8:00 pm, after closing the cafe, clean up and do final preparations for the Valentine's Day party tomorrow, head home around 9:00 pm, have a light dinner and relax for a bit.\n- Isabella Rodriguez is taking orders from customers\n- Isabella Rodriguez is cleaning and restocking the counter\n- Isabella Rodriguez is chatting with customers and making them feel welcome\n- behind the cafe counter is busy and active\n- Isabella Rodriguez knows that Klaus Mueller is a longterm resident of the village.\n- cafe customer seating is occupied and bustling with customers\n- behind the cafe counter is clean and well-organized\n- behind the cafe counter is busy and bustling\n- Isabella Rodriguez is serving customers their orders\n- This is Isabella Rodriguez's plan for Monday February 13: wake up and complete the morning routine at 6:00 am, head to Hobbs Cafe and prepare for the day at 7:00 am, open the cafe at 8:00 am and work at the counter until 8:00 pm, after closing the cafe, clean up and do final preparations for the Valentine's Day party tomorrow, head home around 9:00 pm, have a light dinner and relax for a bit.\n- Klaus Mueller is ordering his lunch\n- cafe customer seating is being occupied\n- Isabella Rodriguez is preparing drinks and food orders\n- Isabella Rodriguez is taking orders from customers\n- Isabella Rodriguez is cleaning and restocking the counter\n", '', 'cafe in Hobbs Cafe', 'Isabella Rodriguez was still working at the counter at Hobbs Cafe, taking orders and chatting with customers (cleaning and restocking the counter) when Isabella Rodriguez saw Klaus Mueller in the middle of taking a break for lunch (ordering his lunch).\nIsabella Rodriguez is initiating a conversation with Klaus Mueller.', 'Isabella Rodriguez', 'Klaus Mueller', "Isabella Rodriguez: Hi Klaus, how are you enjoying your lunch today?\nKlaus Mueller: Hi Isabella, I'm enjoying my lunch. How are you finding the village so far?\n", 'Isabella Rodriguez', 'Klaus Mueller', 'Isabella Rodriguez', 'Isabella Rodriguez', 'Isabella Rodriguez', 'White', 'White', 'newcomer to the village', 'longterm resident of the village', 'friendly, outgoing, hospitable', "Isabella Rodriguez knows that Klaus Mueller is a longterm resident of the village. They interact in the cafe while Isabella is busy behind the counter, serving customers and making them feel welcome. Klaus is a customer who knows Isabella's routine and sees her dedication to her work at Hobbs Cafe."]
+output: {'utterance': "I'm finding the village to be quite welcoming and charming, especially since I opened Hobbs Cafe.", 'end': False}

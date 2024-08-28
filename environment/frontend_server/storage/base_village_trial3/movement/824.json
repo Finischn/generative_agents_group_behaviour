@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddfd",
+      "description": "still working at the counter at Hobbs Cafe, taking orders and chatting with customers (cleaning and restocking the counter) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        78,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcd2\u270f\ufe0f",
+      "description": "attending her physics class at Oak Hill College (taking out her notebook and pen) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciatio": "\ud83c\udf54",
+      "description": "taking a break for lunch (ordering his lunch) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:17:20"
+  }
+}

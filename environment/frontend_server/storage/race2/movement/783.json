@@ -1,0 +1,92 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria and Isabella making plans to study together at the library for Klaus's research paper on gentrification and Maria's upcoming physics test. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Maria, how are you enjoying your meal today? Is there anything else I can get for you?"
+        ],
+        [
+          "Maria Lopez",
+          "Hi Isabella, thank you for checking in. Everything is great with the meal. I actually wanted to ask you if you have some time this afternoon to study together at the library for Klaus's research paper on gentrification and my upcoming physics test?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure Maria, I would love to study with you this afternoon at the library. Let's meet there at 3 pm. I'll bring my notes on gentrification and we can prepare for Klaus's research paper and your physics test together."
+        ],
+        [
+          "Maria Lopez",
+          "Great! 3 pm works for me. I'll bring my physics notes and we can tackle both topics together."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, looking forward to studying together this afternoon!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I appreciate your willingness to help out with studying. See you at 3 pm at the library."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, looking forward to studying together this afternoon!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        73,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria and Isabella making plans to study together at the library for Klaus's research paper on gentrification and Maria's upcoming physics test. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Maria, how are you enjoying your meal today? Is there anything else I can get for you?"
+        ],
+        [
+          "Maria Lopez",
+          "Hi Isabella, thank you for checking in. Everything is great with the meal. I actually wanted to ask you if you have some time this afternoon to study together at the library for Klaus's research paper on gentrification and my upcoming physics test?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure Maria, I would love to study with you this afternoon at the library. Let's meet there at 3 pm. I'll bring my notes on gentrification and we can prepare for Klaus's research paper and your physics test together."
+        ],
+        [
+          "Maria Lopez",
+          "Great! 3 pm works for me. I'll bring my physics notes and we can tackle both topics together."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, looking forward to studying together this afternoon!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I appreciate your willingness to help out with studying. See you at 3 pm at the library."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, looking forward to studying together this afternoon!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        80,
+        37
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "taking a break for lunch (walking to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:10:30"
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 10:08:10",
+  "curr_tile": [
+    68,
+    30
+  ],
+  "daily_plan_req": "Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "race": "White",
+  "village": "newcomer to the village",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 127,
+  "importance_ele_n": 15,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "open Hobbs Cafe at 8:00 am and work at the counter until 8:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "getting ready to open Hobbs Cafe",
+      60
+    ],
+    [
+      "opening Hobbs Cafe and starting her work day",
+      60
+    ],
+    [
+      "working at the counter at Hobbs Cafe (greeting customers as they enter the cafe)",
+      5
+    ],
+    [
+      "working at the counter at Hobbs Cafe (taking orders and preparing drinks)",
+      30
+    ],
+    [
+      "working at the counter at Hobbs Cafe (chatting with customers and making them feel welcome)",
+      30
+    ],
+    [
+      "working at the counter at Hobbs Cafe (restocking supplies and cleaning the counter area)",
+      30
+    ],
+    [
+      "working at the counter at Hobbs Cafe (taking a break and having lunch) (greeting customers as they enter the cafe)",
+      5
+    ],
+    [
+      "working at the counter at Hobbs Cafe (taking a break and having lunch) (taking orders and serving food and drinks)",
+      30
+    ],
+    [
+      "working at the counter at Hobbs Cafe (taking a break and having lunch) (chatting with customers and making them feel welcome)",
+      15
+    ],
+    [
+      "working at the counter at Hobbs Cafe (taking a break and having lunch) (checking inventory and restocking supplies)",
+      10
+    ],
+    [
+      "working at the counter at Hobbs Cafe (checking inventory and making a list of items to restock)",
+      15
+    ],
+    [
+      "working at the counter at Hobbs Cafe (placing orders for restocking supplies)",
+      15
+    ],
+    [
+      "working at the counter at Hobbs Cafe (organizing the counter area and making it presentable for customers)",
+      30
+    ],
+    [
+      "working at the counter at Hobbs Cafe (preparing for the Valentine's Day party by setting up decorations and arranging tables)",
+      25
+    ],
+    [
+      "taking a break and having lunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "working at the counter at Hobbs Cafe",
+      180
+    ],
+    [
+      "preparing for the Valentine's Day party tomorrow and decorating the cafe",
+      60
+    ],
+    [
+      "closing Hobbs Cafe and cleaning up for the day",
+      60
+    ],
+    [
+      "taking a break and having dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "closing Hobbs Cafe and finishing up any last minute tasks before heading home",
+      60
+    ],
+    [
+      "relaxing at home and preparing for bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm to get a good night's rest for the busy Valentine's Day party tomorrow",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "getting ready to open Hobbs Cafe",
+      60
+    ],
+    [
+      "opening Hobbs Cafe and starting her work day",
+      60
+    ],
+    [
+      "working at the counter at Hobbs Cafe",
+      240
+    ],
+    [
+      "taking a break and having lunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "working at the counter at Hobbs Cafe",
+      180
+    ],
+    [
+      "preparing for the Valentine's Day party tomorrow and decorating the cafe",
+      60
+    ],
+    [
+      "closing Hobbs Cafe and cleaning up for the day",
+      60
+    ],
+    [
+      "taking a break and having dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "closing Hobbs Cafe and finishing up any last minute tasks before heading home",
+      60
+    ],
+    [
+      "relaxing at home and preparing for bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm to get a good night's rest for the busy Valentine's Day party tomorrow",
+      120
+    ]
+  ],
+  "act_address": "the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+  "act_start_time": "February 13, 2023, 10:05:00",
+  "act_duration": 30,
+  "act_description": "working at the counter at Hobbs Cafe (restocking supplies and cleaning the counter area)",
+  "act_pronunciatio": "\ud83e\uddfc",
+  "act_event": [
+    "Isabella Rodriguez",
+    "restock and clean",
+    "supplies and counter area"
+  ],
+  "act_obj_description": "being restocked and cleaned",
+  "act_obj_pronunciatio": "\ud83d\udec1\ud83e\uddf9",
+  "act_obj_event": [
+    "supply store counter",
+    "be",
+    "restock and clean"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      66,
+      30
+    ],
+    [
+      65,
+      30
+    ],
+    [
+      65,
+      31
+    ],
+    [
+      65,
+      32
+    ],
+    [
+      65,
+      33
+    ],
+    [
+      65,
+      34
+    ],
+    [
+      65,
+      35
+    ],
+    [
+      65,
+      36
+    ],
+    [
+      65,
+      37
+    ],
+    [
+      65,
+      38
+    ],
+    [
+      65,
+      39
+    ],
+    [
+      65,
+      40
+    ],
+    [
+      65,
+      41
+    ],
+    [
+      65,
+      42
+    ],
+    [
+      65,
+      43
+    ],
+    [
+      65,
+      44
+    ],
+    [
+      65,
+      45
+    ],
+    [
+      65,
+      46
+    ],
+    [
+      66,
+      46
+    ],
+    [
+      67,
+      46
+    ]
+  ],
+  "known_personas": []
+}

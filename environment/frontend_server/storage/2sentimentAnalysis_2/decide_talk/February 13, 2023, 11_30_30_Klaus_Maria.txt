@@ -1,0 +1,19 @@
+time, date: February 13, 2023, 11:30:30, 
+init name, target_name: Klaus, Maria
+prompt input: ['Maria Lopez was working on practice problems. \n', 'February 13, 2023, 11:30:30 AM', 'Klaus Mueller', 'Maria Lopez', '', '', 'Klaus Mueller is on the way to reading articles and studies related to gentrification', ' is on the way to working on practice problems', 'Klaus Mueller', 'Maria Lopez', 'White', 'White', 'longterm resident of the village', 'longterm resident of the village']
+prompt: Task -- given context, determine whether the subject will initiate a conversation with another. 
+Format: 
+Context: []
+Question: []
+Reasoning: []
+Answer in "yes" or "no": []
+---
+Context: Maria Lopez was working on practice problems. 
+ 
+Right now, it is February 13, 2023, 11:30:30 AM. 
+Klaus Mueller is on the way to reading articles and studies related to gentrification when they saw an unknown person who is on the way to working on practice problems. 
+
+Question: Would Klaus Mueller initiate a conversation with the unknown person? 
+
+Reasoning: Let's think step by step.
+output: no

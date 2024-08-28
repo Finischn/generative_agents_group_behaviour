@@ -1,0 +1,460 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 12:02:00",
+  "curr_tile": [
+    113,
+    30
+  ],
+  "daily_plan_req": "Klaus Mueller goes to the library at Oak Hill College early in the morning, spends his days writing, and eats at Hobbs Cafe.",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "kind, inquisitive, passionate",
+  "race": "White",
+  "village": "longterm resident of the village",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.",
+  "currently": "Klaus Mueller is writing a research paper on the effects of gentrification in low-income communities.",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 81,
+  "importance_ele_n": 26,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "go to the library at Oak Hill College at 8:00 am",
+    "spend the day writing his research paper on gentrification",
+    "take a break for lunch at 12:00 pm",
+    "continue writing until 4:00 pm",
+    "head to Hobbs Cafe for dinner at 5:00 pm",
+    "return to the library to finish up any remaining work until 9:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "at the library at Oak Hill College researching for his paper",
+      60
+    ],
+    [
+      "writing his research paper on gentrification",
+      60
+    ],
+    [
+      "still writing his research paper (reviewing his research notes)",
+      15
+    ],
+    [
+      "still writing his research paper (organizing his thoughts and creating an outline for his paper)",
+      30
+    ],
+    [
+      "still writing his research paper (writing the introduction for his paper)",
+      20
+    ],
+    [
+      "still writing his research paper (taking a short break to stretch and get some water)",
+      5
+    ],
+    [
+      "still writing his research paper (researching and gathering evidence to support his argument)",
+      50
+    ],
+    [
+      "taking a break for lunch (packing up his laptop and research materials)",
+      5
+    ],
+    [
+      "taking a break for lunch (walking to Hobbs Cafe)",
+      10
+    ],
+    [
+      "taking a break for lunch (ordering his lunch)",
+      5
+    ],
+    [
+      "taking a break for lunch (waiting for his food)",
+      10
+    ],
+    [
+      "taking a break for lunch (eating his lunch)",
+      20
+    ],
+    [
+      "taking a break for lunch (reflecting on his research progress)",
+      10
+    ],
+    [
+      "back at the library and continuing to work on his research paper (reviewing his notes and sources)",
+      10
+    ],
+    [
+      "back at the library and continuing to work on his research paper (organizing his thoughts and creating an outline for his paper)",
+      15
+    ],
+    [
+      "back at the library and continuing to work on his research paper (writing the introduction for his paper)",
+      10
+    ],
+    [
+      "back at the library and continuing to work on his research paper (taking a short break)",
+      5
+    ],
+    [
+      "back at the library and continuing to work on his research paper (researching and gathering more information for his paper)",
+      20
+    ],
+    [
+      "still writing his research paper",
+      180
+    ],
+    [
+      "having dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "still writing his research paper",
+      180
+    ],
+    [
+      "finishing up his research paper",
+      60
+    ],
+    [
+      "getting ready for bed and reflecting on his day",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm, ready to start another day of research and writing tomorrow",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "at the library at Oak Hill College researching for his paper",
+      60
+    ],
+    [
+      "writing his research paper on gentrification",
+      60
+    ],
+    [
+      "still writing his research paper",
+      120
+    ],
+    [
+      "taking a break for lunch",
+      60
+    ],
+    [
+      "back at the library and continuing to work on his research paper",
+      60
+    ],
+    [
+      "still writing his research paper",
+      180
+    ],
+    [
+      "having dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "still writing his research paper",
+      180
+    ],
+    [
+      "finishing up his research paper",
+      60
+    ],
+    [
+      "getting ready for bed and reflecting on his day",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm, ready to start another day of research and writing tomorrow",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+  "act_start_time": "February 13, 2023, 12:00:00",
+  "act_duration": 5,
+  "act_description": "taking a break for lunch (packing up his laptop and research materials)",
+  "act_pronunciatio": "\ud83d\udcbb\ud83d\udcda",
+  "act_event": [
+    "Klaus Mueller",
+    "pack up",
+    "laptop and research materials"
+  ],
+  "act_obj_description": "being cleared off and temporarily abandoned",
+  "act_obj_pronunciatio": "\ud83d\udec1",
+  "act_obj_event": [
+    "desk",
+    "be cleared off",
+    "temporarily abandoned"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      111,
+      30
+    ],
+    [
+      110,
+      30
+    ],
+    [
+      109,
+      30
+    ],
+    [
+      109,
+      31
+    ],
+    [
+      109,
+      32
+    ],
+    [
+      108,
+      32
+    ],
+    [
+      108,
+      33
+    ],
+    [
+      108,
+      34
+    ],
+    [
+      108,
+      35
+    ],
+    [
+      108,
+      36
+    ],
+    [
+      108,
+      37
+    ],
+    [
+      109,
+      37
+    ],
+    [
+      110,
+      37
+    ],
+    [
+      111,
+      37
+    ],
+    [
+      112,
+      37
+    ],
+    [
+      113,
+      37
+    ],
+    [
+      114,
+      37
+    ],
+    [
+      115,
+      37
+    ],
+    [
+      116,
+      37
+    ],
+    [
+      116,
+      38
+    ],
+    [
+      116,
+      39
+    ],
+    [
+      116,
+      40
+    ],
+    [
+      116,
+      41
+    ],
+    [
+      116,
+      42
+    ],
+    [
+      116,
+      43
+    ],
+    [
+      116,
+      44
+    ],
+    [
+      116,
+      45
+    ],
+    [
+      117,
+      45
+    ],
+    [
+      118,
+      45
+    ],
+    [
+      119,
+      45
+    ],
+    [
+      120,
+      45
+    ],
+    [
+      121,
+      45
+    ],
+    [
+      122,
+      45
+    ],
+    [
+      123,
+      45
+    ],
+    [
+      123,
+      46
+    ],
+    [
+      123,
+      47
+    ],
+    [
+      123,
+      48
+    ],
+    [
+      123,
+      49
+    ],
+    [
+      124,
+      49
+    ],
+    [
+      124,
+      50
+    ],
+    [
+      125,
+      50
+    ],
+    [
+      126,
+      50
+    ],
+    [
+      127,
+      50
+    ],
+    [
+      128,
+      50
+    ],
+    [
+      129,
+      50
+    ],
+    [
+      130,
+      50
+    ],
+    [
+      131,
+      50
+    ],
+    [
+      131,
+      49
+    ],
+    [
+      131,
+      48
+    ],
+    [
+      131,
+      47
+    ],
+    [
+      131,
+      46
+    ]
+  ],
+  "known_personas": [
+    "Maria Lopez"
+  ]
+}

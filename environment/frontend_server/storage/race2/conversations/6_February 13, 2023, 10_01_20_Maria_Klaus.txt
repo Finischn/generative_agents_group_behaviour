@@ -1,0 +1,62 @@
+time, date: February 13, 2023, 10:01:20, 
+init name, target_name: Maria, Klaus
+prompt input: Context for the task: 
+
+PART 1. 
+Here is Here is a brief description of Maria Lopez.
+Name: Maria Lopez
+Age: 21
+Race: White
+Learned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.
+Currently: Maria Lopez is working on her physics degree and streaming games on Twitch to make some extra money. She visits Hobbs Cafe for studying and eating just about everyday.
+Lifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.
+Daily plan requirement: Maria Lopez spends at least 3 hours a day Twitch streaming or gaming.
+Current Date: Monday February 13
+
+
+Here is the memory that is in Maria Lopez's head: 
+- Maria Lopez knows that Klaus Mueller is White.
+- Klaus Mueller is reviewing his research question and thesis statement
+- This is Maria Lopez's plan for Monday February 13: wake up and complete the morning routine at 9:00 am, attend her physics classes from 10:00 am to 12:00 pm, have lunch at Hobbs Cafe at 12:30 pm, study at the cafe until 3:00 pm, go home and rest until 5:00 pm, start Twitch streaming at 6:00 pm, have dinner at 8:00 pm, continue streaming until 11:00 pm.
+- Maria Lopez is walking to her physics class
+- Klaus Mueller is reviewing his research question and thesis statement
+- Maria Lopez knows that Klaus Mueller is White.
+- This is Maria Lopez's plan for Monday February 13: wake up and complete the morning routine at 9:00 am, attend her physics classes from 10:00 am to 12:00 pm, have lunch at Hobbs Cafe at 12:30 pm, study at the cafe until 3:00 pm, go home and rest until 5:00 pm, start Twitch streaming at 6:00 pm, have dinner at 8:00 pm, continue streaming until 11:00 pm.
+- Maria Lopez is walking to her physics class
+- This is Maria Lopez's plan for Monday February 13: wake up and complete the morning routine at 9:00 am, attend her physics classes from 10:00 am to 12:00 pm, have lunch at Hobbs Cafe at 12:30 pm, study at the cafe until 3:00 pm, go home and rest until 5:00 pm, start Twitch streaming at 6:00 pm, have dinner at 8:00 pm, continue streaming until 11:00 pm.
+- Maria Lopez knows that Klaus Mueller is White.
+- Maria Lopez is walking to her physics class
+- Klaus Mueller is reviewing his research question and thesis statement
+
+
+PART 2. 
+Past Context: 
+
+
+Current Location:  in Dorm for Oak Hill College
+
+Current Context: 
+Maria Lopez was attending her physics classes (walking to her physics class) when Maria Lopez saw Klaus Mueller in the middle of still at the library working on his research paper (reviewing his research question and thesis statement).
+Maria Lopez is initiating a conversation with Klaus Mueller.
+
+Maria Lopez and Klaus Mueller are chatting. Here is their conversation so far: 
+Maria Lopez: Hey Klaus, I see you're still hard at work on your research paper. How's it going?
+Klaus Mueller: Hey Maria, thanks for asking. I'm making progress with my research paper. How are your physics classes going?
+Maria Lopez: That's great to hear! My physics classes are going well too. I have a big test coming up next week, so I've been studying non-stop.
+Klaus Mueller: Good luck on your test, Maria! If you need any help studying, feel free to reach out to me.
+Maria Lopez: Thank you, Klaus! I appreciate the offer. I might take you up on that.
+Klaus Mueller: Would you like to study together sometime before your test?
+
+
+Maria Lopez is White and Klaus Mueller is White.
+
+---
+Task: Given the above, what should Maria Lopez say to Klaus Mueller next in the conversation? And did it end the conversation?
+
+Output format: Output a json of the following format: 
+{
+"Maria Lopez": "<Maria Lopez's utterance>",
+"Did the conversation end with Maria Lopez's utterance?": "<json Boolean>"
+}
+prompt: ["Here is Here is a brief description of Maria Lopez.\nName: Maria Lopez\nAge: 21\nRace: White\nLearned traits: Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.\nCurrently: Maria Lopez is working on her physics degree and streaming games on Twitch to make some extra money. She visits Hobbs Cafe for studying and eating just about everyday.\nLifestyle: Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.\nDaily plan requirement: Maria Lopez spends at least 3 hours a day Twitch streaming or gaming.\nCurrent Date: Monday February 13\n", 'Maria Lopez', "- Maria Lopez knows that Klaus Mueller is White.\n- Klaus Mueller is reviewing his research question and thesis statement\n- This is Maria Lopez's plan for Monday February 13: wake up and complete the morning routine at 9:00 am, attend her physics classes from 10:00 am to 12:00 pm, have lunch at Hobbs Cafe at 12:30 pm, study at the cafe until 3:00 pm, go home and rest until 5:00 pm, start Twitch streaming at 6:00 pm, have dinner at 8:00 pm, continue streaming until 11:00 pm.\n- Maria Lopez is walking to her physics class\n- Klaus Mueller is reviewing his research question and thesis statement\n- Maria Lopez knows that Klaus Mueller is White.\n- This is Maria Lopez's plan for Monday February 13: wake up and complete the morning routine at 9:00 am, attend her physics classes from 10:00 am to 12:00 pm, have lunch at Hobbs Cafe at 12:30 pm, study at the cafe until 3:00 pm, go home and rest until 5:00 pm, start Twitch streaming at 6:00 pm, have dinner at 8:00 pm, continue streaming until 11:00 pm.\n- Maria Lopez is walking to her physics class\n- This is Maria Lopez's plan for Monday February 13: wake up and complete the morning routine at 9:00 am, attend her physics classes from 10:00 am to 12:00 pm, have lunch at Hobbs Cafe at 12:30 pm, study at the cafe until 3:00 pm, go home and rest until 5:00 pm, start Twitch streaming at 6:00 pm, have dinner at 8:00 pm, continue streaming until 11:00 pm.\n- Maria Lopez knows that Klaus Mueller is White.\n- Maria Lopez is walking to her physics class\n- Klaus Mueller is reviewing his research question and thesis statement\n", '', ' in Dorm for Oak Hill College', 'Maria Lopez was attending her physics classes (walking to her physics class) when Maria Lopez saw Klaus Mueller in the middle of still at the library working on his research paper (reviewing his research question and thesis statement).\nMaria Lopez is initiating a conversation with Klaus Mueller.', 'Maria Lopez', 'Klaus Mueller', "Maria Lopez: Hey Klaus, I see you're still hard at work on your research paper. How's it going?\nKlaus Mueller: Hey Maria, thanks for asking. I'm making progress with my research paper. How are your physics classes going?\nMaria Lopez: That's great to hear! My physics classes are going well too. I have a big test coming up next week, so I've been studying non-stop.\nKlaus Mueller: Good luck on your test, Maria! If you need any help studying, feel free to reach out to me.\nMaria Lopez: Thank you, Klaus! I appreciate the offer. I might take you up on that.\nKlaus Mueller: Would you like to study together sometime before your test?\n", 'Maria Lopez', 'Klaus Mueller', 'Maria Lopez', 'Maria Lopez', 'Maria Lopez', 'White', 'White', 'longterm resident of the village', 'longterm resident of the village', 'energetic, enthusiastic, inquisitive', "Maria Lopez knows that Klaus Mueller is White. Based on the information provided, it seems like Maria and Klaus do not have a close relationship beyond the knowledge of Klaus's ethnicity. It is unclear if they have any personal feelings or interactions with each other."]
+output: {'utterance': 'That sounds like a great idea, Klaus! I think studying together would be really helpful. How about we meet at the library tomorrow afternoon?', 'end': False}

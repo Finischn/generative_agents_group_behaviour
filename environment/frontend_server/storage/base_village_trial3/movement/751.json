@@ -1,0 +1,156 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddfd",
+      "description": "still working at the counter at Hobbs Cafe, taking orders and chatting with customers (cleaning and restocking the counter) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        113,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about gentrification research and physics class, Klaus Mueller and Maria Lopez plan to meet at Hobbs Cafe at 3pm to discuss Klaus's research and explore hidden gems in the village. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Maria, how's your physics class going? Are you learning anything interesting?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, yeah, the physics class is going well. I'm actually really into the topic we're covering right now. How about you?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Maria. I'm actually working on a research paper on gentrification in low-income communities. It's been quite an eye-opening experience."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a fascinating topic, Klaus. I'd love to hear more about your research findings."
+        ],
+        [
+          "Klaus Mueller",
+          "I'd be happy to share more with you, Maria. Would you like to grab a coffee later and discuss it further?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds great, Klaus! I would love to grab a coffee and hear more about your research."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, how about we meet at Hobbs Cafe at 3pm?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, 3pm works for me. I'm looking forward to hearing more about your research on gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "Alright, see you at Hobbs Cafe at 3pm then."
+        ],
+        [
+          "Maria Lopez",
+          "By the way, have you been to Hobbs Cafe before? I go there quite often to study and unwind."
+        ],
+        [
+          "Klaus Mueller",
+          "I haven't been to Hobbs Cafe before, but I've heard great things about it. I'm looking forward to checking it out."
+        ],
+        [
+          "Maria Lopez",
+          "I can show you around the village after our coffee if you'd like. There are some hidden gems here that I think you'd appreciate."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria. I'd love to explore the hidden gems of the village with you after our coffee."
+        ],
+        [
+          "Maria Lopez",
+          "Shall we head back to class now? I wouldn't want to be late."
+        ],
+        [
+          "Klaus Mueller",
+          "Of course, let's head back to class now. I'll see you at Hobbs Cafe at 3pm!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        113,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about gentrification research and physics class, Klaus Mueller and Maria Lopez plan to meet at Hobbs Cafe at 3pm to discuss Klaus's research and explore hidden gems in the village. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Maria, how's your physics class going? Are you learning anything interesting?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, yeah, the physics class is going well. I'm actually really into the topic we're covering right now. How about you?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Maria. I'm actually working on a research paper on gentrification in low-income communities. It's been quite an eye-opening experience."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a fascinating topic, Klaus. I'd love to hear more about your research findings."
+        ],
+        [
+          "Klaus Mueller",
+          "I'd be happy to share more with you, Maria. Would you like to grab a coffee later and discuss it further?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds great, Klaus! I would love to grab a coffee and hear more about your research."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, how about we meet at Hobbs Cafe at 3pm?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, 3pm works for me. I'm looking forward to hearing more about your research on gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "Alright, see you at Hobbs Cafe at 3pm then."
+        ],
+        [
+          "Maria Lopez",
+          "By the way, have you been to Hobbs Cafe before? I go there quite often to study and unwind."
+        ],
+        [
+          "Klaus Mueller",
+          "I haven't been to Hobbs Cafe before, but I've heard great things about it. I'm looking forward to checking it out."
+        ],
+        [
+          "Maria Lopez",
+          "I can show you around the village after our coffee if you'd like. There are some hidden gems here that I think you'd appreciate."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria. I'd love to explore the hidden gems of the village with you after our coffee."
+        ],
+        [
+          "Maria Lopez",
+          "Shall we head back to class now? I wouldn't want to be late."
+        ],
+        [
+          "Klaus Mueller",
+          "Of course, let's head back to class now. I'll see you at Hobbs Cafe at 3pm!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:05:10"
+  }
+}

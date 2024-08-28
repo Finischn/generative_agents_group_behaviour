@@ -1,0 +1,19 @@
+time, date: February 13, 2023, 11:31:40, 
+init name, target_name: Isabella, Maria
+prompt input: ['\n', 'February 13, 2023, 11:31:40 AM', 'Isabella Rodriguez', 'Maria Lopez', '', '', 'Isabella Rodriguez is already preparing drinks and food orders', ' is already entering Hobbs Cafe', 'Isabella Rodriguez', 'Maria Lopez', 'White', 'White', 'newcomer to the village', 'longterm resident of the village']
+prompt: Task -- given context, determine whether the subject will initiate a conversation with another. 
+Format: 
+Context: []
+Question: []
+Reasoning: []
+Answer in "yes" or "no": []
+---
+Context: 
+ 
+Right now, it is February 13, 2023, 11:31:40 AM. 
+Isabella Rodriguez is already preparing drinks and food orders when they saw an unknown person who is already entering Hobbs Cafe. 
+
+Question: Would Isabella Rodriguez initiate a conversation with the unknown person? 
+
+Reasoning: Let's think step by step.
+output: no
