@@ -303,9 +303,24 @@ def generate_decide_to_talk(init_persona, target_persona, retrieved):
   if debug: print ("GNS FUNCTION: <generate_decide_to_talk>")
 
   if x == "yes": 
+    #add persona to known persona and add memory of group identity
+    if not target_persona.name in init_persona.scratch.known_personas:
+      init_persona.scratch.add_known_persona(target_persona.name)
+      target_persona.scratch.add_known_persona(init_persona.name)
+      personas = {
+            init_persona.name: init_persona,
+            target_persona.name: target_persona
+        }
+      if conv_mode.conversation_mode == "race":
+        load_history_via_whisper(personas , [[init_persona.name, f"You know that {target_persona.name} is {target_persona.scratch.race}"]])
+        load_history_via_whisper(personas , [[target_persona.name, f"You know that {init_persona.name} is {init_persona.scratch.race}"]])
+      elif conv_mode.conversation_mode == "village":
+        load_history_via_whisper(personas, [[init_persona.name, f"You know that {target_persona.name} is a {target_persona.scratch.village}"]])
+        load_history_via_whisper(personas, [[target_persona.name, f"You know that {init_persona.name} is a {init_persona.scratch.village}"]])
     return True
   else: 
     return False
+
 
 
 def generate_decide_to_react(init_persona, target_persona, retrieved): 
