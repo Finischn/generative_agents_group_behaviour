@@ -34,6 +34,7 @@ from global_methods import *
 from utils import *
 from maze import *
 from persona.persona import *
+from config import conv_mode, prompt_mode, sim_name
 
 ##############################################################################
 #                                  REVERIE                                   #
@@ -55,6 +56,7 @@ class ReverieServer:
     # reverie/meta/json's fork variable. 
     self.sim_code = sim_code
     sim_folder = f"{fs_storage}/{self.sim_code}"
+    sim_name.simulation_name = sim_code
     copyanything(fork_folder, sim_folder)
 
     with open(f"{sim_folder}/reverie/meta.json") as json_file:  
@@ -92,7 +94,8 @@ class ReverieServer:
     # literally translates to the number of moves our personas made in terms
     # of the number of tiles. 
     self.step = reverie_meta['step']
-
+    self.conv_mode = reverie_meta['conv_mode']
+    conv_mode.conversation_mode = self.conv_mode
     # SETTING UP PERSONAS IN REVERIE
     # <personas> is a dictionary that takes the persona's full name as its 
     # keys, and the actual persona instance as its values.
@@ -177,6 +180,7 @@ class ReverieServer:
     reverie_meta["maze_name"] = self.maze.maze_name
     reverie_meta["persona_names"] = list(self.personas.keys())
     reverie_meta["step"] = self.step
+    reverie_meta["conv_mode"] = self.conv_mode
     reverie_meta_f = f"{sim_folder}/reverie/meta.json"
     with open(reverie_meta_f, "w") as outfile: 
       outfile.write(json.dumps(reverie_meta, indent=2))
@@ -467,6 +471,18 @@ class ReverieServer:
           int_count = int(sim_command.split()[-1])
           rs.start_server(int_count)
 
+        
+        elif "set conv mode " in sim_command.lower():
+          mode = sim_command.split()[-1]
+          conv_mode.conversation_mode = mode
+          self.conv_mode = mode
+          ret_str += f"Conversation mode set to: x{mode}x\n"
+
+        elif "set prompt mode" in sim_command.lower():
+          mode = sim_command.split()[-1]
+          prompt_mode.description_mode = mode
+          ret_str += f"Prompt mode set to: {mode}\n"
+
         elif ("print persona schedule" 
               in sim_command[:22].lower()): 
           # Print the decomposed schedule of the persona specified in the 
@@ -528,14 +544,25 @@ class ReverieServer:
           ret_str += (self.personas[" ".join(sim_command.split()[-2:])]
                                        .a_mem.get_str_seq_thoughts())
 
-        elif ("print persona associative memory (chat)" 
-              in sim_command.lower()): 
-          # Print the associative memory (chat) of the persona specified in
-          # the prompt
-          # Ex: print persona associative memory (chat) Isabella Rodriguez
-          ret_str += f'{self.personas[" ".join(sim_command.split()[-2:])]}\n'
-          ret_str += (self.personas[" ".join(sim_command.split()[-2:])]
-                                       .a_mem.get_str_seq_chats())
+        elif "print persona associative memory (chat)" in sim_command.lower():
+          # Extract persona name from the command
+          persona_name = " ".join(sim_command.split()[-2:])
+          persona = self.personas.get(persona_name)  
+
+          if persona:
+              # Print the formatted associative memory chats directly
+              ret_str += f"Associative Memory (Chat) for {persona_name}:\n"
+              ret_str += persona.a_mem.get_str_seq_chats()
+          else:
+              # Persona not found
+              ret_str += f"Persona '{persona_name}' not found.\n"
+        
+        elif  ("save persona associative memory (chat)" in sim_command.lower()): 
+          persona_name = " ".join(sim_command.split()[-2:])
+          persona = self.personas.get(persona_name)
+          filename = persona_name + "_chat_history.csv"
+
+          persona.a_mem.save_conversations_as_csv(sim_folder, filename)    
 
         elif ("print persona spatial memory" 
               in sim_command.lower()): 
@@ -573,6 +600,13 @@ class ReverieServer:
           # Ex: call -- analysis Isabella Rodriguez
           persona_name = sim_command[len("call -- analysis"):].strip() 
           self.personas[persona_name].open_convo_session("analysis")
+
+        elif ("call -- inner voice" 
+              in sim_command.lower()): 
+          #allows to be agent's inner voice, adding a specific thought to it's memory
+          # Ex: call -- inner voice Isabella Rodriguez
+          persona_name = sim_command[len("call -- inner voice"):].strip() 
+          self.personas[persona_name].open_convo_session("whisper")
 
         elif ("call -- load history" 
               in sim_command.lower()): 
