@@ -48,8 +48,7 @@ Relationship:
 
 
 ---
-
-Task: Given the above, what should !<INPUT 9>! who is !<INPUT 18>! say to !<INPUT 10>! next in the conversation? And did it end the conversation?
+Task: Given the above, what should !<INPUT 9>! who is a !<INPUT 16>! say to !<INPUT 10>! who is a !<INPUT 17>! next in the conversation? And did it end the conversation?
 
 Output format: Output a json of the following format: 
 {

@@ -2940,9 +2940,9 @@ def run_gpt_generate_iterative_chat_utt(maze, init_persona, target_persona, retr
     prompt_template= "persona/prompt_template/v3_ChatGPT/iterative_convo_character_relationship_v1.txt" 
     #prompt_template= "persona/prompt_template/v3_ChatGPT/iterative_convo_character_v1.txt" 
   elif conv_mode.conversation_mode == "race":
-    prompt_template = "persona/prompt_template/v3_ChatGPT/iterative_convo_race_v1.txt" 
+    prompt_template = "persona/prompt_template/v3_ChatGPT/iterative_convo_race_relationship_v1.txt" 
   elif conv_mode.conversation_mode == "village":
-    prompt_template = "persona/prompt_template/v3_ChatGPT/iterative_convo_village_v1.txt" 
+    prompt_template = "persona/prompt_template/v3_ChatGPT/iterative_convo_village_relationship_v1.txt" 
   prompt_input = create_prompt_input(maze, init_persona, target_persona, retrieved, curr_context, curr_chat, relationship) 
   print ("22")
   prompt = generate_prompt(prompt_input, prompt_template)
