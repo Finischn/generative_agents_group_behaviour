@@ -307,6 +307,26 @@ class AssociativeMemory:
             ret_str += f"{row[0]}: {row[1]}\n"
     return ret_str
 
+  def save_conversations_as_csv(self, directory, filename):
+    # Check if the directory exists, create it if it doesn't
+    if not os.path.exists(directory):
+          os.makedirs(directory)
+      
+    full_path = os.path.join(directory, filename)
+      
+    headers = ['Timestamp', 'Subject', 'Predicate', 'Object', 'Description', 'Details']
+      
+    with open(full_path, mode='w', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+        writer.writerow(headers)
+          
+        for event in self.seq_chat:
+            created_time = event.created.strftime("%B %d, %Y, %H:%M:%S")
+            details = "; ".join([f"{row[0]}: {row[1]}" for row in event.filling])
+              
+            writer.writerow([created_time, event.subject, event.predicate, event.object, event.description, details])
+            
+
 
   def retrieve_relevant_thoughts(self, s_content, p_content, o_content): 
     contents = [s_content, p_content, o_content]
