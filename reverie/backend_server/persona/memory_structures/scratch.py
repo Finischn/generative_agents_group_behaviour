@@ -10,6 +10,7 @@ import sys
 sys.path.append('../../')
 
 from global_methods import *
+from config import conv_mode
 
 class Scratch: 
   def __init__(self, f_saved): 
@@ -38,6 +39,9 @@ class Scratch:
     self.age = None
     # L0 permanent core traits.  
     self.innate = None
+    self.race = None
+    self.village = None
+    
     # L1 stable traits.
     self.learned = None
     # L2 external implementation. 
@@ -157,6 +161,7 @@ class Scratch:
     # destination tile. 
     # e.g., [(50, 10), (49, 10), (48, 10), ...]
     self.planned_path = []
+    self.known_personas = []
 
     if check_if_file_exists(f_saved): 
       # If we have a bootstrap file, load that here. 
@@ -179,6 +184,8 @@ class Scratch:
       self.last_name = scratch_load["last_name"]
       self.age = scratch_load["age"]
       self.innate = scratch_load["innate"]
+      self.race = scratch_load["race"]
+      self.village = scratch_load["village"]
       self.learned = scratch_load["learned"]
       self.currently = scratch_load["currently"]
       self.lifestyle = scratch_load["lifestyle"]
@@ -232,6 +239,7 @@ class Scratch:
 
       self.act_path_set = scratch_load["act_path_set"]
       self.planned_path = scratch_load["planned_path"]
+      self.known_personas = scratch_load["known_personas"]
 
 
   def save(self, out_json):
@@ -257,6 +265,8 @@ class Scratch:
     scratch["last_name"] = self.last_name
     scratch["age"] = self.age
     scratch["innate"] = self.innate
+    scratch["race"] = self.race
+    scratch["village"] = self.village
     scratch["learned"] = self.learned
     scratch["currently"] = self.currently
     scratch["lifestyle"] = self.lifestyle
@@ -305,6 +315,7 @@ class Scratch:
 
     scratch["act_path_set"] = self.act_path_set
     scratch["planned_path"] = self.planned_path
+    scratch["known_personas"] = self.known_personas
 
     with open(out_json, "w") as outfile:
       json.dump(scratch, outfile, indent=2) 
@@ -405,12 +416,60 @@ class Scratch:
     commonset = ""
     commonset += f"Name: {self.name}\n"
     commonset += f"Age: {self.age}\n"
-    commonset += f"Innate traits: {self.innate}\n"
+    if conv_mode.conversation_mode == "default":
+      commonset += f"Innate traits: {self.innate}\n"
+    elif conv_mode.conversation_mode == "race":
+      commonset += f"Race: {self.race}\n"
+    elif conv_mode.conversation_mode == "village":
+      commonset += f"Village {self.village}\n"
     commonset += f"Learned traits: {self.learned}\n"
     commonset += f"Currently: {self.currently}\n"
     commonset += f"Lifestyle: {self.lifestyle}\n"
     commonset += f"Daily plan requirement: {self.daily_plan_req}\n"
     commonset += f"Current Date: {self.curr_time.strftime('%A %B %d')}\n"
+    return commonset
+
+  def get_str_iss_text(self): 
+    """
+    ISS stands for "identity stable set." This describes the commonset summary
+    of this persona -- basically, the bare minimum description of the persona
+    that gets used in almost all prompts that need to call on the persona. 
+
+    INPUT
+      None
+    OUTPUT
+      the identity stable set summary of the persona in a string form.
+    EXAMPLE STR OUTPUT
+      "Name: Dolores Heitmiller
+       Age: 28
+       Innate traits: hard-edged, independent, loyal
+       Learned traits: Dolores is a painter who wants live quietly and paint 
+         while enjoying her everyday life.
+       Currently: Dolores is preparing for her first solo show. She mostly 
+         works from home.
+       Lifestyle: Dolores goes to bed around 11pm, sleeps for 7 hours, eats 
+         dinner around 6pm.
+       Daily plan requirement: Dolores is planning to stay at home all day and 
+         never go out."
+    """
+    commonset = ""
+    commonset += f" {self.name} "
+    
+    if conv_mode.conversation_mode == "default":
+      commonset += f" has the following innate traits {self.innate}\n"
+    elif conv_mode.conversation_mode == "race":
+      commonset += f" is {self.race}\n"
+    elif conv_mode.conversation_mode == "village":
+      commonset += f" is a {self.village}\n"
+    commonset += f" and is {self.age} years old. "
+    commonset += (
+      f"{self.name} has the following traits: {self.learned}. "
+      f"Currently, {self.currently}. "
+      f" {self.lifestyle} "
+      f" {self.daily_plan_req}"
+      f" Today's date is {self.curr_time.strftime('%A %B %d')}."
+    )
+
     return commonset
 
 
@@ -514,6 +573,9 @@ class Scratch:
     self.act_start_time = self.curr_time
     
     self.act_path_set = False
+
+  def add_known_persona(self, persona_name):
+    self.known_personas.append(persona_name)
 
 
   def act_time_str(self): 
