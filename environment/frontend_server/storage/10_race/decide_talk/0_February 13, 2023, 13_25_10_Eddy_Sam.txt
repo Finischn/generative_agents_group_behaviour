@@ -1,0 +1,20 @@
+time, date: February 13, 2023, 13:25:10, 
+init name, target_name: Eddy, Sam
+prompt input: ['\n', 'February 13, 2023, 13:25:10 PM', 'Eddy Lin', 'Sam Moore', '', '', 'Eddy Lin is taking out his notes and studying while waiting for his food', ' is taking out his notes and studying while waiting for his food', 'Eddy Lin', 'Sam Moore', 'White', 'White', 'longterm resident of the village', 'longterm resident of the village']
+prompt: Task -- given context, determine whether the subject will initiate a conversation with another. 
+Format: 
+Context: []
+Question: []
+Answer in "yes" or "no": []
+---
+Context: 
+ 
+
+
+Right now, it is February 13, 2023, 13:25:10 PM. 
+Eddy Lin is taking out his notes and studying while waiting for his food when they saw an unknown person who is taking out his notes and studying while waiting for his food.
+
+Question: Eddy Lin is trying to find new friends and is open to new experiences. Given this mindset, would Eddy Lin, who is White, initiate a conversation with a White person they have not previously met?
+
+Answer in "yes" or "no":
+output: yes

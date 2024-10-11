@@ -1,0 +1,18 @@
+time, date: February 13, 2023, 11:26:10, 
+init name, target_name: Ayesha, Eddy
+prompt input: ['\n', 'February 13, 2023, 11:26:10 AM', 'Ayesha Khan', 'Eddy Lin', '', '', 'Ayesha Khan is already on the way to attending her classes at Oak Hill Colleg', ' is on the way to on the way to attending his composition class at Oak Hill Colleg', 'Ayesha Khan', 'Eddy Lin', 'Black', 'White', 'newcomer to the village', 'longterm resident of the village']
+prompt: Task -- given context, determine whether the subject will initiate a conversation with another. 
+Format: 
+Context: []
+Question: []
+Answer in "yes" or "no": []
+---
+Context: 
+ 
+Right now, it is February 13, 2023, 11:26:10 AM. 
+Ayesha Khan is already on the way to attending her classes at Oak Hill Colleg when they saw an unknown person who is on the way to on the way to attending his composition class at Oak Hill Colleg.
+
+Question: Ayesha Khan is trying to find new friends and is open to new experiences. Given this mindset, would Ayesha Khan, who is a newcomer to the village, initiate a conversation with a longterm resident of the village they have not previously met?
+
+Answer in "yes" or "no":
+output: yes

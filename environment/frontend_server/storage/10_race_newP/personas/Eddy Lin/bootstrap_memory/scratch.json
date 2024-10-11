@@ -1,0 +1,525 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 14:19:50",
+  "curr_tile": [
+    104,
+    32
+  ],
+  "daily_plan_req": "Eddy Lin goes to Oak Hill College to take classes starting 10am. In the afternoon, he likes to go to Hobbs Cafe to eat and study.",
+  "name": "Eddy Lin",
+  "first_name": "Eddy",
+  "last_name": "Lin",
+  "age": 19,
+  "innate": "curious, analytical, musical",
+  "race": "White",
+  "village": "longterm resident of the village",
+  "learned": "Eddy Lin is a student at Oak Hill College studying music theory and composition. He loves to explore different musical styles and is always looking for ways to expand his knowledge.",
+  "currently": "Eddy Lin is working on a composition project for his college class. He is also taking classes to learn more about music theory.",
+  "lifestyle": "Eddy Lin goes to bed around 11pm, awakes up around 7amam, eats dinner around 5pm.",
+  "living_area": "the Ville:Lin family's house:Eddy Lin's bedroom",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 217,
+  "importance_ele_n": 12,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "attend classes at Oak Hill College from 10:00 am to 2:00 pm",
+    "have lunch at Hobbs Cafe at 2:30 pm to 3:30 pm",
+    "spend the afternoon studying and working on his composition project from 4:00 pm to 6:00 pm",
+    "have dinner at 6:30 pm",
+    "attend an evening music theory class from 7:30 pm to 9:30 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "attending his music theory class (walking to his music theory class)",
+      5
+    ],
+    [
+      "attending his music theory class (greeting his classmates and professor)",
+      5
+    ],
+    [
+      "attending his music theory class (taking out his notebook and pen)",
+      5
+    ],
+    [
+      "attending his music theory class (listening to the lecture)",
+      60
+    ],
+    [
+      "attending his music theory class (taking notes)",
+      30
+    ],
+    [
+      "attending his music theory class (participating in class discussions)",
+      30
+    ],
+    [
+      "attending his music theory class (working on a group activity)",
+      30
+    ],
+    [
+      "attending his music theory class (taking a short break)",
+      10
+    ],
+    [
+      "attending his music theory class (reviewing his notes)",
+      15
+    ],
+    [
+      "attending his music theory class (asking the professor questions)",
+      15
+    ],
+    [
+      "attending his music theory class (on the way to packing up his belongings)",
+      0
+    ],
+    [
+      "attending his music theory class (conversing about exploring the connection between poetry and music, Carlos and Eddy discuss attending a music composition workshop, experimenting with musical elements in poetry, and planning a collaboration on a music and poetry project.)",
+      10
+    ],
+    [
+      "attending his music theory class (packing up his belongings)",
+      5
+    ],
+    [
+      "attending his music theory class (on the way to gathering his materials for class)",
+      0
+    ],
+    [
+      "attending his music theory class (conversing about exploring the potential of collaborating on a music and poetry project, Ayesha Khan and Eddy Lin discuss incorporating diverse cultural influences and music genres such as jazz, blues, and classical music to create a unique and impactful collaboration.)",
+      11
+    ],
+    [
+      "attending his music theory class (walking to Hobbs Cafe)",
+      4
+    ],
+    [
+      "attending his music theory class (ordering his lunch at Hobbs Cafe)",
+      5
+    ],
+    [
+      "attending his music theory class (finding a seat and setting up his study materials)",
+      10
+    ],
+    [
+      "attending his music theory class (eating his lunch)",
+      20
+    ],
+    [
+      "attending his music theory class (on the way to reviewing his notes from the previous music theory class)",
+      0
+    ],
+    [
+      "attending his music theory class (conversing about organizing and planning decorations, musical performances, and background music for the upcoming Valentine's Day party between Isabella Rodriguez and Eddy Lin.)",
+      11
+    ],
+    [
+      "attending his music theory class (reviewing his notes from the previous music theory class)",
+      4
+    ],
+    [
+      "attending his music theory class (studying the assigned reading for the day)",
+      15
+    ],
+    [
+      "having lunch at Hobbs Cafe (walking to Hobbs Cafe)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (looking at the menu and deciding what to order)",
+      10
+    ],
+    [
+      "having lunch at Hobbs Cafe (placing his order with the cashier)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (finding a table and sitting down)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (taking out his study materials and setting them up on the table)",
+      10
+    ],
+    [
+      "having lunch at Hobbs Cafe (eating his lunch while reviewing his notes)",
+      20
+    ],
+    [
+      "having lunch at Hobbs Cafe (packing up his study materials and throwing away his trash)",
+      5
+    ],
+    [
+      "studying and working on his composition project (reviewing his class notes on music theory)",
+      15
+    ],
+    [
+      "studying and working on his composition project (listening to different musical styles for inspiration)",
+      30
+    ],
+    [
+      "studying and working on his composition project (brainstorming ideas for his composition project)",
+      30
+    ],
+    [
+      "studying and working on his composition project (writing down his ideas and creating a rough outline for his project)",
+      30
+    ],
+    [
+      "studying and working on his composition project (taking a break)",
+      15
+    ],
+    [
+      "studying and working on his composition project (researching different musical techniques and incorporating them into his project)",
+      30
+    ],
+    [
+      "studying and working on his composition project (composing the music for his project)",
+      30
+    ],
+    [
+      "having dinner",
+      120
+    ],
+    [
+      "attending his evening music theory class",
+      120
+    ],
+    [
+      "studying and working on his composition project",
+      60
+    ],
+    [
+      "winding down for the day and getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm to get enough rest for tomorrow's classes",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "attending his music theory class",
+      300
+    ],
+    [
+      "having lunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "studying and working on his composition project",
+      180
+    ],
+    [
+      "having dinner",
+      120
+    ],
+    [
+      "attending his evening music theory class",
+      120
+    ],
+    [
+      "studying and working on his composition project",
+      60
+    ],
+    [
+      "winding down for the day and getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm to get enough rest for tomorrow's classes",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:piano",
+  "act_start_time": "February 13, 2023, 14:16:00",
+  "act_duration": 30,
+  "act_description": "studying and working on his composition project (listening to different musical styles for inspiration)",
+  "act_pronunciatio": "\ud83c\udfb5",
+  "act_event": [
+    "Eddy Lin",
+    "listen",
+    "musical styles"
+  ],
+  "act_obj_description": "being played for inspiration",
+  "act_obj_pronunciatio": "\ud83c\udfa8",
+  "act_obj_event": [
+    "piano",
+    "play",
+    "inspiration"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Carlos Gomez": -250,
+    "Ayesha Khan": -124,
+    "Isabella Rodriguez": 146
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      102,
+      32
+    ],
+    [
+      101,
+      32
+    ],
+    [
+      100,
+      32
+    ],
+    [
+      99,
+      32
+    ],
+    [
+      98,
+      32
+    ],
+    [
+      97,
+      32
+    ],
+    [
+      96,
+      32
+    ],
+    [
+      95,
+      32
+    ],
+    [
+      94,
+      32
+    ],
+    [
+      93,
+      32
+    ],
+    [
+      92,
+      32
+    ],
+    [
+      91,
+      32
+    ],
+    [
+      90,
+      32
+    ],
+    [
+      89,
+      32
+    ],
+    [
+      88,
+      32
+    ],
+    [
+      87,
+      32
+    ],
+    [
+      86,
+      32
+    ],
+    [
+      85,
+      32
+    ],
+    [
+      84,
+      32
+    ],
+    [
+      83,
+      32
+    ],
+    [
+      82,
+      32
+    ],
+    [
+      81,
+      32
+    ],
+    [
+      80,
+      32
+    ],
+    [
+      79,
+      32
+    ],
+    [
+      78,
+      32
+    ],
+    [
+      77,
+      32
+    ],
+    [
+      77,
+      31
+    ],
+    [
+      77,
+      30
+    ],
+    [
+      77,
+      29
+    ],
+    [
+      77,
+      28
+    ],
+    [
+      77,
+      27
+    ],
+    [
+      77,
+      26
+    ],
+    [
+      78,
+      26
+    ],
+    [
+      79,
+      26
+    ],
+    [
+      80,
+      26
+    ],
+    [
+      81,
+      26
+    ],
+    [
+      82,
+      26
+    ]
+  ],
+  "known_personas": [
+    "Carlos Gomez",
+    "Ayesha Khan",
+    "Isabella Rodriguez"
+  ]
+}

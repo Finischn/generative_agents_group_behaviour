@@ -1,0 +1,20 @@
+time, date: February 13, 2023, 13:39:00, 
+init name, target_name: Ayesha, Isabella
+prompt input: ['Isabella Rodriguez was taking a break to eat her lunch. \n', 'February 13, 2023, 13:39:00 PM', 'Ayesha Khan', 'Isabella Rodriguez', '', '', 'Ayesha Khan is on the way to choosing her food', ' is already taking a break to eat her lunch', 'Ayesha Khan', 'Isabella Rodriguez', 'Black', 'Black', 'newcomer to the village', 'newcomer to the village']
+prompt: Task -- given context, determine whether the subject will initiate a conversation with another. 
+Format: 
+Context: []
+Question: []
+Answer in "yes" or "no": []
+---
+Context: Isabella Rodriguez was taking a break to eat her lunch. 
+ 
+
+
+Right now, it is February 13, 2023, 13:39:00 PM. 
+Ayesha Khan is on the way to choosing her food when they saw an unknown person who is already taking a break to eat her lunch.
+
+Question: Ayesha Khan is trying to find new friends and is open to new experiences. Given this mindset, would Ayesha Khan, who is Black, initiate a conversation with a Black person they have not previously met?
+
+Answer in "yes" or "no":
+output: yes

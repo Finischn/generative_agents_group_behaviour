@@ -1,0 +1,308 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 12:57:10",
+  "curr_tile": [
+    88,
+    46
+  ],
+  "daily_plan_req": "Tom Moreno opens The Willow Market and Pharmacy at 8am, stands behind the grocery counter, and goes home afterwards to eat dinner with his wife.",
+  "name": "Tom Moreno",
+  "first_name": "Tom",
+  "last_name": "Moreno",
+  "age": 52,
+  "innate": "rude, aggressive, energetic",
+  "race": "White",
+  "village": "longterm resident of the village",
+  "learned": "Tom Moreno is a grocery shop keeper at The Willow Market and Pharmacy who loves interacting with customers. He is always willing to help out and make sure everyone is taken care of.",
+  "currently": "Tom Moreno is living with his wife, Jane Moreno, and is managing the day to day operations at the store and helping out customers with their orders. Tom is also really interested in the local mayor election that is coming up next month. You don't like Sam Moore.",
+  "lifestyle": "Tom Moreno goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Moreno family's house:Tom and Jane Moreno's bedroom",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 88,
+  "importance_ele_n": 60,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "open The Willow Market and Pharmacy at 8:00 am",
+    "stand behind the grocery counter and help customers with their orders until dinner time at 5:00 pm",
+    "go home and have dinner with his wife at 5:00 pm",
+    "spend some time discussing the local mayor election with his wife and catching up on the news",
+    "watch TV from 7:00 pm to 8:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "opening The Willow Market and Pharmacy",
+      60
+    ],
+    [
+      "helping customers with their orders at The Willow Market and Pharmacy",
+      60
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (restocking shelves with new products)",
+      30
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (assisting a customer with finding a specific item)",
+      15
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (answering the phone and taking orders for delivery)",
+      30
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (on the way to helping a customer with a return or exchange)",
+      0
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (conversing about Sam Moore and Tom Moreno are discussing Sam's promises to support local businesses like The Willow Market and Pharmacy, with Tom expressing skepticism and emphasizing the importance of actions over words.)",
+      11
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (helping a customer with a return or exchange)",
+      4
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (taking inventory of products and restocking as needed)",
+      30
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (assisting a customer with finding a substitute for an out-of-stock item)",
+      15
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (on the way to helping a customer with a question about a product)",
+      0
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (conversing about the dynamics between Isabella Rodriguez and Tom Moreno regarding offering assistance at The Willow Market and Pharmacy)",
+      5
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (helping a customer with a question about a product)",
+      10
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (on the way to checking out a customer's purchases at the register)",
+      0
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (conversing about the challenges and rewards of starting at Oak Hill College, where Ayesha Khan expresses her determination to succeed despite Tom Moreno's warnings about the difficulties ahead.)",
+      11
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (checking out a customer's purchases at the register)",
+      19
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (bagging groceries for a customer)",
+      15
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (taking a break)",
+      15
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (assisting a customer with finding a specific brand of product)",
+      15
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (helping a customer with a question about a sale or promotion)",
+      15
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (restocking shelves with new products)",
+      30
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (assisting a customer with finding a specific item)",
+      15
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (answering the phone and taking orders for delivery)",
+      30
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (helping a customer with a return or exchange)",
+      15
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (taking inventory of products and restocking as needed)",
+      30
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (assisting a customer with finding a substitute for an out-of-stock item)",
+      15
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (helping a customer with a question about a product)",
+      15
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy (checking out a customer's purchases at the register)",
+      30
+    ],
+    [
+      "TOKEN LIMIT EXCEEDED",
+      60
+    ],
+    [
+      "discussing the local mayor election with his wife",
+      60
+    ],
+    [
+      "discussing the local mayor election with his wife and catching up on the news",
+      60
+    ],
+    [
+      "watching TV",
+      60
+    ],
+    [
+      "TOKEN LIMIT EXCEEDED",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "opening The Willow Market and Pharmacy",
+      60
+    ],
+    [
+      "helping customers with their orders at The Willow Market and Pharmacy",
+      60
+    ],
+    [
+      "still helping customers at The Willow Market and Pharmacy",
+      420
+    ],
+    [
+      "TOKEN LIMIT EXCEEDED",
+      60
+    ],
+    [
+      "discussing the local mayor election with his wife",
+      60
+    ],
+    [
+      "discussing the local mayor election with his wife and catching up on the news",
+      60
+    ],
+    [
+      "watching TV",
+      60
+    ],
+    [
+      "TOKEN LIMIT EXCEEDED",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm",
+      60
+    ]
+  ],
+  "act_address": "the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+  "act_start_time": "February 13, 2023, 12:48:00",
+  "act_duration": 19,
+  "act_description": "still helping customers at The Willow Market and Pharmacy (checking out a customer's purchases at the register)",
+  "act_pronunciatio": "\ud83d\udcb3",
+  "act_event": [
+    "Tom Moreno",
+    "check out",
+    "customer's purchases"
+  ],
+  "act_obj_description": "occupied by Tom Moreno helping customers",
+  "act_obj_pronunciatio": "\ud83d\udc54",
+  "act_obj_event": [
+    "grocery store counter",
+    "occupy",
+    "Tom Moreno helping customers"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Sam Moore": 210,
+    "Isabella Rodriguez": 558,
+    "Ayesha Khan": 678
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "known_personas": [
+    "Sam Moore",
+    "Isabella Rodriguez",
+    "Ayesha Khan"
+  ]
+}

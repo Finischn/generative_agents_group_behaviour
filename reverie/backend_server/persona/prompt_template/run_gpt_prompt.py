@@ -1329,23 +1329,23 @@ def run_gpt_prompt_decide_to_talk(persona, target_persona, retrieved,test_input=
 
 
 
-  gpt_param = {"engine": "gpt-3.5-turbo-instruct", "max_tokens": 20, 
+  gpt_param = {"engine": "gpt-3.5-turbo-instruct", "max_tokens": 5, 
                "temperature": 0, "top_p": 1, "stream": False,
                "frequency_penalty": 0, "presence_penalty": 0, "stop": None}
   if target_persona.name in persona.scratch.known_personas:
     if conv_mode.conversation_mode == "default":
-      prompt_template = "persona/prompt_template/v2/decide_to_talk_v2.txt"
+      prompt_template = "persona/prompt_template/v2/decide_to_talk_v3.txt"
     elif conv_mode.conversation_mode == "race":
-      prompt_template= "persona/prompt_template/v2/decide_to_talk_race_v2.txt"
+      prompt_template= "persona/prompt_template/v2/decide_to_talk_race_v3.txt"
     elif conv_mode.conversation_mode == "village":
-      prompt_template= "persona/prompt_template/v2/decide_to_talk_village_v2.txt"
+      prompt_template= "persona/prompt_template/v2/decide_to_talk_village_v3.txt"
   else: #personas do not know each other
     if conv_mode.conversation_mode == "default":
-      prompt_template = "persona/prompt_template/v2/decide_to_talk_unknown_v2.txt"
+      prompt_template = "persona/prompt_template/v2/decide_to_talk_unknown_v3.txt"
     elif conv_mode.conversation_mode == "race":
-      prompt_template= "persona/prompt_template/v2/decide_to_talk_race_unknown_v2.txt"
+      prompt_template= "persona/prompt_template/v2/decide_to_talk_race_unknown_v3.txt"
     elif conv_mode.conversation_mode == "village":
-      prompt_template= "persona/prompt_template/v2/decide_to_talk_village_unknown_v2.txt"
+      prompt_template= "persona/prompt_template/v2/decide_to_talk_village_unknown_v3.txt"
 
 
   prompt_input = create_prompt_input(persona, target_persona, retrieved,

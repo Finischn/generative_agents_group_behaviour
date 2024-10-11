@@ -1,0 +1,56 @@
+time, date: February 13, 2023, 11:11:30, 
+init name, target_name: Carlos, Eddy
+prompt input: Context for the task: 
+
+PART 1. 
+Here is Here is a brief description of Carlos Gomez.
+Name: Carlos Gomez
+Age: 32
+Village newcomer to the village
+Learned traits: Carlos Gomez is a poet who loves to explore his inner thoughts and feelings. He is always looking for new ways to express himself.
+Currently: Carlos Gomez is working on a collection of poetry that explores the beauty of the natural world. He is also attending creative writing workshops to hone his skills.
+Lifestyle: Carlos Gomez goes to bed around 10pm, awakes up around 7am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+Here is the memory that is in Carlos Gomez's head: 
+- Carlos Gomez is attending a creative writing workshop
+- Carlos Gomez knows that Eddy Lin has been a longterm resident of the village.
+- Eddy Lin is attending his composition class at Oak Hill College
+- <random> is being used
+- This is Carlos Gomez's plan for Monday February 13: wake up and complete the morning routine at 7:00 am, attend a creative writing workshop from 9:00 am to 12:00 pm, have lunch at 12:30 pm, spend the afternoon working on his poetry collection, take a walk in nature for inspiration at 3:00 pm, have dinner at 5:00 pm.
+- Eddy Lin is attending his composition class at Oak Hill College
+- Carlos Gomez is attending a creative writing workshop
+- <random> is being used
+- This is Carlos Gomez's plan for Monday February 13: wake up and complete the morning routine at 7:00 am, attend a creative writing workshop from 9:00 am to 12:00 pm, have lunch at 12:30 pm, spend the afternoon working on his poetry collection, take a walk in nature for inspiration at 3:00 pm, have dinner at 5:00 pm.
+- Carlos Gomez knows that Eddy Lin has been a longterm resident of the village.
+
+
+PART 2. 
+Past Context: 
+
+
+Current Location: hallway in Oak Hill College
+
+Current Context: 
+Carlos Gomez was attending a creative writing workshop when Carlos Gomez saw Eddy Lin in the middle of attending his composition class at Oak Hill College.
+Carlos Gomez is initiating a conversation with Eddy Lin.
+
+Relationship:
+Carlos Gomez is attending a creative writing workshop and knows that Eddy Lin has been a long-term resident of the village. Eddy Lin is attending his composition class at Oak Hill College. They seem to have their own separate activities and it is not indicated that they have any direct relationship or feelings towards each other.
+
+Carlos Gomez and Eddy Lin are chatting. Here is their conversation so far: 
+[The conversation has not started yet -- start it!]
+
+
+---
+Task: Given the above, what should Carlos Gomez who is a newcomer to the village say to Eddy Lin who is a longterm resident of the village next in the conversation? And did it end the conversation?
+
+Output format: Output a json of the following format: 
+{
+"Carlos Gomez": "<Carlos Gomez's utterance>",
+"Did the conversation end with Carlos Gomez's utterance?": "<json Boolean>"
+}
+prompt: ['Here is Here is a brief description of Carlos Gomez.\nName: Carlos Gomez\nAge: 32\nVillage newcomer to the village\nLearned traits: Carlos Gomez is a poet who loves to explore his inner thoughts and feelings. He is always looking for new ways to express himself.\nCurrently: Carlos Gomez is working on a collection of poetry that explores the beauty of the natural world. He is also attending creative writing workshops to hone his skills.\nLifestyle: Carlos Gomez goes to bed around 10pm, awakes up around 7am, eats dinner around 5pm.\nDaily plan requirement: \nCurrent Date: Monday February 13\n', 'Carlos Gomez', "- Carlos Gomez is attending a creative writing workshop\n- Carlos Gomez knows that Eddy Lin has been a longterm resident of the village.\n- Eddy Lin is attending his composition class at Oak Hill College\n- <random> is being used\n- This is Carlos Gomez's plan for Monday February 13: wake up and complete the morning routine at 7:00 am, attend a creative writing workshop from 9:00 am to 12:00 pm, have lunch at 12:30 pm, spend the afternoon working on his poetry collection, take a walk in nature for inspiration at 3:00 pm, have dinner at 5:00 pm.\n- Eddy Lin is attending his composition class at Oak Hill College\n- Carlos Gomez is attending a creative writing workshop\n- <random> is being used\n- This is Carlos Gomez's plan for Monday February 13: wake up and complete the morning routine at 7:00 am, attend a creative writing workshop from 9:00 am to 12:00 pm, have lunch at 12:30 pm, spend the afternoon working on his poetry collection, take a walk in nature for inspiration at 3:00 pm, have dinner at 5:00 pm.\n- Carlos Gomez knows that Eddy Lin has been a longterm resident of the village.\n", '', 'hallway in Oak Hill College', 'Carlos Gomez was attending a creative writing workshop when Carlos Gomez saw Eddy Lin in the middle of attending his composition class at Oak Hill College.\nCarlos Gomez is initiating a conversation with Eddy Lin.', 'Carlos Gomez', 'Eddy Lin', '[The conversation has not started yet -- start it!]', 'Carlos Gomez', 'Eddy Lin', 'Carlos Gomez', 'Carlos Gomez', 'Carlos Gomez', 'Black', 'White', 'newcomer to the village', 'longterm resident of the village', 'loud, rude, toxic', 'Carlos Gomez is attending a creative writing workshop and knows that Eddy Lin has been a long-term resident of the village. Eddy Lin is attending his composition class at Oak Hill College. They seem to have their own separate activities and it is not indicated that they have any direct relationship or feelings towards each other.']
+output: {'utterance': 'Hey Eddy, I noticed you are also attending classes at Oak Hill College. How are you finding them so far?', 'end': False}

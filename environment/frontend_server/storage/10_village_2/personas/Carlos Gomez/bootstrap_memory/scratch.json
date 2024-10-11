@@ -1,0 +1,269 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 14:53:20",
+  "curr_tile": [
+    111,
+    26
+  ],
+  "daily_plan_req": "",
+  "name": "Carlos Gomez",
+  "first_name": "Carlos",
+  "last_name": "Gomez",
+  "age": 32,
+  "innate": "loud, rude, toxic",
+  "race": "Black",
+  "village": "newcomer to the village",
+  "learned": "Carlos Gomez is a poet who loves to explore his inner thoughts and feelings. He is always looking for new ways to express himself.",
+  "currently": "Carlos Gomez is working on a collection of poetry that explores the beauty of the natural world. He is also attending creative writing workshops to hone his skills.",
+  "lifestyle": "Carlos Gomez goes to bed around 10pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Carlos Gomez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 160,
+  "importance_ele_n": 24,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "attend a creative writing workshop from 9:00 am to 12:00 pm",
+    "have lunch at 12:30 pm",
+    "spend the afternoon working on his poetry collection",
+    "take a walk in nature for inspiration at 3:00 pm",
+    "have dinner at 5:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "attending a creative writing workshop (on the way to attending a creative writing worksho)",
+      240
+    ],
+    [
+      "attending a creative writing workshop (conversing about Carlos Gomez and Eddy Lin are chatting about settling in the village, attending classes at Oak Hill College, upcoming community music event, and offering assistance for newcomers.)",
+      14
+    ],
+    [
+      "having lunch (heating up leftovers from last night's dinner)",
+      5
+    ],
+    [
+      "having lunch (setting the table)",
+      5
+    ],
+    [
+      "having lunch (sitting down to eat)",
+      30
+    ],
+    [
+      "having lunch (taking a break to check his phone)",
+      5
+    ],
+    [
+      "having lunch (finishing his meal)",
+      10
+    ],
+    [
+      "having lunch (washing his dishes)",
+      5
+    ],
+    [
+      "working on his poetry collection",
+      60
+    ],
+    [
+      "taking a walk in nature for inspiration",
+      60
+    ],
+    [
+      "working on his poetry collection (on the way to working on his poetry collectio)",
+      0
+    ],
+    [
+      "working on his poetry collection (conversing about Carlos Gomez and Eddy Lin are discussing local bookstores, cafes, a community potluck dinner, meeting other villagers, upcoming community events, and a community music event at the village square.)",
+      13
+    ],
+    [
+      "continuing to work on his poetry collection.",
+      107
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "attending a poetry reading event",
+      240
+    ],
+    [
+      "reflecting on the poetry reading event and jotting down new ideas for his collection",
+      60
+    ],
+    [
+      "going to bed and reflecting on his day before falling asleep",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -14
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "attending a creative writing workshop",
+      240
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "working on his poetry collection",
+      60
+    ],
+    [
+      "taking a walk in nature for inspiration",
+      60
+    ],
+    [
+      "working on his poetry collection",
+      120
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "attending a poetry reading event",
+      240
+    ],
+    [
+      "reflecting on the poetry reading event and jotting down new ideas for his collection",
+      60
+    ],
+    [
+      "going to bed and reflecting on his day before falling asleep",
+      60
+    ]
+  ],
+  "act_address": "<persona> Eddy Lin",
+  "act_start_time": "February 13, 2023, 14:48:50",
+  "act_duration": 13,
+  "act_description": "conversing about Carlos Gomez and Eddy Lin are discussing local bookstores, cafes, a community potluck dinner, meeting other villagers, upcoming community events, and a community music event at the village square.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Carlos Gomez",
+    "chat with",
+    "Eddy Lin"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Eddy Lin",
+  "chat": [
+    [
+      "Carlos Gomez",
+      "Hey Eddy, I really appreciate all the help you've offered me in settling into the village. I'm looking forward to attending the community music event with you. Do you have any recommendations for local bookstores or cafes?"
+    ],
+    [
+      "Eddy Lin",
+      "Hey Carlos, I'm glad you're settling in well. For local bookstores, I recommend checking out 'Pages & Brew'. It's a cozy place with a great selection. And for cafes, 'Brew O'Clock' is a popular spot among locals. Hope you enjoy them!"
+    ],
+    [
+      "Carlos Gomez",
+      "Thank you, Eddy! I'll definitely check out 'Pages & Brew' and 'Brew O'Clock'. I appreciate your recommendations."
+    ],
+    [
+      "Eddy Lin",
+      "Since you're new to the village, would you be interested in joining us for a community potluck dinner this weekend? It's a great way to meet more people and experience the local culture."
+    ],
+    [
+      "Carlos Gomez",
+      "That sounds like a wonderful opportunity, Eddy! I would love to join the community potluck dinner this weekend. Thank you for inviting me."
+    ],
+    [
+      "Eddy Lin",
+      "I'm glad you're settling in and enjoying the village so far. If you have any questions or need help with anything else, feel free to ask. We're here to support you."
+    ],
+    [
+      "Carlos Gomez",
+      "Thank you, Eddy, for all your welcoming and kind support. I truly appreciate your guidance and look forward to exploring more of the village with your recommendations."
+    ],
+    [
+      "Eddy Lin",
+      "I'm glad you're settling in smoothly, Carlos. If you're interested, I can introduce you to some other villagers who could help you feel more at home here."
+    ],
+    [
+      "Carlos Gomez",
+      "Thank you, Eddy! I would appreciate meeting other villagers to help me settle in better. Whenever you have time to introduce me, I would be very grateful."
+    ],
+    [
+      "Eddy Lin",
+      "I'll make sure to introduce you to some of the other villagers. How about we meet up at the village square tomorrow evening for a quick chat and introductions?"
+    ],
+    [
+      "Carlos Gomez",
+      "Thank you, Eddy! I would be happy to meet up at the village square tomorrow evening for a chat and introductions with the other villagers. Looking forward to it!"
+    ],
+    [
+      "Eddy Lin",
+      "I'm looking forward to introducing you to some of the other villagers tomorrow evening at the village square. It will be a great way for you to meet more people and get to know the community better."
+    ],
+    [
+      "Carlos Gomez",
+      "Thank you, Eddy, for all your welcoming and kind support. I truly appreciate your guidance and look forward to exploring more of the village with your recommendations."
+    ],
+    [
+      "Eddy Lin",
+      "I'm glad you're enjoying settling into the village, Carlos. If you're interested, I can help you find more information about upcoming community events or classes at Oak Hill College. Just let me know if you need any assistance!"
+    ],
+    [
+      "Carlos Gomez",
+      "Thank you so much, Eddy, for all your support and guidance. I truly appreciate your kindness in helping me settle into the village."
+    ],
+    [
+      "Eddy Lin",
+      "I can also share some information about the community music event happening this Friday evening at the village square. Would you like to join us?"
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Eddy Lin": 800
+  },
+  "chatting_end_time": "February 13, 2023, 15:02:00",
+  "act_path_set": true,
+  "planned_path": [],
+  "known_personas": [
+    "Eddy Lin"
+  ]
+}

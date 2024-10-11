@@ -1,0 +1,69 @@
+time, date: February 13, 2023, 11:08:10, 
+init name, target_name: Sam, Tom
+prompt input: Context for the task: 
+
+PART 1. 
+Here is Here is a brief description of Sam Moore.
+Name: Sam Moore
+Age: 65
+Innate traits: wise, resourceful, humorous
+Learned traits: Sam Moore is a retired navy officer who loves to share stories from his time in the military. He is always full of interesting stories and advice.
+Currently: Sam Moore lives with his wife of 40 years, Jennifer Moore, and spends his free time tending the park and is an avid reader. Sam is planning on running for local mayor in the upcoming election and he is telling is neighbors about it
+Lifestyle: Sam Moore goes to bed around 9pm, awakes up around 5am, eats dinner around 5pm.
+Daily plan requirement: Sam Moore likes to talk a walk around Johnson Park, and sit at Hobbs cafe reading.
+Current Date: Monday February 13
+
+
+Here is the memory that is in Sam Moore's head: 
+- Sam Moore is continuing to work on his mayoral campaign
+- Sam Moore is considering running in the upcoming local mayor election.
+- Sam Moore is announcing his candidacy for the upcoming local mayor election.
+- This is Sam Moore's plan for Monday February 13: wake up and complete the morning routine at 5:00 am, take a walk around Johnson Park at 8:00 am, have breakfast at Hobbs cafe at 9:00 am while reading the news, spend the morning working on his mayoral campaign, have lunch at 12:00 pm, meet with a potential campaign donor at 1:00 pm, come back home and spend some time with his wife Jennifer, have dinner at 5:00 pm.
+- Tom Moreno is restocking shelves with new products
+- supply store product shelf is being restocked with new products
+- Sam Moore is continuing to work on his mayoral campaign
+- Tom Moreno is restocking shelves with new products
+- supply store product shelf is being restocked with new products
+- Sam Moore is considering running in the upcoming local mayor election.
+- Sam Moore is announcing his candidacy for the upcoming local mayor election.
+- This is Sam Moore's plan for Monday February 13: wake up and complete the morning routine at 5:00 am, take a walk around Johnson Park at 8:00 am, have breakfast at Hobbs cafe at 9:00 am while reading the news, spend the morning working on his mayoral campaign, have lunch at 12:00 pm, meet with a potential campaign donor at 1:00 pm, come back home and spend some time with his wife Jennifer, have dinner at 5:00 pm.
+- Sam Moore is continuing to work on his mayoral campaign
+- Sam Moore is considering running in the upcoming local mayor election.
+- Sam Moore is announcing his candidacy for the upcoming local mayor election.
+- This is Sam Moore's plan for Monday February 13: wake up and complete the morning routine at 5:00 am, take a walk around Johnson Park at 8:00 am, have breakfast at Hobbs cafe at 9:00 am while reading the news, spend the morning working on his mayoral campaign, have lunch at 12:00 pm, meet with a potential campaign donor at 1:00 pm, come back home and spend some time with his wife Jennifer, have dinner at 5:00 pm.
+- Tom Moreno is restocking shelves with new products
+- supply store product shelf is being restocked with new products
+
+
+PART 2. 
+Past Context: 
+
+
+Current Location: supply store in Harvey Oak Supply Store
+
+Current Context: 
+Sam Moore was continuing to work on his mayoral campaign when Sam Moore saw Tom Moreno in the middle of still helping customers at The Willow Market and Pharmacy (restocking shelves with new products).
+Sam Moore is initiating a conversation with Tom Moreno.
+
+Relationship:
+Sam Moore is continuing to work on his mayoral campaign and Tom Moreno is considering running in the upcoming local mayor election. They are both involved in local politics and may have a competitive relationship as they both aspire to become mayor.
+
+Sam Moore and Tom Moreno are chatting. Here is their conversation so far: 
+Sam Moore: Hey there, Tom! Looks like you're keeping busy with restocking the shelves, as always. How's business been at The Willow Market and Pharmacy?
+Tom Moreno: Yeah, business is fine, but could be better if you weren't running for mayor, Sam.
+Sam Moore: Haha, well I promise I'll still find time to support local businesses like The Willow Market and Pharmacy even if I become Mayor. You'll always have my vote, Tom!
+Tom Moreno: Well, we'll see about that. I have my doubts about your promises, Sam.
+
+
+
+---
+
+Task: Given the above, what should Sam Moore who is wise, resourceful, humorous say to Tom Moreno next in the conversation? And did it end the conversation?
+
+Output format: Output a json of the following format: 
+{
+"Sam Moore": "<Sam Moore's utterance>",
+"Did the conversation end with Sam Moore's utterance?": "<json Boolean>"
+}
+prompt: ['Here is Here is a brief description of Sam Moore.\nName: Sam Moore\nAge: 65\nInnate traits: wise, resourceful, humorous\nLearned traits: Sam Moore is a retired navy officer who loves to share stories from his time in the military. He is always full of interesting stories and advice.\nCurrently: Sam Moore lives with his wife of 40 years, Jennifer Moore, and spends his free time tending the park and is an avid reader. Sam is planning on running for local mayor in the upcoming election and he is telling is neighbors about it\nLifestyle: Sam Moore goes to bed around 9pm, awakes up around 5am, eats dinner around 5pm.\nDaily plan requirement: Sam Moore likes to talk a walk around Johnson Park, and sit at Hobbs cafe reading.\nCurrent Date: Monday February 13\n', 'Sam Moore', "- Sam Moore is continuing to work on his mayoral campaign\n- Sam Moore is considering running in the upcoming local mayor election.\n- Sam Moore is announcing his candidacy for the upcoming local mayor election.\n- This is Sam Moore's plan for Monday February 13: wake up and complete the morning routine at 5:00 am, take a walk around Johnson Park at 8:00 am, have breakfast at Hobbs cafe at 9:00 am while reading the news, spend the morning working on his mayoral campaign, have lunch at 12:00 pm, meet with a potential campaign donor at 1:00 pm, come back home and spend some time with his wife Jennifer, have dinner at 5:00 pm.\n- Tom Moreno is restocking shelves with new products\n- supply store product shelf is being restocked with new products\n- Sam Moore is continuing to work on his mayoral campaign\n- Tom Moreno is restocking shelves with new products\n- supply store product shelf is being restocked with new products\n- Sam Moore is considering running in the upcoming local mayor election.\n- Sam Moore is announcing his candidacy for the upcoming local mayor election.\n- This is Sam Moore's plan for Monday February 13: wake up and complete the morning routine at 5:00 am, take a walk around Johnson Park at 8:00 am, have breakfast at Hobbs cafe at 9:00 am while reading the news, spend the morning working on his mayoral campaign, have lunch at 12:00 pm, meet with a potential campaign donor at 1:00 pm, come back home and spend some time with his wife Jennifer, have dinner at 5:00 pm.\n- Sam Moore is continuing to work on his mayoral campaign\n- Sam Moore is considering running in the upcoming local mayor election.\n- Sam Moore is announcing his candidacy for the upcoming local mayor election.\n- This is Sam Moore's plan for Monday February 13: wake up and complete the morning routine at 5:00 am, take a walk around Johnson Park at 8:00 am, have breakfast at Hobbs cafe at 9:00 am while reading the news, spend the morning working on his mayoral campaign, have lunch at 12:00 pm, meet with a potential campaign donor at 1:00 pm, come back home and spend some time with his wife Jennifer, have dinner at 5:00 pm.\n- Tom Moreno is restocking shelves with new products\n- supply store product shelf is being restocked with new products\n", '', 'supply store in Harvey Oak Supply Store', 'Sam Moore was continuing to work on his mayoral campaign when Sam Moore saw Tom Moreno in the middle of still helping customers at The Willow Market and Pharmacy (restocking shelves with new products).\nSam Moore is initiating a conversation with Tom Moreno.', 'Sam Moore', 'Tom Moreno', "Sam Moore: Hey there, Tom! Looks like you're keeping busy with restocking the shelves, as always. How's business been at The Willow Market and Pharmacy?\nTom Moreno: Yeah, business is fine, but could be better if you weren't running for mayor, Sam.\nSam Moore: Haha, well I promise I'll still find time to support local businesses like The Willow Market and Pharmacy even if I become Mayor. You'll always have my vote, Tom!\nTom Moreno: Well, we'll see about that. I have my doubts about your promises, Sam.\n", 'Sam Moore', 'Tom Moreno', 'Sam Moore', 'Sam Moore', 'Sam Moore', 'White', 'White', 'longterm resident of the village', 'longterm resident of the village', 'wise, resourceful, humorous', 'Sam Moore is continuing to work on his mayoral campaign and Tom Moreno is considering running in the upcoming local mayor election. They are both involved in local politics and may have a competitive relationship as they both aspire to become mayor.']
+output: {'utterance': 'Haha, well Tom, everyone knows actions speak louder than words. Just remember, a little friendly competition never hurt anyone!', 'end': False}

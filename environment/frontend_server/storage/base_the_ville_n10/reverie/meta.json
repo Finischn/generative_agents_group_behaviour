@@ -5,10 +5,10 @@
   "sec_per_step": 10,
   "maze_name": "the_ville",
   "persona_names": [
-    "Arthur Burton", 
+    "Isabella Rodriguez", 
     "Carlos Gomez", 
     "Klaus Mueller",
-    "Maria Lopez", 
+    "Sam Moore", 
     "Ayesha Khan", 
     "Wolfgang Schulz", 
     "Eddy Lin",
@@ -16,5 +16,7 @@
     "Tamara Taylor", 
     "Adam Smith" 
   ],
-  "step": 0
+  "step": 0,
+  "conv_mode": "default"
+
 }

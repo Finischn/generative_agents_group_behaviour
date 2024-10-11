@@ -1,0 +1,195 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        65,
+        31
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "serving customers and managing cafe operations (checking inventory and restocking supplies) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        116,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending the creative writing workshop @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        108,
+        44
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "at the Oak Hill College library doing research and writing his sociology paper @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        59,
+        56
+      ],
+      "pronunciatio": "\ud83d\udcbc",
+      "description": "working on his campaign for the mayoral election @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        114,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about conversing about setting up a meeting to discuss the intersection of language and science, Ayesha Khan and Wolfgang Schulz agreed to meet at the library on Wednesday at 3:00 pm. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, how's the studying going for your chemistry exam?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, studying is going well, thanks for asking. How about you, how are your classes going?"
+        ],
+        [
+          "Ayesha Khan",
+          "That's good to hear, I'm really enjoying my literature classes. Have you ever read any Shakespeare?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Yes, I have read some Shakespeare. I find his works very intriguing."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm actually researching for my senior thesis on the use of language in Shakespeare's plays. It's fascinating to explore the depth of his work."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fascinating topic for your thesis, Ayesha. I would love to hear more about your research findings."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Wolfgang. I would be happy to share more about my research with you."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds really interesting, Ayesha. I would love to learn more about your research and maybe discuss how it relates to my chemistry studies."
+        ],
+        [
+          "Ayesha Khan",
+          "Would you be interested in discussing how language and science intersect in our academic pursuits?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I would be really interested in exploring that intersection between language and science with you, Ayesha. Maybe we can set up a time to discuss further?"
+        ],
+        [
+          "Ayesha Khan",
+          "I think it would be great to set up a time to further discuss the intersection of language and science. How about meeting at the library this Wednesday at 3:00 pm?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great plan, Ayesha. I'll see you at the library on Wednesday at 3:00 pm."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        115,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about conversing about setting up a meeting to discuss the intersection of language and science, Ayesha Khan and Wolfgang Schulz agreed to meet at the library on Wednesday at 3:00 pm. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, how's the studying going for your chemistry exam?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, studying is going well, thanks for asking. How about you, how are your classes going?"
+        ],
+        [
+          "Ayesha Khan",
+          "That's good to hear, I'm really enjoying my literature classes. Have you ever read any Shakespeare?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Yes, I have read some Shakespeare. I find his works very intriguing."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm actually researching for my senior thesis on the use of language in Shakespeare's plays. It's fascinating to explore the depth of his work."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fascinating topic for your thesis, Ayesha. I would love to hear more about your research findings."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Wolfgang. I would be happy to share more about my research with you."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds really interesting, Ayesha. I would love to learn more about your research and maybe discuss how it relates to my chemistry studies."
+        ],
+        [
+          "Ayesha Khan",
+          "Would you be interested in discussing how language and science intersect in our academic pursuits?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I would be really interested in exploring that intersection between language and science with you, Ayesha. Maybe we can set up a time to discuss further?"
+        ],
+        [
+          "Ayesha Khan",
+          "I think it would be great to set up a time to further discuss the intersection of language and science. How about meeting at the library this Wednesday at 3:00 pm?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great plan, Ayesha. I'll see you at the library on Wednesday at 3:00 pm."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        98,
+        47
+      ],
+      "pronunciatio": "\ud83c\udf93",
+      "description": "attending classes at Oak Hill College @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        87,
+        56
+      ],
+      "pronunciatio": "\ud83d\udcbc",
+      "description": "still helping customers with their orders @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "continuing to work on the children's book series @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udcdd\u270f\ufe0f",
+      "description": "writing and editing his book @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:06:10"
+  }
+}

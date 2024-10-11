@@ -1,0 +1,162 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        25
+      ],
+      "pronunciatio": "\ud83e\udd1d",
+      "description": "continuing to serve customers and manage cafe operations (greeting and seating customers) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        31,
+        42
+      ],
+      "pronunciatio": "\ud83c\udf05",
+      "description": "exploring the city and finding inspiration for his poetry (on the way to exploring the city and finding inspiration for his poetr) (sitting by the lake and watching the sunset) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "at the Oak Hill College library doing research and writing his sociology paper (organizing his research into categories) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        61,
+        43
+      ],
+      "pronunciatio": "\ud83d\udcc3",
+      "description": "working on his campaign for the mayoral election (creating flyers and posters for his campaign) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        94,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "studying at the library (organizing her notes and materials) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        122,
+        47
+      ],
+      "pronunciatio": "\ud83c\udf7f",
+      "description": "taking a break to have a snack (eating his snack) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending classes at Oak Hill College (listening to the professor's lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\u260e\ufe0f",
+      "description": "back at the store and helping customers with their orders (answering phone calls and taking orders for curbside pickup) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        29,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two creative individuals, Tamara Taylor and Carlos Gomez, discussing their passion for nature, poetry, and children's literature, and expressing interest in collaborating on a project that combines their love for nature and storytelling @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Tamara Taylor",
+          "Hey Carlos! It's a beautiful evening, isn't it?"
+        ],
+        [
+          "Carlos Gomez",
+          "Yes, it's absolutely stunning out here. I find so much inspiration in nature for my poetry."
+        ],
+        [
+          "Tamara Taylor",
+          "I'm actually working on a new children's book series. How about you, Carlos? Are you working on any new poetry pieces?"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds intriguing, Tamara. I'm currently working on a collection of poetry that explores the beauty of the natural world. Would you like to hear a piece?"
+        ],
+        [
+          "Tamara Taylor",
+          "I would love to hear your poetry, Carlos. Nature is such a wonderful muse."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm glad we have the opportunity to appreciate the beauty of nature together, Tamara."
+        ],
+        [
+          "Tamara Taylor",
+          "Your poetry truly captures the essence of nature, Carlos. I hope to infuse that same level of inspiration into my children's book series."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for your kind words, Tamara. I believe that incorporating the beauty of nature into your children's book series will resonate with readers of all ages."
+        ],
+        [
+          "Tamara Taylor",
+          "I completely agree, Carlos. Nature has a way of inspiring creativity in all of us."
+        ],
+        [
+          "Carlos Gomez",
+          "Tamara, I would love to hear more about your children's book series. What inspired you to start working on it?"
+        ],
+        [
+          "Tamara Taylor",
+          "I was inspired by the genuine curiosity and imagination of children. I wanted to create stories that could transport young readers to magical worlds and spark their creativity."
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a wonderful and impactful endeavor, Tamara. I admire your dedication to sparking creativity in young minds through your children's book series."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Carlos. I truly appreciate your words of encouragement and support. Let's continue to inspire each other through our creative endeavors."
+        ],
+        [
+          "Carlos Gomez",
+          "Tamara, your dedication to sparking creativity in young minds through your children's book series is truly admirable. I believe that our shared passion for inspiration and creativity can lead to meaningful collaborations in the future."
+        ],
+        [
+          "Tamara Taylor",
+          "It's been so lovely chatting with you, Carlos. I'm glad we share a passion for creativity and inspiration. Perhaps we can collaborate in the future on a project that combines our love for nature and storytelling."
+        ],
+        [
+          "Carlos Gomez",
+          "Tamara, your dedication to sparking creativity in young minds through your children's book series is truly admirable. I believe that our shared passion for inspiration and creativity can lead to meaningful collaborations in the future."
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        30,
+        49
+      ],
+      "pronunciatio": "\ud83d\udca1",
+      "description": "writing and editing his book (brainstorming new ideas for the book) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 14:31:00"
+  }
+}

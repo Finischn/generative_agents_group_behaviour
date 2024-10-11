@@ -1,0 +1,18 @@
+time, date: February 13, 2023, 11:40:10, 
+init name, target_name: Ayesha, Carlos
+prompt input: ['Carlos Gomez was on the way to on the way to on the way to attending a creative writing worksho. Carlos Gomez was on the way to on the way to on the way to attending a creative writing worksho. \n', 'February 13, 2023, 11:40:10 AM', 'Ayesha Khan', 'Carlos Gomez', '', '', "Ayesha Khan is on the way to conversing about exploring the correlation between Shakespeare's language in his plays and the emotional aspects of musical compositions", ' is already on the way to on the way to on the way to attending a creative writing worksho', 'Ayesha Khan', 'Carlos Gomez', 'Black', 'Black', 'newcomer to the village', 'newcomer to the village']
+prompt: Task -- given context, determine whether the subject will initiate a conversation with another. 
+Format: 
+Context: []
+Question: []
+Answer in "yes" or "no": []
+---
+Context: Carlos Gomez was on the way to on the way to on the way to attending a creative writing worksho. Carlos Gomez was on the way to on the way to on the way to attending a creative writing worksho. 
+ 
+Right now, it is February 13, 2023, 11:40:10 AM. 
+Ayesha Khan is on the way to conversing about exploring the correlation between Shakespeare's language in his plays and the emotional aspects of musical compositions when they saw an unknown person who is already on the way to on the way to on the way to attending a creative writing worksho. 
+
+Question: Ayesha Khan is trying to find new friends and is open to new experiences. Given this mindset, would Ayesha Khan initiate a conversation with a person they have not previously met?
+
+Answer in "yes" or "no":
+output: yes

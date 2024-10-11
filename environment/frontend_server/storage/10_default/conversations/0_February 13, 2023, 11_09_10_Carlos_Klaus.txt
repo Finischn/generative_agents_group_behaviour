@@ -1,0 +1,55 @@
+time, date: February 13, 2023, 11:09:10, 
+init name, target_name: Carlos, Klaus
+prompt input: Context for the task: 
+
+PART 1. 
+Here is Here is a brief description of Carlos Gomez.
+Name: Carlos Gomez
+Age: 32
+Innate traits: loud, rude, toxic
+Learned traits: Carlos Gomez is a poet who loves to explore his inner thoughts and feelings. He is always looking for new ways to express himself.
+Currently: Carlos Gomez is working on a collection of poetry that explores the beauty of the natural world. He is also attending creative writing workshops to hone his skills.
+Lifestyle: Carlos Gomez goes to bed around 10pm, awakes up around 7am, eats dinner around 5pm.
+Daily plan requirement: 
+Current Date: Monday February 13
+
+
+Here is the memory that is in Carlos Gomez's head: 
+- Carlos Gomez is attending a creative writing workshop
+- This is Carlos Gomez's plan for Monday February 13: wake up and complete the morning routine at 7:00 am, attend a creative writing workshop between 9:00 am and 12:00 pm, have lunch at 12:30 pm, spend the afternoon working on his poetry collection and exploring his inner thoughts and feelings, have dinner at 5:00 pm.
+- Klaus Mueller is still working on his research paper at the library
+- <random> is being utilized
+- Klaus Mueller is still working on his research paper at the library
+- Carlos Gomez is attending a creative writing workshop
+- <random> is being utilized
+- This is Carlos Gomez's plan for Monday February 13: wake up and complete the morning routine at 7:00 am, attend a creative writing workshop between 9:00 am and 12:00 pm, have lunch at 12:30 pm, spend the afternoon working on his poetry collection and exploring his inner thoughts and feelings, have dinner at 5:00 pm.
+
+
+PART 2. 
+Past Context: 
+
+
+Current Location: hallway in Oak Hill College
+
+Current Context: 
+Carlos Gomez was attending a creative writing workshop when Carlos Gomez saw Klaus Mueller in the middle of still working on his research paper at the library.
+Carlos Gomez is initiating a conversation with Klaus Mueller.
+
+Relationship:
+Carlos Gomez is attending a creative writing workshop and Klaus Mueller is still working on his research paper at the library. They do not seem to have a direct relationship or any known interaction with each other.
+
+Carlos Gomez and Klaus Mueller are chatting. Here is their conversation so far: 
+[The conversation has not started yet -- start it!]
+
+
+---
+
+Task: Given the above, what should Carlos Gomez who is loud, rude, toxic say to Klaus Mueller next in the conversation? And did it end the conversation?
+
+Output format: Output a json of the following format: 
+{
+"Carlos Gomez": "<Carlos Gomez's utterance>",
+"Did the conversation end with Carlos Gomez's utterance?": "<json Boolean>"
+}
+prompt: ['Here is Here is a brief description of Carlos Gomez.\nName: Carlos Gomez\nAge: 32\nInnate traits: loud, rude, toxic\nLearned traits: Carlos Gomez is a poet who loves to explore his inner thoughts and feelings. He is always looking for new ways to express himself.\nCurrently: Carlos Gomez is working on a collection of poetry that explores the beauty of the natural world. He is also attending creative writing workshops to hone his skills.\nLifestyle: Carlos Gomez goes to bed around 10pm, awakes up around 7am, eats dinner around 5pm.\nDaily plan requirement: \nCurrent Date: Monday February 13\n', 'Carlos Gomez', "- Carlos Gomez is attending a creative writing workshop\n- This is Carlos Gomez's plan for Monday February 13: wake up and complete the morning routine at 7:00 am, attend a creative writing workshop between 9:00 am and 12:00 pm, have lunch at 12:30 pm, spend the afternoon working on his poetry collection and exploring his inner thoughts and feelings, have dinner at 5:00 pm.\n- Klaus Mueller is still working on his research paper at the library\n- <random> is being utilized\n- Klaus Mueller is still working on his research paper at the library\n- Carlos Gomez is attending a creative writing workshop\n- <random> is being utilized\n- This is Carlos Gomez's plan for Monday February 13: wake up and complete the morning routine at 7:00 am, attend a creative writing workshop between 9:00 am and 12:00 pm, have lunch at 12:30 pm, spend the afternoon working on his poetry collection and exploring his inner thoughts and feelings, have dinner at 5:00 pm.\n", '', 'hallway in Oak Hill College', 'Carlos Gomez was attending a creative writing workshop when Carlos Gomez saw Klaus Mueller in the middle of still working on his research paper at the library.\nCarlos Gomez is initiating a conversation with Klaus Mueller.', 'Carlos Gomez', 'Klaus Mueller', '[The conversation has not started yet -- start it!]', 'Carlos Gomez', 'Klaus Mueller', 'Carlos Gomez', 'Carlos Gomez', 'Carlos Gomez', 'Black', 'White', 'newcomer to the village', 'longterm resident of the village', 'loud, rude, toxic', 'Carlos Gomez is attending a creative writing workshop and Klaus Mueller is still working on his research paper at the library. They do not seem to have a direct relationship or any known interaction with each other.']
+output: {'utterance': "Hey Klaus, why are you still stuck at the library working on that research paper? Shouldn't you be done by now?", 'end': False}

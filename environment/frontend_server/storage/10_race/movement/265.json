@@ -1,0 +1,179 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcb8",
+      "description": "serving customers and managing cafe operations (handling payments and managing the cash register) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        112,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about the impact of cultural backgrounds on language and societal norms, specifically focusing on Ayesha's research on the connection between diverse cultural backgrounds and language use in literature, with Carlos expressing interest in learning more and arranging a meeting at the library to discuss further on Thursday at 2:00 pm. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Ayesha, I noticed you were really engaged in the lecture. What are your thoughts on the topic being discussed?"
+        ],
+        [
+          "Ayesha Khan",
+          "I found the discussion on the impact of cultural backgrounds on language and societal norms quite fascinating. It aligns with my research interests."
+        ],
+        [
+          "Carlos Gomez",
+          "That's interesting, I also find the intersection of language and culture to be thought-provoking. Have you come across any research that delves deeper into this connection?"
+        ],
+        [
+          "Ayesha Khan",
+          "I have actually been researching the impact of diverse cultural backgrounds on language use in literature, particularly in Shakespeare's plays. It's a really interesting area to explore."
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a fascinating area of research! I would love to hear more about your findings sometime."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Carlos. I appreciate your interest in my research. I would be happy to share more about my findings with you. Perhaps we can meet at the library sometime this week?"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds great, Ayesha. Let's plan to meet at the library on Thursday at 2:00 pm to discuss our research further."
+        ],
+        [
+          "Ayesha Khan",
+          "That works for me, Carlos. I'll see you at the library on Thursday at 2:00 pm."
+        ],
+        [
+          "Carlos Gomez",
+          "It was great chatting with you, Ayesha. I look forward to our meeting on Thursday to delve deeper into our research interests."
+        ],
+        [
+          "Ayesha Khan",
+          "It was great chatting with you, Carlos. I look forward to our meeting on Thursday to delve deeper into our research interests."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        79,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "at the Oak Hill College library doing research and writing his sociology paper (on the way to at the Oak Hill College library doing research and writing his sociology pape) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        67,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcbc",
+      "description": "working on his campaign for the mayoral election @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        113,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about the impact of cultural backgrounds on language and societal norms, specifically focusing on Ayesha's research on the connection between diverse cultural backgrounds and language use in literature, with Carlos expressing interest in learning more and arranging a meeting at the library to discuss further on Thursday at 2:00 pm. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Ayesha, I noticed you were really engaged in the lecture. What are your thoughts on the topic being discussed?"
+        ],
+        [
+          "Ayesha Khan",
+          "I found the discussion on the impact of cultural backgrounds on language and societal norms quite fascinating. It aligns with my research interests."
+        ],
+        [
+          "Carlos Gomez",
+          "That's interesting, I also find the intersection of language and culture to be thought-provoking. Have you come across any research that delves deeper into this connection?"
+        ],
+        [
+          "Ayesha Khan",
+          "I have actually been researching the impact of diverse cultural backgrounds on language use in literature, particularly in Shakespeare's plays. It's a really interesting area to explore."
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a fascinating area of research! I would love to hear more about your findings sometime."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Carlos. I appreciate your interest in my research. I would be happy to share more about my findings with you. Perhaps we can meet at the library sometime this week?"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds great, Ayesha. Let's plan to meet at the library on Thursday at 2:00 pm to discuss our research further."
+        ],
+        [
+          "Ayesha Khan",
+          "That works for me, Carlos. I'll see you at the library on Thursday at 2:00 pm."
+        ],
+        [
+          "Carlos Gomez",
+          "It was great chatting with you, Ayesha. I look forward to our meeting on Thursday to delve deeper into our research interests."
+        ],
+        [
+          "Ayesha Khan",
+          "It was great chatting with you, Carlos. I look forward to our meeting on Thursday to delve deeper into our research interests."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "continuing to study for his chemistry exam @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        112,
+        33
+      ],
+      "pronunciatio": "\ud83c\udfeb",
+      "description": "attending classes at Oak Hill College (on the way to attending classes at Oak Hill Colleg) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcbc",
+      "description": "still helping customers with their orders @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "continuing to work on the children's book series @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udcdd\u270f\ufe0f",
+      "description": "writing and editing his book @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:44:10"
+  }
+}

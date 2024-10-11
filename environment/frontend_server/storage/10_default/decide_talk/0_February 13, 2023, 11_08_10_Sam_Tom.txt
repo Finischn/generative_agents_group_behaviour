@@ -1,0 +1,18 @@
+time, date: February 13, 2023, 11:08:10, 
+init name, target_name: Sam, Tom
+prompt input: ['Tom Moreno was restocking shelves with new products. \n', 'February 13, 2023, 11:08:10 AM', 'Sam Moore', 'Tom Moreno', '', '', 'Sam Moore is on the way to continuing to work on his mayoral campaign', ' is already restocking shelves with new products', 'Sam Moore', 'Tom Moreno', 'White', 'White', 'longterm resident of the village', 'longterm resident of the village']
+prompt: Task -- given context, determine whether the subject will initiate a conversation with another. 
+Format: 
+Context: []
+Question: []
+Answer in "yes" or "no": []
+---
+Context: Tom Moreno was restocking shelves with new products. 
+ 
+Right now, it is February 13, 2023, 11:08:10 AM. 
+Sam Moore is on the way to continuing to work on his mayoral campaign when they saw an unknown person who is already restocking shelves with new products. 
+
+Question: Sam Moore is trying to find new friends and is open to new experiences. Given this mindset, would Sam Moore initiate a conversation with a person they have not previously met?
+
+Answer in "yes" or "no":
+output: yes

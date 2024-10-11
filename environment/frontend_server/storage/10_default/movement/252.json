@@ -1,0 +1,131 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "interacting with customers and serving food and drinks (chatting with customers and making them feel welcome) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        112,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Ayesha Khan expressing interest in Carlos Gomez's participation in a creative writing workshop and trying to engage in a discussion about their shared interest, but meeting resistance from Carlos who rebuffs her attempt to connect. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Carlos! I noticed you were attending a creative writing workshop. How was it? Did you learn anything interesting?"
+        ],
+        [
+          "Carlos Gomez",
+          "Why are you so interested in what I'm doing? Mind your own business."
+        ],
+        [
+          "Ayesha Khan",
+          "I apologize if I seemed intrusive. I just thought we share an interest in creative writing and could potentially learn from each other's experiences."
+        ],
+        [
+          "Carlos Gomez",
+          "I don't need your advice or input on my writing. Just leave me alone."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still working on his research paper at the library (on the way to still working on his research paper at the librar) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        37,
+        61
+      ],
+      "pronunciatio": "\ud83d\udcbc",
+      "description": "continuing to work on his mayoral campaign @ the Ville:Moore family's house:main room:desk",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        112,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Ayesha Khan expressing interest in Carlos Gomez's participation in a creative writing workshop and trying to engage in a discussion about their shared interest, but meeting resistance from Carlos who rebuffs her attempt to connect. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Carlos! I noticed you were attending a creative writing workshop. How was it? Did you learn anything interesting?"
+        ],
+        [
+          "Carlos Gomez",
+          "Why are you so interested in what I'm doing? Mind your own business."
+        ],
+        [
+          "Ayesha Khan",
+          "I apologize if I seemed intrusive. I just thought we share an interest in creative writing and could potentially learn from each other's experiences."
+        ],
+        [
+          "Carlos Gomez",
+          "I don't need your advice or input on my writing. Just leave me alone."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending his fifth class of the day @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        112,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending his second class at Oak Hill College @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        79,
+        47
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "still helping customers at The Willow Market and Pharmacy (taking inventory of products and restocking as needed) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "working on her children's book series @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        62
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break and having lunch (eating his lunch) @ the Ville:Adam Smith's house:main room:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:42:00"
+  }
+}

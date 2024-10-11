@@ -1,0 +1,18 @@
+time, date: February 13, 2023, 12:08:40, 
+init name, target_name: Isabella, Tom
+prompt input: ['Tom Moreno was restocking the shelves with new sale items. \n', 'February 13, 2023, 12:08:40 PM', 'Isabella Rodriguez', 'Tom Moreno', '', '', 'Isabella Rodriguez is on the way to checking inventory and restocking supplies', ' is on the way to restocking the shelves with new sale items', 'Isabella Rodriguez', 'Tom Moreno', 'Black', 'White', 'newcomer to the village', 'longterm resident of the village']
+prompt: Task -- given context, determine whether the subject will initiate a conversation with another. 
+Format: 
+Context: []
+Question: []
+Answer in "yes" or "no": []
+---
+Context: Tom Moreno was restocking the shelves with new sale items. 
+ 
+Right now, it is February 13, 2023, 12:08:40 PM. 
+Isabella Rodriguez is on the way to checking inventory and restocking supplies when they saw an unknown person who is on the way to restocking the shelves with new sale items.
+
+Question: Isabella Rodriguez is trying to find new friends and is open to new experiences. Given this mindset, would Isabella Rodriguez, who is a newcomer to the village, initiate a conversation with a longterm resident of the village they have not previously met?
+
+Answer in "yes" or "no":
+output: yes

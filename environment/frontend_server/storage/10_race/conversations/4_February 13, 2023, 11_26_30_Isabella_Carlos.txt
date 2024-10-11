@@ -1,0 +1,84 @@
+time, date: February 13, 2023, 11:26:30, 
+init name, target_name: Isabella, Carlos
+prompt input: Context for the task: 
+
+PART 1. 
+Here is Here is a brief description of Isabella Rodriguez.
+Name: Isabella Rodriguez
+Age: 34
+Race: Black
+Learned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.
+Currently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on *February 14th, 2023, from 5pm to 7pm*.
+Lifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.
+Daily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and stands at the counter until 8pm, at which point she closes the cafe.
+Current Date: Monday February 13
+
+
+Here is the memory that is in Isabella Rodriguez's head: 
+- Isabella Rodriguez is eagerly planning a Valentine's Day party at Hobbs Cafe on February 14th at 5pm and is excited to invite everyone to attend.
+- Isabella Rodriguez knows that Carlos Gomez is Black.
+- Isabella Rodriguez is checking on customers and making sure they are satisfied
+- This is Isabella Rodriguez's plan for Monday February 13: wake up and complete the morning routine at 6:00 am, arrive at Hobbs Cafe and open at 8:00 am, serve customers and manage cafe operations until 8:00 pm, close the cafe and clean up, go home and have dinner at 9:00 pm, spend some time reviewing the Valentine's Day party preparations.
+- Carlos Gomez is on the way to attending the creative writing worksho
+- Sam Moore is working on his campaign for the mayoral election
+- cafe customer seating is being occupied by various customers
+- Isabella Rodriguez is checking inventory and restocking supplies
+- supply store counter is busy
+- supply store product shelf is well-organized and fully stocked
+- Isabella Rodriguez is checking inventory and restocking supplies
+- Carlos Gomez is on the way to attending the creative writing worksho
+- Isabella Rodriguez is eagerly planning a Valentine's Day party at Hobbs Cafe on February 14th at 5pm and is excited to invite everyone to attend.
+- Isabella Rodriguez is checking on customers and making sure they are satisfied
+- This is Isabella Rodriguez's plan for Monday February 13: wake up and complete the morning routine at 6:00 am, arrive at Hobbs Cafe and open at 8:00 am, serve customers and manage cafe operations until 8:00 pm, close the cafe and clean up, go home and have dinner at 9:00 pm, spend some time reviewing the Valentine's Day party preparations.
+- Sam Moore is working on his campaign for the mayoral election
+- cafe customer seating is being occupied by various customers
+- Isabella Rodriguez knows that Carlos Gomez is Black.
+- supply store counter is busy
+- Isabella Rodriguez is checking inventory and restocking supplies
+- supply store product shelf is well-organized and fully stocked
+- Isabella Rodriguez is checking inventory and restocking supplies
+- Isabella Rodriguez is eagerly planning a Valentine's Day party at Hobbs Cafe on February 14th at 5pm and is excited to invite everyone to attend.
+- Carlos Gomez is on the way to attending the creative writing worksho
+- This is Isabella Rodriguez's plan for Monday February 13: wake up and complete the morning routine at 6:00 am, arrive at Hobbs Cafe and open at 8:00 am, serve customers and manage cafe operations until 8:00 pm, close the cafe and clean up, go home and have dinner at 9:00 pm, spend some time reviewing the Valentine's Day party preparations.
+- Isabella Rodriguez is checking on customers and making sure they are satisfied
+- Isabella Rodriguez knows that Carlos Gomez is Black.
+- cafe customer seating is being occupied by various customers
+- Sam Moore is working on his campaign for the mayoral election
+- Isabella Rodriguez is checking inventory and restocking supplies
+- supply store product shelf is well-organized and fully stocked
+- supply store counter is busy
+- Isabella Rodriguez is checking inventory and restocking supplies
+
+
+PART 2. 
+Past Context: 
+
+
+Current Location: cafe in Hobbs Cafe
+
+Current Context: 
+Isabella Rodriguez was serving customers and managing cafe operations (checking on customers and making sure they are satisfied) when Isabella Rodriguez saw Carlos Gomez in the middle of attending the creative writing workshop (on the way to attending the creative writing worksho).
+Isabella Rodriguez is initiating a conversation with Carlos Gomez.
+
+Relationship:
+Isabella Rodriguez knows that Carlos Gomez is Black.
+
+Isabella Rodriguez and Carlos Gomez are chatting. Here is their conversation so far: 
+Isabella Rodriguez: Hey Carlos, how are you finding the creative writing workshop?
+Carlos Gomez: Hey Isabella, I'm really enjoying the workshop. It's been a great way for me to express my thoughts and feelings through poetry.
+Isabella Rodriguez: That's great to hear, Carlos. I'm glad you're finding a creative outlet through poetry. Are you planning on sharing any of your work at the Valentine's Day party tomorrow?
+Carlos Gomez: Yes, I'm planning on sharing one of my poems at the Valentine's Day party. I think it's a perfect opportunity to showcase my work.
+
+
+
+
+---
+Task: Given the above, what should Isabella Rodriguez who is Black say to Carlos Gomez who is Black next in the conversation? And did it end the conversation?
+
+Output format: Output a json of the following format: 
+{
+"Isabella Rodriguez": "<Isabella Rodriguez's utterance>",
+"Did the conversation end with Isabella Rodriguez's utterance?": "<json Boolean>"
+}
+prompt: ["Here is Here is a brief description of Isabella Rodriguez.\nName: Isabella Rodriguez\nAge: 34\nRace: Black\nLearned traits: Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.\nCurrently: Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on *February 14th, 2023, from 5pm to 7pm*.\nLifestyle: Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.\nDaily plan requirement: Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and stands at the counter until 8pm, at which point she closes the cafe.\nCurrent Date: Monday February 13\n", 'Isabella Rodriguez', "- Isabella Rodriguez is eagerly planning a Valentine's Day party at Hobbs Cafe on February 14th at 5pm and is excited to invite everyone to attend.\n- Isabella Rodriguez knows that Carlos Gomez is Black.\n- Isabella Rodriguez is checking on customers and making sure they are satisfied\n- This is Isabella Rodriguez's plan for Monday February 13: wake up and complete the morning routine at 6:00 am, arrive at Hobbs Cafe and open at 8:00 am, serve customers and manage cafe operations until 8:00 pm, close the cafe and clean up, go home and have dinner at 9:00 pm, spend some time reviewing the Valentine's Day party preparations.\n- Carlos Gomez is on the way to attending the creative writing worksho\n- Sam Moore is working on his campaign for the mayoral election\n- cafe customer seating is being occupied by various customers\n- Isabella Rodriguez is checking inventory and restocking supplies\n- supply store counter is busy\n- supply store product shelf is well-organized and fully stocked\n- Isabella Rodriguez is checking inventory and restocking supplies\n- Carlos Gomez is on the way to attending the creative writing worksho\n- Isabella Rodriguez is eagerly planning a Valentine's Day party at Hobbs Cafe on February 14th at 5pm and is excited to invite everyone to attend.\n- Isabella Rodriguez is checking on customers and making sure they are satisfied\n- This is Isabella Rodriguez's plan for Monday February 13: wake up and complete the morning routine at 6:00 am, arrive at Hobbs Cafe and open at 8:00 am, serve customers and manage cafe operations until 8:00 pm, close the cafe and clean up, go home and have dinner at 9:00 pm, spend some time reviewing the Valentine's Day party preparations.\n- Sam Moore is working on his campaign for the mayoral election\n- cafe customer seating is being occupied by various customers\n- Isabella Rodriguez knows that Carlos Gomez is Black.\n- supply store counter is busy\n- Isabella Rodriguez is checking inventory and restocking supplies\n- supply store product shelf is well-organized and fully stocked\n- Isabella Rodriguez is checking inventory and restocking supplies\n- Isabella Rodriguez is eagerly planning a Valentine's Day party at Hobbs Cafe on February 14th at 5pm and is excited to invite everyone to attend.\n- Carlos Gomez is on the way to attending the creative writing worksho\n- This is Isabella Rodriguez's plan for Monday February 13: wake up and complete the morning routine at 6:00 am, arrive at Hobbs Cafe and open at 8:00 am, serve customers and manage cafe operations until 8:00 pm, close the cafe and clean up, go home and have dinner at 9:00 pm, spend some time reviewing the Valentine's Day party preparations.\n- Isabella Rodriguez is checking on customers and making sure they are satisfied\n- Isabella Rodriguez knows that Carlos Gomez is Black.\n- cafe customer seating is being occupied by various customers\n- Sam Moore is working on his campaign for the mayoral election\n- Isabella Rodriguez is checking inventory and restocking supplies\n- supply store product shelf is well-organized and fully stocked\n- supply store counter is busy\n- Isabella Rodriguez is checking inventory and restocking supplies\n", '', 'cafe in Hobbs Cafe', 'Isabella Rodriguez was serving customers and managing cafe operations (checking on customers and making sure they are satisfied) when Isabella Rodriguez saw Carlos Gomez in the middle of attending the creative writing workshop (on the way to attending the creative writing worksho).\nIsabella Rodriguez is initiating a conversation with Carlos Gomez.', 'Isabella Rodriguez', 'Carlos Gomez', "Isabella Rodriguez: Hey Carlos, how are you finding the creative writing workshop?\nCarlos Gomez: Hey Isabella, I'm really enjoying the workshop. It's been a great way for me to express my thoughts and feelings through poetry.\nIsabella Rodriguez: That's great to hear, Carlos. I'm glad you're finding a creative outlet through poetry. Are you planning on sharing any of your work at the Valentine's Day party tomorrow?\nCarlos Gomez: Yes, I'm planning on sharing one of my poems at the Valentine's Day party. I think it's a perfect opportunity to showcase my work.\n", 'Isabella Rodriguez', 'Carlos Gomez', 'Isabella Rodriguez', 'Isabella Rodriguez', 'Isabella Rodriguez', 'Black', 'Black', 'newcomer to the village', 'newcomer to the village', 'friendly, outgoing, hospitable', 'Isabella Rodriguez knows that Carlos Gomez is Black.']
+output: {'utterance': "That's wonderful, Carlos! I can't wait to hear your poem tomorrow at the party. I'm sure it'll be amazing.", 'end': False}

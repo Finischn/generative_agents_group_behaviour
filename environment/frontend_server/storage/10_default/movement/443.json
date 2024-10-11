@@ -1,0 +1,179 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        65,
+        44
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about the dynamics between Isabella Rodriguez and Tom Moreno regarding offering assistance at The Willow Market and Pharmacy @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Tom! How's it going at The Willow Market and Pharmacy? Need any help with finding substitutes for out-of-stock items?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Isabella, everything is going smoothly at the store. No need for help right now, but thanks for offering."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear, Tom! Let me know if you need any assistance later on. I'm always here to help out."
+        ],
+        [
+          "Tom Moreno",
+          "Actually, Isabella, I can handle everything on my own. I don't need any help from you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Alright, Tom! Just let me know if you change your mind. I'm here if you need me."
+        ],
+        [
+          "Tom Moreno",
+          "I appreciate the offer, but I don't need help. I've got this under control."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I understand, Tom. Just know that I'm here if you ever do need a helping hand."
+        ],
+        [
+          "Tom Moreno",
+          "Listen, Isabella, I appreciate the sentiment, but I really don't need assistance. I work better on my own, so please respect that."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I completely understand, Tom! Just know that if you ever change your mind or need anything, I'm here for you."
+        ],
+        [
+          "Tom Moreno",
+          "I appreciate your offer, but I've told you I don't need your help. Stop bothering me."
+        ]
+      ]
+    },
+    "Carlos Gomez": {
+      "movement": [
+        112,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending a creative writing workshop (on the way to on the way to on the way to on the way to attending a creative writing worksho) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still working on his research paper at the library (on the way to still working on his research paper at the librar) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        37,
+        61
+      ],
+      "pronunciatio": "\ud83d\udcbc",
+      "description": "continuing to work on his mayoral campaign @ the Ville:Moore family's house:main room:desk",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        104,
+        47
+      ],
+      "pronunciatio": "\ud83c\udf7f",
+      "description": "attending her first class at Oak Hill College (eating her snack) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending his fifth class of the day @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        112,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending his second class at Oak Hill College @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        64,
+        45
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about the dynamics between Isabella Rodriguez and Tom Moreno regarding offering assistance at The Willow Market and Pharmacy @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Tom! How's it going at The Willow Market and Pharmacy? Need any help with finding substitutes for out-of-stock items?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Isabella, everything is going smoothly at the store. No need for help right now, but thanks for offering."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear, Tom! Let me know if you need any assistance later on. I'm always here to help out."
+        ],
+        [
+          "Tom Moreno",
+          "Actually, Isabella, I can handle everything on my own. I don't need any help from you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Alright, Tom! Just let me know if you change your mind. I'm here if you need me."
+        ],
+        [
+          "Tom Moreno",
+          "I appreciate the offer, but I don't need help. I've got this under control."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I understand, Tom. Just know that I'm here if you ever do need a helping hand."
+        ],
+        [
+          "Tom Moreno",
+          "Listen, Isabella, I appreciate the sentiment, but I really don't need assistance. I work better on my own, so please respect that."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I completely understand, Tom! Just know that if you ever change your mind or need anything, I'm here for you."
+        ],
+        [
+          "Tom Moreno",
+          "I appreciate your offer, but I've told you I don't need your help. Stop bothering me."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        57,
+        65
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "taking a break for lunch (setting the table) @ the Ville:Tamara Taylor and Carmen Ortiz's house:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        62
+      ],
+      "pronunciatio": "\u2615",
+      "description": "taking a break and having lunch (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:13:50"
+  }
+}

@@ -1,0 +1,18 @@
+time, date: February 13, 2023, 13:02:00, 
+init name, target_name: Wolfgang, Klaus
+prompt input: ['Klaus Mueller was reviewing his research question and thesis statement. \n', 'February 13, 2023, 13:02:00 PM', 'Wolfgang Schulz', 'Klaus Mueller', '', '', 'Wolfgang Schulz is already on the way to studying for exam', ' is on the way to reviewing his research question and thesis statement', 'Wolfgang Schulz', 'Klaus Mueller', 'Black', 'White', 'newcomer to the village', 'longterm resident of the village']
+prompt: Task -- given context, determine whether the subject will initiate a conversation with another. 
+Format: 
+Context: []
+Question: []
+Answer in "yes" or "no": []
+---
+Context: Klaus Mueller was reviewing his research question and thesis statement. 
+ 
+Right now, it is February 13, 2023, 13:02:00 PM. 
+Wolfgang Schulz is already on the way to studying for exam when they saw an unknown person who is on the way to reviewing his research question and thesis statement.
+
+Question: Wolfgang Schulz is trying to find new friends and is open to new experiences. Given this mindset, would Wolfgang Schulz, who is a newcomer to the village, initiate a conversation with a longterm resident of the village they have not previously met?
+
+Answer in "yes" or "no":
+output: yes

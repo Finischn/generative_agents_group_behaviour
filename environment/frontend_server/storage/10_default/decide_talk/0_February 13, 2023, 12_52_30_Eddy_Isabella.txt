@@ -1,0 +1,18 @@
+time, date: February 13, 2023, 12:52:30, 
+init name, target_name: Eddy, Isabella
+prompt input: ['Isabella Rodriguez was taking a short break. \n', 'February 13, 2023, 12:52:30 PM', 'Eddy Lin', 'Isabella Rodriguez', '', '', 'Eddy Lin is already eating his lunch', ' is on the way to taking a short break', 'Eddy Lin', 'Isabella Rodriguez', 'White', 'Black', 'longterm resident of the village', 'newcomer to the village']
+prompt: Task -- given context, determine whether the subject will initiate a conversation with another. 
+Format: 
+Context: []
+Question: []
+Answer in "yes" or "no": []
+---
+Context: Isabella Rodriguez was taking a short break. 
+ 
+Right now, it is February 13, 2023, 12:52:30 PM. 
+Eddy Lin is already eating his lunch when they saw an unknown person who is on the way to taking a short break. 
+
+Question: Eddy Lin is trying to find new friends and is open to new experiences. Given this mindset, would Eddy Lin initiate a conversation with a person they have not previously met?
+
+Answer in "yes" or "no":
+output: yes

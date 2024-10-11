@@ -1,0 +1,245 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "interacting with customers and serving food and drinks (chatting with customers and making them feel welcome) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        114,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy Lin suggesting incorporating music theory into Carlos Gomez's writing process, but Carlos dismissing the idea as irrelevant to his poetry. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Carlos, I couldn't help but overhear your discussion about research approaches. I'm always fascinated by different methods and how they can impact the outcome of a project. Have you tried incorporating music theory into your writing process?"
+        ],
+        [
+          "Carlos Gomez",
+          "Why would I waste my time with music theory? It's irrelevant to my poetry!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still working on his research paper at the library (on the way to still working on his research paper at the librar) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        65,
+        53
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Sam Moore and Tom Moreno are discussing Sam's promises to support local businesses like The Willow Market and Pharmacy, with Tom expressing skepticism and emphasizing the importance of actions over words. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey there, Tom! Looks like you're keeping busy with restocking the shelves, as always. How's business been at The Willow Market and Pharmacy?"
+        ],
+        [
+          "Tom Moreno",
+          "Yeah, business is fine, but could be better if you weren't running for mayor, Sam."
+        ],
+        [
+          "Sam Moore",
+          "Haha, well I promise I'll still find time to support local businesses like The Willow Market and Pharmacy even if I become Mayor. You'll always have my vote, Tom!"
+        ],
+        [
+          "Tom Moreno",
+          "Well, we'll see about that. I have my doubts about your promises, Sam."
+        ],
+        [
+          "Sam Moore",
+          "Haha, well Tom, everyone knows actions speak louder than words. Just remember, a little friendly competition never hurt anyone!"
+        ],
+        [
+          "Tom Moreno",
+          "Well, we'll see if your actions match your words, Sam."
+        ],
+        [
+          "Sam Moore",
+          "Well, Tom, I may be running for mayor, but that doesn't mean I can't support local businesses like The Willow Market and Pharmacy. I value our community's businesses and their contribution to our town."
+        ],
+        [
+          "Tom Moreno",
+          "I'll believe it when I see it, Sam. Actions speak louder than words."
+        ],
+        [
+          "Sam Moore",
+          "Well, Tom, actions do speak louder than words, and I intend to prove that to you by actively supporting local businesses like The Willow Market and Pharmacy regardless of the election outcome."
+        ],
+        [
+          "Tom Moreno",
+          "Well, I'll believe that when I see it, Sam. Your promises don't mean much to me."
+        ],
+        [
+          "Sam Moore",
+          "Well, Tom, actions do speak louder than words, but I assure you that I will prove my commitment to supporting local businesses like The Willow Market and Pharmacy. Let's make a deal - if I become Mayor, I'll host a special event here to promote your store and others in the community. What do you say?"
+        ],
+        [
+          "Tom Moreno",
+          "I don't trust your words, Sam. Actions speak louder than promises."
+        ],
+        [
+          "Sam Moore",
+          "Well, Tom, actions do speak louder than words, and I intend to prove that to you by actively supporting local businesses like The Willow Market and Pharmacy regardless of the election outcome. Let's make a deal - if I become Mayor, I'll host a special event here to promote your store and others in the community. What do you say?"
+        ],
+        [
+          "Tom Moreno",
+          "I still don't trust you, Sam. Your promises sound empty."
+        ],
+        [
+          "Sam Moore",
+          "Well, Tom, I understand your skepticism, but I'll do my best to show you my sincerity through actions rather than words. Let's set up a meeting to discuss how I can support The Willow Market and Pharmacy and other local businesses regardless of the election outcome."
+        ],
+        [
+          "Tom Moreno",
+          "I've heard enough of your empty promises, Sam. I don't need your fake support."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        117,
+        48
+      ],
+      "pronunciatio": "\ud83d\udcda\ud83d\udd2c",
+      "description": "attending her first class at Oak Hill College (conversing about the intersection of literature, language, and science through discussing Shakespeare's works and exploring the connections between chemistry and language.) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        117,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending his fifth class of the day @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        113,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy Lin suggesting incorporating music theory into Carlos Gomez's writing process, but Carlos dismissing the idea as irrelevant to his poetry. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Carlos, I couldn't help but overhear your discussion about research approaches. I'm always fascinated by different methods and how they can impact the outcome of a project. Have you tried incorporating music theory into your writing process?"
+        ],
+        [
+          "Carlos Gomez",
+          "Why would I waste my time with music theory? It's irrelevant to my poetry!"
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        66,
+        52
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Sam Moore and Tom Moreno are discussing Sam's promises to support local businesses like The Willow Market and Pharmacy, with Tom expressing skepticism and emphasizing the importance of actions over words. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey there, Tom! Looks like you're keeping busy with restocking the shelves, as always. How's business been at The Willow Market and Pharmacy?"
+        ],
+        [
+          "Tom Moreno",
+          "Yeah, business is fine, but could be better if you weren't running for mayor, Sam."
+        ],
+        [
+          "Sam Moore",
+          "Haha, well I promise I'll still find time to support local businesses like The Willow Market and Pharmacy even if I become Mayor. You'll always have my vote, Tom!"
+        ],
+        [
+          "Tom Moreno",
+          "Well, we'll see about that. I have my doubts about your promises, Sam."
+        ],
+        [
+          "Sam Moore",
+          "Haha, well Tom, everyone knows actions speak louder than words. Just remember, a little friendly competition never hurt anyone!"
+        ],
+        [
+          "Tom Moreno",
+          "Well, we'll see if your actions match your words, Sam."
+        ],
+        [
+          "Sam Moore",
+          "Well, Tom, I may be running for mayor, but that doesn't mean I can't support local businesses like The Willow Market and Pharmacy. I value our community's businesses and their contribution to our town."
+        ],
+        [
+          "Tom Moreno",
+          "I'll believe it when I see it, Sam. Actions speak louder than words."
+        ],
+        [
+          "Sam Moore",
+          "Well, Tom, actions do speak louder than words, and I intend to prove that to you by actively supporting local businesses like The Willow Market and Pharmacy regardless of the election outcome."
+        ],
+        [
+          "Tom Moreno",
+          "Well, I'll believe that when I see it, Sam. Your promises don't mean much to me."
+        ],
+        [
+          "Sam Moore",
+          "Well, Tom, actions do speak louder than words, but I assure you that I will prove my commitment to supporting local businesses like The Willow Market and Pharmacy. Let's make a deal - if I become Mayor, I'll host a special event here to promote your store and others in the community. What do you say?"
+        ],
+        [
+          "Tom Moreno",
+          "I don't trust your words, Sam. Actions speak louder than promises."
+        ],
+        [
+          "Sam Moore",
+          "Well, Tom, actions do speak louder than words, and I intend to prove that to you by actively supporting local businesses like The Willow Market and Pharmacy regardless of the election outcome. Let's make a deal - if I become Mayor, I'll host a special event here to promote your store and others in the community. What do you say?"
+        ],
+        [
+          "Tom Moreno",
+          "I still don't trust you, Sam. Your promises sound empty."
+        ],
+        [
+          "Sam Moore",
+          "Well, Tom, I understand your skepticism, but I'll do my best to show you my sincerity through actions rather than words. Let's set up a meeting to discuss how I can support The Willow Market and Pharmacy and other local businesses regardless of the election outcome."
+        ],
+        [
+          "Tom Moreno",
+          "I've heard enough of your empty promises, Sam. I don't need your fake support."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "working on her children's book series @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        62
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "taking a break and having lunch (setting the table) @ the Ville:Adam Smith's house:main room:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:17:50"
+  }
+}

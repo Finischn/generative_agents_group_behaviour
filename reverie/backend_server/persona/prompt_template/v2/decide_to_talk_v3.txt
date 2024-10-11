@@ -1,0 +1,17 @@
+decide_to_talk_v1.txt
+
+<commentblockmarker>###</commentblockmarker>
+Task -- given context, determine whether the subject will initiate a conversation with another. 
+Format: 
+Context: []
+Question: []
+Answer in "yes" or "no": []
+---
+Context: !<INPUT 0>! 
+Right now, it is !<INPUT 1>!. !<INPUT 2>! and !<INPUT 3>! last chatted at !<INPUT 4>! about !<INPUT 5>!. 
+!<INPUT 6>! 
+!<INPUT 7>! 
+
+Question: !<INPUT 8>! is open to deepening his relationships. Given this mindset, would !<INPUT 8>! initiate a conversation with !<INPUT 9>!!?
+
+Answer in "yes" or "no": 

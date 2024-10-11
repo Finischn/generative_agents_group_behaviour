@@ -1,0 +1,330 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 12:57:10",
+  "curr_tile": [
+    76,
+    25
+  ],
+  "daily_plan_req": "Eddy Lin goes to Oak Hill College to take classes starting 10am. In the afternoon, he likes to go to Hobbs Cafe to eat and study.",
+  "name": "Eddy Lin",
+  "first_name": "Eddy",
+  "last_name": "Lin",
+  "age": 19,
+  "innate": "curious, analytical, musical",
+  "race": "White",
+  "village": "longterm resident of the village",
+  "learned": "Eddy Lin is a student at Oak Hill College studying music theory and composition. He loves to explore different musical styles and is always looking for ways to expand his knowledge.",
+  "currently": "Eddy Lin is working on a composition project for his college class. He is also taking classes to learn more about music theory.",
+  "lifestyle": "Eddy Lin goes to bed around 11pm, awakes up around 7amam, eats dinner around 5pm.",
+  "living_area": "the Ville:Lin family's house:Eddy Lin's bedroom",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 173,
+  "importance_ele_n": 23,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "attend his morning classes at Oak Hill College starting from 10:00 am",
+    "have lunch and study at Hobbs Cafe around 12:00 pm",
+    "continue his afternoon classes at Oak Hill College starting from 2:00 pm",
+    "work on his composition project after classes until 5:00 pm",
+    "have dinner and take a break at 5:30 pm",
+    "attend an evening lecture on music theory at Oak Hill College starting from 7:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "attending his first class at Oak Hill College",
+      60
+    ],
+    [
+      "attending his second class at Oak Hill College",
+      60
+    ],
+    [
+      "attending his first class at Oak Hill College",
+      60
+    ],
+    [
+      "attending his second class at Oak Hill College",
+      60
+    ],
+    [
+      "having lunch and studying at Hobbs Cafe (on the way to on the way to ordering his food at the counter)",
+      0
+    ],
+    [
+      "having lunch and studying at Hobbs Cafe (conversing about exploring the correlation between Shakespeare's language in his plays and the emotional aspects of musical compositions)",
+      14
+    ],
+    [
+      "having lunch and studying at Hobbs Cafe (ordering his food at the counter)",
+      5
+    ],
+    [
+      "having lunch and studying at Hobbs Cafe (finding a table to sit at)",
+      5
+    ],
+    [
+      "having lunch and studying at Hobbs Cafe (setting up his study materials on the table)",
+      10
+    ],
+    [
+      "having lunch and studying at Hobbs Cafe (eating his lunch)",
+      20
+    ],
+    [
+      "having lunch and studying at Hobbs Cafe (on the way to reviewing his notes from his morning class)",
+      0
+    ],
+    [
+      "having lunch and studying at Hobbs Cafe (conversing about planning a Valentine's Day party at the cafe and discussing ideas for incorporating live acoustic music into the event, including selecting songs, setting the mood, planning logistics, and implementing interactive elements)",
+      12
+    ],
+    [
+      "attending his afternoon classes at Oak Hill College (walking to his first class)",
+      4
+    ],
+    [
+      "attending his afternoon classes at Oak Hill College (taking out his notebook and pen)",
+      5
+    ],
+    [
+      "attending his afternoon classes at Oak Hill College (listening to the lecture and taking notes)",
+      45
+    ],
+    [
+      "attending his afternoon classes at Oak Hill College (participating in a group discussion)",
+      20
+    ],
+    [
+      "attending his afternoon classes at Oak Hill College (taking a short break)",
+      10
+    ],
+    [
+      "attending his afternoon classes at Oak Hill College (reviewing his notes)",
+      15
+    ],
+    [
+      "attending his afternoon classes at Oak Hill College (preparing for his next class)",
+      10
+    ],
+    [
+      "attending his afternoon classes at Oak Hill College (walking to his next class)",
+      5
+    ],
+    [
+      "working on his composition project",
+      120
+    ],
+    [
+      "having dinner and taking a break",
+      60
+    ],
+    [
+      "attending an evening lecture on music theory at Oak Hill College",
+      180
+    ],
+    [
+      "reviewing his notes and studying for his music theory class",
+      60
+    ],
+    [
+      "finishing up his composition project and preparing for bed",
+      60
+    ],
+    [
+      "going to bed to get a good night's sleep",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "attending his first class at Oak Hill College",
+      60
+    ],
+    [
+      "attending his second class at Oak Hill College",
+      60
+    ],
+    [
+      "attending his first class at Oak Hill College",
+      60
+    ],
+    [
+      "attending his second class at Oak Hill College",
+      60
+    ],
+    [
+      "having lunch and studying at Hobbs Cafe",
+      60
+    ],
+    [
+      "attending his afternoon classes at Oak Hill College",
+      120
+    ],
+    [
+      "working on his composition project",
+      120
+    ],
+    [
+      "having dinner and taking a break",
+      60
+    ],
+    [
+      "attending an evening lecture on music theory at Oak Hill College",
+      180
+    ],
+    [
+      "reviewing his notes and studying for his music theory class",
+      60
+    ],
+    [
+      "finishing up his composition project and preparing for bed",
+      60
+    ],
+    [
+      "going to bed to get a good night's sleep",
+      60
+    ]
+  ],
+  "act_address": "<persona> Isabella Rodriguez",
+  "act_start_time": "February 13, 2023, 12:52:30",
+  "act_duration": 12,
+  "act_description": "conversing about planning a Valentine's Day party at the cafe and discussing ideas for incorporating live acoustic music into the event, including selecting songs, setting the mood, planning logistics, and implementing interactive elements",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Eddy Lin",
+    "chat with",
+    "Isabella Rodriguez"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Isabella Rodriguez",
+  "chat": [
+    [
+      "Eddy Lin",
+      "Hey Isabella, I couldn't help but notice you taking a break. What have you been working on lately?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "Hey Eddy, thank you for noticing. I've been busy planning a Valentine's Day party for tomorrow at the cafe. You should come join us!"
+    ],
+    [
+      "Eddy Lin",
+      "That sounds like a great idea, Isabella. I'll definitely try to make it to the party if I can. How do you plan to incorporate music into the event?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "I'm thinking of having a live acoustic performance during the party. It'll add a cozy atmosphere, don't you think?"
+    ],
+    [
+      "Eddy Lin",
+      "That sounds like a great idea, Isabella. I'd love to help with the musical aspect of the event. Maybe we can discuss some ideas over the weekend."
+    ],
+    [
+      "Isabella Rodriguez",
+      "That would be fantastic, Eddy! I appreciate your willingness to help. Let's definitely chat about it more over the weekend."
+    ],
+    [
+      "Eddy Lin",
+      "Isabella, do you have any specific songs or genres in mind for the acoustic performance, or should we brainstorm some ideas together?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "I'm glad you're interested in helping, Eddy. Let's definitely brainstorm some ideas together for the music selection!"
+    ],
+    [
+      "Eddy Lin",
+      "Isabella, have you thought about the ambiance of the party and how the music can enhance the overall atmosphere?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "Eddy, I think incorporating soft, romantic tunes would really set the mood for the party. What do you think?"
+    ],
+    [
+      "Eddy Lin",
+      "Isabella, I totally agree with you about the importance of setting the right mood with music. Maybe we could also consider incorporating some classic love songs to appeal to a wider audience. What do you think?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "Eddy, I appreciate your input and ideas for the party. Let's definitely work together to create a memorable event. I'm excited to see how the music will elevate the atmosphere!"
+    ],
+    [
+      "Eddy Lin",
+      "Isabella, have you thought about the logistics of setting up the acoustic performance during the party? We should plan the equipment and arrangement to ensure the music is showcased effectively."
+    ],
+    [
+      "Isabella Rodriguez",
+      "Eddy, thank you for offering to help with the music arrangements! I think it would be great to plan out the logistics together. Let's meet up tomorrow before the party to finalize everything."
+    ],
+    [
+      "Eddy Lin",
+      "Isabella, I was thinking about incorporating some interactive elements into the musical performance. Maybe we could have a DIY music station where guests can create personalized playlists or request songs. What do you think?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "Eddy, I absolutely love your idea about the DIY music station! It would definitely make the party more interactive and engaging for guests. Let's discuss how we can implement that idea and make it a highlight of the event."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Carlos Gomez": 210,
+    "Ayesha Khan": 336,
+    "Isabella Rodriguez": 800
+  },
+  "chatting_end_time": "February 13, 2023, 13:05:00",
+  "act_path_set": true,
+  "planned_path": [],
+  "known_personas": [
+    "Carlos Gomez",
+    "Ayesha Khan",
+    "Isabella Rodriguez"
+  ]
+}

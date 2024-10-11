@@ -1,0 +1,20 @@
+time, date: February 13, 2023, 12:56:10, 
+init name, target_name: Sam, Eddy
+prompt input: ['Eddy Lin was taking out his notes and studying while waiting for his food. Eddy Lin was taking out his notes and studying while waiting for his food. Eddy Lin was taking out his notes and studying while waiting for his food. \n', 'February 13, 2023, 12:56:10 PM', 'Sam Moore', 'Eddy Lin', '', '', "Sam Moore is already conversing about collaborating on organizing a community event to raise awareness and support for Sam Moore's upcoming campaign for mayor, with Klaus Mueller offering his assistance and suggesting working together to make a positive impact in their neighborhood.", ' is already taking out his notes and studying while waiting for his food', 'Sam Moore', 'Eddy Lin', 'White', 'White', 'longterm resident of the village', 'longterm resident of the village']
+prompt: Task -- given context, determine whether the subject will initiate a conversation with another. 
+Format: 
+Context: []
+Question: []
+Answer in "yes" or "no": []
+---
+Context: Eddy Lin was taking out his notes and studying while waiting for his food. Eddy Lin was taking out his notes and studying while waiting for his food. Eddy Lin was taking out his notes and studying while waiting for his food. 
+ 
+
+
+Right now, it is February 13, 2023, 12:56:10 PM. 
+Sam Moore is already conversing about collaborating on organizing a community event to raise awareness and support for Sam Moore's upcoming campaign for mayor, with Klaus Mueller offering his assistance and suggesting working together to make a positive impact in their neighborhood. when they saw an unknown person who is already taking out his notes and studying while waiting for his food.
+
+Question: Sam Moore is trying to find new friends and is open to new experiences. Given this mindset, would Sam Moore, who is White, initiate a conversation with a White person they have not previously met?
+
+Answer in "yes" or "no":
+output: no

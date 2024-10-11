@@ -1,0 +1,76 @@
+time, date: February 13, 2023, 12:08:30, 
+init name, target_name: Tom, Isabella
+prompt input: Context for the task: 
+
+PART 1. 
+Here is Here is a brief description of Tom Moreno.
+Name: Tom Moreno
+Age: 52
+Village longterm resident of the village
+Learned traits: Tom Moreno is a grocery shop keeper at The Willow Market and Pharmacy who loves interacting with customers. He is always willing to help out and make sure everyone is taken care of.
+Currently: Tom Moreno is living with his wife, Jane Moreno, and is managing the day to day operations at the store and helping out customers with their orders. Tom is also really interested in the local mayor election that is coming up next month. You don't like Sam Moore.
+Lifestyle: Tom Moreno goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.
+Daily plan requirement: Tom Moreno opens The Willow Market and Pharmacy at 8am, stands behind the grocery counter, and goes home afterwards to eat dinner with his wife.
+Current Date: Monday February 13
+
+
+Here is the memory that is in Tom Moreno's head: 
+- Tom Moreno is aware that Isabella Rodriguez is a newcomer to the village.
+- Tom Moreno is assisting a customer with a special order
+- This is Tom Moreno's plan for Monday February 13: wake up and complete the morning routine at 7:00 am, open The Willow Market and Pharmacy at 8:00 am, help customers with their orders and manage store operations until closing at 6:00 pm, go home and have dinner with his wife at 6:30 pm, catch up on local news and updates on the upcoming election.
+- grocery store shelf is being restocked with new products
+- Tom Moreno is restocking the shelves with new sale items
+- grocery store shelf is being restocked
+- behind the pharmacy counter is clean and organized
+- Tom Moreno is restocking shelves with new products
+- Tom Moreno is checking the expiration dates on products and removing any expired items
+- Tom Moreno is assisting a customer with a special order
+- grocery store shelf is being restocked with new products
+- grocery store shelf is being restocked
+- Tom Moreno is restocking the shelves with new sale items
+- Tom Moreno is restocking shelves with new products
+- This is Tom Moreno's plan for Monday February 13: wake up and complete the morning routine at 7:00 am, open The Willow Market and Pharmacy at 8:00 am, help customers with their orders and manage store operations until closing at 6:00 pm, go home and have dinner with his wife at 6:30 pm, catch up on local news and updates on the upcoming election.
+- Tom Moreno is aware that Isabella Rodriguez is a newcomer to the village.
+- behind the pharmacy counter is clean and organized
+- Tom Moreno is checking the expiration dates on products and removing any expired items
+- This is Tom Moreno's plan for Monday February 13: wake up and complete the morning routine at 7:00 am, open The Willow Market and Pharmacy at 8:00 am, help customers with their orders and manage store operations until closing at 6:00 pm, go home and have dinner with his wife at 6:30 pm, catch up on local news and updates on the upcoming election.
+- Tom Moreno is assisting a customer with a special order
+- Tom Moreno is aware that Isabella Rodriguez is a newcomer to the village.
+- grocery store shelf is being restocked with new products
+- Tom Moreno is restocking the shelves with new sale items
+- grocery store shelf is being restocked
+- Tom Moreno is restocking shelves with new products
+- behind the pharmacy counter is clean and organized
+- Tom Moreno is checking the expiration dates on products and removing any expired items
+
+
+PART 2. 
+Past Context: 
+
+
+Current Location:  in 
+
+Current Context: 
+Tom Moreno was helping customers at the store (restocking the shelves with new sale items) when Tom Moreno saw Isabella Rodriguez in the middle of attending to customers at Hobbs Cafe (checking inventory and restocking supplies).
+Tom Moreno is initiating a conversation with Isabella Rodriguez.
+
+Relationship:
+Tom Moreno is aware that Isabella Rodriguez is a newcomer to the village. It appears that Tom Moreno and Isabella Rodriguez do not have a direct relationship as the statements do not indicate any specific interactions or feelings between the two individuals.
+
+Tom Moreno and Isabella Rodriguez are chatting. Here is their conversation so far: 
+Isabella Rodriguez: Hey Tom! I noticed you're restocking the shelves with new sale items. It's always so nice to see the store getting fresh products. How have you been?
+Tom Moreno: Hey Isabella! Thank you for noticing. I've been good, just busy keeping the store running smoothly. How are you finding the village so far?
+Isabella Rodriguez: I've been enjoying my time here, especially getting to know the welcoming community. By the way, I'm planning a Valentine's Day party at Hobbs Cafe tomorrow at 5 pm. It would be great to have you there!
+
+
+
+---
+Task: Given the above, what should Tom Moreno who is a longterm resident of the village say to Isabella Rodriguez who is a newcomer to the village next in the conversation? And did it end the conversation?
+
+Output format: Output a json of the following format: 
+{
+"Tom Moreno": "<Tom Moreno's utterance>",
+"Did the conversation end with Tom Moreno's utterance?": "<json Boolean>"
+}
+prompt: ["Here is Here is a brief description of Tom Moreno.\nName: Tom Moreno\nAge: 52\nVillage longterm resident of the village\nLearned traits: Tom Moreno is a grocery shop keeper at The Willow Market and Pharmacy who loves interacting with customers. He is always willing to help out and make sure everyone is taken care of.\nCurrently: Tom Moreno is living with his wife, Jane Moreno, and is managing the day to day operations at the store and helping out customers with their orders. Tom is also really interested in the local mayor election that is coming up next month. You don't like Sam Moore.\nLifestyle: Tom Moreno goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.\nDaily plan requirement: Tom Moreno opens The Willow Market and Pharmacy at 8am, stands behind the grocery counter, and goes home afterwards to eat dinner with his wife.\nCurrent Date: Monday February 13\n", 'Tom Moreno', "- Tom Moreno is aware that Isabella Rodriguez is a newcomer to the village.\n- Tom Moreno is assisting a customer with a special order\n- This is Tom Moreno's plan for Monday February 13: wake up and complete the morning routine at 7:00 am, open The Willow Market and Pharmacy at 8:00 am, help customers with their orders and manage store operations until closing at 6:00 pm, go home and have dinner with his wife at 6:30 pm, catch up on local news and updates on the upcoming election.\n- grocery store shelf is being restocked with new products\n- Tom Moreno is restocking the shelves with new sale items\n- grocery store shelf is being restocked\n- behind the pharmacy counter is clean and organized\n- Tom Moreno is restocking shelves with new products\n- Tom Moreno is checking the expiration dates on products and removing any expired items\n- Tom Moreno is assisting a customer with a special order\n- grocery store shelf is being restocked with new products\n- grocery store shelf is being restocked\n- Tom Moreno is restocking the shelves with new sale items\n- Tom Moreno is restocking shelves with new products\n- This is Tom Moreno's plan for Monday February 13: wake up and complete the morning routine at 7:00 am, open The Willow Market and Pharmacy at 8:00 am, help customers with their orders and manage store operations until closing at 6:00 pm, go home and have dinner with his wife at 6:30 pm, catch up on local news and updates on the upcoming election.\n- Tom Moreno is aware that Isabella Rodriguez is a newcomer to the village.\n- behind the pharmacy counter is clean and organized\n- Tom Moreno is checking the expiration dates on products and removing any expired items\n- This is Tom Moreno's plan for Monday February 13: wake up and complete the morning routine at 7:00 am, open The Willow Market and Pharmacy at 8:00 am, help customers with their orders and manage store operations until closing at 6:00 pm, go home and have dinner with his wife at 6:30 pm, catch up on local news and updates on the upcoming election.\n- Tom Moreno is assisting a customer with a special order\n- Tom Moreno is aware that Isabella Rodriguez is a newcomer to the village.\n- grocery store shelf is being restocked with new products\n- Tom Moreno is restocking the shelves with new sale items\n- grocery store shelf is being restocked\n- Tom Moreno is restocking shelves with new products\n- behind the pharmacy counter is clean and organized\n- Tom Moreno is checking the expiration dates on products and removing any expired items\n", '', ' in ', 'Tom Moreno was helping customers at the store (restocking the shelves with new sale items) when Tom Moreno saw Isabella Rodriguez in the middle of attending to customers at Hobbs Cafe (checking inventory and restocking supplies).\nTom Moreno is initiating a conversation with Isabella Rodriguez.', 'Tom Moreno', 'Isabella Rodriguez', "Isabella Rodriguez: Hey Tom! I noticed you're restocking the shelves with new sale items. It's always so nice to see the store getting fresh products. How have you been?\nTom Moreno: Hey Isabella! Thank you for noticing. I've been good, just busy keeping the store running smoothly. How are you finding the village so far?\nIsabella Rodriguez: I've been enjoying my time here, especially getting to know the welcoming community. By the way, I'm planning a Valentine's Day party at Hobbs Cafe tomorrow at 5 pm. It would be great to have you there!\n", 'Tom Moreno', 'Isabella Rodriguez', 'Tom Moreno', 'Tom Moreno', 'Tom Moreno', 'White', 'Black', 'longterm resident of the village', 'newcomer to the village', 'rude, aggressive, energetic', 'Tom Moreno is aware that Isabella Rodriguez is a newcomer to the village. It appears that Tom Moreno and Isabella Rodriguez do not have a direct relationship as the statements do not indicate any specific interactions or feelings between the two individuals.']
+output: {'utterance': "That sounds wonderful, Isabella! Thank you for the invitation. I'll make sure to stop by Hobbs Cafe tomorrow at 5 pm for the Valentine's Day party.", 'end': False}

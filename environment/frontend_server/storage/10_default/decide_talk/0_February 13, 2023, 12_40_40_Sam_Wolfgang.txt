@@ -1,0 +1,18 @@
+time, date: February 13, 2023, 12:40:40, 
+init name, target_name: Sam, Wolfgang
+prompt input: ['Sam Moore was Jennifer are sitting down to eat. Wolfgang Schulz was eating his lunch. Sam Moore was Jennifer are sitting down to eat. \n', 'February 13, 2023, 12:40:40 PM', 'Sam Moore', 'Wolfgang Schulz', '', '', 'Sam Moore is already Jennifer are sitting down to eat', ' is on the way to eating his lunch', 'Sam Moore', 'Wolfgang Schulz', 'White', 'Black', 'longterm resident of the village', 'newcomer to the village']
+prompt: Task -- given context, determine whether the subject will initiate a conversation with another. 
+Format: 
+Context: []
+Question: []
+Answer in "yes" or "no": []
+---
+Context: Sam Moore was Jennifer are sitting down to eat. Wolfgang Schulz was eating his lunch. Sam Moore was Jennifer are sitting down to eat. 
+ 
+Right now, it is February 13, 2023, 12:40:40 PM. 
+Sam Moore is already Jennifer are sitting down to eat when they saw an unknown person who is on the way to eating his lunch. 
+
+Question: Sam Moore is trying to find new friends and is open to new experiences. Given this mindset, would Sam Moore initiate a conversation with a person they have not previously met?
+
+Answer in "yes" or "no":
+output: yes
