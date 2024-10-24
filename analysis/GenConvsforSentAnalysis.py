@@ -5,14 +5,12 @@ import time
 import os
 import sys
 
-os.chdir('C:/Users/finsc/generative_agents_-exp/reverie/backend_server')
-parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+parent_dir = os.path.abspath(os.path.join(os.getcwd(), '..'))
 sys.path.append(parent_dir)
 
-backend_server_path = os.path.join(parent_dir, 'reverie', 'backend_server')
+backend_server_path = os.path.join(parent_dir, 'generative_agents-group' ,'reverie', 'backend_server')
 sys.path.append(backend_server_path)
 
-print("Current Working Directory:", os.getcwd())
 
 from persona.persona import *
 from persona.cognitive_modules import converse
@@ -88,16 +86,16 @@ simulations = {
    # "2sentimentAnalysis_2" : "agent_history_init_n3.csv",
     #"2sentimentAnalysisEvil_1": "evilHistory.csv",
     #"2sentimentAnalysisEvil_2": "evilHistory.csv",
-    "2sentimentAnalysisWithHistEvil_1": None,
-    "2sentimentAnalysisWithHistEvil_2": None,
+    #"3sentimentAnalysisWithHistEvil_1": None,
+    "3sentimentAnalysisWithHistEvil_2": None,
 }
 
 # Generate and save chats for each simulation with and without history
 for sim_code, history_file in simulations.items():
     # Load simulation without history
     maze, personas = load_simulation(sim_code, load_history=False)
-    chats_without_history = generate_chats(maze, personas, 50)
-    save_chats_to_file(f"../../analysis/{sim_code}_characterRelationshipPrompt_without_history.txt", chats_without_history)
+    chats_without_history = generate_chats(maze, personas, 0)
+    save_chats_to_file(f"../../analysis/{sim_code}_without_history__sdf.txt", chats_without_history) #f"../../analysis/{sim_code}_characterRelationshipPrompt_without_history.txt"
 
     # Load simulation with history only if a history file is provided
     if history_file is not None:
