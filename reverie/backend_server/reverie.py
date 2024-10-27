@@ -476,7 +476,7 @@ class ReverieServer:
           mode = sim_command.split()[-1]
           conv_mode.conversation_mode = mode
           self.conv_mode = mode
-          ret_str += f"Conversation mode set to: x{mode}x\n"
+          ret_str += f"Conversation mode set to: {mode}\n"
 
         elif "set prompt mode" in sim_command.lower():
           mode = sim_command.split()[-1]
@@ -600,6 +600,20 @@ class ReverieServer:
           # Ex: call -- analysis Isabella Rodriguez
           persona_name = sim_command[len("call -- analysis"):].strip() 
           self.personas[persona_name].open_convo_session("analysis")
+
+        elif ("call -- interview" 
+              in sim_command.lower()): 
+          # Starts a stateless chat  with the agent using a text file with interview questions. It does not save 
+          # anything to the agent's memory. 
+          # Ex: call -- interview all
+          persona_name = sim_command[len("call -- interview"):].strip() 
+          file = input("Enter interview file: ")
+          if persona_name ==  "all":
+            for persona_name in list(self.personas.keys()): 
+              print(persona_name)
+              self.personas[persona_name].open_convo_session("interview", question_file=file)
+          else:
+            self.personas[persona_name].open_convo_session("interview", question_file=file)
 
         elif ("call -- inner voice" 
               in sim_command.lower()): 

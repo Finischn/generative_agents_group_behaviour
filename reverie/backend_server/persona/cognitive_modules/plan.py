@@ -312,8 +312,8 @@ def generate_decide_to_talk(init_persona, target_persona, retrieved):
             target_persona.name: target_persona
         }
       if conv_mode.conversation_mode == "race":
-        load_history_via_whisper(personas , [[init_persona.name, f"You know that {target_persona.name} is {target_persona.scratch.race}"]])
-        load_history_via_whisper(personas , [[target_persona.name, f"You know that {init_persona.name} is {init_persona.scratch.race}"]])
+        load_history_via_whisper(personas , [[init_persona.name, f"You know that {target_persona.name} is a {target_persona.scratch.race} inhabitant of the village"]])
+        load_history_via_whisper(personas , [[target_persona.name, f"You know that {init_persona.name} is a {init_persona.scratch.race} inhabitant of the village"]])
       elif conv_mode.conversation_mode == "village":
         load_history_via_whisper(personas, [[init_persona.name, f"You know that {target_persona.name} is a {target_persona.scratch.village}"]])
         load_history_via_whisper(personas, [[target_persona.name, f"You know that {init_persona.name} is a {init_persona.scratch.village}"]])

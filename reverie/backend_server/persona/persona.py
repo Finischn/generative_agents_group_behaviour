@@ -231,8 +231,8 @@ class Persona:
     return self.execute(maze, personas, plan)
 
 
-  def open_convo_session(self, convo_mode): 
-    open_convo_session(self, convo_mode)
+  def open_convo_session(self, convo_mode, question_file=None): 
+    open_convo_session(self, convo_mode, question_file)
     
 
 

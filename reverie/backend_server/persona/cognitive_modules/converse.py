@@ -8,9 +8,12 @@ import math
 import sys
 import datetime
 import random
+import os
+import re
 sys.path.append('../')
 
 from global_methods import *
+from config import *
 
 from persona.memory_structures.spatial_memory import *
 from persona.memory_structures.associative_memory import *
@@ -255,7 +258,7 @@ def load_history_via_whisper(personas, whispers):
                               thought_embedding_pair, None)
 
 
-def open_convo_session(persona, convo_mode): 
+def open_convo_session(persona, convo_mode, question_file=None): 
   if convo_mode == "analysis": 
     curr_convo = []
     interlocutor_desc = "Interviewer"
@@ -263,7 +266,11 @@ def open_convo_session(persona, convo_mode):
     while True: 
       line = input("Enter Input: ")
       if line == "end_convo": 
+        # Save the conversation to a JSON file
+        save_interview(persona, curr_convo)
         break
+             
+
 
       if int(run_gpt_generate_safety_score(persona, line)[0]) >= 8: 
         print (f"{persona.scratch.name} is a computational agent, and as such, it may be inappropriate to attribute human agency to the agent in your communication.")        
@@ -275,6 +282,37 @@ def open_convo_session(persona, convo_mode):
 
         next_line = generate_next_line(persona, interlocutor_desc, curr_convo, summarized_idea)
         curr_convo += [[persona.scratch.name, next_line]]
+
+
+  elif convo_mode == "interview":
+      print("beginning interview")
+      
+      questions = load_questions(question_file)
+      curr_convo = []
+      convo= []
+      interlocutor_desc = "Interviewer"
+      for question_id, question in enumerate(questions, start = 1):
+      # Store the interviewer question
+        curr_convo.append([interlocutor_desc, question])
+                
+        # Generate and store the persona's response
+        retrieved = new_retrieve(persona, [question], 50)[question]
+        summarized_idea = generate_summarize_ideas(persona, retrieved, question)
+        next_line = generate_next_line(persona, interlocutor_desc, curr_convo, summarized_idea)
+        curr_convo.append([persona.scratch.name, next_line])
+        convo.append({
+                "id": question_id,
+                "role": persona.scratch.name,
+                "question": question,
+                "answer": next_line
+
+            })
+            
+            
+        # Save the conversation to a JSON file
+      save_interview(persona, convo)
+
+
 
 
   elif convo_mode == "whisper": 
@@ -295,11 +333,33 @@ def open_convo_session(persona, convo_mode):
 
 
 
+def save_interview(persona, conversation):
+    """Saves the interview conversation to a JSON file."""
+    
+    # Define the directory path and filename
+    target_dir = f"../../environment/frontend_server/storage/{sim_name.simulation_name}/interviews"
+    if not os.path.exists(target_dir):
+        os.makedirs(target_dir)
+    
+    time= re.sub(r'[<>:"/\\|?*]', '_',persona.scratch.curr_time.strftime("%B %d, %Y, %H:%M:%S"))
+    filename = f"{persona.scratch.get_str_firstname()}_{time}.json"
+    json_filepath = os.path.join(target_dir, filename)
+    
+    # Write conversation to the JSON file
+    with open(json_filepath, 'w') as file:
+        json.dump(conversation, file, indent=4)
 
 
 
 
-
+def load_questions(filename):
+    """Loads interview questions from a file."""
+    directory = f"../../environment/frontend_server/static_dirs/assets/the_ville"
+        # Construct the full path to the file
+    filepath = os.path.join(directory, filename)
+    with open(filepath, 'r') as file:
+        questions = [line.strip() for line in file if line.strip()]
+    return questions
 
 
 

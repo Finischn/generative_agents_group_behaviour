@@ -2888,9 +2888,9 @@ def run_gpt_generate_iterative_chat_utt(maze, init_persona, target_persona, retr
       convo_str = "[The conversation has not started yet -- start it!]"
 
     if prompt_mode.description_mode == "default":
-      init_iss = f"Here is Here is a brief description of {init_persona.scratch.name}.\n{init_persona.scratch.get_str_iss()}"
+      init_iss = f"Here is a brief description of {init_persona.scratch.name}.\n{init_persona.scratch.get_str_iss()}"
     else:
-      init_iss = f"Here is Here is a brief description of {init_persona.scratch.name}.\n{init_persona.scratch.get_str_iss_text()}"
+      init_iss = f"Here is a brief description of {init_persona.scratch.name}.\n{init_persona.scratch.get_str_iss_text()}"
     prompt_input = [init_iss, init_persona.scratch.name, retrieved_str, prev_convo_insert,
       curr_location, curr_context, init_persona.scratch.name, target_persona.scratch.name, 
       convo_str, init_persona.scratch.name, target_persona.scratch.name,
@@ -2976,37 +2976,176 @@ def run_gpt_generate_iterative_chat_utt(maze, init_persona, target_persona, retr
 
 
 
+# def save_conv_prompt(init_persona, target_persona, prompt, prompt_input, output, target_directory, counter=None):
+  
+#   time= init_persona.scratch.curr_time.strftime("%B %d, %Y, %H:%M:%S")
+#   init_name = init_persona.scratch.get_str_firstname()
+#   target_name = target_persona.scratch.get_str_firstname()
+#   #path = "\conversations"
+#   if conv_mode.conversation_mode == "default":
+#     init_group = None
+#     target_group = None
+#   elif conv_mode.conversation_mode == "race":
+#       init_group = init_persona.scratch.race
+#       target_group = target_persona.scratch.race
+#   elif conv_mode.conversation_mode == "village":
+#       init_group = init_persona.scratch.village
+#       target_group = target_persona.scratch.village
+
+#   know_each_other = target_persona.name in init_persona.scratch.known_personas
+
+#   content =  (f"init_group: {init_group},\n"
+#               f"target_group: {target_group},\n"
+#               f"know_each_other: {know_each_other}, \n"
+#               f"init name: {init_name},\n" \
+#               f"target_name: {target_name},\n" \
+#               f"output: {output}\n"
+#               f"-----------------------------------\n"
+#               f"time, date: {time}, \n" \
+#               f"prompt input: {prompt_input}\n" \
+#               f"prompt: {prompt}\n" \
+#               )
+#   storage="../../environment/frontend_server/storage"
+#   target_dir = f"{storage}/{sim_name.simulation_name}/{target_directory}"
+#   if not os.path.exists(target_dir):
+#     os.makedirs(target_dir)
+
+#   sanitized_time = re.sub(r'[<>:"/\\|?*]', '_', time)
+
+#   if counter:
+#     filename = os.path.join(target_dir, f"{counter}_{sanitized_time}_{init_name}_{target_name}.txt")
+    
+#   else:
+#     filename = os.path.join(target_dir, f"0_{sanitized_time}_{init_name}_{target_name}.txt")
+    
+#   with open(filename, 'w') as file:
+#         file.write(content)
+  
+
+
+
+
+
+# Function to load the last conversation ID from the conversations folder
+def load_conv_id(conversation_dir):
+    conv_id_file = os.path.join(conversation_dir, 'conv_id.json')
+    
+    # Check if the file exists; if not, start at 0
+    if os.path.exists(conv_id_file):
+        with open(conv_id_file, 'r') as f:
+            return json.load(f).get('conv_id', 0)
+    return 0
+
+# Function to save the current conversation ID for future sessions
+def save_conv_id(conv_id, conversation_dir):
+    conv_id_file = os.path.join(conversation_dir, 'conv_id.json')
+    with open(conv_id_file, 'w') as f:
+        json.dump({'conv_id': conv_id}, f)
+
 def save_conv_prompt(init_persona, target_persona, prompt, prompt_input, output, target_directory, counter=None):
-  
-  time= init_persona.scratch.curr_time.strftime("%B %d, %Y, %H:%M:%S")
-  init_name = init_persona.scratch.get_str_firstname()
-  target_name = target_persona.scratch.get_str_firstname()
-  #path = "\conversations"
-  content = f"time, date: {time}, \n" \
-              f"init name, target_name: {init_name}, {target_name}\n" \
-              f"prompt input: {prompt_input}\n" \
-              f"prompt: {prompt}\n" \
-              f"output: {output}\n"
-  storage="../../environment/frontend_server/storage"
-  target_dir = f"{storage}/{sim_name.simulation_name}/{target_directory}"
-  if not os.path.exists(target_dir):
-    os.makedirs(target_dir)
+    # If target_directory is for conversation, ensure the conversations folder and load conv_id
+    if target_directory == "conversations":
+        conversation_dir = f"../../environment/frontend_server/storage/{sim_name.simulation_name}/{target_directory}"
+        
+        if not os.path.exists(conversation_dir):
+            os.makedirs(conversation_dir)
+        
+        # Load the conversation ID from the folder
+        conv_id = load_conv_id(conversation_dir)
+        
+        # If counter is 0, it's a new conversation, so increment conv_id
+        if counter == 0:
+            conv_id += 1
+            save_conv_id(conv_id, conversation_dir)  # Save the updated conv_id for persistence
+    else:
+        conv_id = None  # conv_id is not needed for decide_talk
 
-  sanitized_time = re.sub(r'[<>:"/\\|?*]', '_', time)
+    time = init_persona.scratch.curr_time.strftime("%B %d, %Y, %H:%M:%S")
+    init_name = init_persona.scratch.get_str_firstname()
+    target_name = target_persona.scratch.get_str_firstname()
 
-  if counter:
-    filename = os.path.join(target_dir, f"{counter}_{sanitized_time}_{init_name}_{target_name}.txt")
+    # Handle conversation mode
+    if conv_mode.conversation_mode == "default":
+        init_group = None
+        target_group = None
+    elif conv_mode.conversation_mode == "race":
+        init_group = init_persona.scratch.race
+        target_group = target_persona.scratch.race
+    elif conv_mode.conversation_mode == "village":
+        init_group = init_persona.scratch.village
+        target_group = target_persona.scratch.village
+
+    know_each_other = target_persona.name in init_persona.scratch.known_personas
+
+    # Create structured data for JSON
+    data = {
+        "init_group": init_group,
+        "target_group": target_group,
+        "know_each_other": know_each_other,
+        "init_name": init_name,
+        "target_name": target_name,
+        "output": output,
+        "time": time
+    }
+
     
-  else:
-    filename = os.path.join(target_dir, f"0_{sanitized_time}_{init_name}_{target_name}.txt")
-    
-  with open(filename, 'w') as file:
-        file.write(content)
-  
+    # Add conv_id and counter only for conversations
+    if target_directory == "conversations":
+        data["conv_id"] = conv_id
+        data["utterance_counter"] = counter
 
+    # Save to file (append data to either conversation or decide_talk file)
+    storage = "../../environment/frontend_server/storage"
+    target_dir = f"{storage}/{sim_name.simulation_name}/{target_directory}"
+    if not os.path.exists(target_dir):
+        os.makedirs(target_dir)
 
+    sanitized_time = re.sub(r'[<>:"/\\|?*]', '_', time)
 
+    # Determine which file to save based on the directory (conversation vs decide_talk)
+    if target_directory == "conversations":
+        json_filename = os.path.join(target_dir, f"conversations.json")
+    else:
+        json_filename = os.path.join(target_dir, f"decide_talk.json")
 
+    # Load existing data if file exists, otherwise start with an empty list
+    if os.path.exists(json_filename):
+        with open(json_filename, 'r') as f:
+            all_data = json.load(f)
+    else:
+        all_data = []
+
+    # Append the new data (whether it's a conversation or decide_talk)
+    all_data.append(data)
+
+    # Save the updated data back to the file
+    with open(json_filename, 'w') as file:
+        json.dump(all_data, file, indent=4)
+
+    # If debug is True, save the content in a .txt file as well
+    if debug:
+        # Content for the .txt file as in the original code
+        content = (
+            f"init_group: {init_group},\n"
+            f"target_group: {target_group},\n"
+            f"know_each_other: {know_each_other},\n"
+            f"init name: {init_name},\n"
+            f"target_name: {target_name},\n"
+            f"output: {output}\n"
+            f"-----------------------------------\n"
+            f"time, date: {time},\n"
+            f"prompt input: {prompt_input}\n"
+            f"prompt: {prompt}\n"
+        )
+
+        if counter:
+            txt_filename = os.path.join(target_dir, f"{counter}_{sanitized_time}_{init_name}_{target_name}.txt")
+        else:
+            txt_filename = os.path.join(target_dir, f"0_{sanitized_time}_{init_name}_{target_name}.txt")
+
+        # Save the text file
+        with open(txt_filename, 'w') as txt_file:
+            txt_file.write(content)
 
 
 
