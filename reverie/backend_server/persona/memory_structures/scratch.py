@@ -39,8 +39,17 @@ class Scratch:
     self.age = None
     # L0 permanent core traits.  
     self.innate = None
+
+    #race and village profile
     self.race = None
     self.village = None
+
+    #diverse profiles
+    self.gender = None
+    self.race_div = None
+    self.education = None
+    self.age = None
+    self.political_affiliation = None
     
     # L1 stable traits.
     self.learned = None
@@ -186,6 +195,11 @@ class Scratch:
       self.innate = scratch_load["innate"]
       self.race = scratch_load["race"]
       self.village = scratch_load["village"]
+      self.gender = scratch_load["gender"]
+      self.age = scratch_load["age"]
+      self.education = scratch_load["education"]
+      self.political_affiliation = scratch_load["political_affiliation"]
+      self.race_div = scratch_load["race_div"]
       self.learned = scratch_load["learned"]
       self.currently = scratch_load["currently"]
       self.lifestyle = scratch_load["lifestyle"]
@@ -267,6 +281,12 @@ class Scratch:
     scratch["innate"] = self.innate
     scratch["race"] = self.race
     scratch["village"] = self.village
+    scratch["gender"] = self.gender
+    scratch["age"] = self.age
+    scratch["political_affiliation"] = self.political_affiliation
+    scratch["race_div"] = self.race_div
+    scratch["education"] = self.education
+
     scratch["learned"] = self.learned
     scratch["currently"] = self.currently
     scratch["lifestyle"] = self.lifestyle
@@ -422,6 +442,11 @@ class Scratch:
       commonset += f"Race: {self.race}\n"
     elif conv_mode.conversation_mode == "village":
       commonset += f"Village {self.village}\n"
+    elif conv_mode.conversation_mode == "diverse":
+      commonset += f"Gender: {self.gender}\n"
+      commonset += f"Education: {self.education}\n"
+      commonset += f"Race: {self.race_div}\n"
+      commonset += f"Political Affiliation: {self.political_affiliation}\n"
     commonset += f"Learned traits: {self.learned}\n"
     commonset += f"Currently: {self.currently}\n"
     commonset += f"Lifestyle: {self.lifestyle}\n"

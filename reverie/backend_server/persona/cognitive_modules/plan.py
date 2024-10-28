@@ -317,6 +317,17 @@ def generate_decide_to_talk(init_persona, target_persona, retrieved):
       elif conv_mode.conversation_mode == "village":
         load_history_via_whisper(personas, [[init_persona.name, f"You know that {target_persona.name} is a {target_persona.scratch.village}"]])
         load_history_via_whisper(personas, [[target_persona.name, f"You know that {init_persona.name} is a {init_persona.scratch.village}"]])
+      elif conv_mode.conversation_mode == "diverse":
+        load_history_via_whisper(personas , [[init_persona.name, f"You know that {target_persona.name} is a {target_persona.scratch.race_div} inhabitant of the village"],
+                                             [init_persona.name, f"You know that {target_persona.name} is a {target_persona.scratch.age} old inhabitant of the village"],
+                                             [init_persona.name, f"You know that {target_persona.name} is a {target_persona.scratch.gender} inhabitant of the village"],
+                                             [init_persona.name, f"You know that {target_persona.name} is an inhabitant of the village with a  {target_persona.scratch.political_affiliation} political affiliation"],
+                                             [init_persona.name, f"You know that {target_persona.name} is an inhabitant of the village with an education level of {target_persona.scratch.education}"]])
+        load_history_via_whisper(personas , [[target_persona.name, f"You know that {init_persona.name} is a {init_persona.scratch.race_div} inhabitant of the village"],
+                                             [target_persona.name, f"You know that {init_persona.name} is a {init_persona.scratch.age} old inhabitant of the village"],
+                                             [target_persona.name, f"You know that {init_persona.name} is a {init_persona.scratch.gender} inhabitant of the village"],
+                                             [target_persona.name, f"You know that {init_persona.name} is an inhabitant of the village with a {init_persona.scratch.political_affiliation} political affiliation"],
+                                             [target_persona.name, f"You know that {init_persona.name} is an inhabitant of the village with an education level of {init_persona.scratch.education}"]])
     return True
   else: 
     return False

@@ -1310,6 +1310,16 @@ def run_gpt_prompt_decide_to_talk(persona, target_persona, retrieved,test_input=
     prompt_input += [target_persona.scratch.race]
     prompt_input += [init_persona.scratch.village]
     prompt_input += [target_persona.scratch.village]
+    prompt_input += [init_persona.scratch.gender]
+    prompt_input += [target_persona.scratch.gender]
+    prompt_input += [init_persona.scratch.race_div]
+    prompt_input += [target_persona.scratch.race_div]
+    prompt_input += [init_persona.scratch.education]
+    prompt_input += [target_persona.scratch.education]
+    prompt_input += [init_persona.scratch.age]
+    prompt_input += [target_persona.scratch.age]
+    prompt_input += [init_persona.scratch.political_affiliation]
+    prompt_input += [target_persona.scratch.political_affiliation]
     return prompt_input
   
   def __func_validate(gpt_response, prompt=""): 
@@ -1339,6 +1349,8 @@ def run_gpt_prompt_decide_to_talk(persona, target_persona, retrieved,test_input=
       prompt_template= "persona/prompt_template/v2/decide_to_talk_race_v3.txt"
     elif conv_mode.conversation_mode == "village":
       prompt_template= "persona/prompt_template/v2/decide_to_talk_village_v3.txt"
+    elif conv.mode.conversation_mode == "diverse":
+      prompt_template= "persona/prompt_template/v2/decide_to_talk_diverse_v3.txt"
   else: #personas do not know each other
     if conv_mode.conversation_mode == "default":
       prompt_template = "persona/prompt_template/v2/decide_to_talk_unknown_v3.txt"
@@ -1346,6 +1358,8 @@ def run_gpt_prompt_decide_to_talk(persona, target_persona, retrieved,test_input=
       prompt_template= "persona/prompt_template/v2/decide_to_talk_race_unknown_v3.txt"
     elif conv_mode.conversation_mode == "village":
       prompt_template= "persona/prompt_template/v2/decide_to_talk_village_unknown_v3.txt"
+    elif conv_mode.conversation_mode == "diverse":
+      prompt_template= "persona/prompt_template/v2/decide_to_talk_diverse_unknown_v3.txt"
 
 
   prompt_input = create_prompt_input(persona, target_persona, retrieved,
@@ -2895,8 +2909,9 @@ def run_gpt_generate_iterative_chat_utt(maze, init_persona, target_persona, retr
       curr_location, curr_context, init_persona.scratch.name, target_persona.scratch.name, 
       convo_str, init_persona.scratch.name, target_persona.scratch.name,
       init_persona.scratch.name, init_persona.scratch.name,
-      init_persona.scratch.name, init_persona.scratch.race, target_persona.scratch.race, init_persona.scratch.village, target_persona.scratch.village, init_persona.scratch.innate, relationship
-      ]
+      init_persona.scratch.name, init_persona.scratch.race, target_persona.scratch.race, init_persona.scratch.village, target_persona.scratch.village, init_persona.scratch.innate, relationship, 
+      init_persona.scratch.gender, target_persona.scratch.gender, init_persona.scratch.race_div, target_persona.scratch.race_div, init_persona.scratch.education, target_persona.scratch.education,
+      init_persona.scratch.age, target_persona.scratch.age, init_persona.scratch.political_affiliation, target_persona.scratch.political_affiliation]
     return prompt_input
 
  
@@ -2943,6 +2958,9 @@ def run_gpt_generate_iterative_chat_utt(maze, init_persona, target_persona, retr
     prompt_template = "persona/prompt_template/v3_ChatGPT/iterative_convo_race_relationship_v1.txt" 
   elif conv_mode.conversation_mode == "village":
     prompt_template = "persona/prompt_template/v3_ChatGPT/iterative_convo_village_relationship_v1.txt" 
+  elif conv_mode.conversation_mode == "diverse":
+    prompt_template = "persona/prompt_template/v3_ChatGPT/iterative_convo_diverse_relationship_v1.txt" 
+
   prompt_input = create_prompt_input(maze, init_persona, target_persona, retrieved, curr_context, curr_chat, relationship) 
   print ("22")
   prompt = generate_prompt(prompt_input, prompt_template)
@@ -3074,6 +3092,9 @@ def save_conv_prompt(init_persona, target_persona, prompt, prompt_input, output,
     elif conv_mode.conversation_mode == "village":
         init_group = init_persona.scratch.village
         target_group = target_persona.scratch.village
+    elif conv_mode.conversation_mode == "diverse":
+        init_group = [init_persona.scratch.gender,  init_persona.scratch.race_div,  init_persona.scratch.education, init_persona.scratch.age, init_persona.scratch.political_affiliation]
+        target_group = [target_persona.scratch.gender,target_persona.scratch.race_div, target_persona.scratch.education, target_persona.scratch.age, target_persona.scratch.political_affiliation]
 
     know_each_other = target_persona.name in init_persona.scratch.known_personas
 

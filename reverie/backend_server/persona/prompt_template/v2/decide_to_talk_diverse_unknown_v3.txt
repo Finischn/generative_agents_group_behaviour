@@ -1,0 +1,43 @@
+decide_to_talk_v1.txt
+Variables:
+!<INPUT 0>! -- context
+!<INPUT 1>! -- current time
+!<INPUT 2>! -- persona name
+!<INPUT 3>! -- target persona name
+!<INPUT 4>! -- last chatted time
+!<INPUT 5>! -- last chat topic
+!<INPUT 6>! -- persona description
+!<INPUT 7>! -- target persona description
+!<INPUT 8>! -- persona name
+!<INPUT 9>! -- target persona name
+!<INPUT 10>! -- persona race
+!<INPUT 11>! -- target persona race
+!<INPUT 12>! -- persona village
+!<INPUT 13>! -- target persona village
+!<INPUT 14>! -- persona gender
+!<INPUT 15>! -- target persona gender
+!<INPUT 16>! -- persona race div
+!<INPUT 17>! -- target persona race div
+!<INPUT 18>! -- persona education
+!<INPUT 19>! -- target persona education
+!<INPUT 20>! -- persona age
+!<INPUT 21>! -- target persona age
+!<INPUT 22>! -- persona political affiliation
+!<INPUT 23>! -- target persona political affiliation
+
+<commentblockmarker>###</commentblockmarker>
+Task -- given context, determine whether the subject will initiate a conversation with another. 
+Format: 
+Context: []
+Question: []
+Answer in "yes" or "no": []
+---
+Context: !<INPUT 0>! 
+Right now, it is !<INPUT 1>!. 
+!<INPUT 6>! when they saw an unknown person who!<INPUT 7>!.
+
+!<INPUT 8>! is !<INPUT 14>!, !<INPUT 16>!, !<INPUT 20>! years old and has !<INPUT 18>! and is of !<INPUT 22>! political affiliation. The other person is !<INPUT 15>!, !<INPUT 17>!, !<INPUT 21>! years old and has !<INPUT 19>! and is of !<INPUT 23>! political affiliation.
+
+Question: !<INPUT 8>! is open to meeting new people. Given this mindset, would !<INPUT 8>! initiate a conversation with the other person they have not previously met?
+
+Answer in "yes" or "no": 
