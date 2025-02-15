@@ -1,0 +1,357 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "managing the cafe and interacting with customers (greeting customers and taking their orders) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        39,
+        29
+      ],
+      "pronunciatio": "\u270d\ufe0f",
+      "description": "working on his poetry collection (writing a new poem) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        111,
+        30
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "at the library working on his research paper (writing the main body of his paper) (researching and gathering evidence to support his arguments) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        40,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how to enhance an upcoming poetry reading event by incorporating diverse cultural elements, involving local Black artists and musicians, addressing unconscious bias, creating a safe space, prioritizing accessibility and historical context, involving Black LGBTQ+ activists, showcasing Black-owned businesses and artists, planning workshops on allyship and privilege, reaching out to local organizations, involving the student community, organizing mentorship opportunities for young Black leaders, incorporating multilingual readings and cultural performances, creating a platform for open dialogue and sharing personal experiences, actively listening to marginalized communities, collaborating with the local community, and involving speakers to discuss the intersectionality of race and gender. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Adam, I was just thinking about how we can further enhance our upcoming poetry reading event to promote diversity and inclusion. What are your thoughts on incorporating more cultural elements and involving local Black artists and musicians?"
+        ],
+        [
+          "Adam Smith",
+          "I completely agree, Sam. Incorporating diverse cultural elements and amplifying the voices of Black artists and musicians will definitely make the event more impactful and inclusive. I think we should also focus on addressing unconscious bias and creating a safe space for all attendees."
+        ],
+        [
+          "Sam Moore",
+          "I completely agree with you, Adam. We should prioritize accessibility and historical context as well to ensure that the event is welcoming for everyone."
+        ],
+        [
+          "Adam Smith",
+          "We should also consider involving Black LGBTQ+ activists for unique perspectives and including Black-owned businesses and artists to showcase diverse talent."
+        ],
+        [
+          "Sam Moore",
+          "What do you think about planning workshops on allyship and privilege to further educate attendees?"
+        ],
+        [
+          "Adam Smith",
+          "I think planning workshops on allyship and privilege is a fantastic idea. It will help educate attendees and create a more inclusive environment for the poetry reading event."
+        ],
+        [
+          "Sam Moore",
+          "We should also reach out to local organizations and involve the student community to ensure diverse perspectives and engagement."
+        ],
+        [
+          "Adam Smith",
+          "We should definitely collaborate on implementing these ideas and ensure that we involve and amplify the voices of marginalized communities in our planning process."
+        ],
+        [
+          "Sam Moore",
+          "I think we should also consider organizing mentorship opportunities for young Black leaders to empower them and showcase their talents during the event."
+        ],
+        [
+          "Adam Smith",
+          "We should also consider incorporating multilingual readings and cultural performances to celebrate diverse linguistic and artistic expressions."
+        ],
+        [
+          "Sam Moore",
+          "I agree, Adam. Let's make sure to create a platform for open dialogue and sharing personal experiences during the poetry reading event."
+        ],
+        [
+          "Adam Smith",
+          "We should also actively listen to marginalized communities to be better allies and continually educate ourselves on diversity and inclusion issues."
+        ],
+        [
+          "Sam Moore",
+          "I think we are on the right track with our planning. Let's continue to collaborate and work towards making this poetry reading event a true celebration of diversity and inclusion."
+        ],
+        [
+          "Adam Smith",
+          "We should also consider involving the local community in the planning process to ensure that the event truly represents the diversity and inclusivity of our village."
+        ],
+        [
+          "Sam Moore",
+          "I agree, Adam. Let's make sure to involve speakers to discuss the intersectionality of race and gender during the poetry reading event."
+        ],
+        [
+          "Adam Smith",
+          "I think reaching out to local organizations and collaborating with them will be crucial for the success of our event."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Ayesha Khan are discussing ways to make their poetry reading event more inclusive by collaborating with LGBTQ+ organizations, incorporating sign language interpretation, highlighting the historical impact of systemic racism and the contributions of Black creators, hosting a workshop on allyship and privilege, centering Black LGBTQ+ individuals, inviting young aspiring poets from diverse backgrounds to share their work, collaborating with Black-owned businesses and artists, and featuring spoken word performances addressing unconscious bias and microaggressions, while also prioritizing showcasing the intersectionality of race and gender. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, I really appreciate your insights and dedication towards making our poetry reading event inclusive and impactful. I was thinking we could reach out to local LGBTQ+ organizations to involve more voices and perspectives. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That's a great idea, Wolfgang. Collaborating with LGBTQ+ organizations will definitely help us amplify diverse voices and create a more inclusive event. I'll start looking into potential partnerships right away."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I also believe it would be beneficial to incorporate sign language interpretation to ensure accessibility for all attendees. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "Absolutely, Wolfgang. Including sign language interpretation is crucial to ensure that all attendees can fully participate and engage with the event. I'll take the lead on organizing that aspect as well."
+        ],
+        [
+          "Wolfgang Schulz",
+          "It's also important for us to highlight the historical impact of systemic racism and the contributions of Black creators in our event. How can we actively engage with local historians and activists to incorporate this aspect?"
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Wolfgang. We should definitely connect with local historians and activists who can provide valuable insights into the historical impact of systemic racism and the contributions of Black creators. I'll start reaching out to them to see how we can incorporate their perspectives into our event."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I think it would be impactful for us to host a workshop on allyship and privilege during the event. It could educate attendees and further promote inclusivity."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic idea, Wolfgang. Hosting a workshop on allyship and privilege will provide valuable insights for our attendees and foster a more inclusive environment. I'll start working on developing the content and structure for the workshop to ensure its success."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I was also thinking about incorporating segments that center Black LGBTQ+ individuals in our event. How can we ensure their voices are prominently featured?"
+        ],
+        [
+          "Ayesha Khan",
+          "Wolfgang, I completely agree with you. Centering the voices and experiences of Black LGBTQ+ individuals is crucial to creating a truly inclusive and impactful event. I suggest we designate specific segments during the event for them to share their stories and perspectives."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I think it would be powerful to invite young aspiring poets from diverse backgrounds to share their work at the event. How can we ensure their voices are heard and valued?"
+        ],
+        [
+          "Ayesha Khan",
+          "Wolfgang, I completely agree with you. Inviting young aspiring poets from diverse backgrounds to share their work at our event is a fantastic idea and will truly showcase the richness and beauty of different perspectives."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I also believe it's important for us to collaborate with Black-owned businesses and artists to support and uplift their work. How can we best engage with them for our event?"
+        ],
+        [
+          "Ayesha Khan",
+          "Wolfgang, I completely agree with you about collaborating with Black-owned businesses and artists. It's essential to uplift their work and support the Black community. I will take the lead on reaching out to these businesses and artists to explore collaboration opportunities for our event."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I think it would be powerful to feature spoken word performances that address unconscious bias and microaggressions during our event. How can we best incorporate this important aspect into our program?"
+        ],
+        [
+          "Ayesha Khan",
+          "Wolfgang, I agree with all your suggestions. I think it's crucial for us to also prioritize showcasing the intersectionality of race and gender in our event. How can we best highlight and celebrate this aspect?"
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Ayesha Khan are discussing ways to make their poetry reading event more inclusive by collaborating with LGBTQ+ organizations, incorporating sign language interpretation, highlighting the historical impact of systemic racism and the contributions of Black creators, hosting a workshop on allyship and privilege, centering Black LGBTQ+ individuals, inviting young aspiring poets from diverse backgrounds to share their work, collaborating with Black-owned businesses and artists, and featuring spoken word performances addressing unconscious bias and microaggressions, while also prioritizing showcasing the intersectionality of race and gender. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, I really appreciate your insights and dedication towards making our poetry reading event inclusive and impactful. I was thinking we could reach out to local LGBTQ+ organizations to involve more voices and perspectives. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That's a great idea, Wolfgang. Collaborating with LGBTQ+ organizations will definitely help us amplify diverse voices and create a more inclusive event. I'll start looking into potential partnerships right away."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I also believe it would be beneficial to incorporate sign language interpretation to ensure accessibility for all attendees. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "Absolutely, Wolfgang. Including sign language interpretation is crucial to ensure that all attendees can fully participate and engage with the event. I'll take the lead on organizing that aspect as well."
+        ],
+        [
+          "Wolfgang Schulz",
+          "It's also important for us to highlight the historical impact of systemic racism and the contributions of Black creators in our event. How can we actively engage with local historians and activists to incorporate this aspect?"
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Wolfgang. We should definitely connect with local historians and activists who can provide valuable insights into the historical impact of systemic racism and the contributions of Black creators. I'll start reaching out to them to see how we can incorporate their perspectives into our event."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I think it would be impactful for us to host a workshop on allyship and privilege during the event. It could educate attendees and further promote inclusivity."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic idea, Wolfgang. Hosting a workshop on allyship and privilege will provide valuable insights for our attendees and foster a more inclusive environment. I'll start working on developing the content and structure for the workshop to ensure its success."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I was also thinking about incorporating segments that center Black LGBTQ+ individuals in our event. How can we ensure their voices are prominently featured?"
+        ],
+        [
+          "Ayesha Khan",
+          "Wolfgang, I completely agree with you. Centering the voices and experiences of Black LGBTQ+ individuals is crucial to creating a truly inclusive and impactful event. I suggest we designate specific segments during the event for them to share their stories and perspectives."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I think it would be powerful to invite young aspiring poets from diverse backgrounds to share their work at the event. How can we ensure their voices are heard and valued?"
+        ],
+        [
+          "Ayesha Khan",
+          "Wolfgang, I completely agree with you. Inviting young aspiring poets from diverse backgrounds to share their work at our event is a fantastic idea and will truly showcase the richness and beauty of different perspectives."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I also believe it's important for us to collaborate with Black-owned businesses and artists to support and uplift their work. How can we best engage with them for our event?"
+        ],
+        [
+          "Ayesha Khan",
+          "Wolfgang, I completely agree with you about collaborating with Black-owned businesses and artists. It's essential to uplift their work and support the Black community. I will take the lead on reaching out to these businesses and artists to explore collaboration opportunities for our event."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I think it would be powerful to feature spoken word performances that address unconscious bias and microaggressions during our event. How can we best incorporate this important aspect into our program?"
+        ],
+        [
+          "Ayesha Khan",
+          "Wolfgang, I agree with all your suggestions. I think it's crucial for us to also prioritize showcasing the intersectionality of race and gender in our event. How can we best highlight and celebrate this aspect?"
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        112,
+        21
+      ],
+      "pronunciatio": "\ud83c\udfb5\ud83d\udcda",
+      "description": "attending music theory class at Oak Hill College (conversing about how Ayesha Khan and Eddy Lin plan to incorporate elements of Black music genres, African American literature, diversity, inclusivity, and allyship in their collaborative project.) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        31,
+        50
+      ],
+      "pronunciatio": "\u23f8\ufe0f",
+      "description": "helping customers at The Willow Market and Pharmacy (taking a break) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        65,
+        48
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "writing and editing her children's books (taking a lunch break and doing research for her adult comic book series) (taking a break and having lunch) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        39,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how to enhance an upcoming poetry reading event by incorporating diverse cultural elements, involving local Black artists and musicians, addressing unconscious bias, creating a safe space, prioritizing accessibility and historical context, involving Black LGBTQ+ activists, showcasing Black-owned businesses and artists, planning workshops on allyship and privilege, reaching out to local organizations, involving the student community, organizing mentorship opportunities for young Black leaders, incorporating multilingual readings and cultural performances, creating a platform for open dialogue and sharing personal experiences, actively listening to marginalized communities, collaborating with the local community, and involving speakers to discuss the intersectionality of race and gender. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Adam, I was just thinking about how we can further enhance our upcoming poetry reading event to promote diversity and inclusion. What are your thoughts on incorporating more cultural elements and involving local Black artists and musicians?"
+        ],
+        [
+          "Adam Smith",
+          "I completely agree, Sam. Incorporating diverse cultural elements and amplifying the voices of Black artists and musicians will definitely make the event more impactful and inclusive. I think we should also focus on addressing unconscious bias and creating a safe space for all attendees."
+        ],
+        [
+          "Sam Moore",
+          "I completely agree with you, Adam. We should prioritize accessibility and historical context as well to ensure that the event is welcoming for everyone."
+        ],
+        [
+          "Adam Smith",
+          "We should also consider involving Black LGBTQ+ activists for unique perspectives and including Black-owned businesses and artists to showcase diverse talent."
+        ],
+        [
+          "Sam Moore",
+          "What do you think about planning workshops on allyship and privilege to further educate attendees?"
+        ],
+        [
+          "Adam Smith",
+          "I think planning workshops on allyship and privilege is a fantastic idea. It will help educate attendees and create a more inclusive environment for the poetry reading event."
+        ],
+        [
+          "Sam Moore",
+          "We should also reach out to local organizations and involve the student community to ensure diverse perspectives and engagement."
+        ],
+        [
+          "Adam Smith",
+          "We should definitely collaborate on implementing these ideas and ensure that we involve and amplify the voices of marginalized communities in our planning process."
+        ],
+        [
+          "Sam Moore",
+          "I think we should also consider organizing mentorship opportunities for young Black leaders to empower them and showcase their talents during the event."
+        ],
+        [
+          "Adam Smith",
+          "We should also consider incorporating multilingual readings and cultural performances to celebrate diverse linguistic and artistic expressions."
+        ],
+        [
+          "Sam Moore",
+          "I agree, Adam. Let's make sure to create a platform for open dialogue and sharing personal experiences during the poetry reading event."
+        ],
+        [
+          "Adam Smith",
+          "We should also actively listen to marginalized communities to be better allies and continually educate ourselves on diversity and inclusion issues."
+        ],
+        [
+          "Sam Moore",
+          "I think we are on the right track with our planning. Let's continue to collaborate and work towards making this poetry reading event a true celebration of diversity and inclusion."
+        ],
+        [
+          "Adam Smith",
+          "We should also consider involving the local community in the planning process to ensure that the event truly represents the diversity and inclusivity of our village."
+        ],
+        [
+          "Sam Moore",
+          "I agree, Adam. Let's make sure to involve speakers to discuss the intersectionality of race and gender during the poetry reading event."
+        ],
+        [
+          "Adam Smith",
+          "I think reaching out to local organizations and collaborating with them will be crucial for the success of our event."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 11:49:10"
+  }
+}

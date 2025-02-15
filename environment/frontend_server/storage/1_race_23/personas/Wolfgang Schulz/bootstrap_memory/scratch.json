@@ -1,0 +1,1044 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 21:59:50",
+  "curr_tile": [
+    92,
+    32
+  ],
+  "daily_plan_req": "1. Wake up and go for a run at the park at 5:30 am 2. Study for classes and work on chemistry project at Oak Hill College throughout the day 3. Meet with Eddy Lin in the library at 3:00 pm to discuss collaboration project 4. Meet with Carlos at Oak Hill College at 4:30 pm to establish project timeline",
+  "name": "Wolfgang Schulz",
+  "first_name": "Wolfgang",
+  "last_name": "Schulz",
+  "age": 54,
+  "innate": "Hardworking, passionate, dedicated",
+  "race": "Black",
+  "village": "newcomer to the village",
+  "gender": "Male",
+  "political_affiliation": "Conservative",
+  "race_div": "White",
+  "education": "Associate degree in college (2-year)",
+  "learned": "Wolfgang Schulz is a student at Oak Hill College studying chemistry and a student athlete. He is very dedicated to both his academics and his sport.",
+  "currently": "Status: Wolfgang Schulz is looking forward to his meetings with Carlos and Eddy Lin today to discuss their collaboration projects and explore new ideas for their research. He is feeling inspired and motivated to continue working towards promoting diversity and inclusion in his community. Wolfgang is eager to make a positive impact and contribute to meaningful conversations about systemic inequalities and racism. Today, he has a meeting scheduled with Carlos at Oak Hill College at 4:30 pm to establish a timeline for their project. After his classes, Wolfgang will meet with Eddy Lin in the library at 3:00 pm to further discuss their collaboration and brainstorm ideas for incorporating music theory and literature into chemistry experiments.",
+  "lifestyle": "Wolfgang Schulz goes to bed around 9pm, awakes up around 5am, eats dinner around 6pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Wolfgang Schulz's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 105,
+  "importance_ele_n": 29,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 5:00 am",
+    "go for a run in the park at 6:00 am",
+    "have breakfast and study for exams at 7:00 am",
+    "attend classes and labs at Oak Hill College from 9:00 am to 4:00 pm",
+    "grab a quick lunch at 12:00 pm",
+    "continue studying for exams until 5:00 pm",
+    "have dinner at 6:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      300
+    ],
+    [
+      "completing his morning routine (waking up and turning off his alarm)",
+      5
+    ],
+    [
+      "completing his morning routine (stretching and doing some light exercises)",
+      10
+    ],
+    [
+      "completing his morning routine (taking a shower)",
+      15
+    ],
+    [
+      "completing his morning routine (getting dressed)",
+      5
+    ],
+    [
+      "completing his morning routine (making breakfast)",
+      15
+    ],
+    [
+      "completing his morning routine (eating breakfast)",
+      10
+    ],
+    [
+      "going for a run at the park (changing into his running clothes)",
+      5
+    ],
+    [
+      "going for a run at the park (stretching and warming up)",
+      10
+    ],
+    [
+      "going for a run at the park (on the way to starting his run)",
+      0
+    ],
+    [
+      "going for a run at the park (conversing about Wolfgang Schulz and Ayesha Khan are discussing ways to incorporate segments on the historical impact of systemic racism, inviting local activists and historians, showcasing personal narratives and spoken word performances, hosting a workshop on allyship and privilege, collaborating with Black-owned businesses and artists, and creating a mentorship program for young Black leaders to ensure full representation and inclusivity at their event.)",
+      13
+    ],
+    [
+      "going for a run at the park (starting his run)",
+      17
+    ],
+    [
+      "going for a run at the park (hydrating during his run)",
+      5
+    ],
+    [
+      "going for a run at the park (on the way to cooling down and stretching after his run)",
+      0
+    ],
+    [
+      "going for a run at the park (conversing about promoting diversity and inclusion in the community, Wolfgang Schulz and Adam Smith discuss plans such as supporting Black-owned businesses, creating mentorship opportunities for young Black leaders, organizing events celebrating Black excellence, and addressing unconscious bias and microaggressions.)",
+      11
+    ],
+    [
+      "going for a run at the park (cooling down and stretching after his run)",
+      9
+    ],
+    [
+      "having breakfast and studying for exams (making breakfast)",
+      15
+    ],
+    [
+      "having breakfast and studying for exams (eating breakfast)",
+      10
+    ],
+    [
+      "having breakfast and studying for exams (reviewing his notes for his chemistry exam)",
+      15
+    ],
+    [
+      "having breakfast and studying for exams (practicing chemistry problems and taking a short break)",
+      10
+    ],
+    [
+      "attending his morning classes at Oak Hill College (walking to his first class)",
+      5
+    ],
+    [
+      "attending his morning classes at Oak Hill College (attending his first class) (walking to his first class)",
+      5
+    ],
+    [
+      "attending his morning classes at Oak Hill College (attending his first class) (taking notes during the lecture)",
+      30
+    ],
+    [
+      "attending his morning classes at Oak Hill College (attending his first class) (participating in a group discussion)",
+      15
+    ],
+    [
+      "attending his morning classes at Oak Hill College (on the way to taking a short break)",
+      0
+    ],
+    [
+      "attending his morning classes at Oak Hill College (conversing about creating an inclusive and impactful poetry reading event through the incorporation of personal narratives, insights from local activists and historians on systemic racism, workshops on allyship and privilege, live music performances, showcasing Black artists and creators, collaborating with Black-owned businesses and artists, involving young Black leaders for mentorship opportunities, and centering personal narratives and spoken word performances addressing unconscious bias and microaggressions.)",
+      15
+    ],
+    [
+      "attending his morning classes at Oak Hill College (taking a short break)",
+      5
+    ],
+    [
+      "attending his morning classes at Oak Hill College (reviewing his notes)",
+      5
+    ],
+    [
+      "attending his morning classes at Oak Hill College (taking notes during the lecture)",
+      30
+    ],
+    [
+      "attending his morning classes at Oak Hill College (on the way to participating in class discussions)",
+      0
+    ],
+    [
+      "attending his morning classes at Oak Hill College (conversing about collaborating on organizing a poetry reading event that incorporates personal narratives from marginalized voices, addresses systemic inequalities, integrates live music performances, collaborates with local artists, engages with the community, involves Black creators, centers Black LGBTQ+ individuals, hosts workshops on allyship and privilege, educates on unconscious bias, features diverse cultural perspectives and languages, supports Black-owned businesses and artists, collaborates with LGBTQ+ organizations, includes accessibility options, and engages with local schools and youth organizations to involve young aspiring poets from diverse backgrounds.)",
+      13
+    ],
+    [
+      "attending his morning classes at Oak Hill College (taking a short break)",
+      2
+    ],
+    [
+      "attending his morning classes at Oak Hill College (walking to his second class)",
+      5
+    ],
+    [
+      "attending his morning classes at Oak Hill College (on the way to walking to his second class)",
+      0
+    ],
+    [
+      "attending his morning classes at Oak Hill College (conversing about promoting diversity, inclusivity, and actively challenging systemic inequalities and racism to create a more equitable and just society.)",
+      17
+    ],
+    [
+      "attending his morning classes at Oak Hill College (taking a short break)",
+      3
+    ],
+    [
+      "attending his morning classes at Oak Hill College (walking to his second class)",
+      5
+    ],
+    [
+      "attending his morning classes at Oak Hill College (attending his second class) (taking notes during the lecture)",
+      30
+    ],
+    [
+      "attending his morning classes at Oak Hill College (attending his second class) (participating in class discussions)",
+      15
+    ],
+    [
+      "attending his morning classes at Oak Hill College (attending his second class) (taking a short break)",
+      5
+    ],
+    [
+      "attending his morning classes at Oak Hill College (attending his second class) (reviewing his notes)",
+      5
+    ],
+    [
+      "attending his morning classes at Oak Hill College (on the way to working on a group project during class)",
+      30
+    ],
+    [
+      "attending his morning classes at Oak Hill College (conversing about Wolfgang Schulz and Ayesha Khan are discussing ways to make their poetry reading event more inclusive by collaborating with LGBTQ+ organizations, incorporating sign language interpretation, highlighting the historical impact of systemic racism and the contributions of Black creators, hosting a workshop on allyship and privilege, centering Black LGBTQ+ individuals, inviting young aspiring poets from diverse backgrounds to share their work, collaborating with Black-owned businesses and artists, and featuring spoken word performances addressing unconscious bias and microaggressions, while also prioritizing showcasing the intersectionality of race and gender.)",
+      16
+    ],
+    [
+      "having lunch (preparing his lunch)",
+      10
+    ],
+    [
+      "having lunch (eating his lunch)",
+      20
+    ],
+    [
+      "having lunch (on the way to checking his emails)",
+      0
+    ],
+    [
+      "having lunch (conversing about championing diversity and inclusivity in their collaboration, Wolfgang Schulz and Eddy Lin discuss actively promoting marginalized voices, addressing systemic inequalities, challenging unconscious bias and microaggressions, involving young aspiring poets from diverse backgrounds, collaborating with local organizations supporting marginalized communities, incorporating elements of Black music genres and African American literature, collaborating with Black-owned businesses and artists to uplift the Black community, showcasing the intersectionality of race and gender, engaging with the student community, involving diverse voices, and incorporating elements of different cultural music styles and Black LGBTQ+ voices.)",
+      19
+    ],
+    [
+      "having lunch (making a to-do list for the rest of the day)",
+      10
+    ],
+    [
+      "having lunch (taking a short break to relax)",
+      10
+    ],
+    [
+      "studying for exams (on the way to reviewing his notes from previous lectures)",
+      0
+    ],
+    [
+      "studying for exams (conversing about collaborating on ways to amplify the voices of Black LGBTQ+ individuals through event planning, including involving community leaders and activists, creating safe spaces, incorporating performers and artists, offering allyship workshops, addressing unconscious bias, engaging with local LGBTQ+ organizations, and centering the experiences of the local Black LGBTQ+ community in their collaborative efforts.)",
+      17
+    ],
+    [
+      "studying for exams (organizing his study materials)",
+      5
+    ],
+    [
+      "studying for exams (creating flashcards for key concepts)",
+      15
+    ],
+    [
+      "studying for exams (taking a short break)",
+      5
+    ],
+    [
+      "studying for exams (practicing sample problems)",
+      16
+    ],
+    [
+      "attending his afternoon classes at Oak Hill College",
+      53
+    ],
+    [
+      "meeting with Eddy Lin in the library to discuss collaboration project (on the way to reviewing his notes and ideas for the collaboration project)",
+      0
+    ],
+    [
+      "meeting with Eddy Lin in the library to discuss collaboration project (conversing about Ayesha Khan and Wolfgang Schulz are discussing the inclusion of workshops, spoken word performances, collaborations with Black-owned businesses and LGBTQ+ organizations, and the importance of diversity and inclusivity at their poetry reading event.)",
+      12
+    ],
+    [
+      "meeting with Eddy Lin in the library to discuss collaboration project (on the way to discussing his ideas with Eddy Lin)",
+      0
+    ],
+    [
+      "meeting with Eddy Lin in the library to discuss collaboration project (conversing about Wolfgang Schulz and Eddy Lin discussing the importance of promoting diversity, inclusivity, and empowerment of marginalized voices in their collaboration project.)",
+      18
+    ],
+    [
+      "taking notes on their discussion",
+      5
+    ],
+    [
+      "wrapping up the meeting and heading back to his dorm to continue studying for exams.",
+      5
+    ],
+    [
+      "meeting with Eddy Lin in the library to discuss collaboration project (on the way to brainstorming ways to incorporate music theory and literature into chemistry experiments)",
+      0
+    ],
+    [
+      "meeting with Eddy Lin in the library to discuss collaboration project (conversing about amplifying the voices of Black LGBTQ+ individuals and actively engaging with the community through event planning, featuring Black LGBTQ+ performers, collaborating with local LGBTQ+ organizations, providing workshops on allyship and privilege, centering the experiences and perspectives of Black LGBTQ+ individuals, prioritizing their voices, addressing systemic racism and biases, promoting diversity and inclusion, reflecting on privileges and biases, listening to feedback, considering mental health and well-being, involving local community leaders and activists, and empowering young aspiring poets from diverse backgrounds, including Black LGBTQ+ individuals.)",
+      20
+    ],
+    [
+      "taking notes on their discussion",
+      5
+    ],
+    [
+      "wrapping up the meeting and heading to his next appointment",
+      5
+    ],
+    [
+      "meeting with Carlos at Oak Hill College to establish project timeline (walking to the meeting location)",
+      10
+    ],
+    [
+      "meeting with Carlos at Oak Hill College to establish project timeline (greeting Carlos and exchanging pleasantries)",
+      5
+    ],
+    [
+      "meeting with Carlos at Oak Hill College to establish project timeline (discussing the purpose of the meeting with Carlos)",
+      10
+    ],
+    [
+      "meeting with Carlos at Oak Hill College to establish project timeline (sharing his ideas for the project)",
+      15
+    ],
+    [
+      "meeting with Carlos at Oak Hill College to establish project timeline (listening to Carlos' ideas and taking notes)",
+      5
+    ],
+    [
+      "wrapping up the meeting and heading back to his dorm to continue studying for exams.",
+      5
+    ],
+    [
+      "wrapping up the meeting and heading back to his dorm to continue studying for exams. (on the way to wrapping up the meeting and heading back to his dorm to continue studying for exams)",
+      0
+    ],
+    [
+      "wrapping up the meeting and heading back to his dorm to continue studying for exams. (conversing about Wolfgang Schulz and Ayesha Khan are discussing the planning of a poetry reading event that includes highlighting historical contributions of Black creators, systemic racism, diversity, intersectionality, allyship, LGBTQ+ representation, collaboration with local community leaders and activists, and providing accessibility options.)",
+      15
+    ],
+    [
+      "reviewing notes from the meeting and brainstorming ideas for the poetry reading event.",
+      10
+    ],
+    [
+      "taking a short break to stretch and grab a snack.",
+      10
+    ],
+    [
+      "studying for exams. (on the way to reviewing his notes from class)",
+      0
+    ],
+    [
+      "studying for exams. (conversing about how to further amplify marginalized voices by collaborating with Black-owned businesses, highlighting Black LGBTQ+ individuals, involving diverse youth in event planning, providing resources and support, addressing unconscious bias and microaggressions, incorporating Black music genres and literature, showcasing local Black artists, offering educational resources on Black history and contributions, collaborating with community leaders and activists, providing mentorship for young Black individuals, planning workshops on allyship and privilege, working with educational institutions, addressing systemic racism, and recognizing intersectionality in promoting diversity and inclusion.)",
+      20
+    ],
+    [
+      "studying for exams. (creating flashcards for key concepts)",
+      20
+    ],
+    [
+      "studying for exams. (on the way to taking a short break)",
+      0
+    ],
+    [
+      "studying for exams. (conversing about promoting diversity and inclusion, Wolfgang Schulz and Eddy Lin discuss collaborating with Black-owned businesses, highlighting Black LGBTQ+ individuals, involving diverse youth in event planning, providing resources and support, addressing unconscious bias and microaggressions, incorporating Black music genres and literature, showcasing local Black artists, offering educational resources on Black history and contributions, collaborating with community leaders and activists, providing mentorship for young Black individuals, planning workshops on allyship and privilege, working with educational institutions, addressing systemic racism, recognizing intersectionality in promoting diversity and inclusion, involving young aspiring poets from diverse backgrounds, collaborating with local organizations supporting marginalized communities, showcasing the intersectionality of race and gender, creating a safe and inclusive space, incorporating elements of different cultural music styles and Black LGBTQ+ voices, actively listening to marginalized voices, continuously educating themselves on issues of diversity and inclusion, talking about dismantling systemic inequalities, putting words into action, advocating for meaningful change, and working towards creating a more equitable and just society.)",
+      20
+    ],
+    [
+      "studying for exams. (on the way to taking a short break)",
+      0
+    ],
+    [
+      "studying for exams. (conversing about efforts to promote diversity and inclusion, specifically focusing on supporting the Black LGBTQ+ community, collaborating with local organizations and leaders, educating themselves on diversity issues, addressing biases and microaggressions, and empowering young aspiring poets from diverse backgrounds.)",
+      21
+    ],
+    [
+      "taking a short break. (on the way to taking a short break)",
+      0
+    ],
+    [
+      "taking a short break. (conversing about planning an upcoming poetry reading event with a focus on amplifying marginalized voices and promoting diversity, inclusion, and allyship through spoken word performances, workshops on privilege and allyship, involvement of Black LGBTQ+ activists, local artists, musicians, and Black-owned businesses, as well as mentorship opportunities for young Black leaders in the community.)",
+      16
+    ],
+    [
+      "studying for exams. (practicing sample problems)",
+      20
+    ],
+    [
+      "reviewing and organizing study materials for the next day's exams.",
+      10
+    ],
+    [
+      "attending a student athlete meeting (checking his schedule to make sure he has enough time for the meeting)",
+      5
+    ],
+    [
+      "attending a student athlete meeting (getting dressed in his team uniform)",
+      10
+    ],
+    [
+      "attending a student athlete meeting (on the way to reviewing the agenda for the meeting and driving to the meeting location)",
+      0
+    ],
+    [
+      "attending a student athlete meeting (conversing about Wolfgang Schulz and Ayesha Khan are discussing ways to promote inclusivity and diversity at their event by involving local schools, youth organizations, LGBTQ+ organizations, Black-owned businesses, Black LGBTQ+ individuals, providing accessibility, workshops on allyship and privilege, personal narratives on unconscious bias and microaggressions, insights on systemic racism from local activists and historians, mentorship opportunities for young Black leaders, and incorporating live music performances.)",
+      15
+    ],
+    [
+      "attending a student athlete meeting (arriving at the meeting location and finding a parking spot)",
+      5
+    ],
+    [
+      "attending a meeting with the student athlete group to discuss promoting diversity and inclusion in sports. (listening to the presentation on diversity and inclusion in sports)",
+      30
+    ],
+    [
+      "attending a meeting with the student athlete group to discuss promoting diversity and inclusion in sports. (actively participating in the group discussion)",
+      30
+    ],
+    [
+      "attending a meeting with the student athlete group to discuss promoting diversity and inclusion in sports. (sharing his own experiences and ideas)",
+      20
+    ],
+    [
+      "attending a meeting with the student athlete group to discuss promoting diversity and inclusion in sports. (on the way to taking notes on important points and action items)",
+      0
+    ],
+    [
+      "attending a meeting with the student athlete group to discuss promoting diversity and inclusion in sports. (conversing about collaborating on promoting diversity and inclusion in sports by planning events that amplify marginalized voices, involve local Black-owned businesses and LGBTQ+ organizations, prioritize accessibility and inclusivity, incorporate live music performances, provide mentorship for young aspiring poets, and create a platform for sharing personal narratives and experiences.)",
+      10
+    ],
+    [
+      "finishing up his evening routine and getting ready for bed (taking a shower)",
+      10
+    ],
+    [
+      "finishing up his evening routine and getting ready for bed (brushing his teeth)",
+      5
+    ],
+    [
+      "finishing up his evening routine and getting ready for bed (changing into his pajamas)",
+      5
+    ],
+    [
+      "finishing up his evening routine and getting ready for bed (setting his alarm for 5:00 am)",
+      5
+    ],
+    [
+      "finishing up his evening routine and getting ready for bed (checking his schedule for the next day)",
+      10
+    ],
+    [
+      "finishing up his evening routine and getting ready for bed (packing his bag for classes and meetings)",
+      10
+    ],
+    [
+      "finishing up his evening routine and getting ready for bed (writing in his journal)",
+      10
+    ],
+    [
+      "finishing up his evening routine and getting ready for bed (turning off the lights and getting into bed)",
+      5
+    ],
+    [
+      "going to bed at 9:00 pm to get enough rest for the next day",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -16
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -1
+    ],
+    [
+      "sleeping",
+      1
+    ],
+    [
+      "sleeping",
+      -5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      15
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -5
+    ],
+    [
+      "sleeping",
+      -5
+    ],
+    [
+      "sleeping",
+      4
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      9
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      300
+    ],
+    [
+      "completing his morning routine",
+      60
+    ],
+    [
+      "going for a run at the park",
+      60
+    ],
+    [
+      "having breakfast and studying for exams",
+      60
+    ],
+    [
+      "attending his morning classes at Oak Hill College",
+      240
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "studying for exams",
+      60
+    ],
+    [
+      "attending his afternoon classes at Oak Hill College",
+      60
+    ],
+    [
+      "meeting with Eddy Lin in the library to discuss collaboration project",
+      60
+    ],
+    [
+      "meeting with Carlos at Oak Hill College to establish project timeline",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "studying for exams",
+      60
+    ],
+    [
+      "attending a student athlete meeting",
+      60
+    ],
+    [
+      "attending a meeting with the student athlete group to discuss promoting diversity and inclusion in sports",
+      120
+    ],
+    [
+      "finishing up his evening routine and getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 9:00 pm to get enough rest for the next day",
+      60
+    ]
+  ],
+  "act_address": "the Ville:artist's co-living space:common room:common room table",
+  "act_start_time": "February 14, 2023, 21:55:00",
+  "act_duration": 10,
+  "act_description": "attending a meeting with the student athlete group to discuss promoting diversity and inclusion in sports. (conversing about collaborating on promoting diversity and inclusion in sports by planning events that amplify marginalized voices, involve local Black-owned businesses and LGBTQ+ organizations, prioritize accessibility and inclusivity, incorporate live music performances, provide mentorship for young aspiring poets, and create a platform for sharing personal narratives and experiences.)",
+  "act_pronunciatio": "\ud83c\udfa4",
+  "act_event": [
+    "Wolfgang Schulz",
+    "Wolfgang Schulz",
+    "is"
+  ],
+  "act_obj_description": "being utilized for a collaborative discussion on promoting diversity and inclusion in sports",
+  "act_obj_pronunciatio": "\ud83e\udd1d",
+  "act_obj_event": [
+    "common room table",
+    "utilize",
+    "collaborative discussion on promoting diversity and inclusion in sports"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Ayesha Khan": 218,
+    "Klaus Mueller": -298,
+    "Carlos Gomez": 770,
+    "Sam Moore": -7990,
+    "Eddy Lin": -442,
+    "Isabella Rodriguez": -8104,
+    "Adam Smith": -4624,
+    "Tom Moreno": -592
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      90,
+      32
+    ],
+    [
+      89,
+      32
+    ],
+    [
+      88,
+      32
+    ],
+    [
+      87,
+      32
+    ],
+    [
+      86,
+      32
+    ],
+    [
+      85,
+      32
+    ],
+    [
+      84,
+      32
+    ],
+    [
+      83,
+      32
+    ],
+    [
+      82,
+      32
+    ],
+    [
+      81,
+      32
+    ],
+    [
+      80,
+      32
+    ],
+    [
+      79,
+      32
+    ],
+    [
+      78,
+      32
+    ],
+    [
+      77,
+      32
+    ],
+    [
+      76,
+      32
+    ],
+    [
+      75,
+      32
+    ],
+    [
+      74,
+      32
+    ],
+    [
+      73,
+      32
+    ],
+    [
+      72,
+      32
+    ],
+    [
+      71,
+      32
+    ],
+    [
+      70,
+      32
+    ],
+    [
+      69,
+      32
+    ],
+    [
+      68,
+      32
+    ],
+    [
+      67,
+      32
+    ],
+    [
+      66,
+      32
+    ],
+    [
+      65,
+      32
+    ],
+    [
+      64,
+      32
+    ],
+    [
+      63,
+      32
+    ],
+    [
+      62,
+      32
+    ],
+    [
+      61,
+      32
+    ],
+    [
+      60,
+      32
+    ],
+    [
+      59,
+      32
+    ],
+    [
+      58,
+      32
+    ],
+    [
+      57,
+      32
+    ],
+    [
+      56,
+      32
+    ],
+    [
+      55,
+      32
+    ],
+    [
+      54,
+      32
+    ],
+    [
+      53,
+      32
+    ],
+    [
+      52,
+      32
+    ],
+    [
+      51,
+      32
+    ],
+    [
+      50,
+      32
+    ],
+    [
+      49,
+      32
+    ],
+    [
+      48,
+      32
+    ],
+    [
+      47,
+      32
+    ],
+    [
+      46,
+      32
+    ],
+    [
+      45,
+      32
+    ],
+    [
+      44,
+      32
+    ],
+    [
+      43,
+      32
+    ],
+    [
+      42,
+      32
+    ],
+    [
+      41,
+      32
+    ],
+    [
+      40,
+      32
+    ],
+    [
+      39,
+      32
+    ],
+    [
+      39,
+      31
+    ],
+    [
+      39,
+      30
+    ],
+    [
+      39,
+      29
+    ],
+    [
+      39,
+      28
+    ]
+  ],
+  "known_personas": [
+    "Ayesha Khan",
+    "Klaus Mueller",
+    "Carlos Gomez",
+    "Sam Moore",
+    "Eddy Lin",
+    "Isabella Rodriguez",
+    "Adam Smith",
+    "Tom Moreno"
+  ]
+}

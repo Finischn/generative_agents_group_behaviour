@@ -1,0 +1,357 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "taking a break and having a snack at Hobbs Cafe (chatting with her employees and customers) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        27,
+        45
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about the importance of promoting diversity and inclusion in their village through creativity and collaboration between Carlos Gomez and Adam Smith. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Adam, how's your writing and research going? Have you made any interesting discoveries recently?"
+        ],
+        [
+          "Adam Smith",
+          "Hey Carlos, my research is going well. I've been exploring the importance of creativity and its impact on society. Have you ever thought about how creativity can shape our world?"
+        ],
+        [
+          "Carlos Gomez",
+          "Definitely, creativity has the power to bridge gaps between different cultures and experiences, fostering understanding and empathy in our community."
+        ],
+        [
+          "Adam Smith",
+          "That's a very insightful perspective, Carlos. Do you think creativity plays a role in promoting diversity and inclusion within our village?"
+        ],
+        [
+          "Carlos Gomez",
+          "Absolutely, creativity is a powerful tool in amplifying marginalized voices and promoting inclusivity. I believe by embracing diversity and supporting different perspectives, we can create a more unified and vibrant community."
+        ],
+        [
+          "Adam Smith",
+          "I completely agree with you, Carlos. It's inspiring to see how creativity can bring people together and foster a sense of unity in our community."
+        ],
+        [
+          "Carlos Gomez",
+          "I think it's important for us to actively listen to and uplift the voices of marginalized communities to truly promote diversity and inclusion in our village. What do you think?"
+        ],
+        [
+          "Adam Smith",
+          "I couldn't agree more, Carlos. It's crucial for us to actively support and elevate the voices of marginalized communities. How can we work together to ensure that everyone in our village feels heard and represented?"
+        ],
+        [
+          "Carlos Gomez",
+          "We can start by collaborating on projects that showcase the diversity of voices in our community and actively seek out opportunities to uplift underrepresented individuals."
+        ],
+        [
+          "Adam Smith",
+          "I think it would be great to involve more voices in our upcoming event on diversity and inclusion. Would you be interested in collaborating on this project together?"
+        ],
+        [
+          "Carlos Gomez",
+          "I would love to collaborate with you on the event! Let's brainstorm ideas on how we can make it a truly inclusive and impactful experience for everyone in our community."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a wonderful idea, Carlos. Let's schedule a meeting to discuss our plans further and ensure that we create an inclusive and welcoming space for all members of our community."
+        ],
+        [
+          "Carlos Gomez",
+          "We can also consider reaching out to local organizations and community groups to collaborate on promoting diversity and inclusivity in our village."
+        ],
+        [
+          "Adam Smith",
+          "Thank you for sharing your insights, Carlos. I think working together on this project will truly make a positive impact on our community. Let's continue our discussion and plan our next steps to promote diversity and inclusion."
+        ],
+        [
+          "Carlos Gomez",
+          "Adam, I think it's crucial for us to listen to and learn from the diverse voices in our community. By actively seeking out different perspectives, we can truly promote inclusivity and understanding."
+        ],
+        [
+          "Adam Smith",
+          "Carlos, I appreciate your perspective and I agree with the importance of actively seeking out diverse voices in our community. I believe that by working together, we can truly make a difference and create a more inclusive environment for everyone."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        122,
+        22
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "still at the library researching (reading and analyzing the articles) (comparing and contrasting the information from the first and second articles) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        67,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcb8",
+      "description": "gathering party materials for his birthday party (checking his budget for the party) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about promoting diversity, inclusion, and equity in their collaboration by actively seeking out and uplifting marginalized voices, engaging with the local community, showcasing a mix of established and emerging artists from different backgrounds, providing accessibility with sign language interpretation and subtitles, organizing workshops on allyship and privilege, featuring spoken word performances on unconscious bias and microaggressions, addressing unconscious bias and microaggressions, creating a safe space for open dialogue and learning, involving more voices from underrepresented communities, centering the perspectives of Black individuals, and actively listening, learning, supporting, and uplifting Black voices in their work @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Eddy, I was thinking about how we can incorporate more diverse perspectives into our collaboration. What are your thoughts on that?"
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Ayesha. It's essential for us to ensure that we are actively seeking out and uplifting the voices of marginalized communities in our creative process. By doing so, we can truly make a positive impact and promote diversity and inclusion effectively."
+        ],
+        [
+          "Ayesha Khan",
+          "I believe it's important for us to actively engage with the local community to ensure that our work resonates with a wide range of people. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "I think actively involving more voices in the conversation about diversity and inclusion, like Carlos Gomez emphasized, can really enrich our project. What do you think, Ayesha?"
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Eddy. It's crucial for us to actively address systemic inequalities and racism in our collaboration to ensure inclusivity and equality."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I appreciate your insights on incorporating diverse cultural backgrounds and providing a platform for community members to share their poetry. I think it's essential for us to showcase a mix of established and emerging artists from different backgrounds. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "I also believe that providing accessibility by including sign language interpretation or subtitles in our project can make a significant difference in reaching a wider audience. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I think it's also crucial for us to actively seek out and support artists from underrepresented backgrounds in our collaboration. By doing so, we can truly amplify diverse voices and contribute to a more inclusive and equal creative space."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I believe we can also consider organizing workshops on allyship and privilege as part of our collaboration to raise awareness about intersectionality of race and gender, specifically supporting Black LGBTQ+ individuals. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, your insights on promoting diversity and inclusivity in the community through organizing a poetry reading event are truly inspiring. I think by featuring spoken word performances on unconscious bias and microaggressions, we can further shed light on important social issues. What are your thoughts on including this in our project?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I appreciate your willingness to learn and grow in this process. It's important for us to continuously educate ourselves on issues of diversity and inclusivity to make a meaningful impact. Let's keep pushing forward together."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I truly value your perspective and insights on promoting diversity and inclusivity. Your senior thesis on Shakespeare's use of language has been enlightening, and I'm grateful for the opportunity to collaborate with you on such meaningful topics."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I think it's crucial for us to actively address unconscious bias and microaggressions in our collaboration. By creating a safe space for open dialogue and learning, we can truly foster inclusivity and understanding."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I appreciate your insights on addressing unconscious bias and microaggressions. It's important for us to create a safe space for open dialogue and learning to foster inclusivity and understanding. How do you think we can further amplify diverse voices in our collaboration?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I believe it's crucial for us to actively involve more voices from underrepresented communities in our collaboration to ensure a truly diverse and inclusive project. By amplifying these voices, we can create a more equitable and impactful creative space."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I believe it's essential for us to actively listen to and learn from the experiences of Black individuals in our collaboration. By centering their perspectives and incorporating their voices, we can create a more inclusive and empowering project. How do you think we can best support and uplift Black voices in our work?"
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        122,
+        47
+      ],
+      "pronunciatio": "\ud83e\uddea",
+      "description": "studying for exams (practicing chemistry problems for 45 minutes) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        119,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about promoting diversity, inclusion, and equity in their collaboration by actively seeking out and uplifting marginalized voices, engaging with the local community, showcasing a mix of established and emerging artists from different backgrounds, providing accessibility with sign language interpretation and subtitles, organizing workshops on allyship and privilege, featuring spoken word performances on unconscious bias and microaggressions, addressing unconscious bias and microaggressions, creating a safe space for open dialogue and learning, involving more voices from underrepresented communities, centering the perspectives of Black individuals, and actively listening, learning, supporting, and uplifting Black voices in their work @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Eddy, I was thinking about how we can incorporate more diverse perspectives into our collaboration. What are your thoughts on that?"
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Ayesha. It's essential for us to ensure that we are actively seeking out and uplifting the voices of marginalized communities in our creative process. By doing so, we can truly make a positive impact and promote diversity and inclusion effectively."
+        ],
+        [
+          "Ayesha Khan",
+          "I believe it's important for us to actively engage with the local community to ensure that our work resonates with a wide range of people. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "I think actively involving more voices in the conversation about diversity and inclusion, like Carlos Gomez emphasized, can really enrich our project. What do you think, Ayesha?"
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Eddy. It's crucial for us to actively address systemic inequalities and racism in our collaboration to ensure inclusivity and equality."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I appreciate your insights on incorporating diverse cultural backgrounds and providing a platform for community members to share their poetry. I think it's essential for us to showcase a mix of established and emerging artists from different backgrounds. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "I also believe that providing accessibility by including sign language interpretation or subtitles in our project can make a significant difference in reaching a wider audience. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I think it's also crucial for us to actively seek out and support artists from underrepresented backgrounds in our collaboration. By doing so, we can truly amplify diverse voices and contribute to a more inclusive and equal creative space."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I believe we can also consider organizing workshops on allyship and privilege as part of our collaboration to raise awareness about intersectionality of race and gender, specifically supporting Black LGBTQ+ individuals. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, your insights on promoting diversity and inclusivity in the community through organizing a poetry reading event are truly inspiring. I think by featuring spoken word performances on unconscious bias and microaggressions, we can further shed light on important social issues. What are your thoughts on including this in our project?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I appreciate your willingness to learn and grow in this process. It's important for us to continuously educate ourselves on issues of diversity and inclusivity to make a meaningful impact. Let's keep pushing forward together."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I truly value your perspective and insights on promoting diversity and inclusivity. Your senior thesis on Shakespeare's use of language has been enlightening, and I'm grateful for the opportunity to collaborate with you on such meaningful topics."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I think it's crucial for us to actively address unconscious bias and microaggressions in our collaboration. By creating a safe space for open dialogue and learning, we can truly foster inclusivity and understanding."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I appreciate your insights on addressing unconscious bias and microaggressions. It's important for us to create a safe space for open dialogue and learning to foster inclusivity and understanding. How do you think we can further amplify diverse voices in our collaboration?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I believe it's crucial for us to actively involve more voices from underrepresented communities in our collaboration to ensure a truly diverse and inclusive project. By amplifying these voices, we can create a more equitable and impactful creative space."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I believe it's essential for us to actively listen to and learn from the experiences of Black individuals in our collaboration. By centering their perspectives and incorporating their voices, we can create a more inclusive and empowering project. How do you think we can best support and uplift Black voices in our work?"
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        68,
+        46
+      ],
+      "pronunciatio": "\ud83d\udecd",
+      "description": "still helping customers at the store (assisting a customer with a return or exchange) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "continuing to work on her children's books (revising and editing the first draft) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        27,
+        45
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about the importance of promoting diversity and inclusion in their village through creativity and collaboration between Carlos Gomez and Adam Smith. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Adam, how's your writing and research going? Have you made any interesting discoveries recently?"
+        ],
+        [
+          "Adam Smith",
+          "Hey Carlos, my research is going well. I've been exploring the importance of creativity and its impact on society. Have you ever thought about how creativity can shape our world?"
+        ],
+        [
+          "Carlos Gomez",
+          "Definitely, creativity has the power to bridge gaps between different cultures and experiences, fostering understanding and empathy in our community."
+        ],
+        [
+          "Adam Smith",
+          "That's a very insightful perspective, Carlos. Do you think creativity plays a role in promoting diversity and inclusion within our village?"
+        ],
+        [
+          "Carlos Gomez",
+          "Absolutely, creativity is a powerful tool in amplifying marginalized voices and promoting inclusivity. I believe by embracing diversity and supporting different perspectives, we can create a more unified and vibrant community."
+        ],
+        [
+          "Adam Smith",
+          "I completely agree with you, Carlos. It's inspiring to see how creativity can bring people together and foster a sense of unity in our community."
+        ],
+        [
+          "Carlos Gomez",
+          "I think it's important for us to actively listen to and uplift the voices of marginalized communities to truly promote diversity and inclusion in our village. What do you think?"
+        ],
+        [
+          "Adam Smith",
+          "I couldn't agree more, Carlos. It's crucial for us to actively support and elevate the voices of marginalized communities. How can we work together to ensure that everyone in our village feels heard and represented?"
+        ],
+        [
+          "Carlos Gomez",
+          "We can start by collaborating on projects that showcase the diversity of voices in our community and actively seek out opportunities to uplift underrepresented individuals."
+        ],
+        [
+          "Adam Smith",
+          "I think it would be great to involve more voices in our upcoming event on diversity and inclusion. Would you be interested in collaborating on this project together?"
+        ],
+        [
+          "Carlos Gomez",
+          "I would love to collaborate with you on the event! Let's brainstorm ideas on how we can make it a truly inclusive and impactful experience for everyone in our community."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a wonderful idea, Carlos. Let's schedule a meeting to discuss our plans further and ensure that we create an inclusive and welcoming space for all members of our community."
+        ],
+        [
+          "Carlos Gomez",
+          "We can also consider reaching out to local organizations and community groups to collaborate on promoting diversity and inclusivity in our village."
+        ],
+        [
+          "Adam Smith",
+          "Thank you for sharing your insights, Carlos. I think working together on this project will truly make a positive impact on our community. Let's continue our discussion and plan our next steps to promote diversity and inclusion."
+        ],
+        [
+          "Carlos Gomez",
+          "Adam, I think it's crucial for us to listen to and learn from the diverse voices in our community. By actively seeking out different perspectives, we can truly promote inclusivity and understanding."
+        ],
+        [
+          "Adam Smith",
+          "Carlos, I appreciate your perspective and I agree with the importance of actively seeking out diverse voices in our community. I believe that by working together, we can truly make a difference and create a more inclusive environment for everyone."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 16:33:40"
+  }
+}

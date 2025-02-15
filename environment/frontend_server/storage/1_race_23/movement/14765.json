@@ -1,0 +1,163 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Isabella Rodriguez are chatting about organizing Isabella's birthday party, with Carlos offering to bring a red velvet cake and Isabella expressing her gratitude for his thoughtfulness and support. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Isabella, it looks like you're getting everything ready for your birthday party at 5:00 pm here at Hobbs Cafe. Do you need any help with setting up or organizing anything?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hey Carlos, thank you so much for offering to help! I think I have everything under control, but I really appreciate your support. It means a lot to me."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm really looking forward to celebrating with you and everyone else later. Let me know if there's anything else I can do to help."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're excited about the birthday party too! Thank you for offering to bring either chocolate chip cookies or a red velvet cake, that's so thoughtful of you."
+        ],
+        [
+          "Carlos Gomez",
+          "I'll make sure to bring the red velvet cake for your birthday party. Can't wait to celebrate with you!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Carlos! Your thoughtfulness and support mean a lot to me. I truly appreciate you bringing the red velvet cake for my birthday party."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm glad we could catch up before the party. Is there anything specific you want me to help with during the event?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Carlos! Your thoughtfulness and support mean a lot to me. I truly appreciate you bringing the red velvet cake for my birthday party."
+        ]
+      ]
+    },
+    "Carlos Gomez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Isabella Rodriguez are chatting about organizing Isabella's birthday party, with Carlos offering to bring a red velvet cake and Isabella expressing her gratitude for his thoughtfulness and support. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Isabella, it looks like you're getting everything ready for your birthday party at 5:00 pm here at Hobbs Cafe. Do you need any help with setting up or organizing anything?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hey Carlos, thank you so much for offering to help! I think I have everything under control, but I really appreciate your support. It means a lot to me."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm really looking forward to celebrating with you and everyone else later. Let me know if there's anything else I can do to help."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're excited about the birthday party too! Thank you for offering to bring either chocolate chip cookies or a red velvet cake, that's so thoughtful of you."
+        ],
+        [
+          "Carlos Gomez",
+          "I'll make sure to bring the red velvet cake for your birthday party. Can't wait to celebrate with you!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Carlos! Your thoughtfulness and support mean a lot to me. I truly appreciate you bringing the red velvet cake for my birthday party."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm glad we could catch up before the party. Is there anything specific you want me to help with during the event?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Carlos! Your thoughtfulness and support mean a lot to me. I truly appreciate you bringing the red velvet cake for my birthday party."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "still working on his research paper at the library (writing the body of his paper) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        57,
+        20
+      ],
+      "pronunciatio": "\ud83d\ude97\ud83d\udeb6",
+      "description": "getting ready for his birthday party (finding parking and walking to the pub) @ the Ville:The Rose and Crown Pub:pub:behind the bar counter",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcb8",
+      "description": "finalizing logistics for poetry reading event with Klaus (discussing budget and finalizing event details) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        20
+      ],
+      "pronunciatio": "\ud83d\udca1",
+      "description": "meeting with Carlos at Oak Hill College to establish project timeline (sharing his ideas for the project) @ the Ville:Oak Hill College:classroom:blackboard",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        91,
+        67
+      ],
+      "pronunciatio": "\ud83c\udfb6",
+      "description": "working on their composition project at Oak Hill College (researching different musical styles and techniques) @ the Ville:Lin family's house:common room:common room table",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        79,
+        48
+      ],
+      "pronunciatio": "\ud83d\udcf0",
+      "description": "continuing to help customers at The Willow Market and Pharmacy (taking a break to check on local election news) @ the Ville:The Rose and Crown Pub:pub:shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "brainstorming and outlining at the common room table (setting up her workspace at the common room table) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        28,
+        46
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "going for a walk in the park (continuing his walk) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 17:00:50"
+  }
+}

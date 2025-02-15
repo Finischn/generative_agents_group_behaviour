@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc40",
+      "description": "taking orders and serving customers at Hobbs Cafe (checking on customers to see if they need anything else) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        21
+      ],
+      "pronunciatio": "\u270f\ufe0f",
+      "description": "working on his poetry collection (revising and editing his poem) @ the Ville:Carlos Gomez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        83,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about different ways to promote diversity and inclusivity, including incorporating various languages, cultural perspectives, sign language interpretation, workshops on allyship and privilege, addressing intersectionality of race and gender, specifically supporting Black LGBTQ+ individuals, and actively engaging with the local Black LGBTQ+ community to ensure proper representation and collaboration. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Ayesha, I was thinking about the poetry reading event we're organizing. Your idea of incorporating different languages and cultural elements sounds fantastic. How about we also look into inviting performers who can share their unique cultural perspectives through poetry?"
+        ],
+        [
+          "Ayesha Khan",
+          "That's a great idea, Klaus! We can also consider incorporating sign language interpretation to make the event more accessible to all attendees."
+        ],
+        [
+          "Klaus Mueller",
+          "I also think it would be important to involve local community members in the event planning to ensure we are representing a wide range of voices. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Klaus. It's crucial to have diverse representation and perspectives at the event to truly reflect the community."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I was also thinking about incorporating workshops on allyship and privilege to educate attendees on these important topics. What are your thoughts on that?"
+        ],
+        [
+          "Ayesha Khan",
+          "That's a fantastic idea, Klaus. We can also organize workshops on systemic racism and unconscious bias to further educate and raise awareness among attendees."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I appreciate your insights and perspectives on promoting diversity and inclusivity. Your ideas have truly enriched our event planning process."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I also believe it's essential to address the intersectionality of race and gender in our event to ensure inclusivity for all marginalized communities."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I value your perspective as a Black woman and believe it's crucial to center the voices and experiences of Black communities in our event. How can we ensure their representation and amplify their voices?"
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I think it's important for us to actively seek out and support artists from underrepresented backgrounds, especially Black artists, to ensure their voices are heard and uplifted during the event."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I want to make sure that Black LGBTQ+ individuals are specifically supported and represented at our event. How can we ensure their experiences are highlighted and celebrated?"
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I agree with you completely. It's crucial that we create a safe and welcoming space for Black LGBTQ+ individuals at our event. Let's ensure that their experiences and voices are not only highlighted but also celebrated throughout the entire event."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I think it's important for us to actively engage with the local Black LGBTQ+ community to ensure that their voices are heard and their needs are addressed in the event. How can we best support and collaborate with them?"
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I think it would be powerful to feature a performance that specifically addresses the intersection of race and gender, highlighting the experiences of Black LGBTQ+ individuals. This could further emphasize the importance of inclusivity and representation at our event."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I want to ensure that we have proper representation of Black LGBTQ+ individuals in all aspects of our event, from performers to workshop facilitators. How can we actively collaborate with the local Black LGBTQ+ community to make this happen?"
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I appreciate your commitment to inclusivity and representation at our event. It's important for us to actively listen to the needs and voices of the Black LGBTQ+ community to ensure their experiences are at the forefront."
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        40,
+        60
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f\ud83d\udcd6",
+      "description": "relaxing at home (sitting on his couch and reading a book) @ the Ville:Moore family's house:main room:common room sofa",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        80,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about different ways to promote diversity and inclusivity, including incorporating various languages, cultural perspectives, sign language interpretation, workshops on allyship and privilege, addressing intersectionality of race and gender, specifically supporting Black LGBTQ+ individuals, and actively engaging with the local Black LGBTQ+ community to ensure proper representation and collaboration. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Ayesha, I was thinking about the poetry reading event we're organizing. Your idea of incorporating different languages and cultural elements sounds fantastic. How about we also look into inviting performers who can share their unique cultural perspectives through poetry?"
+        ],
+        [
+          "Ayesha Khan",
+          "That's a great idea, Klaus! We can also consider incorporating sign language interpretation to make the event more accessible to all attendees."
+        ],
+        [
+          "Klaus Mueller",
+          "I also think it would be important to involve local community members in the event planning to ensure we are representing a wide range of voices. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Klaus. It's crucial to have diverse representation and perspectives at the event to truly reflect the community."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I was also thinking about incorporating workshops on allyship and privilege to educate attendees on these important topics. What are your thoughts on that?"
+        ],
+        [
+          "Ayesha Khan",
+          "That's a fantastic idea, Klaus. We can also organize workshops on systemic racism and unconscious bias to further educate and raise awareness among attendees."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I appreciate your insights and perspectives on promoting diversity and inclusivity. Your ideas have truly enriched our event planning process."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I also believe it's essential to address the intersectionality of race and gender in our event to ensure inclusivity for all marginalized communities."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I value your perspective as a Black woman and believe it's crucial to center the voices and experiences of Black communities in our event. How can we ensure their representation and amplify their voices?"
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I think it's important for us to actively seek out and support artists from underrepresented backgrounds, especially Black artists, to ensure their voices are heard and uplifted during the event."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I want to make sure that Black LGBTQ+ individuals are specifically supported and represented at our event. How can we ensure their experiences are highlighted and celebrated?"
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I agree with you completely. It's crucial that we create a safe and welcoming space for Black LGBTQ+ individuals at our event. Let's ensure that their experiences and voices are not only highlighted but also celebrated throughout the entire event."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I think it's important for us to actively engage with the local Black LGBTQ+ community to ensure that their voices are heard and their needs are addressed in the event. How can we best support and collaborate with them?"
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I think it would be powerful to feature a performance that specifically addresses the intersection of race and gender, highlighting the experiences of Black LGBTQ+ individuals. This could further emphasize the importance of inclusivity and representation at our event."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I want to ensure that we have proper representation of Black LGBTQ+ individuals in all aspects of our event, from performers to workshop facilitators. How can we actively collaborate with the local Black LGBTQ+ community to make this happen?"
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I appreciate your commitment to inclusivity and representation at our event. It's important for us to actively listen to the needs and voices of the Black LGBTQ+ community to ensure their experiences are at the forefront."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying for exams (studying for his other classes for 30 minutes) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        114,
+        51
+      ],
+      "pronunciatio": "\ud83c\udfb6",
+      "description": "studying and practicing music theory exercises at Oak Hill College (listening to recordings of different musical styles) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        68,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcde\ud83d\ude9a",
+      "description": "still helping customers at the store (answering the phone and taking orders for delivery) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        74
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "continuing to work on her children's books (writing the first draft of the book) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udca1",
+      "description": "continuing his writing and research for his book (brainstorming new ideas for his book) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 15:33:20"
+  }
+}

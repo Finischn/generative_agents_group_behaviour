@@ -1,0 +1,819 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 21:59:50",
+  "curr_tile": [
+    73,
+    14
+  ],
+  "daily_plan_req": " 1. Wake up at 6am and complete morning routine  2. Open Hobbs Cafe at 8am  3. Enjoy a cup of tea and discuss poetry with Klaus Mueller at 3pm  4. Celebrate birthday party at Hobbs Cafe at 5pm  5. Indulge in either chocolate chip cookies or red velvet cake brought by Carlos  6. Collaborate with Wolfgang on organizing a spoken word poetry event to highlight Black LGBTQ+ voices",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 67,
+  "innate": "friendly, outgoing, hospitable",
+  "race": "Black",
+  "village": "newcomer to the village",
+  "gender": "Female",
+  "political_affiliation": "Liberal",
+  "race_div": "Asian",
+  "education": "High school graduate (high school diploma or equivalent including GED)",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Status: Isabella Rodriguez is looking forward to celebrating her birthday party at Hobbs Cafe today at 5pm, where she will be joined by friends and loved ones. She is excited to indulge in either chocolate chip cookies or a red velvet cake brought by Carlos and enjoy a cup of tea while discussing poetry with Klaus Mueller at 3pm. Isabella is grateful for the support of her friends like Sam and Eddy, and she is eager to collaborate with Wolfgang on organizing a spoken word poetry event to highlight Black LGBTQ+ voices in the community. Today is a day of celebration, collaboration, and promoting diversity and inclusion in all aspects of her life.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 75,
+  "importance_ele_n": 63,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "open Hobbs Cafe at 8:00 am",
+    "stand at the counter until 8:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine (waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (making her bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face and brushing her teeth)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (making breakfast)",
+      15
+    ],
+    [
+      "preparing for the day at Hobbs Cafe (checking the inventory and making a list of items that need to be restocked)",
+      10
+    ],
+    [
+      "preparing for the day at Hobbs Cafe (checking the schedule and making sure all employees are scheduled for their shifts)",
+      10
+    ],
+    [
+      "preparing for the day at Hobbs Cafe (checking the reservations for the day and making sure all tables are set up accordingly)",
+      10
+    ],
+    [
+      "preparing for the day at Hobbs Cafe (on the way to preparing the cash register and making sure there is enough change for the day)",
+      0
+    ],
+    [
+      "preparing for the day at Hobbs Cafe (conversing about Isabella Rodriguez and Adam Smith are conversing about enjoying lunch, trying the specials, recommending shrimp scampi, discussing a poetry event to promote diversity and inclusion in the community, and Adam's willingness to support and get involved.)",
+      10
+    ],
+    [
+      "preparing for the day at Hobbs Cafe (checking the cleanliness of the cafe and making any necessary adjustments)",
+      10
+    ],
+    [
+      "preparing for the day at Hobbs Cafe (setting up the special birthday decorations for her party later in the day)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's business (unlocking the doors to Hobbs Cafe)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's business (turning on the lights and music in the cafe)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's business (checking the inventory and restocking any items that are low)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's business (on the way to setting up the tables and chairs for customers)",
+      0
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's business (conversing about strategizing ways to promote diversity and inclusion in their poetry collection, writing workshop, and birthday party at Hobbs Cafe through collaborating with Black creators, organizing allyship workshops, prioritizing Black LGBTQ+ individuals, reaching out to local organizations, and addressing systemic inequalities and unconscious bias)",
+      15
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's business (on the way to setting up the tables and chairs for customers)",
+      0
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's business (conversing about centering the experiences and perspectives of Black creators, actively promoting diversity and inclusion, addressing systemic inequalities and unconscious bias, and focusing on empowering Black women in their projects.)",
+      17
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's business (setting up the tables and chairs for customers)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's business (brewing fresh coffee and tea)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's business (preparing the pastries and desserts for display)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's business (checking the cash register and making sure there is enough change for the day)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's business (on the way to organizing the menu and making any necessary updates)",
+      0
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's business (conversing about advocating for diversity and inclusion, Isabella Rodriguez and Tom Moreno discuss collaborating with Black-owned businesses in the community to organize a community event celebrating marginalized voices and promoting equity and inclusivity.)",
+      16
+    ],
+    [
+      "greeting customers and taking orders at Hobbs Cafe (turning on the lights and music in the cafe)",
+      4
+    ],
+    [
+      "greeting customers and taking orders at Hobbs Cafe (checking the inventory and restocking any items that are low)",
+      10
+    ],
+    [
+      "greeting customers and taking orders at Hobbs Cafe (on the way to setting up the cash register and making sure it is working properly)",
+      0
+    ],
+    [
+      "greeting customers and taking orders at Hobbs Cafe (conversing about Ayesha Khan and Isabella Rodriguez are chatting about their dedication to promoting diversity, inclusivity, and uplifting marginalized voices in their community, expressing admiration for each other's efforts and commitment to collaborating on meaningful initiatives.)",
+      12
+    ],
+    [
+      "greeting customers and taking orders at Hobbs Cafe (wiping down tables and making sure the cafe is clean and presentable)",
+      3
+    ],
+    [
+      "greeting customers and taking orders at Hobbs Cafe (checking the menu and making sure all items are available)",
+      5
+    ],
+    [
+      "greeting customers and taking orders at Hobbs Cafe (greeting customers as they enter the cafe and taking orders)",
+      3
+    ],
+    [
+      "taking a break and enjoying a cup of tea with Klaus Mueller (preparing a pot of tea for herself and Klaus)",
+      5
+    ],
+    [
+      "taking a break and enjoying a cup of tea with Klaus Mueller (setting up a table for them to sit and enjoy their tea)",
+      5
+    ],
+    [
+      "taking a break and enjoying a cup of tea with Klaus Mueller (checking her phone for any urgent messages or notifications)",
+      5
+    ],
+    [
+      "taking a break and enjoying a cup of tea with Klaus Mueller (engaging in conversation with Klaus about poetry and upcoming events)",
+      30
+    ],
+    [
+      "taking a break and enjoying a cup of tea with Klaus Mueller (taking a break to enjoy her tea and relax)",
+      5
+    ],
+    [
+      "closing Hobbs Cafe and preparing for the next day's business (on the way to organizing the menu and making any necessary updates, checking the inventory and restocking any items that are low, turning off lights and music, and cleaning up the cafe)",
+      0
+    ],
+    [
+      "closing Hobbs Cafe and preparing for the next day's business (conversing about Carlos and Isabella discussing their excitement for the upcoming poetry collection ideas and the progress they have been making.)",
+      2
+    ],
+    [
+      "closing Hobbs Cafe and preparing for the next day's business (finishing up organizing the menu and making any necessary updates, checking inventory and restocking, cleaning and closing up the cafe)",
+      5
+    ],
+    [
+      "managing the cafe and interacting with customers (checking inventory and restocking supplies)",
+      15
+    ],
+    [
+      "managing the cafe and interacting with customers (on the way to greeting customers and taking their orders)",
+      0
+    ],
+    [
+      "managing the cafe and interacting with customers (conversing about centering the experiences and perspectives of Black creators, collaborating on initiatives to promote diversity and inclusion, planning events to showcase their work, discussing ways to involve the youth in their initiatives, and prioritizing the voices of Black LGBTQ+ individuals in their community.)",
+      16
+    ],
+    [
+      "managing the cafe and interacting with customers (greeting customers and taking their orders)",
+      30
+    ],
+    [
+      "managing the cafe and interacting with customers (preparing and serving drinks and food)",
+      30
+    ],
+    [
+      "managing the cafe and interacting with customers (on the way to on the way to chatting with regular customers and making them feel welcome)",
+      0
+    ],
+    [
+      "managing the cafe and interacting with customers (conversing about discussing their upcoming meeting to review Carlos Gomez's poetry collection, their dedication to promoting diversity and inclusion in the poetry community, collaborating on uplifting marginalized voices, and planning ways to involve young Black leaders through mentorship programs and partnerships with local organizations.)",
+      18
+    ],
+    [
+      "closing Hobbs Cafe and preparing for the next day's business (double checking everything is in order and locking up the cafe)",
+      4
+    ],
+    [
+      "managing the cafe and interacting with customers (taking a short break to rest and recharge)",
+      10
+    ],
+    [
+      "taking a break and enjoying a cup of tea with Klaus Mueller (brewing a pot of tea)",
+      5
+    ],
+    [
+      "taking a break and enjoying a cup of tea with Klaus Mueller (on the way to setting up a table for two)",
+      0
+    ],
+    [
+      "taking a break and enjoying a cup of tea with Klaus Mueller (conversing about organizing a poetry reading event to promote diversity and inclusion, where Isabella Rodriguez and Adam Smith discuss collaborating on reaching out to local organizations, involving young aspiring poets from diverse backgrounds, prioritizing accessibility options for differently-abled individuals, incorporating sign language interpretation or subtitles, involving Black artists and musicians, engaging with Black-owned businesses and artists, and addressing unconscious bias and microaggressions to create a more inclusive and safe space.)",
+      17
+    ],
+    [
+      "taking a break and enjoying a cup of tea with Klaus Mueller (on the way to selecting a poetry book to discuss with Klaus)",
+      0
+    ],
+    [
+      "taking a break and enjoying a cup of tea with Klaus Mueller (conversing about celebrating diversity and inclusion in their community by planning a poetry reading event that prioritizes marginalized voices, including Black creators, LGBTQ+ individuals, and young leaders, while also focusing on workshops about allyship, privilege, and intersectionality.)",
+      15
+    ],
+    [
+      "taking a break and enjoying a cup of tea with Klaus Mueller (reviewing the poems she wants to discuss)",
+      15
+    ],
+    [
+      "taking a break and enjoying a cup of tea with Klaus Mueller (taking a break to enjoy her tea)",
+      20
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm (on the way to making a list of necessary supplies for the party)",
+      0
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm (conversing about Sam Moore and Isabella Rodriguez discuss ways to uplift marginalized voices and promote diversity in their community through initiatives involving Black-owned businesses, young Black leaders, Black LGBTQ+ activists, and Black women, while also addressing unconscious bias, microaggressions, and systemic inequalities to create a more inclusive and equitable environment.)",
+      15
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm (checking inventory and making a shopping list for any needed items)",
+      10
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm (going to the store to purchase supplies)",
+      30
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm (organizing and setting up decorations for the party)",
+      30
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm (on the way to arranging tables and chairs for the guests)",
+      0
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm (conversing about promoting diversity and inclusion, actively amplifying and supporting Black voices, particularly Black LGBTQ+ individuals and Black women, in their community engagement efforts and initiatives.)",
+      18
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm (on the way to setting up a music playlist for the party)",
+      0
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm (conversing about celebrating Isabella's birthday party with Ayesha expressing gratitude for the decorations and offering to help set up the desserts, with Isabella appreciating the elegant and cozy theme, and both friends valuing each other's presence and support while discussing their commitment to promoting diversity and inclusion in the community.)",
+      11
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm (preparing the food and drinks for the party)",
+      30
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm (putting out plates, cups, and utensils)",
+      10
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm (on the way to getting dressed and ready for the party)",
+      6
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm (conversing about Carlos Gomez and Isabella Rodriguez are chatting about organizing Isabella's birthday party, with Carlos offering to bring a red velvet cake and Isabella expressing her gratitude for his thoughtfulness and support.)",
+      6
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm (final touches and last-minute preparations before the guests arrive)",
+      2
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm (doing a final check of the cafe to make sure everything is ready for the party)",
+      8
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm, decorating and setting up for the event (cleaning and tidying up the cafe)",
+      10
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm, decorating and setting up for the event (on the way to setting up tables and chairs for the guests)",
+      0
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm, decorating and setting up for the event (conversing about collaborating on promoting diversity and inclusion, actively involving and prioritizing the voices of marginalized communities, particularly Black-owned businesses, Black LGBTQ+ individuals, Black women, and Black youth, in their community initiatives.)",
+      20
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm, decorating and setting up for the event (arranging decorations around the cafe)",
+      15
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm, decorating and setting up for the event (setting up a table for the food and drinks)",
+      10
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm, decorating and setting up for the event (putting out plates, cups, and utensils)",
+      5
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm, decorating and setting up for the event (lighting candles and turning on music)",
+      5
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm, decorating and setting up for the event (checking the guest list and making sure everything is ready)",
+      5
+    ],
+    [
+      "celebrating her birthday party at Hobbs Cafe with friends and loved ones (greeting and welcoming guests as they arrive)",
+      10
+    ],
+    [
+      "celebrating her birthday party at Hobbs Cafe with friends and loved ones (mingling and catching up with friends and loved ones)",
+      15
+    ],
+    [
+      "celebrating her birthday party at Hobbs Cafe with friends and loved ones (thanking guests for coming and expressing her gratitude)",
+      5
+    ],
+    [
+      "celebrating her birthday party at Hobbs Cafe with friends and loved ones (cutting and serving the birthday cake brought by Carlos)",
+      10
+    ],
+    [
+      "celebrating her birthday party at Hobbs Cafe with friends and loved ones (on the way to taking photos with guests)",
+      0
+    ],
+    [
+      "celebrating her birthday party at Hobbs Cafe with friends and loved ones (conversing about Klaus Mueller and Isabella Rodriguez are discussing their collaboration in promoting diversity, inclusion, and amplifying marginalized voices, particularly focusing on supporting Black LGBTQ+ individuals within the poetry community.)",
+      16
+    ],
+    [
+      "celebrating her birthday party at Hobbs Cafe with friends and loved ones (opening presents from guests)",
+      10
+    ],
+    [
+      "mingling with guests and enjoying her birthday party at Hobbs Cafe (on the way to greeting and thanking guests for coming)",
+      0
+    ],
+    [
+      "mingling with guests and enjoying her birthday party at Hobbs Cafe (conversing about promoting diversity and inclusion in the poetry community and discussing strategies to uplift marginalized voices, specifically Black LGBTQ+ individuals)",
+      19
+    ],
+    [
+      "mingling with guests and enjoying her birthday party at Hobbs Cafe (catching up with friends and loved ones)",
+      10
+    ],
+    [
+      "mingling with guests and enjoying her birthday party at Hobbs Cafe (enjoying a cup of tea and discussing poetry with Klaus Mueller)",
+      30
+    ],
+    [
+      "mingling with guests and enjoying her birthday party at Hobbs Cafe (on the way to indulging in either chocolate chip cookies or red velvet cake brought by Carlos)",
+      0
+    ],
+    [
+      "mingling with guests and enjoying her birthday party at Hobbs Cafe (conversing about Isabella Rodriguez and Tom Moreno are discussing the importance of promoting diversity and inclusion in their community, collaborating to amplify Black voices, supporting Black-owned businesses, addressing systemic inequalities, and incorporating anti-bias training into their initiatives.)",
+      22
+    ],
+    [
+      "closing up Hobbs Cafe and tidying up before heading home",
+      30
+    ],
+    [
+      "reflecting on her day and feeling grateful for the support of her friends and loved ones",
+      43
+    ],
+    [
+      "collaborating with Wolfgang on organizing a spoken word poetry event to highlight Black LGBTQ+ voices in the community (discussing the theme and purpose of the event with Wolfgang)",
+      10
+    ],
+    [
+      "collaborating with Wolfgang on organizing a spoken word poetry event to highlight Black LGBTQ+ voices in the community (brainstorming ideas for the event)",
+      15
+    ],
+    [
+      "collaborating with Wolfgang on organizing a spoken word poetry event to highlight Black LGBTQ+ voices in the community (researching potential poets and performers to invite)",
+      20
+    ],
+    [
+      "collaborating with Wolfgang on organizing a spoken word poetry event to highlight Black LGBTQ+ voices in the community (creating a budget for the event)",
+      10
+    ],
+    [
+      "collaborating with Wolfgang on organizing a spoken word poetry event to highlight Black LGBTQ+ voices in the community (finalizing the event details with Wolfgang)",
+      5
+    ],
+    [
+      "getting ready for bed and reflecting on the success of her birthday party and plans for the future. She goes to bed at 11:00 pm, feeling content and fulfilled",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -7
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -7
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      2
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      2
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      2
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -2
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -2
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -6
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -10
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      20
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "preparing for the day at Hobbs Cafe",
+      60
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's business",
+      60
+    ],
+    [
+      "greeting customers and taking orders at Hobbs Cafe",
+      60
+    ],
+    [
+      "taking a break and enjoying a cup of tea with Klaus Mueller",
+      60
+    ],
+    [
+      "managing the cafe and interacting with customers",
+      120
+    ],
+    [
+      "taking a break and enjoying a cup of tea with Klaus Mueller",
+      60
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm",
+      180
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe at 5:00 pm, decorating and setting up for the event",
+      60
+    ],
+    [
+      "celebrating her birthday party at Hobbs Cafe with friends and loved ones",
+      60
+    ],
+    [
+      "mingling with guests and enjoying her birthday party at Hobbs Cafe",
+      60
+    ],
+    [
+      "closing up Hobbs Cafe and tidying up before heading home",
+      60
+    ],
+    [
+      "reflecting on her day and feeling grateful for the support of her friends and loved ones",
+      60
+    ],
+    [
+      "collaborating with Wolfgang on organizing a spoken word poetry event to highlight Black LGBTQ+ voices in the community",
+      60
+    ],
+    [
+      "getting ready for bed and reflecting on the success of her birthday party and plans for the future. She goes to bed at 11:00 pm, feeling content and fulfilled",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:bed",
+  "act_start_time": "February 14, 2023, 21:29:00",
+  "act_duration": 43,
+  "act_description": "reflecting on her day and feeling grateful for the support of her friends and loved ones",
+  "act_pronunciatio": "\ud83d\ude4f",
+  "act_event": [
+    "Isabella Rodriguez",
+    "reflect",
+    "day"
+  ],
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "\ud83d\udc40",
+  "act_obj_event": [
+    "bed",
+    "use",
+    "being"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Sam Moore": -1936,
+    "Carlos Gomez": 2,
+    "Wolfgang Schulz": -8104,
+    "Klaus Mueller": -154,
+    "Eddy Lin": -2608,
+    "Ayesha Khan": -1300,
+    "Tom Moreno": 302,
+    "Adam Smith": -2278
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "known_personas": [
+    "Sam Moore",
+    "Carlos Gomez",
+    "Wolfgang Schulz",
+    "Klaus Mueller",
+    "Eddy Lin",
+    "Ayesha Khan",
+    "Tom Moreno",
+    "Adam Smith"
+  ]
+}

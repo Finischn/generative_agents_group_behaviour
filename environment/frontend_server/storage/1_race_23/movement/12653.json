@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83e\uddf3",
+      "description": "managing the cafe and interacting with customers (checking inventory and restocking supplies) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        76,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Klaus Mueller are discussing ways to promote diversity, inclusivity, and empowerment through their research collaboration on gentrification and poetry, planning an upcoming poetry reading event that includes diverse artists, sign language interpretation, multilingual readings, cultural performances, workshops on allyship and privilege, addressing unconscious bias and microaggressions, amplifying the voices of the Black LGBTQ+ community, involving young aspiring poets from diverse backgrounds, and collaborating with LGBTQ+ organizations. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Klaus, I really appreciate our discussion today. I think our research collaboration on gentrification and poetry can truly make a difference in promoting diversity and inclusivity. I'm excited to continue working together to amplify marginalized voices and address systemic inequalities through our upcoming poetry reading event."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Carlos. I completely agree. I believe our collaboration can have a significant impact on our community. Let's continue to brainstorm ideas and work towards creating a truly inclusive and diverse poetry reading event."
+        ],
+        [
+          "Carlos Gomez",
+          "I think it's important for us to actively involve Black artists and musicians in our project to ensure diverse representation and perspectives. What do you think?"
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely, I agree. We should make sure to involve a diverse range of artists and musicians from different backgrounds to truly showcase the richness of our community."
+        ],
+        [
+          "Carlos Gomez",
+          "I also think it would be beneficial to include sign language interpretation or subtitles at our poetry reading event to ensure accessibility for all participants."
+        ],
+        [
+          "Klaus Mueller",
+          "I agree, ensuring accessibility for all attendees is crucial. We should also prioritize engaging with marginalized communities in the planning process to truly make our event inclusive and representative of all voices."
+        ],
+        [
+          "Carlos Gomez",
+          "What are your thoughts on incorporating multilingual readings and cultural performances into our poetry event?"
+        ],
+        [
+          "Klaus Mueller",
+          "I think incorporating multilingual readings and cultural performances into our poetry event would be a fantastic way to celebrate diversity and showcase different voices. It's important for us to create a space where everyone feels represented and included."
+        ],
+        [
+          "Carlos Gomez",
+          "We should also consider hosting workshops on allyship and privilege to educate our audience and foster a more inclusive environment at the event. What do you think?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Carlos. I agree that hosting workshops on allyship and privilege would be impactful in creating a more inclusive environment at our event. Let's make sure to include that in our planning."
+        ],
+        [
+          "Carlos Gomez",
+          "I think it's also important for us to actively address unconscious bias and microaggressions in our project to ensure a welcoming and safe space for all participants."
+        ],
+        [
+          "Klaus Mueller",
+          "Carlos, I think it's crucial for us to prioritize amplifying the voices of the Black LGBTQ+ community in our event. By showcasing the experiences and perspectives of Black LGBTQ+ individuals, we can create a more inclusive and empowering space for everyone."
+        ],
+        [
+          "Carlos Gomez",
+          "I think we should also reach out to local organizations and schools to involve young aspiring poets from diverse backgrounds in our event."
+        ],
+        [
+          "Klaus Mueller",
+          "I completely agree, Carlos. By involving young aspiring poets from diverse backgrounds in our event, we can provide them a platform to share their voices and experiences. It's essential to support and uplift the next generation of poets."
+        ],
+        [
+          "Carlos Gomez",
+          "Klaus, I think we should also consider collaborating with LGBTQ+ organizations to further support and amplify the voices of the Black LGBTQ+ community in our poetry reading event. What do you think?"
+        ],
+        [
+          "Klaus Mueller",
+          "Carlos, I completely support the idea of collaborating with LGBTQ+ organizations to further amplify the voices of the Black LGBTQ+ community in our poetry reading event. It's crucial for us to create a space where all voices are heard and celebrated."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Klaus Mueller are discussing ways to promote diversity, inclusivity, and empowerment through their research collaboration on gentrification and poetry, planning an upcoming poetry reading event that includes diverse artists, sign language interpretation, multilingual readings, cultural performances, workshops on allyship and privilege, addressing unconscious bias and microaggressions, amplifying the voices of the Black LGBTQ+ community, involving young aspiring poets from diverse backgrounds, and collaborating with LGBTQ+ organizations. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Klaus, I really appreciate our discussion today. I think our research collaboration on gentrification and poetry can truly make a difference in promoting diversity and inclusivity. I'm excited to continue working together to amplify marginalized voices and address systemic inequalities through our upcoming poetry reading event."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Carlos. I completely agree. I believe our collaboration can have a significant impact on our community. Let's continue to brainstorm ideas and work towards creating a truly inclusive and diverse poetry reading event."
+        ],
+        [
+          "Carlos Gomez",
+          "I think it's important for us to actively involve Black artists and musicians in our project to ensure diverse representation and perspectives. What do you think?"
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely, I agree. We should make sure to involve a diverse range of artists and musicians from different backgrounds to truly showcase the richness of our community."
+        ],
+        [
+          "Carlos Gomez",
+          "I also think it would be beneficial to include sign language interpretation or subtitles at our poetry reading event to ensure accessibility for all participants."
+        ],
+        [
+          "Klaus Mueller",
+          "I agree, ensuring accessibility for all attendees is crucial. We should also prioritize engaging with marginalized communities in the planning process to truly make our event inclusive and representative of all voices."
+        ],
+        [
+          "Carlos Gomez",
+          "What are your thoughts on incorporating multilingual readings and cultural performances into our poetry event?"
+        ],
+        [
+          "Klaus Mueller",
+          "I think incorporating multilingual readings and cultural performances into our poetry event would be a fantastic way to celebrate diversity and showcase different voices. It's important for us to create a space where everyone feels represented and included."
+        ],
+        [
+          "Carlos Gomez",
+          "We should also consider hosting workshops on allyship and privilege to educate our audience and foster a more inclusive environment at the event. What do you think?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Carlos. I agree that hosting workshops on allyship and privilege would be impactful in creating a more inclusive environment at our event. Let's make sure to include that in our planning."
+        ],
+        [
+          "Carlos Gomez",
+          "I think it's also important for us to actively address unconscious bias and microaggressions in our project to ensure a welcoming and safe space for all participants."
+        ],
+        [
+          "Klaus Mueller",
+          "Carlos, I think it's crucial for us to prioritize amplifying the voices of the Black LGBTQ+ community in our event. By showcasing the experiences and perspectives of Black LGBTQ+ individuals, we can create a more inclusive and empowering space for everyone."
+        ],
+        [
+          "Carlos Gomez",
+          "I think we should also reach out to local organizations and schools to involve young aspiring poets from diverse backgrounds in our event."
+        ],
+        [
+          "Klaus Mueller",
+          "I completely agree, Carlos. By involving young aspiring poets from diverse backgrounds in our event, we can provide them a platform to share their voices and experiences. It's essential to support and uplift the next generation of poets."
+        ],
+        [
+          "Carlos Gomez",
+          "Klaus, I think we should also consider collaborating with LGBTQ+ organizations to further support and amplify the voices of the Black LGBTQ+ community in our poetry reading event. What do you think?"
+        ],
+        [
+          "Klaus Mueller",
+          "Carlos, I completely support the idea of collaborating with LGBTQ+ organizations to further amplify the voices of the Black LGBTQ+ community in our poetry reading event. It's crucial for us to create a space where all voices are heard and celebrated."
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        89,
+        49
+      ],
+      "pronunciatio": "\ud83d\uded2",
+      "description": "running errands and attending to tasks (grocery shopping) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending classes at Oak Hill College library (attending a lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "attending his morning classes at Oak Hill College (attending his second class) (participating in class discussions) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42\ud83d\udcdd",
+      "description": "attending music theory class at Oak Hill College (listening to the lecture and taking notes) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        70,
+        65
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "helping customers at The Willow Market and Pharmacy (taking inventory of products and restocking as needed) @ the Ville:Moreno family's house:common room:shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83d\udca1",
+      "description": "writing and editing her children's books (taking a lunch break and doing research for her adult comic book series) (brainstorming new ideas for her children's book) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        39,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "continuing to collaborate with Carlos on promoting diversity and inclusion (discussing potential ideas for promoting diversity and inclusion with Carlos) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 11:08:50"
+  }
+}

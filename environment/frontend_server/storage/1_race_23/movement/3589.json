@@ -1,0 +1,147 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "welcoming customers and taking orders at Hobbs Cafe (taking orders and writing them down) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "attending a creative writing workshop (asking questions and engaging in discussion with the guest speaker) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "still at the library researching (conversing about promoting diversity, inclusivity, and amplifying marginalized voices in the community through collaboration on organizing a poetry reading event.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        65,
+        48
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Sam and Tom are chatting about Sam's birthday party at The Rose and Crown Pub, with Tom unable to attend due to work but suggesting catching up another time. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Tom, how's it going? Busy day at the store?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Sam, it's been a busy day at the store. How are you doing today?"
+        ],
+        [
+          "Sam Moore",
+          "I'm doing well, thanks. Just picking up some party decorations for my birthday celebration tomorrow at The Rose and Crown Pub. Are you planning on coming?"
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like fun, Sam! Unfortunately, I won't be able to make it tomorrow as I have to work at the store in the morning."
+        ],
+        [
+          "Sam Moore",
+          "No worries, Tom. I understand work comes first. Maybe we can catch up another time?"
+        ],
+        [
+          "Tom Moreno",
+          "I hope you have a great time at your birthday celebration, Sam!"
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        27
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "attending her second class at Oak Hill College library (conversing about promoting diversity, inclusivity, and amplifying marginalized voices in the community through collaboration on organizing a poetry reading event.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        20
+      ],
+      "pronunciatio": "\ud83d\udd2c",
+      "description": "attending classes and labs at Oak Hill College (working on a lab experiment) (reviewing the lab instructions) @ the Ville:Oak Hill College:classroom:blackboard",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        116,
+        37
+      ],
+      "pronunciatio": "\ud83d\ude8c",
+      "description": "commuting to Oak Hill College (finding a seat on the bus) @ the Ville:Dorm for Oak Hill College:garden:dorm garden",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        65,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Sam and Tom are chatting about Sam's birthday party at The Rose and Crown Pub, with Tom unable to attend due to work but suggesting catching up another time. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Tom, how's it going? Busy day at the store?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Sam, it's been a busy day at the store. How are you doing today?"
+        ],
+        [
+          "Sam Moore",
+          "I'm doing well, thanks. Just picking up some party decorations for my birthday celebration tomorrow at The Rose and Crown Pub. Are you planning on coming?"
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like fun, Sam! Unfortunately, I won't be able to make it tomorrow as I have to work at the store in the morning."
+        ],
+        [
+          "Sam Moore",
+          "No worries, Tom. I understand work comes first. Maybe we can catch up another time?"
+        ],
+        [
+          "Tom Moreno",
+          "I hope you have a great time at your birthday celebration, Sam!"
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "continuing to work on her children's books (editing the first draft) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        35,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcba",
+      "description": "attending a lecture on creative thinking (finding a seat and getting settled in) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:58:10"
+  }
+}

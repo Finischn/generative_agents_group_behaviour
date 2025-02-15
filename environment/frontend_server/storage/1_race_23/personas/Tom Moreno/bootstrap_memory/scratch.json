@@ -1,0 +1,814 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 21:59:50",
+  "curr_tile": [
+    62,
+    48
+  ],
+  "daily_plan_req": "1. Wake up and complete the morning routine at 7:00 am 2. Open The Willow Market and Pharmacy at 8:00 am 3. Attend Isabella Rodriguez's birthday party at Hobbs Cafe at 5:00 pm 4. Discuss and evaluate candidates' platforms for the local mayor election 5. Collaborate with Carlos Gomez and Wolfgang Schulz to promote diversity and inclusion in the community 6. Reach out to local community organizations for support in spreading awareness about the election",
+  "name": "Tom Moreno",
+  "first_name": "Tom",
+  "last_name": "Moreno",
+  "age": 29,
+  "innate": "rude, aggressive, energetic",
+  "race": "White",
+  "village": "longterm resident of the village",
+  "gender": "Male",
+  "political_affiliation": "Conservative",
+  "race_div": "Hispanic",
+  "education": "Less than high school degree",
+  "learned": "Tom Moreno is a grocery shop keeper at The Willow Market and Pharmacy who loves interacting with customers. He is always willing to help out and make sure everyone is taken care of.",
+  "currently": "Status: Tom Moreno spent the day collaborating at Isabella Rodriguez's birthday party at Hobbs Cafe at 5 pm. He continued discussing and evaluating the candidates' platforms for the upcoming local mayor election. Additionally, he collaborated with Carlos Gomez and Wolfgang Schulz to elevate marginalized voices and promote diversity and inclusion in the community. He reached out to local community organizations for support in spreading awareness about the election and worked towards making a positive impact in the village.",
+  "lifestyle": "Tom Moreno goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Moreno family's house:Tom and Jane Moreno's bedroom",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 191,
+  "importance_ele_n": 35,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "open The Willow Market and Pharmacy at 8:00 am and stand behind the grocery counter until closing time",
+    "grab lunch at 12:00 pm and continue to help customers",
+    "take a break at 3:00 pm to check in on the local election news"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine (waking up and turning off his alarm)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (stretching and getting out of bed)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (using the bathroom and washing his face)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (brushing his teeth)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (getting dressed)",
+      15
+    ],
+    [
+      "opening The Willow Market and Pharmacy (unlocking the doors to The Willow Market and Pharmacy)",
+      5
+    ],
+    [
+      "opening The Willow Market and Pharmacy (turning on the lights and music in the store)",
+      5
+    ],
+    [
+      "opening The Willow Market and Pharmacy (checking the inventory and restocking any items that are low)",
+      15
+    ],
+    [
+      "opening The Willow Market and Pharmacy (organizing the shelves and displays)",
+      15
+    ],
+    [
+      "opening The Willow Market and Pharmacy (checking the cash register and making sure there is enough change for the day)",
+      10
+    ],
+    [
+      "opening The Willow Market and Pharmacy (setting up the coffee and pastry station for customers)",
+      5
+    ],
+    [
+      "opening The Willow Market and Pharmacy (turning on the open sign and locking the doors behind him)",
+      5
+    ],
+    [
+      "helping customers at The Willow Market and Pharmacy (greeting customers as they enter the store)",
+      5
+    ],
+    [
+      "helping customers at The Willow Market and Pharmacy (restocking shelves with new products)",
+      30
+    ],
+    [
+      "helping customers at The Willow Market and Pharmacy (on the way to assisting a customer in finding a specific product)",
+      0
+    ],
+    [
+      "helping customers at The Willow Market and Pharmacy (conversing about advocating for diversity and inclusion, Isabella Rodriguez and Tom Moreno discuss collaborating with Black-owned businesses in the community to organize a community event celebrating marginalized voices and promoting equity and inclusivity.)",
+      16
+    ],
+    [
+      "helping customers at The Willow Market and Pharmacy (answering phone calls and taking orders for delivery)",
+      20
+    ],
+    [
+      "helping customers at The Willow Market and Pharmacy (on the way to helping a customer at the checkout counter)",
+      0
+    ],
+    [
+      "helping customers at The Willow Market and Pharmacy (conversing about collaborating on promoting diversity, inclusion, and equity in their community through various initiatives and events, such as organizing workshops, working with Black-owned businesses, involving marginalized voices, and engaging the youth in educational programs.)",
+      13
+    ],
+    [
+      "helping customers at The Willow Market and Pharmacy (helping a customer at the checkout counter)",
+      10
+    ],
+    [
+      "helping customers at The Willow Market and Pharmacy (taking inventory of products and restocking as needed)",
+      30
+    ],
+    [
+      "helping customers at The Willow Market and Pharmacy (assisting a customer with a return or exchange)",
+      15
+    ],
+    [
+      "helping customers at The Willow Market and Pharmacy (helping a customer find a product that is out of stock)",
+      10
+    ],
+    [
+      "helping customers at The Willow Market and Pharmacy (taking a break)",
+      15
+    ],
+    [
+      "helping customers at The Willow Market and Pharmacy (assisting a customer with a question about a product)",
+      10
+    ],
+    [
+      "helping customers at The Willow Market and Pharmacy (helping a customer carry their groceries to their car)",
+      6
+    ],
+    [
+      "grabbing lunch (closing The Willow Market and Pharmacy)",
+      5
+    ],
+    [
+      "grabbing lunch (locking the store and walking to his car)",
+      5
+    ],
+    [
+      "grabbing lunch (driving to the nearest restaurant)",
+      10
+    ],
+    [
+      "grabbing lunch (parking his car and walking into the restaurant)",
+      5
+    ],
+    [
+      "grabbing lunch (ordering his food)",
+      10
+    ],
+    [
+      "grabbing lunch (on the way to waiting for his food to be prepared)",
+      0
+    ],
+    [
+      "grabbing lunch (conversing about collaborating on ways to promote diversity and inclusion in their community event by involving Black-owned businesses, youth, and other communities to ensure a diverse range of voices are represented and celebrated.)",
+      13
+    ],
+    [
+      "grabbing lunch (paying for his food)",
+      5
+    ],
+    [
+      "grabbing lunch (on the way to walking back to his car)",
+      0
+    ],
+    [
+      "grabbing lunch (conversing about how to involve more Black-owned businesses in their community event to promote diversity and inclusion, brainstorming ideas and strategies to engage marginalized voices and ensure inclusivity in their planning.)",
+      16
+    ],
+    [
+      "grabbing lunch (paying for his food)",
+      5
+    ],
+    [
+      "grabbing lunch (walking back to his car)",
+      10
+    ],
+    [
+      "discussing and evaluating candidates' platforms for the local mayor election (reviewing the candidates' platforms)",
+      15
+    ],
+    [
+      "discussing and evaluating candidates' platforms for the local mayor election (taking notes on each candidate's stance on important issues, discussing the candidates' platforms with his colleagues, and evaluating the strengths and weaknesses of each candidate's platform)",
+      20
+    ],
+    [
+      "wrapping up the discussion and preparing to leave for his next appointment. (on the way to wrapping up the discussion and preparing to leave for his next appointment)",
+      0
+    ],
+    [
+      "wrapping up the discussion and preparing to leave for his next appointment. (conversing about collaborating on promoting diversity and inclusion in the community through organizing a poetry reading event that showcases Black-owned businesses, amplifies Black LGBTQ+ voices, ensures accessibility for all attendees, educates on allyship and privilege, celebrates cultural diversity, involves local organizations supporting the Black LGBTQ+ community, empowers young Black leaders, addresses unconscious bias and microaggressions, uplifts marginalized voices, and continuously educates on systemic inequalities and unconscious bias.)",
+      14
+    ],
+    [
+      "collaborating with Carlos Gomez and Wolfgang Schulz to promote diversity and inclusion in the community (on the way to meeting with Carlos and Wolfgang to discuss their plans)",
+      0
+    ],
+    [
+      "collaborating with Carlos Gomez and Wolfgang Schulz to promote diversity and inclusion in the community (conversing about Adam Smith and Tom Moreno are discussing plans to boost creativity in the village, evaluating multiple candidates' platforms, organizing a community event to raise awareness about the election and promote diversity and inclusion, collaborating with Black-owned businesses and marginalized communities, involving youth in event planning, and reaching out to local community organizations for support in spreading awareness about the election.)",
+      13
+    ],
+    [
+      "collaborating with Carlos Gomez and Wolfgang Schulz to promote diversity and inclusion in the community (sharing his ideas for promoting diversity and inclusion)",
+      12
+    ],
+    [
+      "collaborating with Carlos Gomez and Wolfgang Schulz to promote diversity and inclusion in the community (brainstorming ways to involve local community organizations)",
+      20
+    ],
+    [
+      "collaborating with Carlos Gomez and Wolfgang Schulz to promote diversity and inclusion in the community (delegating tasks to Carlos and Wolfgang)",
+      10
+    ],
+    [
+      "wrapping up the discussion and preparing to leave for his next appointment (checking in on the local election news before leaving).",
+      1
+    ],
+    [
+      "taking a break to check in on the local election news (checking local news websites for updates on the election)",
+      10
+    ],
+    [
+      "taking a break to check in on the local election news (discussing the latest news with his colleagues at The Willow Market and Pharmacy)",
+      15
+    ],
+    [
+      "taking a break to check in on the local election news (checking social media for any updates or discussions about the election)",
+      10
+    ],
+    [
+      "taking a break to check in on the local election news (taking a break to grab a snack and a drink)",
+      10
+    ],
+    [
+      "taking a break to check in on the local election news (reading through candidate platforms and evaluating them)",
+      15
+    ],
+    [
+      "wrapping up any remaining tasks and preparing to leave for his next appointment.",
+      4
+    ],
+    [
+      "continuing to help customers at The Willow Market and Pharmacy (restocking shelves with new products)",
+      10
+    ],
+    [
+      "continuing to help customers at The Willow Market and Pharmacy (assisting a customer in finding a specific item)",
+      10
+    ],
+    [
+      "continuing to help customers at The Willow Market and Pharmacy (answering phone calls and taking orders for delivery)",
+      15
+    ],
+    [
+      "continuing to help customers at The Willow Market and Pharmacy (helping a customer with a question about a product)",
+      10
+    ],
+    [
+      "continuing to help customers at The Willow Market and Pharmacy (taking a break to check on local election news)",
+      5
+    ],
+    [
+      "continuing to help customers at The Willow Market and Pharmacy (restocking the refrigerated section)",
+      10
+    ],
+    [
+      "attending Isabella Rodriguez's birthday party at Hobbs Cafe (on the way to greeting and socializing with guests at the party)",
+      0
+    ],
+    [
+      "attending Isabella Rodriguez's birthday party at Hobbs Cafe (conversing about Two individuals, Tom Moreno and Carlos Gomez, are conversing about their commitment to promoting diversity and inclusion in their community, discussing strategies such as collaborating with Black-owned businesses, involving youth and Black LGBTQ+ voices, addressing unconscious bias and microaggressions, prioritizing accessibility and intersectionality, and acknowledging white privilege while committing to ongoing education and self-reflection.)",
+      21
+    ],
+    [
+      "attending Isabella Rodriguez's birthday party at Hobbs Cafe (on the way to enjoying food and drinks at the party)",
+      0
+    ],
+    [
+      "attending Isabella Rodriguez's birthday party at Hobbs Cafe (conversing about collaborating on promoting diversity and inclusion, actively involving and prioritizing the voices of marginalized communities, particularly Black-owned businesses, Black LGBTQ+ individuals, Black women, and Black youth, in their community initiatives.)",
+      20
+    ],
+    [
+      "attending Isabella Rodriguez's birthday party at Hobbs Cafe (on the way to taking a break and getting some fresh air outside of the party)",
+      0
+    ],
+    [
+      "attending Isabella Rodriguez's birthday party at Hobbs Cafe (conversing about how to further amplify marginalized voices by collaborating with Black-owned businesses, highlighting Black LGBTQ+ individuals, involving diverse youth in event planning, providing resources and support, addressing unconscious bias and microaggressions, incorporating Black music genres and literature, showcasing local Black artists, offering educational resources on Black history and contributions, collaborating with community leaders and activists, providing mentorship for young Black individuals, planning workshops on allyship and privilege, working with educational institutions, addressing systemic racism, and recognizing intersectionality in promoting diversity and inclusion.)",
+      20
+    ],
+    [
+      "attending Isabella Rodriguez's birthday party at Hobbs Cafe (returning to the party and continuing to socialize and network with other guests)",
+      10
+    ],
+    [
+      "attending Isabella Rodriguez's birthday party at Hobbs Cafe (catching up with Isabella and other friends at the party)",
+      20
+    ],
+    [
+      "attending Isabella Rodriguez's birthday party at Hobbs Cafe (discussing and evaluating candidates' platforms for the local mayor election with other attendees, while also enjoying food and drinks at the party)",
+      19
+    ],
+    [
+      "attending Isabella Rodriguez's birthday party at Hobbs Cafe and collaborating with other community members to discuss the upcoming local election (on the way to greeting and socializing with other guests at the party)",
+      0
+    ],
+    [
+      "attending Isabella Rodriguez's birthday party at Hobbs Cafe and collaborating with other community members to discuss the upcoming local election (conversing about Eddy Lin and Tom Moreno discussing ideas on how to further amplify marginalized voices and ensure inclusivity and diversity in their upcoming community event.)",
+      18
+    ],
+    [
+      "attending Isabella Rodriguez's birthday party at Hobbs Cafe and collaborating with other community members to discuss the upcoming local election (congratulating Isabella on her birthday and catching up with her)",
+      10
+    ],
+    [
+      "attending Isabella Rodriguez's birthday party at Hobbs Cafe and collaborating with other community members to discuss the upcoming local election (on the way to discussing the candidates' platforms with other community members)",
+      0
+    ],
+    [
+      "attending Isabella Rodriguez's birthday party at Hobbs Cafe and collaborating with other community members to discuss the upcoming local election (conversing about collaborating on promoting diversity and inclusion in the community through engaging with Black LGBTQ+ individuals, young aspiring poets, local organizations, Black-owned businesses, and educational institutions, while also prioritizing accessibility options for differently-abled individuals.)",
+      16
+    ],
+    [
+      "attending Isabella Rodriguez's birthday party at Hobbs Cafe and collaborating with other community members to discuss the upcoming local election (evaluating the candidates' platforms and taking notes)",
+      15
+    ],
+    [
+      "attending Isabella Rodriguez's birthday party at Hobbs Cafe and collaborating with other community members to discuss the upcoming local election (on the way to collaborating with Carlos Gomez and Wolfgang Schulz to promote diversity and inclusion in the community)",
+      0
+    ],
+    [
+      "attending Isabella Rodriguez's birthday party at Hobbs Cafe and collaborating with other community members to discuss the upcoming local election (conversing about Carlos Gomez and Tom Moreno are discussing strategies to promote diversity and inclusion in their community, including involving Black-owned businesses and artists, Black LGBTQ+ activists, organizing workshops on allyship and privilege, evaluating progress, empowering youth from diverse backgrounds, and focusing on intersectionality.)",
+      12
+    ],
+    [
+      "continuing to help customers at The Willow Market and Pharmacy (restocking shelves with new products)",
+      10
+    ],
+    [
+      "continuing to help customers at The Willow Market and Pharmacy (on the way to assisting a customer in finding a specific item)",
+      0
+    ],
+    [
+      "continuing to help customers at The Willow Market and Pharmacy (conversing about Isabella Rodriguez and Tom Moreno are discussing the importance of promoting diversity and inclusion in their community, collaborating to amplify Black voices, supporting Black-owned businesses, addressing systemic inequalities, and incorporating anti-bias training into their initiatives.)",
+      22
+    ],
+    [
+      "continuing to help customers at The Willow Market and Pharmacy (on the way to answering phone calls and taking orders for delivery)",
+      0
+    ],
+    [
+      "continuing to help customers at The Willow Market and Pharmacy (conversing about collaborating on organizing a poetry reading event that promotes diversity, inclusivity, and the amplification of marginalized voices, discussing ideas such as sign language interpretation, featuring local Black artists and musicians, engaging with the Black LGBTQ+ community, providing educational resources on systemic inequalities and racism, organizing workshops on allyship and understanding, involving young aspiring poets from diverse backgrounds, incorporating spoken word performances addressing unconscious bias and microaggressions, and collaborating with local LGBTQ+ organizations to ensure inclusivity at the event.)",
+      13
+    ],
+    [
+      "continuing to help customers at The Willow Market and Pharmacy (on the way to answering phone calls and taking orders for delivery)",
+      0
+    ],
+    [
+      "continuing to help customers at The Willow Market and Pharmacy (conversing about how Adam Smith and Tom Moreno plan to align with John Harper's goals for boosting creativity, promoting diversity, and inclusion in the community through organizing a community event and incorporating various accessibility and educational initiatives.)",
+      12
+    ],
+    [
+      "continuing to help customers at The Willow Market and Pharmacy (answering phone calls and taking orders for delivery)",
+      5
+    ],
+    [
+      "continuing to help customers at The Willow Market and Pharmacy (helping a customer with a question about a product)",
+      5
+    ],
+    [
+      "continuing to help customers at The Willow Market and Pharmacy (checking out a customer's purchases at the register)",
+      10
+    ],
+    [
+      "continuing to help customers at The Willow Market and Pharmacy (restocking the refrigerated section with fresh produce)",
+      9
+    ],
+    [
+      "closing The Willow Market and Pharmacy and cleaning up before heading home (counting the cash register and recording the day's sales)",
+      10
+    ],
+    [
+      "closing The Willow Market and Pharmacy and cleaning up before heading home (restocking any items that were sold during the day)",
+      10
+    ],
+    [
+      "closing The Willow Market and Pharmacy and cleaning up before heading home (cleaning and organizing the shelves and displays)",
+      2
+    ],
+    [
+      "closing The Willow Market and Pharmacy and cleaning up before heading home (checking the expiration dates on products and removing any expired items)",
+      2
+    ],
+    [
+      "having dinner at 5:00 pm and discussing the election with his family (setting the table for dinner)",
+      5
+    ],
+    [
+      "having dinner at 5:00 pm and discussing the election with his family (serving dinner)",
+      10
+    ],
+    [
+      "having dinner at 5:00 pm and discussing the election with his family (discussing the election with his family)",
+      30
+    ],
+    [
+      "having dinner at 5:00 pm and discussing the election with his family (sharing his thoughts and opinions on the candidates' platforms)",
+      15
+    ],
+    [
+      "discussing the election with his family and making plans for promoting awareness in the community",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -9
+    ],
+    [
+      "sleeping",
+      -4
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      10
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      1
+    ],
+    [
+      "sleeping",
+      -2
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "opening The Willow Market and Pharmacy",
+      60
+    ],
+    [
+      "helping customers at The Willow Market and Pharmacy",
+      180
+    ],
+    [
+      "grabbing lunch",
+      60
+    ],
+    [
+      "discussing and evaluating candidates' platforms for the local mayor election",
+      60
+    ],
+    [
+      "collaborating with Carlos Gomez and Wolfgang Schulz to promote diversity and inclusion in the community",
+      60
+    ],
+    [
+      "taking a break to check in on the local election news",
+      60
+    ],
+    [
+      "continuing to help customers at The Willow Market and Pharmacy",
+      60
+    ],
+    [
+      "attending Isabella Rodriguez's birthday party at Hobbs Cafe",
+      120
+    ],
+    [
+      "attending Isabella Rodriguez's birthday party at Hobbs Cafe and collaborating with other community members to discuss the upcoming local election",
+      60
+    ],
+    [
+      "continuing to help customers at The Willow Market and Pharmacy",
+      60
+    ],
+    [
+      "closing The Willow Market and Pharmacy and cleaning up before heading home",
+      60
+    ],
+    [
+      "having dinner at 5:00 pm and discussing the election with his family",
+      60
+    ],
+    [
+      "discussing the election with his family and making plans for promoting awareness in the community",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+  "act_start_time": "February 14, 2023, 21:50:00",
+  "act_duration": 10,
+  "act_description": "closing The Willow Market and Pharmacy and cleaning up before heading home (restocking any items that were sold during the day)",
+  "act_pronunciatio": "\ud83d\udd04",
+  "act_event": [
+    "Tom Moreno",
+    "restock",
+    "items"
+  ],
+  "act_obj_description": "being restocked",
+  "act_obj_pronunciatio": "\ud83d\udd04",
+  "act_obj_event": [
+    "supply store product shelf",
+    "restock",
+    "being"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Adam Smith": 494,
+    "Sam Moore": -2524,
+    "Tamara Taylor": -11098,
+    "Isabella Rodriguez": 302,
+    "Carlos Gomez": 122,
+    "Ayesha Khan": 404,
+    "Wolfgang Schulz": -592,
+    "Eddy Lin": -160,
+    "Klaus Mueller": -52
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "known_personas": [
+    "Adam Smith",
+    "Sam Moore",
+    "Tamara Taylor",
+    "Isabella Rodriguez",
+    "Carlos Gomez",
+    "Ayesha Khan",
+    "Wolfgang Schulz",
+    "Eddy Lin",
+    "Klaus Mueller"
+  ]
+}

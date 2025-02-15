@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break and having lunch at Hobbs Cafe (taking a break and having lunch) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "working on his poetry collection (reviewing his previous poems) @ the Ville:Carlos Gomez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        82,
+        34
+      ],
+      "pronunciatio": "\ud83c\udf0d",
+      "description": "still at the library researching (conversing about Klaus Mueller and Eddy Lin are brainstorming ideas to enhance diversity and inclusivity at an upcoming poetry reading event by inviting performers from different cultural backgrounds, providing accessibility accommodations, organizing workshops on allyship and privilege, engaging young poets from diverse backgrounds, collaborating with local organizations to amplify marginalized voices, addressing systemic inequalities and racism, promoting active listening and addressing unconscious bias, ensuring venue accessibility for individuals with disabilities, incorporating different cultural perspectives and historical context, and including interactive activities to encourage dialogue on social issues.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        75,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about elevating marginalized voices in the community and collaborating on initiatives to promote diversity and inclusion through events, accessibility, educating about systemic racism, engaging with the student community, and amplifying the voices of underrepresented groups. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Sam, I heard about your recent collaboration with Wolfgang Schulz to elevate marginalized voices in our community. I think it's amazing! How can I support your efforts?"
+        ],
+        [
+          "Sam Moore",
+          "Thank you Ayesha, I appreciate your support and willingness to contribute. Let's discuss how we can work together to further promote diversity and inclusion in our community."
+        ],
+        [
+          "Ayesha Khan",
+          "I believe we should brainstorm ideas for our upcoming events and projects to ensure they are truly inclusive and representative of our diverse community."
+        ],
+        [
+          "Sam Moore",
+          "I think one way we can further support marginalized voices is by actively seeking out and showcasing artists from underrepresented backgrounds at our events."
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree with you, Sam. We must ensure that our events provide a platform for every voice to be heard and celebrated."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, I truly value your perspective and insight on promoting diversity and inclusion. Your commitment to uplifting marginalized voices is inspiring. I believe by working together, we can create a more equitable environment that resonates with everyone in our community."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Sam. I am grateful for the opportunity to collaborate with you on such important initiatives. I believe together, we can truly make a difference in our community."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, I appreciate your perspective and insight, and I value our collaboration in promoting diversity and inclusion. Your dedication to uplifting marginalized voices is truly admirable."
+        ],
+        [
+          "Ayesha Khan",
+          "Sam, I believe it would be beneficial if we also prioritize accessibility in our events by providing sign language interpretation or subtitles to ensure everyone can fully engage with the performances."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, I think it would be impactful to involve more community members in our discussions to really understand their needs and perspectives."
+        ],
+        [
+          "Ayesha Khan",
+          "Sam, I also think it's important for us to actively engage with the student community and educate ourselves on systemic racism to truly address the inequalities in our society."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, I believe we should also consider incorporating different cultural perspectives in our events to showcase the diversity within our community."
+        ],
+        [
+          "Ayesha Khan",
+          "Sam, I think it would be impactful for us to collaborate with local organizations to further amplify the voices of Black creators and other underrepresented groups in our community."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, I believe it's crucial for us to address unconscious bias and microaggressions in our community to create a more inclusive environment."
+        ],
+        [
+          "Ayesha Khan",
+          "Sam, I think it's important for us to organize workshops on allyship and privilege to educate our community and create a more inclusive environment."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, I appreciate your insights on promoting diversity and inclusion. I believe it's important for us to listen to marginalized communities and prioritize their voices in our initiatives."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about elevating marginalized voices in the community and collaborating on initiatives to promote diversity and inclusion through events, accessibility, educating about systemic racism, engaging with the student community, and amplifying the voices of underrepresented groups. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Sam, I heard about your recent collaboration with Wolfgang Schulz to elevate marginalized voices in our community. I think it's amazing! How can I support your efforts?"
+        ],
+        [
+          "Sam Moore",
+          "Thank you Ayesha, I appreciate your support and willingness to contribute. Let's discuss how we can work together to further promote diversity and inclusion in our community."
+        ],
+        [
+          "Ayesha Khan",
+          "I believe we should brainstorm ideas for our upcoming events and projects to ensure they are truly inclusive and representative of our diverse community."
+        ],
+        [
+          "Sam Moore",
+          "I think one way we can further support marginalized voices is by actively seeking out and showcasing artists from underrepresented backgrounds at our events."
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree with you, Sam. We must ensure that our events provide a platform for every voice to be heard and celebrated."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, I truly value your perspective and insight on promoting diversity and inclusion. Your commitment to uplifting marginalized voices is inspiring. I believe by working together, we can create a more equitable environment that resonates with everyone in our community."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Sam. I am grateful for the opportunity to collaborate with you on such important initiatives. I believe together, we can truly make a difference in our community."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, I appreciate your perspective and insight, and I value our collaboration in promoting diversity and inclusion. Your dedication to uplifting marginalized voices is truly admirable."
+        ],
+        [
+          "Ayesha Khan",
+          "Sam, I believe it would be beneficial if we also prioritize accessibility in our events by providing sign language interpretation or subtitles to ensure everyone can fully engage with the performances."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, I think it would be impactful to involve more community members in our discussions to really understand their needs and perspectives."
+        ],
+        [
+          "Ayesha Khan",
+          "Sam, I also think it's important for us to actively engage with the student community and educate ourselves on systemic racism to truly address the inequalities in our society."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, I believe we should also consider incorporating different cultural perspectives in our events to showcase the diversity within our community."
+        ],
+        [
+          "Ayesha Khan",
+          "Sam, I think it would be impactful for us to collaborate with local organizations to further amplify the voices of Black creators and other underrepresented groups in our community."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, I believe it's crucial for us to address unconscious bias and microaggressions in our community to create a more inclusive environment."
+        ],
+        [
+          "Ayesha Khan",
+          "Sam, I think it's important for us to organize workshops on allyship and privilege to educate our community and create a more inclusive environment."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, I appreciate your insights on promoting diversity and inclusion. I believe it's important for us to listen to marginalized communities and prioritize their voices in our initiatives."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        78,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "studying for exams (reviewing his notes from previous lectures) @ the Ville:Dorm for Oak Hill College:Wolfgang Schulz's room:desk",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending his composition class at Oak Hill College (taking notes on the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcde",
+      "description": "still helping customers at the store (answering phone calls and taking orders for delivery) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "meeting with her housemate Carmen to discuss book ideas and collaborate on projects (discussing her ideas with Carmen) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        22,
+        47
+      ],
+      "pronunciatio": "\ud83c\udf32",
+      "description": "going for a walk in the park (enjoying the scenery and taking deep breaths) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:36:40"
+  }
+}

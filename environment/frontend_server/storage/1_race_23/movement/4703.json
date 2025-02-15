@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddfc\ud83d\udc69\u200d",
+      "description": "taking a break and having lunch at Hobbs Cafe (washing her hands and putting on an apron) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        21
+      ],
+      "pronunciatio": "\ud83d\udce7",
+      "description": "having lunch (checking his emails) @ the Ville:Carlos Gomez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        77,
+        28
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "having lunch at Hobbs Cafe (conversing about promoting diversity and inclusivity in the community through organizing a poetry reading event, incorporating spoken word performances, ensuring accessibility by providing sign language interpretation or subtitles, inviting performers from diverse backgrounds, showcasing a mix of established and emerging artists, providing a platform for community members to share their own poetry, addressing systemic inequalities and racism, seeking out and supporting artists from underrepresented backgrounds, and actively engaging with the local community to resonate with a wide range of people.) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        75,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about promoting diversity, inclusion, and addressing systemic inequalities in their community through collaboration and education, Sam Moore and Wolfgang Schulz discuss strategies such as involving more community members in discussions, prioritizing accessibility, incorporating different cultural perspectives, collaborating with local organizations, engaging the student community, considering historical context, educating themselves on systemic racism, listening to marginalized communities, organizing workshops on allyship and privilege, amplifying the voices of Black creators, and addressing unconscious bias and microaggressions. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Wolfgang, I was really impressed by your collaboration with Carlos Gomez to highlight shared experiences and marginalized voices. It's great to see such meaningful initiatives in our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam. I believe it's essential for us to continue working together to address systemic inequalities and racism in our community."
+        ],
+        [
+          "Sam Moore",
+          "I completely agree, Wolfgang. We should keep pushing for more diversity and inclusion efforts in our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think our next step should be to involve more community members in these discussions. We can create a platform where everyone's voice is heard and valued."
+        ],
+        [
+          "Sam Moore",
+          "I couldn't agree more, Wolfgang. Let's work together to ensure that all voices are included and valued in our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Let's make sure to also prioritize accessibility in our events to ensure that everyone in the community can participate."
+        ],
+        [
+          "Sam Moore",
+          "We should also consider incorporating different cultural perspectives to truly promote diversity and inclusivity in our events."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think it would be beneficial for us to reach out to local organizations that focus on diversity and inclusion to collaborate on future events."
+        ],
+        [
+          "Sam Moore",
+          "I appreciate your perspective, Wolfgang. Your insights are truly invaluable in shaping our approach to promoting diversity and inclusion."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should also consider reaching out to the student community on campus to engage them in discussions about diversity and inclusion."
+        ],
+        [
+          "Sam Moore",
+          "I think it's vital for us to also consider the historical context of diversity and inclusion in our community to truly understand the challenges faced by marginalized groups."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Sam, I also believe it's important for us to continually educate ourselves on systemic racism and challenge our own biases to create a truly inclusive environment."
+        ],
+        [
+          "Sam Moore",
+          "Wolfgang, I appreciate your perspective, and I think it's crucial for us to actively listen to the experiences of marginalized communities to better understand and address their needs and concerns. Let's continue working together towards a more inclusive and equitable community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Let's also consider organizing a workshop on allyship and privilege to further educate ourselves and the community on how to support marginalized groups effectively."
+        ],
+        [
+          "Sam Moore",
+          "Wolfgang, I think it's crucial for us to amplify the voices of Black creators in our community. Let's discuss how we can collaborate to elevate and celebrate their experiences."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Sam, I think it's important for us to also address unconscious bias and microaggressions in our community to create a more inclusive space. Let's brainstorm ways to educate and raise awareness about these issues."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "having lunch (conversing about promoting diversity and inclusivity in the community through organizing a poetry reading event, incorporating spoken word performances, ensuring accessibility by providing sign language interpretation or subtitles, inviting performers from diverse backgrounds, showcasing a mix of established and emerging artists, providing a platform for community members to share their own poetry, addressing systemic inequalities and racism, seeking out and supporting artists from underrepresented backgrounds, and actively engaging with the local community to resonate with a wide range of people.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about promoting diversity, inclusion, and addressing systemic inequalities in their community through collaboration and education, Sam Moore and Wolfgang Schulz discuss strategies such as involving more community members in discussions, prioritizing accessibility, incorporating different cultural perspectives, collaborating with local organizations, engaging the student community, considering historical context, educating themselves on systemic racism, listening to marginalized communities, organizing workshops on allyship and privilege, amplifying the voices of Black creators, and addressing unconscious bias and microaggressions. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Wolfgang, I was really impressed by your collaboration with Carlos Gomez to highlight shared experiences and marginalized voices. It's great to see such meaningful initiatives in our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam. I believe it's essential for us to continue working together to address systemic inequalities and racism in our community."
+        ],
+        [
+          "Sam Moore",
+          "I completely agree, Wolfgang. We should keep pushing for more diversity and inclusion efforts in our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think our next step should be to involve more community members in these discussions. We can create a platform where everyone's voice is heard and valued."
+        ],
+        [
+          "Sam Moore",
+          "I couldn't agree more, Wolfgang. Let's work together to ensure that all voices are included and valued in our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Let's make sure to also prioritize accessibility in our events to ensure that everyone in the community can participate."
+        ],
+        [
+          "Sam Moore",
+          "We should also consider incorporating different cultural perspectives to truly promote diversity and inclusivity in our events."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think it would be beneficial for us to reach out to local organizations that focus on diversity and inclusion to collaborate on future events."
+        ],
+        [
+          "Sam Moore",
+          "I appreciate your perspective, Wolfgang. Your insights are truly invaluable in shaping our approach to promoting diversity and inclusion."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should also consider reaching out to the student community on campus to engage them in discussions about diversity and inclusion."
+        ],
+        [
+          "Sam Moore",
+          "I think it's vital for us to also consider the historical context of diversity and inclusion in our community to truly understand the challenges faced by marginalized groups."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Sam, I also believe it's important for us to continually educate ourselves on systemic racism and challenge our own biases to create a truly inclusive environment."
+        ],
+        [
+          "Sam Moore",
+          "Wolfgang, I appreciate your perspective, and I think it's crucial for us to actively listen to the experiences of marginalized communities to better understand and address their needs and concerns. Let's continue working together towards a more inclusive and equitable community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Let's also consider organizing a workshop on allyship and privilege to further educate ourselves and the community on how to support marginalized groups effectively."
+        ],
+        [
+          "Sam Moore",
+          "Wolfgang, I think it's crucial for us to amplify the voices of Black creators in our community. Let's discuss how we can collaborate to elevate and celebrate their experiences."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Sam, I think it's important for us to also address unconscious bias and microaggressions in our community to create a more inclusive space. Let's brainstorm ways to educate and raise awareness about these issues."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having lunch at Hobbs Cafe (conversing about Carlos Gomez and Eddy Lin are discussing how to integrate Shakespeare's language concepts, music, diverse perspectives, and actively uplift marginalized voices in their collaboration to ensure inclusivity and equality.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        78,
+        51
+      ],
+      "pronunciatio": "\ud83d\udd04",
+      "description": "still helping customers at the store (helping a customer with a return or exchange) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        62,
+        56
+      ],
+      "pronunciatio": "\ud83c\udf08",
+      "description": "taking a lunch break and doing research for her adult comic book series (conversing about Tom and Tamara are discussing their shared dedication to promoting diversity and inclusion in the community, expressing mutual appreciation for one another's efforts, and planning to collaborate on future projects towards a more inclusive environment.) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        22,
+        63
+      ],
+      "pronunciatio": "\ud83d\udc5f",
+      "description": "going for a walk in the park (putting on his walking shoes) @ the Ville:Adam Smith's house:main room:closet",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:03:50"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        80,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "taking orders and serving customers at Hobbs Cafe (taking orders from customers) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "working on his poetry collection (reviewing his previous poems) @ the Ville:Carlos Gomez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        95,
+        30
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "still at the library researching (searching for relevant articles and studies) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        52,
+        56
+      ],
+      "pronunciatio": "\ud83c\udfe6",
+      "description": "running errands and attending to tasks (going to the bank to deposit a check) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83c\udfb5\ud83d\udcda",
+      "description": "attending her second class at Oak Hill College library (conversing about Ayesha Khan and Eddy Lin are discussing their interests in music theory and literature, contemplating a potential collaboration between music and literature while also delving into Ayesha's senior thesis on Shakespeare's use of language and the importance of inclusivity in literature.) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udd2c",
+      "description": "attending classes and labs at Oak Hill College (working on a lab experiment) (conducting the experiment) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        112,
+        25
+      ],
+      "pronunciatio": "\ud83c\udfb6\ud83d\udcda",
+      "description": "attending his music theory class at Oak Hill College (conversing about Ayesha Khan and Eddy Lin are discussing their interests in music theory and literature, contemplating a potential collaboration between music and literature while also delving into Ayesha's senior thesis on Shakespeare's use of language and the importance of inclusivity in literature.) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        68,
+        46
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "still helping customers at the store (assisting a customer with finding a specific item) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "continuing to work on her children's books (editing the first draft) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        36,
+        28
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "continuing his writing and research for his book (reading articles and books related to creativity) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:20:40"
+  }
+}

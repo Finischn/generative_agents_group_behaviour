@@ -1,0 +1,333 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Sam and Isabella are discussing Isabella's birthday party at Hobbs Cafe, where Sam has been invited and will have his usual coffee and pastry prepared for him. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Good morning, Sam! How are you enjoying your book today?"
+        ],
+        [
+          "Sam Moore",
+          "Good morning, Isabella! I'm enjoying my book, thank you. How are you doing today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're enjoying your book, Sam. Did you hear about my birthday party tomorrow at 5pm? I would love for you to join us at Hobbs Cafe!"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a great idea, Isabella! I would love to join your birthday party tomorrow at 5pm at Hobbs Cafe."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's wonderful to hear, Sam! I'll make sure to save you a special seat at the party tomorrow."
+        ],
+        [
+          "Sam Moore",
+          "Thank you for inviting me, Isabella. I'm looking forward to celebrating your birthday tomorrow at Hobbs Cafe!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Would you like me to prepare your usual coffee and pastry for tomorrow's party?"
+        ],
+        [
+          "Sam Moore",
+          "Thank you, Isabella! I appreciate the offer. I look forward to having my usual coffee and pastry at your birthday party tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great to hear, Sam! I'll make sure to have your usual coffee and pastry ready for you tomorrow at the party."
+        ],
+        [
+          "Sam Moore",
+          "Thank you, Isabella! I appreciate your invitation and I'm looking forward to celebrating your birthday at Hobbs Cafe tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad to hear that, Sam. Thank you for accepting the invitation and for always being a loyal customer at Hobbs Cafe. Your support means a lot to me."
+        ],
+        [
+          "Sam Moore",
+          "Thank you, Isabella! I appreciate the kind invitation. I'll definitely be there to celebrate your birthday at Hobbs Cafe tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was nice chatting with you, Sam. I'll see you at the party tomorrow!"
+        ]
+      ]
+    },
+    "Carlos Gomez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udccb",
+      "description": "attending a creative writing workshop (reviewing the workshop agenda and taking notes) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        114,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about the importance of fostering understanding, inclusivity, and discussing race and diversity in their community through conversations between Klaus Mueller and Wolfgang Schulz. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hello Wolfgang, how are you finding your classes and labs at school?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hello Klaus, classes and labs are going well for me. How about you, how's your paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Wolfgang. My paper on the effects of gentrification in low-income communities is progressing well. How about we schedule a time for a tea tasting session soon?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Sure, Klaus, that sounds like a great idea. How about we plan for this weekend?"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, Wolfgang! How about we meet on Saturday afternoon for the tea tasting session?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Sounds good, Klaus. I'll bring some of my favorite teas to share with you."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to trying out the teas you'll bring, Wolfgang. By the way, have you tried the lavender chamomile blend that Ayesha recommended? I think it would be interesting to include in our tea tasting session."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I haven't tried the lavender chamomile blend yet, Klaus. I'll make sure to pick some up before our tea tasting session."
+        ],
+        [
+          "Klaus Mueller",
+          "I appreciate you sharing your favorite teas, Wolfgang. It's great to embrace different flavors and learn from each other."
+        ],
+        [
+          "Wolfgang Schulz",
+          "It's been interesting learning about your research topic, Klaus. I'd love to hear more about your findings sometime."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we are able to connect and share our interests, Wolfgang. It's important to foster understanding and inclusivity in our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "It's important to have conversations about race and diversity in our community too, Klaus. I think it would be beneficial for us to discuss these topics together."
+        ],
+        [
+          "Klaus Mueller",
+          "I agree, Wolfgang. It's crucial for us to have open discussions about race and diversity in our community. I appreciate your perspective and look forward to our tea tasting session."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think it would be beneficial for us to have a discussion about our experiences and perspectives on race and diversity in our community. Would you be open to that?"
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely, Wolfgang. I believe having an open and honest conversation about our experiences with race and diversity in our community is vital. Let's plan a time to sit down and discuss it further."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Klaus, I appreciate your willingness to have these important conversations about race and diversity. It's essential for us to listen to each other's experiences and perspectives to foster a more inclusive and understanding community. I'm glad we can discuss these topics openly and look forward to our upcoming conversation."
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Sam and Isabella are discussing Isabella's birthday party at Hobbs Cafe, where Sam has been invited and will have his usual coffee and pastry prepared for him. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Good morning, Sam! How are you enjoying your book today?"
+        ],
+        [
+          "Sam Moore",
+          "Good morning, Isabella! I'm enjoying my book, thank you. How are you doing today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're enjoying your book, Sam. Did you hear about my birthday party tomorrow at 5pm? I would love for you to join us at Hobbs Cafe!"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a great idea, Isabella! I would love to join your birthday party tomorrow at 5pm at Hobbs Cafe."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's wonderful to hear, Sam! I'll make sure to save you a special seat at the party tomorrow."
+        ],
+        [
+          "Sam Moore",
+          "Thank you for inviting me, Isabella. I'm looking forward to celebrating your birthday tomorrow at Hobbs Cafe!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Would you like me to prepare your usual coffee and pastry for tomorrow's party?"
+        ],
+        [
+          "Sam Moore",
+          "Thank you, Isabella! I appreciate the offer. I look forward to having my usual coffee and pastry at your birthday party tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great to hear, Sam! I'll make sure to have your usual coffee and pastry ready for you tomorrow at the party."
+        ],
+        [
+          "Sam Moore",
+          "Thank you, Isabella! I appreciate your invitation and I'm looking forward to celebrating your birthday at Hobbs Cafe tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad to hear that, Sam. Thank you for accepting the invitation and for always being a loyal customer at Hobbs Cafe. Your support means a lot to me."
+        ],
+        [
+          "Sam Moore",
+          "Thank you, Isabella! I appreciate the kind invitation. I'll definitely be there to celebrate your birthday at Hobbs Cafe tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was nice chatting with you, Sam. I'll see you at the party tomorrow!"
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        118,
+        57
+      ],
+      "pronunciatio": "\ud83c\udf92",
+      "description": "getting ready for her classes (packing her bag with necessary materials for class) @ the Ville:Dorm for Oak Hill College:Ayesha Khan's room:desk",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        115,
+        45
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about the importance of fostering understanding, inclusivity, and discussing race and diversity in their community through conversations between Klaus Mueller and Wolfgang Schulz. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hello Wolfgang, how are you finding your classes and labs at school?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hello Klaus, classes and labs are going well for me. How about you, how's your paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Wolfgang. My paper on the effects of gentrification in low-income communities is progressing well. How about we schedule a time for a tea tasting session soon?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Sure, Klaus, that sounds like a great idea. How about we plan for this weekend?"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, Wolfgang! How about we meet on Saturday afternoon for the tea tasting session?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Sounds good, Klaus. I'll bring some of my favorite teas to share with you."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to trying out the teas you'll bring, Wolfgang. By the way, have you tried the lavender chamomile blend that Ayesha recommended? I think it would be interesting to include in our tea tasting session."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I haven't tried the lavender chamomile blend yet, Klaus. I'll make sure to pick some up before our tea tasting session."
+        ],
+        [
+          "Klaus Mueller",
+          "I appreciate you sharing your favorite teas, Wolfgang. It's great to embrace different flavors and learn from each other."
+        ],
+        [
+          "Wolfgang Schulz",
+          "It's been interesting learning about your research topic, Klaus. I'd love to hear more about your findings sometime."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we are able to connect and share our interests, Wolfgang. It's important to foster understanding and inclusivity in our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "It's important to have conversations about race and diversity in our community too, Klaus. I think it would be beneficial for us to discuss these topics together."
+        ],
+        [
+          "Klaus Mueller",
+          "I agree, Wolfgang. It's crucial for us to have open discussions about race and diversity in our community. I appreciate your perspective and look forward to our tea tasting session."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think it would be beneficial for us to have a discussion about our experiences and perspectives on race and diversity in our community. Would you be open to that?"
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely, Wolfgang. I believe having an open and honest conversation about our experiences with race and diversity in our community is vital. Let's plan a time to sit down and discuss it further."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Klaus, I appreciate your willingness to have these important conversations about race and diversity. It's essential for us to listen to each other's experiences and perspectives to foster a more inclusive and understanding community. I'm glad we can discuss these topics openly and look forward to our upcoming conversation."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        93,
+        66
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast and reviewing notes for his music theory class (making breakfast) @ the Ville:Lin family's house:kitchen:cooking area",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        88,
+        54
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "opening The Willow Market and Pharmacy (conversing about Adam Smith and Tom Moreno are discussing the upcoming local mayor election, including their opinions on the candidates and the importance of choosing a leader who understands the needs of the village, with Tom suggesting John Harper as a candidate with a strong plan for boosting creativity in the village.) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\ud83d\udca1",
+      "description": "working on her children's books (brainstorming new story ideas) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        71,
+        56
+      ],
+      "pronunciatio": "\u270d\ufe0f",
+      "description": "continuing his writing and research for his book (writing the first draft of the next chapter) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:13:20"
+  }
+}

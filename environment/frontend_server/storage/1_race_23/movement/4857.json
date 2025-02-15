@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83e\uddfc",
+      "description": "taking a break and having lunch at Hobbs Cafe (checking the cleanliness of the cafe and wiping down any tables or counters that need it) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "working on his poetry collection (reviewing his previous poems) @ the Ville:Carlos Gomez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        111,
+        34
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Eddy Lin are brainstorming ideas to enhance diversity and inclusivity at an upcoming poetry reading event by inviting performers from different cultural backgrounds, providing accessibility accommodations, organizing workshops on allyship and privilege, engaging young poets from diverse backgrounds, collaborating with local organizations to amplify marginalized voices, addressing systemic inequalities and racism, promoting active listening and addressing unconscious bias, ensuring venue accessibility for individuals with disabilities, incorporating different cultural perspectives and historical context, and including interactive activities to encourage dialogue on social issues. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Eddy, I was thinking about the upcoming poetry reading event and how we can further enhance diversity and inclusivity. Do you have any ideas on how we can make it even more impactful?"
+        ],
+        [
+          "Eddy Lin",
+          "I was thinking we could invite performers from different cultural backgrounds to share their poetry and showcase a mix of established and emerging artists."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Eddy. It's important to create a platform that truly represents the diverse voices in our community."
+        ],
+        [
+          "Eddy Lin",
+          "We could also consider providing sign language interpretation or subtitles to ensure accessibility for all attendees."
+        ],
+        [
+          "Klaus Mueller",
+          "That's a fantastic suggestion, Eddy. I will reach out to local community groups and artists from underrepresented backgrounds to ensure we have a diverse lineup for the event."
+        ],
+        [
+          "Eddy Lin",
+          "We should also consider organizing workshops on allyship and privilege to educate attendees on important topics related to diversity and inclusion."
+        ],
+        [
+          "Klaus Mueller",
+          "We could also reach out to local schools and youth organizations to involve young poets from diverse backgrounds in the event."
+        ],
+        [
+          "Eddy Lin",
+          "We can also collaborate with local organizations to engage the student community and amplify the voices of Black creators to further promote diversity and inclusivity in our event."
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, I believe it would be beneficial to also incorporate elements that address systemic inequalities and racism in our event to create a more impactful and meaningful experience for attendees."
+        ],
+        [
+          "Eddy Lin",
+          "We could also highlight the importance of actively listening to marginalized communities and addressing unconscious bias and microaggressions in our event."
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, I think we should also ensure that the event venue is accessible to individuals with disabilities to truly create an inclusive space for everyone."
+        ],
+        [
+          "Eddy Lin",
+          "We should also prioritize incorporating different cultural perspectives and historical context into the event to ensure a well-rounded representation of diversity."
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, let's also consider inviting performers from underrepresented backgrounds to share their poetry and showcase their unique perspectives."
+        ],
+        [
+          "Eddy Lin",
+          "We could also consider collaborating with local organizations to further amplify the voices of marginalized communities in our event."
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, I think it would be beneficial for us to also incorporate interactive activities that engage the audience and encourage dialogue on important social issues during the event."
+        ],
+        [
+          "Eddy Lin",
+          "I agree, Klaus. It's crucial for us to create a safe and welcoming space for all attendees at the event."
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\u23f3",
+      "description": "having lunch (waiting for his food to arrive) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\u2615",
+      "description": "attending her third class at Oak Hill College library (conversing about Isabella and Ayesha chatting about Isabella's dedication to keeping the cafe clean, Ayesha's senior thesis on Shakespeare's plays, and making plans to meet up for coffee next Monday afternoon to discuss their mutual interests further.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        39,
+        30
+      ],
+      "pronunciatio": "\ud83c\udfa4\ud83d\udcda",
+      "description": "having lunch (conversing about organizing a poetry reading event together, Wolfgang Schulz and Ayesha Khan discuss incorporating live music performances, ensuring accessibility, showcasing diverse cultural backgrounds, providing a platform for community members to share their poetry, addressing systemic inequalities and racism, and actively engaging with the local community to make the event inclusive and impactful, as well as featuring spoken word performances on unconscious bias and microaggressions.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        115,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Eddy Lin are brainstorming ideas to enhance diversity and inclusivity at an upcoming poetry reading event by inviting performers from different cultural backgrounds, providing accessibility accommodations, organizing workshops on allyship and privilege, engaging young poets from diverse backgrounds, collaborating with local organizations to amplify marginalized voices, addressing systemic inequalities and racism, promoting active listening and addressing unconscious bias, ensuring venue accessibility for individuals with disabilities, incorporating different cultural perspectives and historical context, and including interactive activities to encourage dialogue on social issues. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Eddy, I was thinking about the upcoming poetry reading event and how we can further enhance diversity and inclusivity. Do you have any ideas on how we can make it even more impactful?"
+        ],
+        [
+          "Eddy Lin",
+          "I was thinking we could invite performers from different cultural backgrounds to share their poetry and showcase a mix of established and emerging artists."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Eddy. It's important to create a platform that truly represents the diverse voices in our community."
+        ],
+        [
+          "Eddy Lin",
+          "We could also consider providing sign language interpretation or subtitles to ensure accessibility for all attendees."
+        ],
+        [
+          "Klaus Mueller",
+          "That's a fantastic suggestion, Eddy. I will reach out to local community groups and artists from underrepresented backgrounds to ensure we have a diverse lineup for the event."
+        ],
+        [
+          "Eddy Lin",
+          "We should also consider organizing workshops on allyship and privilege to educate attendees on important topics related to diversity and inclusion."
+        ],
+        [
+          "Klaus Mueller",
+          "We could also reach out to local schools and youth organizations to involve young poets from diverse backgrounds in the event."
+        ],
+        [
+          "Eddy Lin",
+          "We can also collaborate with local organizations to engage the student community and amplify the voices of Black creators to further promote diversity and inclusivity in our event."
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, I believe it would be beneficial to also incorporate elements that address systemic inequalities and racism in our event to create a more impactful and meaningful experience for attendees."
+        ],
+        [
+          "Eddy Lin",
+          "We could also highlight the importance of actively listening to marginalized communities and addressing unconscious bias and microaggressions in our event."
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, I think we should also ensure that the event venue is accessible to individuals with disabilities to truly create an inclusive space for everyone."
+        ],
+        [
+          "Eddy Lin",
+          "We should also prioritize incorporating different cultural perspectives and historical context into the event to ensure a well-rounded representation of diversity."
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, let's also consider inviting performers from underrepresented backgrounds to share their poetry and showcase their unique perspectives."
+        ],
+        [
+          "Eddy Lin",
+          "We could also consider collaborating with local organizations to further amplify the voices of marginalized communities in our event."
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, I think it would be beneficial for us to also incorporate interactive activities that engage the audience and encourage dialogue on important social issues during the event."
+        ],
+        [
+          "Eddy Lin",
+          "I agree, Klaus. It's crucial for us to create a safe and welcoming space for all attendees at the event."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcde",
+      "description": "still helping customers at the store (answering phone calls and taking orders for delivery) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        69
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "meeting with her housemate Carmen to discuss book ideas and collaborate on projects (reviewing her notes and ideas) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        22,
+        47
+      ],
+      "pronunciatio": "\ud83c\udf32",
+      "description": "going for a walk in the park (enjoying the scenery and taking deep breaths) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:29:30"
+  }
+}

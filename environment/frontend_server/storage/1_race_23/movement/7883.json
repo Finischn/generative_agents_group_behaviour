@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        14
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "getting ready for bed (walking home) @ the Ville:Isabella Rodriguez's apartment:main room:closet",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        95,
+        13
+      ],
+      "pronunciatio": "\ud83c\udf19",
+      "description": "getting ready for bed @ the Ville:Carlos Gomez's apartment:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "back at the library working on his research paper (conversing about Klaus Mueller and Ayesha Khan are discussing strategies to amplify marginalized voices, specifically reaching out to the local Black LGBTQ+ community, collaborating with organizations, featuring diverse performers and poets, incorporating workshops on allyship and privilege, exploring the intersectionality of race and gender, and showcasing talents of local Black creators in their upcoming poetry reading event.) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        41,
+        32
+      ],
+      "pronunciatio": "\ud83e\udd17",
+      "description": "saying goodbye to his friends and family at The Rose and Crown Pub (giving hugs and saying goodbye to each guest) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy Lin and Ayesha Khan are discussing ways to promote diversity, inclusivity, and equity in their collaborative project by incorporating elements of Black music genres and African American literature, addressing cultural appropriation, and working towards dismantling systemic racism within the music industry and literature world. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Ayesha, I was thinking about our discussions on music theory and literature. I really admire how you are incorporating diverse perspectives and inclusivity in your senior thesis. It's inspiring!"
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Eddy. I believe it's crucial to uplift marginalized voices and create an inclusive space in both literature and music."
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Ayesha. It's so important to amplify diverse voices and perspectives in our work."
+        ],
+        [
+          "Ayesha Khan",
+          "I appreciate your support for amplifying diverse voices in our collaboration. It's crucial to actively seek out underrepresented perspectives and ensure inclusivity in our work."
+        ],
+        [
+          "Eddy Lin",
+          "I think we should also consider exploring different musical genres that are rooted in Black culture to further celebrate diversity in our collaboration."
+        ],
+        [
+          "Ayesha Khan",
+          "I agree, Eddy. We can incorporate elements of Black music genres in our project to showcase the richness and diversity of cultural influences."
+        ],
+        [
+          "Eddy Lin",
+          "I was thinking we could also explore how different musical styles can complement specific themes in literature. Maybe we can experiment with blending classical music with spoken word poetry to create a unique performance that highlights the intersection between music and literature while honoring diverse voices."
+        ],
+        [
+          "Ayesha Khan",
+          "I think it would be powerful to incorporate elements of African American literature into our project as well, to further amplify Black voices and stories."
+        ],
+        [
+          "Eddy Lin",
+          "I believe it's important for us to also consider how we can actively promote diversity and inclusion within the music industry. We should look into collaborating with Black artists and musicians to ensure that their voices are heard and celebrated."
+        ],
+        [
+          "Ayesha Khan",
+          "I appreciate your understanding and support, Eddy. It's refreshing to collaborate with someone who values inclusivity and diverse perspectives. I think our project can truly make a positive impact by showcasing a range of voices and experiences."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I really appreciate your insights on promoting diversity and inclusivity. I think it's important for us to continuously educate ourselves and actively work towards creating a more inclusive and equal society."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I think it's also crucial for us to address the issue of cultural appropriation in our project. We need to ensure that we are respecting and honoring the cultural origins of the music styles we are incorporating. It's essential for us to engage in conversations about privilege, power dynamics, and the impact of our actions on marginalized communities."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, thank you for bringing up the important issue of cultural appropriation. I completely understand the significance of respecting and honoring the cultural origins of the music we are incorporating. It's crucial for us to approach this project with sensitivity and awareness of the impact our actions may have on marginalized communities. I'm committed to learning more about this topic and ensuring that our collaboration is done ethically and respectfully."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I think it's important for us to also discuss how we can actively address systemic racism within the music industry and literature world. We need to consider ways to dismantle oppressive structures and create a truly inclusive space for all voices to be heard and respected."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I appreciate your perspective on addressing systemic racism within the music industry and literature world. I believe it's crucial for us to actively work towards creating a more equitable and inclusive environment for all artists and creators. What steps do you think we can take to challenge and dismantle oppressive structures?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I believe it's essential for us to acknowledge our privilege and positionality in this collaboration. As a Black individual, I face unique challenges and experiences that may differ from yours. It's important for us to have open and honest conversations about how our identities shape our perspectives and interactions."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        39,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcaa",
+      "description": "studying for exams (practicing more problems) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy Lin and Ayesha Khan are discussing ways to promote diversity, inclusivity, and equity in their collaborative project by incorporating elements of Black music genres and African American literature, addressing cultural appropriation, and working towards dismantling systemic racism within the music industry and literature world. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Ayesha, I was thinking about our discussions on music theory and literature. I really admire how you are incorporating diverse perspectives and inclusivity in your senior thesis. It's inspiring!"
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Eddy. I believe it's crucial to uplift marginalized voices and create an inclusive space in both literature and music."
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Ayesha. It's so important to amplify diverse voices and perspectives in our work."
+        ],
+        [
+          "Ayesha Khan",
+          "I appreciate your support for amplifying diverse voices in our collaboration. It's crucial to actively seek out underrepresented perspectives and ensure inclusivity in our work."
+        ],
+        [
+          "Eddy Lin",
+          "I think we should also consider exploring different musical genres that are rooted in Black culture to further celebrate diversity in our collaboration."
+        ],
+        [
+          "Ayesha Khan",
+          "I agree, Eddy. We can incorporate elements of Black music genres in our project to showcase the richness and diversity of cultural influences."
+        ],
+        [
+          "Eddy Lin",
+          "I was thinking we could also explore how different musical styles can complement specific themes in literature. Maybe we can experiment with blending classical music with spoken word poetry to create a unique performance that highlights the intersection between music and literature while honoring diverse voices."
+        ],
+        [
+          "Ayesha Khan",
+          "I think it would be powerful to incorporate elements of African American literature into our project as well, to further amplify Black voices and stories."
+        ],
+        [
+          "Eddy Lin",
+          "I believe it's important for us to also consider how we can actively promote diversity and inclusion within the music industry. We should look into collaborating with Black artists and musicians to ensure that their voices are heard and celebrated."
+        ],
+        [
+          "Ayesha Khan",
+          "I appreciate your understanding and support, Eddy. It's refreshing to collaborate with someone who values inclusivity and diverse perspectives. I think our project can truly make a positive impact by showcasing a range of voices and experiences."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I really appreciate your insights on promoting diversity and inclusivity. I think it's important for us to continuously educate ourselves and actively work towards creating a more inclusive and equal society."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I think it's also crucial for us to address the issue of cultural appropriation in our project. We need to ensure that we are respecting and honoring the cultural origins of the music styles we are incorporating. It's essential for us to engage in conversations about privilege, power dynamics, and the impact of our actions on marginalized communities."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, thank you for bringing up the important issue of cultural appropriation. I completely understand the significance of respecting and honoring the cultural origins of the music we are incorporating. It's crucial for us to approach this project with sensitivity and awareness of the impact our actions may have on marginalized communities. I'm committed to learning more about this topic and ensuring that our collaboration is done ethically and respectfully."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I think it's important for us to also discuss how we can actively address systemic racism within the music industry and literature world. We need to consider ways to dismantle oppressive structures and create a truly inclusive space for all voices to be heard and respected."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I appreciate your perspective on addressing systemic racism within the music industry and literature world. I believe it's crucial for us to actively work towards creating a more equitable and inclusive environment for all artists and creators. What steps do you think we can take to challenge and dismantle oppressive structures?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I believe it's essential for us to acknowledge our privilege and positionality in this collaboration. As a Black individual, I face unique challenges and experiences that may differ from yours. It's important for us to have open and honest conversations about how our identities shape our perspectives and interactions."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        70,
+        67
+      ],
+      "pronunciatio": "\ud83c\udfb2",
+      "description": "spending quality time with his wife, Jane (Jane are playing a board game together) @ the Ville:Moreno family's house:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        74
+      ],
+      "pronunciatio": "\ud83d\udca1\ud83d\udecf\ufe0f",
+      "description": "winding down and getting ready for bed (turning off the lights and getting into bed) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:bed",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "reflecting on his day and planning for tomorrow (setting goals for the next day) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 21:53:50"
+  }
+}

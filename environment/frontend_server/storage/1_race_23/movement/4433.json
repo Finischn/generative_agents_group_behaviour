@@ -1,0 +1,357 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        25
+      ],
+      "pronunciatio": "\ud83e\uddf9",
+      "description": "taking orders and serving customers at Hobbs Cafe (clearing tables and cleaning up after customers) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        51,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Sam Moore are discussing ways to promote diversity and inclusion in their community, emphasizing the importance of amplifying marginalized voices and taking meaningful action to address systemic inequalities. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hello Sam, how are you today?"
+        ],
+        [
+          "Sam Moore",
+          "Hello Carlos, I'm doing well, thank you for asking."
+        ],
+        [
+          "Carlos Gomez",
+          "That's great to hear, Sam. How's your day been so far?"
+        ],
+        [
+          "Sam Moore",
+          "I heard about the potential collaboration between you and Wolfgang Schulz to highlight shared experiences and marginalized voices. I think that's commendable."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam. I appreciate your support for our collaboration project."
+        ],
+        [
+          "Sam Moore",
+          "I would love to discuss further how we can involve more voices in the conversation about diversity and inclusion."
+        ],
+        [
+          "Carlos Gomez",
+          "I think it's important for us to leverage our platforms to amplify marginalized voices and promote inclusivity in our community."
+        ],
+        [
+          "Sam Moore",
+          "I agree, we should prioritize diversity and inclusion in our community."
+        ],
+        [
+          "Carlos Gomez",
+          "I think it's crucial for us to actively listen to the voices of underrepresented communities and work towards a more equitable society."
+        ],
+        [
+          "Sam Moore",
+          "I completely agree, Carlos. It's essential for us to create a space where everyone's voice is heard and valued."
+        ],
+        [
+          "Carlos Gomez",
+          "It's inspiring to see our community coming together to promote diversity and inclusion. I look forward to collaborating with you and others to make a positive impact."
+        ],
+        [
+          "Sam Moore",
+          "I appreciate your perspective and dedication to promoting diversity and inclusivity in our community. We should continue to work together to make a positive impact."
+        ],
+        [
+          "Carlos Gomez",
+          "I think it's crucial for us to not only talk about diversity and inclusion but also take meaningful action to address systemic inequalities. What are your thoughts on how we can tangibly promote change in our community?"
+        ],
+        [
+          "Sam Moore",
+          "I believe one way we can promote change in our community is by actively engaging with diverse voices and perspectives in decision-making processes."
+        ],
+        [
+          "Carlos Gomez",
+          "I agree, Sam. We can work towards creating a more inclusive and equitable community by actively listening to and uplifting the voices of marginalized communities."
+        ],
+        [
+          "Sam Moore",
+          "I appreciate your insights, Carlos. We should definitely continue this conversation and see how we can create a more inclusive environment together."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        111,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about diversity and inclusivity in the community, Klaus Mueller and Wolfgang Schulz discuss collaborating with local groups, incorporating spoken word performances, ensuring accessibility for all, engaging students and media, and addressing systemic inequalities and racism. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Wolfgang, I wanted to follow up on our discussion about promoting diversity and inclusivity in our community. I was thinking maybe we could start by reaching out to local community groups to collaborate on the poetry reading event?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great idea, Klaus. I agree we should involve more voices in the conversation. I'll reach out to some local organizations to see if they would be interested in collaborating with us."
+        ],
+        [
+          "Klaus Mueller",
+          "I was also thinking about incorporating some spoken word performances into the event to really showcase the diverse talents in our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I love the idea of incorporating spoken word performances, it really adds a unique and powerful element to the event."
+        ],
+        [
+          "Klaus Mueller",
+          "I think it's also important for us to consider how we can make this event accessible to all members of our community. Maybe we could look into having ASL interpreters or providing materials in multiple languages."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I completely agree, Klaus. It's crucial to ensure that all members of our community feel included and represented at the event. Let's also look into providing accommodations for those with disabilities to make it truly accessible to everyone."
+        ],
+        [
+          "Klaus Mueller",
+          "I was thinking we could also collaborate with the local university to engage students in the event and promote a greater sense of community involvement."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should also consider providing resources for those who may not have access to transportation to the event, to ensure everyone can attend."
+        ],
+        [
+          "Klaus Mueller",
+          "I think it would also be beneficial to collaborate with local schools to involve students from a younger age and inspire them to embrace diversity and inclusivity."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Klaus, I think it's important for us to also consider how we can address systemic inequalities within our community as we plan this event. We should make an effort to amplify the voices of marginalized groups and create opportunities for genuine dialogue and understanding."
+        ],
+        [
+          "Klaus Mueller",
+          "Wolfgang, I was also considering reaching out to the local media to spread the word about our event and ensure a wide participation from the community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Klaus, I think it's important for us to acknowledge the historical context of systemic racism in our community and work towards dismantling those structures as we plan this event."
+        ],
+        [
+          "Klaus Mueller",
+          "Wolfgang, I appreciate your insights and perspective on addressing systemic inequalities within our community. It's crucial for us to be aware of the historical context of systemic racism and actively work towards dismantling those structures. I think it's important for us to educate ourselves and others on this issue to create real change."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Klaus, I think it's important for us to actively listen to the experiences and perspectives of marginalized groups in our community to truly understand the impact of systemic racism and work towards meaningful change."
+        ],
+        [
+          "Klaus Mueller",
+          "Wolfgang, I value your perspective on this matter and I want to ensure that we continue to have open and honest conversations about addressing systemic racism in our community. It's important for us to work together towards creating a more inclusive and equitable society."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Klaus, I believe it's crucial for us to actively address our own biases and privilege as individuals in this conversation about diversity and inclusivity. It's important for us to continually educate ourselves and challenge the systems of oppression that perpetuate inequality."
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        50,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Sam Moore are discussing ways to promote diversity and inclusion in their community, emphasizing the importance of amplifying marginalized voices and taking meaningful action to address systemic inequalities. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hello Sam, how are you today?"
+        ],
+        [
+          "Sam Moore",
+          "Hello Carlos, I'm doing well, thank you for asking."
+        ],
+        [
+          "Carlos Gomez",
+          "That's great to hear, Sam. How's your day been so far?"
+        ],
+        [
+          "Sam Moore",
+          "I heard about the potential collaboration between you and Wolfgang Schulz to highlight shared experiences and marginalized voices. I think that's commendable."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam. I appreciate your support for our collaboration project."
+        ],
+        [
+          "Sam Moore",
+          "I would love to discuss further how we can involve more voices in the conversation about diversity and inclusion."
+        ],
+        [
+          "Carlos Gomez",
+          "I think it's important for us to leverage our platforms to amplify marginalized voices and promote inclusivity in our community."
+        ],
+        [
+          "Sam Moore",
+          "I agree, we should prioritize diversity and inclusion in our community."
+        ],
+        [
+          "Carlos Gomez",
+          "I think it's crucial for us to actively listen to the voices of underrepresented communities and work towards a more equitable society."
+        ],
+        [
+          "Sam Moore",
+          "I completely agree, Carlos. It's essential for us to create a space where everyone's voice is heard and valued."
+        ],
+        [
+          "Carlos Gomez",
+          "It's inspiring to see our community coming together to promote diversity and inclusion. I look forward to collaborating with you and others to make a positive impact."
+        ],
+        [
+          "Sam Moore",
+          "I appreciate your perspective and dedication to promoting diversity and inclusivity in our community. We should continue to work together to make a positive impact."
+        ],
+        [
+          "Carlos Gomez",
+          "I think it's crucial for us to not only talk about diversity and inclusion but also take meaningful action to address systemic inequalities. What are your thoughts on how we can tangibly promote change in our community?"
+        ],
+        [
+          "Sam Moore",
+          "I believe one way we can promote change in our community is by actively engaging with diverse voices and perspectives in decision-making processes."
+        ],
+        [
+          "Carlos Gomez",
+          "I agree, Sam. We can work towards creating a more inclusive and equitable community by actively listening to and uplifting the voices of marginalized communities."
+        ],
+        [
+          "Sam Moore",
+          "I appreciate your insights, Carlos. We should definitely continue this conversation and see how we can create a more inclusive environment together."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        93,
+        32
+      ],
+      "pronunciatio": "\u23f3",
+      "description": "having lunch (waiting in line to order her food) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        109,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about diversity and inclusivity in the community, Klaus Mueller and Wolfgang Schulz discuss collaborating with local groups, incorporating spoken word performances, ensuring accessibility for all, engaging students and media, and addressing systemic inequalities and racism. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Wolfgang, I wanted to follow up on our discussion about promoting diversity and inclusivity in our community. I was thinking maybe we could start by reaching out to local community groups to collaborate on the poetry reading event?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great idea, Klaus. I agree we should involve more voices in the conversation. I'll reach out to some local organizations to see if they would be interested in collaborating with us."
+        ],
+        [
+          "Klaus Mueller",
+          "I was also thinking about incorporating some spoken word performances into the event to really showcase the diverse talents in our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I love the idea of incorporating spoken word performances, it really adds a unique and powerful element to the event."
+        ],
+        [
+          "Klaus Mueller",
+          "I think it's also important for us to consider how we can make this event accessible to all members of our community. Maybe we could look into having ASL interpreters or providing materials in multiple languages."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I completely agree, Klaus. It's crucial to ensure that all members of our community feel included and represented at the event. Let's also look into providing accommodations for those with disabilities to make it truly accessible to everyone."
+        ],
+        [
+          "Klaus Mueller",
+          "I was thinking we could also collaborate with the local university to engage students in the event and promote a greater sense of community involvement."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should also consider providing resources for those who may not have access to transportation to the event, to ensure everyone can attend."
+        ],
+        [
+          "Klaus Mueller",
+          "I think it would also be beneficial to collaborate with local schools to involve students from a younger age and inspire them to embrace diversity and inclusivity."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Klaus, I think it's important for us to also consider how we can address systemic inequalities within our community as we plan this event. We should make an effort to amplify the voices of marginalized groups and create opportunities for genuine dialogue and understanding."
+        ],
+        [
+          "Klaus Mueller",
+          "Wolfgang, I was also considering reaching out to the local media to spread the word about our event and ensure a wide participation from the community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Klaus, I think it's important for us to acknowledge the historical context of systemic racism in our community and work towards dismantling those structures as we plan this event."
+        ],
+        [
+          "Klaus Mueller",
+          "Wolfgang, I appreciate your insights and perspective on addressing systemic inequalities within our community. It's crucial for us to be aware of the historical context of systemic racism and actively work towards dismantling those structures. I think it's important for us to educate ourselves and others on this issue to create real change."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Klaus, I think it's important for us to actively listen to the experiences and perspectives of marginalized groups in our community to truly understand the impact of systemic racism and work towards meaningful change."
+        ],
+        [
+          "Klaus Mueller",
+          "Wolfgang, I value your perspective on this matter and I want to ensure that we continue to have open and honest conversations about addressing systemic racism in our community. It's important for us to work together towards creating a more inclusive and equitable society."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Klaus, I believe it's crucial for us to actively address our own biases and privilege as individuals in this conversation about diversity and inclusivity. It's important for us to continually educate ourselves and challenge the systems of oppression that perpetuate inequality."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        76,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcdc",
+      "description": "having lunch at Hobbs Cafe (looking at the menu and deciding what to order) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        67,
+        46
+      ],
+      "pronunciatio": "\ud83d\uded2",
+      "description": "grabbing lunch and continuing to help customers (assisting a customer with finding a specific product) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\ud83d\udc8c",
+      "description": "taking a lunch break and doing research for her adult comic book series (checking her emails) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        65
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "having lunch (reading a book) @ the Ville:Adam Smith's house:main room:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:18:50"
+  }
+}

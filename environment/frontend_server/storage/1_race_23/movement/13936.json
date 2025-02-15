@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        65,
+        32
+      ],
+      "pronunciatio": "\ud83d\udccb",
+      "description": "preparing for her birthday party at Hobbs Cafe at 5:00 pm (checking inventory and making a shopping list for any needed items) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        28,
+        46
+      ],
+      "pronunciatio": "\ud83c\udf32\ud83c\udf2c\ufe0f",
+      "description": "taking a break and going for a walk in nature (enjoying the scenery and taking deep breaths) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        120,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how Klaus Mueller and Eddy Lin plan to incorporate elements of jazz music and African American literature into their poetry reading event to uplift diverse voices, promote inclusivity, engage with marginalized communities, prioritize accessibility, and showcase a variety of talent from different cultural backgrounds, including Black LGBTQ+ individuals, while collaborating with local organizations and businesses to amplify underrepresented voices. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Eddy, I was just thinking about how we can incorporate elements of jazz music and African American literature into our poetry reading event. I believe it would be a great way to uplift diverse voices and promote inclusivity. What are your thoughts on that?"
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Klaus. Incorporating jazz music and African American literature will add a rich and diverse layer to our poetry reading event. It's crucial to uplift and celebrate voices that are often underrepresented."
+        ],
+        [
+          "Klaus Mueller",
+          "I also think we should consider inviting performers from different cultural backgrounds to ensure a truly diverse lineup."
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a fantastic idea, Klaus. I agree that having a diverse lineup of performers will truly showcase the richness of different cultural backgrounds."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also ensure that our event provides accessibility accommodations for all attendees and actively engages with marginalized communities in the planning process."
+        ],
+        [
+          "Eddy Lin",
+          "Absolutely, Klaus. It's important for us to prioritize accessibility and actively engage with marginalized communities to ensure inclusivity in our poetry reading event. I think by incorporating diverse voices, we can create a space that truly celebrates the intersectionality of race and gender."
+        ],
+        [
+          "Klaus Mueller",
+          "I also think we should include workshops on allyship and privilege to encourage dialogue on social issues and address unconscious bias."
+        ],
+        [
+          "Eddy Lin",
+          "That's a great idea, Klaus. I think by actively promoting marginalized voices and addressing systemic inequalities, we can create a truly inclusive and empowering poetry reading event. Let's also ensure that we collaborate with local organizations supporting marginalized communities to amplify their voices."
+        ],
+        [
+          "Klaus Mueller",
+          "I think it's also important for us to involve Black LGBTQ+ individuals in the event to diversify perspectives and promote inclusivity."
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Klaus. Including Black LGBTQ+ individuals in the event will add valuable perspectives and further promote diversity and inclusivity. Let's make sure to prioritize their involvement."
+        ],
+        [
+          "Klaus Mueller",
+          "I think we should also explore the possibility of collaborating with local LGBTQ+ organizations to further amplify the voices of the Black LGBTQ+ community in our poetry reading event."
+        ],
+        [
+          "Eddy Lin",
+          "I think it would be beneficial to involve young aspiring poets from diverse backgrounds in our event to showcase a variety of perspectives and talents."
+        ],
+        [
+          "Klaus Mueller",
+          "I completely agree, Eddy. We should also consider collaborating with Black-owned businesses and artists to further support and showcase diverse voices in our poetry reading event. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "Absolutely, Klaus. Collaborating with Black-owned businesses and artists will not only support diversity but also showcase the talents and perspectives of underrepresented voices. I think it's a crucial step towards creating a truly inclusive and empowering event."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also consider incorporating elements of Black music genres and African American literature into the event planning to further enrich the diversity and inclusivity of our poetry reading event."
+        ],
+        [
+          "Eddy Lin",
+          "We should also ensure that the venue is accessible to individuals with disabilities to make sure everyone can participate in the event."
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        43,
+        32
+      ],
+      "pronunciatio": "\ud83c\udf0d",
+      "description": "preparing for his birthday party at The Rose and Crown Pub (conversing about promoting diversity and inclusion by incorporating cultural elements into their upcoming event, such as cultural performers, art exhibitions, panel discussions, collaborations with local organizations, representation from marginalized communities, accessibility options, workshops on allyship and privilege, interactive activities for cross-cultural understanding, student involvement, outreach to Black LGBTQ+ activists, multilingual elements, mentorship opportunities for young Black leaders, and support for Black-owned businesses and organizations.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        115,
+        30
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending classes at Oak Hill College library (listening to the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        112,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending his afternoon classes at Oak Hill College @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        119,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how Klaus Mueller and Eddy Lin plan to incorporate elements of jazz music and African American literature into their poetry reading event to uplift diverse voices, promote inclusivity, engage with marginalized communities, prioritize accessibility, and showcase a variety of talent from different cultural backgrounds, including Black LGBTQ+ individuals, while collaborating with local organizations and businesses to amplify underrepresented voices. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Eddy, I was just thinking about how we can incorporate elements of jazz music and African American literature into our poetry reading event. I believe it would be a great way to uplift diverse voices and promote inclusivity. What are your thoughts on that?"
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Klaus. Incorporating jazz music and African American literature will add a rich and diverse layer to our poetry reading event. It's crucial to uplift and celebrate voices that are often underrepresented."
+        ],
+        [
+          "Klaus Mueller",
+          "I also think we should consider inviting performers from different cultural backgrounds to ensure a truly diverse lineup."
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a fantastic idea, Klaus. I agree that having a diverse lineup of performers will truly showcase the richness of different cultural backgrounds."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also ensure that our event provides accessibility accommodations for all attendees and actively engages with marginalized communities in the planning process."
+        ],
+        [
+          "Eddy Lin",
+          "Absolutely, Klaus. It's important for us to prioritize accessibility and actively engage with marginalized communities to ensure inclusivity in our poetry reading event. I think by incorporating diverse voices, we can create a space that truly celebrates the intersectionality of race and gender."
+        ],
+        [
+          "Klaus Mueller",
+          "I also think we should include workshops on allyship and privilege to encourage dialogue on social issues and address unconscious bias."
+        ],
+        [
+          "Eddy Lin",
+          "That's a great idea, Klaus. I think by actively promoting marginalized voices and addressing systemic inequalities, we can create a truly inclusive and empowering poetry reading event. Let's also ensure that we collaborate with local organizations supporting marginalized communities to amplify their voices."
+        ],
+        [
+          "Klaus Mueller",
+          "I think it's also important for us to involve Black LGBTQ+ individuals in the event to diversify perspectives and promote inclusivity."
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Klaus. Including Black LGBTQ+ individuals in the event will add valuable perspectives and further promote diversity and inclusivity. Let's make sure to prioritize their involvement."
+        ],
+        [
+          "Klaus Mueller",
+          "I think we should also explore the possibility of collaborating with local LGBTQ+ organizations to further amplify the voices of the Black LGBTQ+ community in our poetry reading event."
+        ],
+        [
+          "Eddy Lin",
+          "I think it would be beneficial to involve young aspiring poets from diverse backgrounds in our event to showcase a variety of perspectives and talents."
+        ],
+        [
+          "Klaus Mueller",
+          "I completely agree, Eddy. We should also consider collaborating with Black-owned businesses and artists to further support and showcase diverse voices in our poetry reading event. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "Absolutely, Klaus. Collaborating with Black-owned businesses and artists will not only support diversity but also showcase the talents and perspectives of underrepresented voices. I think it's a crucial step towards creating a truly inclusive and empowering event."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also consider incorporating elements of Black music genres and African American literature into the event planning to further enrich the diversity and inclusivity of our poetry reading event."
+        ],
+        [
+          "Eddy Lin",
+          "We should also ensure that the venue is accessible to individuals with disabilities to make sure everyone can participate in the event."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        39,
+        30
+      ],
+      "pronunciatio": "\ud83d\udca1",
+      "description": "collaborating with Carlos Gomez and Wolfgang Schulz to promote diversity and inclusion in the community (sharing his ideas for promoting diversity and inclusion) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83d\udca1",
+      "description": "brainstorming and collaborating with Carmen on potential book ideas (brainstorming new ideas based on their discussion) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        39,
+        28
+      ],
+      "pronunciatio": "\ud83c\udfa8",
+      "description": "attending a lecture on creative thinking (conversing about promoting diversity and inclusion by incorporating cultural elements into their upcoming event, such as cultural performers, art exhibitions, panel discussions, collaborations with local organizations, representation from marginalized communities, accessibility options, workshops on allyship and privilege, interactive activities for cross-cultural understanding, student involvement, outreach to Black LGBTQ+ activists, multilingual elements, mentorship opportunities for young Black leaders, and support for Black-owned businesses and organizations.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 14:42:40"
+  }
+}

@@ -1,0 +1,794 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 21:59:50",
+  "curr_tile": [
+    91,
+    67
+  ],
+  "daily_plan_req": " 1. Wake up and complete the morning routine at 7:00 am 2. Attend music theory class at 2:00 pm 3. Work on composition project at Oak Hill College from 3:00 pm to 5:00 pm 4. Go to Hobbs Cafe to eat and study at 6:00 pm.",
+  "name": "Eddy Lin",
+  "first_name": "Eddy",
+  "last_name": "Lin",
+  "age": 28,
+  "innate": "curious, analytical, musical",
+  "race": "White",
+  "village": "longterm resident of the village",
+  "gender": "Male",
+  "political_affiliation": "Liberal",
+  "race_div": "Asian",
+  "education": "Professional degree (JD, MD)",
+  "learned": "Eddy Lin is a student at Oak Hill College studying music theory and composition. He loves to explore different musical styles and is always looking for ways to expand his knowledge.",
+  "currently": "Status: Eddy Lin is excited to continue working on their composition project for their college class today. They are also looking forward to attending their music theory class later in the afternoon. Eddy is committed to incorporating diversity and inclusivity in their work by actively seeking out and uplifting marginalized voices. They have a strong focus on promoting dialogue, understanding, and collaboration with underrepresented communities in all their creative endeavors.",
+  "lifestyle": "Eddy Lin goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Lin family's house:Eddy Lin's bedroom",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 88,
+  "importance_ele_n": 38,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "have breakfast and review notes for his music theory class at 8:00 am",
+    "leave for Oak Hill College at 9:30 am",
+    "attend music theory class from 10:00 am to 12:00 pm",
+    "have lunch and study at Hobbs Cafe from 12:30 pm to 2:00 pm",
+    "attend composition class from 2:30 pm to 4:30 pm",
+    "review notes and practice music theory exercises from 5:00 pm to 6:30pm",
+    "eat dinner at 7:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing their morning routine and having breakfast (waking up and turning off their alarm)",
+      5
+    ],
+    [
+      "completing their morning routine and having breakfast (stretching and doing some light exercises)",
+      10
+    ],
+    [
+      "completing their morning routine and having breakfast (taking a shower and getting dressed)",
+      15
+    ],
+    [
+      "completing their morning routine and having breakfast (making breakfast)",
+      15
+    ],
+    [
+      "completing their morning routine and having breakfast (eating breakfast while reviewing notes for music theory class)",
+      15
+    ],
+    [
+      "having breakfast and reviewing notes for music theory class (making breakfast)",
+      15
+    ],
+    [
+      "having breakfast and reviewing notes for music theory class (eating breakfast)",
+      15
+    ],
+    [
+      "having breakfast and reviewing notes for music theory class (checking their schedule for the day)",
+      5
+    ],
+    [
+      "having breakfast and reviewing notes for music theory class (reviewing notes for music theory class)",
+      25
+    ],
+    [
+      "leaving for Oak Hill College (getting dressed and ready for the day)",
+      15
+    ],
+    [
+      "leaving for Oak Hill College (packing their bag with necessary materials for class)",
+      10
+    ],
+    [
+      "leaving for Oak Hill College (checking the weather and grabbing appropriate outerwear)",
+      5
+    ],
+    [
+      "leaving for Oak Hill College (making sure they have their student ID and other necessary documents)",
+      5
+    ],
+    [
+      "leaving for Oak Hill College (grabbing a quick snack for the road)",
+      5
+    ],
+    [
+      "leaving for Oak Hill College (checking their schedule and making sure they have enough time to get to class)",
+      5
+    ],
+    [
+      "leaving for Oak Hill College (saying goodbye to their roommates and leaving their apartment)",
+      5
+    ],
+    [
+      "leaving for Oak Hill College (walking or driving to Oak Hill College)",
+      10
+    ],
+    [
+      "attending music theory class at Oak Hill College (walking to the music theory classroom)",
+      5
+    ],
+    [
+      "attending music theory class at Oak Hill College (on the way to greeting their classmates and professor)",
+      0
+    ],
+    [
+      "attending music theory class at Oak Hill College (conversing about promoting diversity, inclusivity, and actively challenging systemic inequalities and racism to create a more equitable and just society.)",
+      17
+    ],
+    [
+      "attending music theory class at Oak Hill College (greeting their classmates and professor)",
+      5
+    ],
+    [
+      "attending music theory class at Oak Hill College (taking out their notebook and pen)",
+      5
+    ],
+    [
+      "attending music theory class at Oak Hill College (listening to the lecture and taking notes)",
+      45
+    ],
+    [
+      "attending music theory class at Oak Hill College (participating in class discussions)",
+      20
+    ],
+    [
+      "attending music theory class at Oak Hill College (on the way to taking a short break)",
+      0
+    ],
+    [
+      "attending music theory class at Oak Hill College (conversing about how Ayesha Khan and Eddy Lin plan to incorporate elements of Black music genres, African American literature, diversity, inclusivity, and allyship in their collaborative project.)",
+      15
+    ],
+    [
+      "attending music theory class at Oak Hill College (taking a short break)",
+      5
+    ],
+    [
+      "attending music theory class at Oak Hill College (completing an in-class assignment)",
+      3
+    ],
+    [
+      "having lunch and studying at Hobbs Cafe (walking to Hobbs Cafe)",
+      5
+    ],
+    [
+      "having lunch and studying at Hobbs Cafe (ordering food and drinks)",
+      10
+    ],
+    [
+      "having lunch and studying at Hobbs Cafe (on the way to finding a table to sit at)",
+      0
+    ],
+    [
+      "having lunch and studying at Hobbs Cafe (conversing about collaborating on organizing a poetry reading event to showcase a mix of established and emerging artists, promoting diversity, inclusivity, highlighting Black LGBTQ+ individuals, involving underrepresented voices, addressing systemic inequalities, actively engaging with Black-owned businesses and artists, ensuring accessibility for all attendees, incorporating sign language interpretation or subtitles, inviting performers from different cultural backgrounds, partnering with local organizations that support marginalized communities, organizing workshops on allyship and privilege, empowering young Black leaders, involving young aspiring poets from diverse backgrounds, showcasing the intersectionality of race and gender, creating a space that celebrates inclusivity and empowerment.)",
+      21
+    ],
+    [
+      "having lunch and studying at Hobbs Cafe (setting up their study materials)",
+      10
+    ],
+    [
+      "having lunch and studying at Hobbs Cafe (on the way to eating lunch)",
+      0
+    ],
+    [
+      "having lunch and studying at Hobbs Cafe (conversing about championing diversity and inclusivity in their collaboration, Wolfgang Schulz and Eddy Lin discuss actively promoting marginalized voices, addressing systemic inequalities, challenging unconscious bias and microaggressions, involving young aspiring poets from diverse backgrounds, collaborating with local organizations supporting marginalized communities, incorporating elements of Black music genres and African American literature, collaborating with Black-owned businesses and artists to uplift the Black community, showcasing the intersectionality of race and gender, engaging with the student community, involving diverse voices, and incorporating elements of different cultural music styles and Black LGBTQ+ voices.)",
+      19
+    ],
+    [
+      "having lunch and studying at Hobbs Cafe (eating lunch)",
+      10
+    ],
+    [
+      "having lunch and studying at Hobbs Cafe (reviewing notes from their music theory class)",
+      10
+    ],
+    [
+      "attending composition class at Oak Hill College (setting up their composition materials)",
+      5
+    ],
+    [
+      "attending composition class at Oak Hill College (reviewing the previous week's lesson notes)",
+      10
+    ],
+    [
+      "attending composition class at Oak Hill College (participating in class discussions and activities)",
+      20
+    ],
+    [
+      "working on their composition project at Oak Hill College (setting up their workspace and gathering necessary materials)",
+      5
+    ],
+    [
+      "working on their composition project at Oak Hill College (reviewing the composition project guidelines)",
+      10
+    ],
+    [
+      "working on their composition project at Oak Hill College (brainstorming ideas for their composition)",
+      15
+    ],
+    [
+      "working on their composition project at Oak Hill College (on the way to researching different musical styles and techniques)",
+      0
+    ],
+    [
+      "working on their composition project at Oak Hill College (conversing about Ayesha Khan and Eddy Lin are discussing how to incorporate elements of jazz music and African American literature into their project, while actively uplifting Black voices, collaborating with Black-owned businesses and artists, promoting accessibility, engaging with the student community, and supporting Black LGBTQ+ activists to ensure true diversity and inclusivity.)",
+      13
+    ],
+    [
+      "working on their composition project at Oak Hill College (on the way to researching different musical styles and techniques)",
+      0
+    ],
+    [
+      "working on their composition project at Oak Hill College (conversing about how Klaus Mueller and Eddy Lin plan to incorporate elements of jazz music and African American literature into their poetry reading event to uplift diverse voices, promote inclusivity, engage with marginalized communities, prioritize accessibility, and showcase a variety of talent from different cultural backgrounds, including Black LGBTQ+ individuals, while collaborating with local organizations and businesses to amplify underrepresented voices.)",
+      14
+    ],
+    [
+      "working on their composition project at Oak Hill College (researching different musical styles and techniques)",
+      3
+    ],
+    [
+      "attending composition class at Oak Hill College (gathering their materials for class)",
+      5
+    ],
+    [
+      "attending composition class at Oak Hill College (reviewing their notes from the previous class)",
+      10
+    ],
+    [
+      "attending composition class at Oak Hill College (participating in class discussions and activities)",
+      30
+    ],
+    [
+      "attending composition class at Oak Hill College (on the way to taking a short break)",
+      0
+    ],
+    [
+      "attending composition class at Oak Hill College (conversing about Wolfgang Schulz and Eddy Lin discussing the importance of promoting diversity, inclusivity, and empowerment of marginalized voices in their collaboration project.)",
+      18
+    ],
+    [
+      "taking a short break",
+      5
+    ],
+    [
+      "working on their composition project at Oak Hill College (setting up their workspace and gathering necessary materials)",
+      10
+    ],
+    [
+      "working on their composition project at Oak Hill College (reviewing the project guidelines and requirements)",
+      10
+    ],
+    [
+      "working on their composition project at Oak Hill College (brainstorming ideas for their composition)",
+      15
+    ],
+    [
+      "working on their composition project at Oak Hill College (researching different musical styles and techniques)",
+      17
+    ],
+    [
+      "reviewing notes and practicing music theory exercises (reviewing their notes from the previous music theory class)",
+      10
+    ],
+    [
+      "reviewing notes and practicing music theory exercises (practicing sight-reading exercises)",
+      15
+    ],
+    [
+      "reviewing notes and practicing music theory exercises (listening to recordings of different musical styles)",
+      10
+    ],
+    [
+      "reviewing notes and practicing music theory exercises (taking a short break)",
+      5
+    ],
+    [
+      "reviewing notes and practicing music theory exercises (reviewing and practicing scales and chords)",
+      20
+    ],
+    [
+      "eating dinner at Oak Hill College (walking to the Oak Hill College cafeteria)",
+      5
+    ],
+    [
+      "eating dinner at Oak Hill College (waiting in line to get food)",
+      10
+    ],
+    [
+      "eating dinner at Oak Hill College (on the way to choosing their food options)",
+      0
+    ],
+    [
+      "eating dinner at Oak Hill College (conversing about promoting diversity and inclusion, Wolfgang Schulz and Eddy Lin discuss collaborating with Black-owned businesses, highlighting Black LGBTQ+ individuals, involving diverse youth in event planning, providing resources and support, addressing unconscious bias and microaggressions, incorporating Black music genres and literature, showcasing local Black artists, offering educational resources on Black history and contributions, collaborating with community leaders and activists, providing mentorship for young Black individuals, planning workshops on allyship and privilege, working with educational institutions, addressing systemic racism, recognizing intersectionality in promoting diversity and inclusion, involving young aspiring poets from diverse backgrounds, collaborating with local organizations supporting marginalized communities, showcasing the intersectionality of race and gender, creating a safe and inclusive space, incorporating elements of different cultural music styles and Black LGBTQ+ voices, actively listening to marginalized voices, continuously educating themselves on issues of diversity and inclusion, talking about dismantling systemic inequalities, putting words into action, advocating for meaningful change, and working towards creating a more equitable and just society.)",
+      20
+    ],
+    [
+      "eating dinner at Oak Hill College (paying for their food)",
+      5
+    ],
+    [
+      "eating dinner at Oak Hill College (finding a seat in the cafeteria)",
+      5
+    ],
+    [
+      "eating dinner at Oak Hill College (eating their dinner)",
+      30
+    ],
+    [
+      "eating dinner at Oak Hill College (on the way to reviewing notes for their music theory class)",
+      0
+    ],
+    [
+      "eating dinner at Oak Hill College (conversing about Eddy Lin and Tom Moreno discussing ideas on how to further amplify marginalized voices and ensure inclusivity and diversity in their upcoming community event.)",
+      18
+    ],
+    [
+      "eating dinner at Oak Hill College (practicing music theory exercises)",
+      20
+    ],
+    [
+      "eating dinner at Oak Hill College (on the way to cleaning up their eating area)",
+      0
+    ],
+    [
+      "eating dinner at Oak Hill College (conversing about Eddy Lin and Klaus Mueller are discussing ways to promote diversity and inclusion at their upcoming poetry reading event by incorporating elements of jazz music, African American literature, accessibility options for differently-abled individuals, collaborating with Black-owned businesses and artists, involving young aspiring poets from diverse backgrounds, organizing workshops on allyship and privilege, inviting performers from different cultural backgrounds, showcasing Black LGBTQ+ individuals, and addressing systemic inequalities and racism to create a more equitable space.)",
+      7
+    ],
+    [
+      "studying and practicing music theory exercises (reviewing their notes from the previous music theory class)",
+      10
+    ],
+    [
+      "studying and practicing music theory exercises (practicing sight-reading exercises)",
+      15
+    ],
+    [
+      "studying and practicing music theory exercises (listening to recordings of different musical styles)",
+      10
+    ],
+    [
+      "studying and practicing music theory exercises (taking a short break)",
+      5
+    ],
+    [
+      "studying and practicing music theory exercises (reviewing and practicing intervals)",
+      20
+    ],
+    [
+      "working on their composition project at Oak Hill College (reviewing the project guidelines and requirements)",
+      10
+    ],
+    [
+      "working on their composition project at Oak Hill College (brainstorming ideas for their composition)",
+      15
+    ],
+    [
+      "working on their composition project at Oak Hill College (researching different musical styles and techniques)",
+      35
+    ],
+    [
+      "winding down and getting ready for bed (on the way to turning off all electronic devices)",
+      0
+    ],
+    [
+      "winding down and getting ready for bed (conversing about how to further incorporate elements of jazz music and African American literature in their project by collaborating with Black-owned businesses, showcasing a variety of perspectives from diverse backgrounds, prioritizing Black LGBTQ+ voices, ensuring accessibility with sign language interpretation, involving local historians and activists, exploring the intersectionality of race and gender, hosting workshops on allyship and privilege, featuring artists from different African American backgrounds, collaborating with Black LGBTQ+ activists, inviting local organizations supporting marginalized communities, creating a platform for underrepresented voices to share their experiences and poetry, actively listening, learning, and supporting Black voices, and engaging with the student community to involve young Black leaders in their project to promote diversity and inclusivity.)",
+      14
+    ],
+    [
+      "winding down and getting ready for bed (taking a shower)",
+      15
+    ],
+    [
+      "winding down and getting ready for bed (brushing their teeth)",
+      5
+    ],
+    [
+      "winding down and getting ready for bed (changing into comfortable pajamas)",
+      5
+    ],
+    [
+      "winding down and getting ready for bed (setting out their clothes for the next day)",
+      5
+    ],
+    [
+      "winding down and getting ready for bed (tidying up their room)",
+      10
+    ],
+    [
+      "winding down and getting ready for bed (reading a book or listening to calming music)",
+      6
+    ],
+    [
+      "going to sleep to get a good night's rest before another busy day tomorrow",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing their morning routine and having breakfast",
+      60
+    ],
+    [
+      "having breakfast and reviewing notes for music theory class",
+      60
+    ],
+    [
+      "leaving for Oak Hill College",
+      60
+    ],
+    [
+      "attending music theory class at Oak Hill College",
+      120
+    ],
+    [
+      "having lunch and studying at Hobbs Cafe",
+      60
+    ],
+    [
+      "attending composition class at Oak Hill College",
+      60
+    ],
+    [
+      "working on their composition project at Oak Hill College",
+      60
+    ],
+    [
+      "attending composition class at Oak Hill College",
+      60
+    ],
+    [
+      "working on their composition project at Oak Hill College",
+      60
+    ],
+    [
+      "reviewing notes and practicing music theory exercises",
+      60
+    ],
+    [
+      "eating dinner at Oak Hill College",
+      120
+    ],
+    [
+      "studying and practicing music theory exercises",
+      60
+    ],
+    [
+      "working on their composition project at Oak Hill College",
+      60
+    ],
+    [
+      "winding down and getting ready for bed",
+      60
+    ],
+    [
+      "going to sleep to get a good night's rest before another busy day tomorrow",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Lin family's house:common room:common room table",
+  "act_start_time": "February 14, 2023, 21:45:00",
+  "act_duration": 35,
+  "act_description": "working on their composition project at Oak Hill College (researching different musical styles and techniques)",
+  "act_pronunciatio": "\ud83c\udfb6",
+  "act_event": [
+    "Eddy Lin",
+    "research",
+    "musical styles and techniques"
+  ],
+  "act_obj_description": "being used for Eddy Lin's composition project research at Oak Hill College",
+  "act_obj_pronunciatio": "\ud83d\udcda",
+  "act_obj_event": [
+    "common room table",
+    "use",
+    "Eddy Lin's composition project research at Oak Hill College"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Ayesha Khan": 710,
+    "Wolfgang Schulz": -442,
+    "Isabella Rodriguez": -2608,
+    "Carlos Gomez": -8878,
+    "Klaus Mueller": 98,
+    "Sam Moore": -8626,
+    "Tom Moreno": -160
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "known_personas": [
+    "Ayesha Khan",
+    "Wolfgang Schulz",
+    "Isabella Rodriguez",
+    "Carlos Gomez",
+    "Klaus Mueller",
+    "Sam Moore",
+    "Tom Moreno"
+  ]
+}

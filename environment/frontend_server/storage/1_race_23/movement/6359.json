@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83e\udd1d",
+      "description": "preparing for her birthday party tomorrow and decorating Hobbs Cafe (conversing about collaborating on promoting diversity and inclusion in their community and planning future events to showcase diverse voices and perspectives, prioritize including Black LGBTQ+ individuals, address systemic inequalities and racism, support Black-owned businesses, mentor young Black leaders, provide access to educational opportunities and healthcare, and collaborate with local community leaders to ensure full representation and inclusivity.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        40,
+        36
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "taking a break and going for a walk in nature (walking back home) @ the Ville:Carlos Gomez's apartment:main room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        122,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "finishing up his research at the library (writing the conclusion for his research paper) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        40,
+        53
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how to incorporate creativity into their initiatives for promoting diversity and inclusion in the village @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey Sam, have you had a chance to discuss the upcoming local mayor election with anyone else?"
+        ],
+        [
+          "Sam Moore",
+          "I actually had a chat with Tom Moreno about it earlier. He had some interesting insights on staying informed and engaged in local politics."
+        ],
+        [
+          "Adam Smith",
+          "That's great to hear. I've been researching the candidates running for mayor and John Harper seems to have a strong plan for boosting creativity in the village."
+        ],
+        [
+          "Sam Moore",
+          "That's interesting, Adam. I'll have to look into John Harper's plans more closely."
+        ],
+        [
+          "Adam Smith",
+          "Do you think John Harper's focus on creativity aligns with our goals for promoting diversity and inclusion in the village?"
+        ],
+        [
+          "Sam Moore",
+          "I believe creativity can be a powerful tool in promoting diversity and inclusion. It opens up opportunities for different voices and perspectives to be heard."
+        ],
+        [
+          "Adam Smith",
+          "I completely agree, creativity can truly make a difference in amplifying diverse voices and fostering inclusion in our community."
+        ],
+        [
+          "Sam Moore",
+          "I think we should consider how we can incorporate creativity into our initiatives for promoting diversity and inclusion in the community."
+        ],
+        [
+          "Adam Smith",
+          "I agree, let's brainstorm some creative ideas to implement in our event on diversity and inclusion."
+        ],
+        [
+          "Sam Moore",
+          "I agree, Adam. Let's set up a meeting with the community members to discuss how we can integrate creativity into our initiatives for promoting diversity and inclusion in the village."
+        ],
+        [
+          "Adam Smith",
+          "I think reaching out to Carlos for his input on incorporating creativity into our event would be beneficial."
+        ],
+        [
+          "Sam Moore",
+          "I agree, let's reach out to Carlos and Wolfgang as well to get a diverse range of inputs on how we can incorporate creativity into our initiatives for promoting diversity and inclusion in the community."
+        ],
+        [
+          "Adam Smith",
+          "Do you think we should also involve other community members in our discussion on creativity and diversity?"
+        ],
+        [
+          "Sam Moore",
+          "I think reaching out to Carlos for his input on incorporating creativity into our event would be beneficial."
+        ],
+        [
+          "Adam Smith",
+          "I think we should also explore the idea of hosting a creativity workshop as part of our event on diversity and inclusion."
+        ],
+        [
+          "Sam Moore",
+          "I think reaching out to Carlos for his input on incorporating creativity into our event would be beneficial."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having dinner @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf08",
+      "description": "having dinner (conversing about collaborating on promoting diversity and inclusion in their community and planning future events to showcase diverse voices and perspectives, prioritize including Black LGBTQ+ individuals, address systemic inequalities and racism, support Black-owned businesses, mentor young Black leaders, provide access to educational opportunities and healthcare, and collaborate with local community leaders to ensure full representation and inclusivity.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        95,
+        74
+      ],
+      "pronunciatio": "\ud83c\udfb6",
+      "description": "studying and practicing music theory exercises at Oak Hill College (practicing scales and arpeggios) @ the Ville:Lin family's house:Eddy Lin's bedroom:desk",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        61,
+        43
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "finishing up at the store and closing for the day (restocking shelves and organizing products) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having dinner with Carmen (chatting with Carmen while they eat) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        41,
+        53
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how to incorporate creativity into their initiatives for promoting diversity and inclusion in the village @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey Sam, have you had a chance to discuss the upcoming local mayor election with anyone else?"
+        ],
+        [
+          "Sam Moore",
+          "I actually had a chat with Tom Moreno about it earlier. He had some interesting insights on staying informed and engaged in local politics."
+        ],
+        [
+          "Adam Smith",
+          "That's great to hear. I've been researching the candidates running for mayor and John Harper seems to have a strong plan for boosting creativity in the village."
+        ],
+        [
+          "Sam Moore",
+          "That's interesting, Adam. I'll have to look into John Harper's plans more closely."
+        ],
+        [
+          "Adam Smith",
+          "Do you think John Harper's focus on creativity aligns with our goals for promoting diversity and inclusion in the village?"
+        ],
+        [
+          "Sam Moore",
+          "I believe creativity can be a powerful tool in promoting diversity and inclusion. It opens up opportunities for different voices and perspectives to be heard."
+        ],
+        [
+          "Adam Smith",
+          "I completely agree, creativity can truly make a difference in amplifying diverse voices and fostering inclusion in our community."
+        ],
+        [
+          "Sam Moore",
+          "I think we should consider how we can incorporate creativity into our initiatives for promoting diversity and inclusion in the community."
+        ],
+        [
+          "Adam Smith",
+          "I agree, let's brainstorm some creative ideas to implement in our event on diversity and inclusion."
+        ],
+        [
+          "Sam Moore",
+          "I agree, Adam. Let's set up a meeting with the community members to discuss how we can integrate creativity into our initiatives for promoting diversity and inclusion in the village."
+        ],
+        [
+          "Adam Smith",
+          "I think reaching out to Carlos for his input on incorporating creativity into our event would be beneficial."
+        ],
+        [
+          "Sam Moore",
+          "I agree, let's reach out to Carlos and Wolfgang as well to get a diverse range of inputs on how we can incorporate creativity into our initiatives for promoting diversity and inclusion in the community."
+        ],
+        [
+          "Adam Smith",
+          "Do you think we should also involve other community members in our discussion on creativity and diversity?"
+        ],
+        [
+          "Sam Moore",
+          "I think reaching out to Carlos for his input on incorporating creativity into our event would be beneficial."
+        ],
+        [
+          "Adam Smith",
+          "I think we should also explore the idea of hosting a creativity workshop as part of our event on diversity and inclusion."
+        ],
+        [
+          "Sam Moore",
+          "I think reaching out to Carlos for his input on incorporating creativity into our event would be beneficial."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 17:39:50"
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83e\udd50",
+      "description": "opening Hobbs Cafe and preparing for the day's business (preparing the pastries and desserts for display) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf0d",
+      "description": "attending a creative writing workshop (conversing about promoting diversity and inclusion by collaborating on incorporating more cultural elements and involving local Black artists and musicians, addressing systemic inequalities and unconscious bias, prioritizing accessibility and historical context, and creating a platform for open dialogue and sharing personal experiences during their upcoming poetry reading event.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        122,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcd6\ud83d\udcdd",
+      "description": "at the library working on his research paper (reading and taking notes on relevant articles and books) (reading and taking notes on the first article) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        38,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about integrating creativity into projects and promoting diversity and inclusion, where Sam Moore and Adam Smith discuss ideas such as involving local artists and musicians, hosting workshops on allyship and privilege, collaborating with local organizations, incorporating cultural perspectives and historical context, amplifying the voices of Black creators, addressing unconscious bias and microaggressions, and involving the student community. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Adam, I heard you were reaching out to Carlos and Wolfgang for their input on incorporating creativity into our projects. How can I help with that?"
+        ],
+        [
+          "Adam Smith",
+          "Hey Sam, I appreciate your support. Could you help gather more ideas on how we can further integrate creativity into our upcoming events?"
+        ],
+        [
+          "Sam Moore",
+          "I have some ideas on how we can involve more local artists and musicians in our projects. Let's brainstorm together!"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a great idea, Sam. Let's schedule a meeting to discuss the details further."
+        ],
+        [
+          "Sam Moore",
+          "I think we should also consider hosting workshops on allyship and privilege to further promote diversity and inclusion."
+        ],
+        [
+          "Adam Smith",
+          "That's a fantastic idea, Sam. I agree that workshops on allyship and privilege would be beneficial for promoting diversity and inclusion. Let's plan on discussing this further in our next meeting."
+        ],
+        [
+          "Sam Moore",
+          "I also think it would be valuable to explore collaborating with local organizations to expand our reach and impact in promoting diversity and inclusion."
+        ],
+        [
+          "Adam Smith",
+          "That's a great idea, Sam. Let's explore collaborating with local organizations to expand our reach and impact in promoting diversity and inclusion."
+        ],
+        [
+          "Sam Moore",
+          "We should also consider incorporating different cultural perspectives and historical context into our projects to ensure a more inclusive approach."
+        ],
+        [
+          "Adam Smith",
+          "I completely agree, Sam. Let's make sure to prioritize incorporating different cultural perspectives and historical context into our projects for a more inclusive approach."
+        ],
+        [
+          "Sam Moore",
+          "We should also focus on amplifying the voices of Black creators in our projects to ensure their perspectives are included."
+        ],
+        [
+          "Adam Smith",
+          "Thank you, Sam. I appreciate your input and dedication to promoting diversity and inclusion in our community"
+        ],
+        [
+          "Sam Moore",
+          "I think we should also focus on addressing unconscious bias and microaggressions in our initiatives to create a more inclusive environment."
+        ],
+        [
+          "Adam Smith",
+          "Thank you, Sam. I think integrating different perspectives and prioritizing inclusivity is key to our success."
+        ],
+        [
+          "Sam Moore",
+          "We should also involve the student community in our projects to ensure diverse voices are heard."
+        ],
+        [
+          "Adam Smith",
+          "I agree, Sam. Involving the student community will definitely help us amplify diverse voices and perspectives in our projects."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "attending classes at Oak Hill College library (participating in a group discussion) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        96,
+        32
+      ],
+      "pronunciatio": "\ud83c\udfa4",
+      "description": "attending his morning classes at Oak Hill College (conversing about creating an inclusive and impactful poetry reading event through the incorporation of personal narratives, insights from local activists and historians on systemic racism, workshops on allyship and privilege, live music performances, showcasing Black artists and creators, collaborating with Black-owned businesses and artists, involving young Black leaders for mentorship opportunities, and centering personal narratives and spoken word performances addressing unconscious bias and microaggressions.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        98,
+        65
+      ],
+      "pronunciatio": "\ud83d\udc57",
+      "description": "leaving for Oak Hill College (getting dressed and ready for the day) @ the Ville:Lin family's house:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        78,
+        37
+      ],
+      "pronunciatio": "\ud83d\uded2",
+      "description": "helping customers at The Willow Market and Pharmacy (restocking shelves with new products) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        74
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "writing and editing her children's books (writing the first draft of her new children's book) (writing the first draft of the book) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        38,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about integrating creativity into projects and promoting diversity and inclusion, where Sam Moore and Adam Smith discuss ideas such as involving local artists and musicians, hosting workshops on allyship and privilege, collaborating with local organizations, incorporating cultural perspectives and historical context, amplifying the voices of Black creators, addressing unconscious bias and microaggressions, and involving the student community. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Adam, I heard you were reaching out to Carlos and Wolfgang for their input on incorporating creativity into our projects. How can I help with that?"
+        ],
+        [
+          "Adam Smith",
+          "Hey Sam, I appreciate your support. Could you help gather more ideas on how we can further integrate creativity into our upcoming events?"
+        ],
+        [
+          "Sam Moore",
+          "I have some ideas on how we can involve more local artists and musicians in our projects. Let's brainstorm together!"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a great idea, Sam. Let's schedule a meeting to discuss the details further."
+        ],
+        [
+          "Sam Moore",
+          "I think we should also consider hosting workshops on allyship and privilege to further promote diversity and inclusion."
+        ],
+        [
+          "Adam Smith",
+          "That's a fantastic idea, Sam. I agree that workshops on allyship and privilege would be beneficial for promoting diversity and inclusion. Let's plan on discussing this further in our next meeting."
+        ],
+        [
+          "Sam Moore",
+          "I also think it would be valuable to explore collaborating with local organizations to expand our reach and impact in promoting diversity and inclusion."
+        ],
+        [
+          "Adam Smith",
+          "That's a great idea, Sam. Let's explore collaborating with local organizations to expand our reach and impact in promoting diversity and inclusion."
+        ],
+        [
+          "Sam Moore",
+          "We should also consider incorporating different cultural perspectives and historical context into our projects to ensure a more inclusive approach."
+        ],
+        [
+          "Adam Smith",
+          "I completely agree, Sam. Let's make sure to prioritize incorporating different cultural perspectives and historical context into our projects for a more inclusive approach."
+        ],
+        [
+          "Sam Moore",
+          "We should also focus on amplifying the voices of Black creators in our projects to ensure their perspectives are included."
+        ],
+        [
+          "Adam Smith",
+          "Thank you, Sam. I appreciate your input and dedication to promoting diversity and inclusion in our community"
+        ],
+        [
+          "Sam Moore",
+          "I think we should also focus on addressing unconscious bias and microaggressions in our initiatives to create a more inclusive environment."
+        ],
+        [
+          "Adam Smith",
+          "Thank you, Sam. I think integrating different perspectives and prioritizing inclusivity is key to our success."
+        ],
+        [
+          "Sam Moore",
+          "We should also involve the student community in our projects to ensure diverse voices are heard."
+        ],
+        [
+          "Adam Smith",
+          "I agree, Sam. Involving the student community will definitely help us amplify diverse voices and perspectives in our projects."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 09:11:00"
+  }
+}

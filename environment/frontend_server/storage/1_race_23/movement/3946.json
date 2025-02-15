@@ -1,0 +1,155 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Wolfgang chatting about their day, plans for studying, and the offer for a coffee break at Hobbs Cafe. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey, Wolfgang! How's your day going so far?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Isabella! My day's been pretty good, just finished up a tough lab session. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds intense, Wolfgang! Do you have any plans for the rest of the day?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm planning to continue studying for my exams this evening and then do my nightly exercise routine. How about you, Isabella?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a productive plan, Wolfgang. Best of luck with your exams and your exercise routine. If you need a break, feel free to stop by Hobbs Cafe for a relaxing cup of coffee."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thanks, Isabella! I might just take you up on that offer for a cup of coffee later."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was great catching up with you, Wolfgang. Let me know if you need anything else!"
+        ]
+      ]
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        27
+      ],
+      "pronunciatio": "\u270d\ufe0f",
+      "description": "working on his poetry collection (writing a new poem) @ the Ville:Carlos Gomez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        122,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "still at the library researching (taking notes on key points from the articles) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        83,
+        56
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "running errands and attending to tasks (stopping by the party supply store to pick up decorations) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "attending her second class at Oak Hill College library (participating in class discussions) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Wolfgang chatting about their day, plans for studying, and the offer for a coffee break at Hobbs Cafe. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey, Wolfgang! How's your day going so far?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Isabella! My day's been pretty good, just finished up a tough lab session. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds intense, Wolfgang! Do you have any plans for the rest of the day?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm planning to continue studying for my exams this evening and then do my nightly exercise routine. How about you, Isabella?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a productive plan, Wolfgang. Best of luck with your exams and your exercise routine. If you need a break, feel free to stop by Hobbs Cafe for a relaxing cup of coffee."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thanks, Isabella! I might just take you up on that offer for a cup of coffee later."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was great catching up with you, Wolfgang. Let me know if you need anything else!"
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending his music theory class at Oak Hill College (listening to the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        69,
+        46
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "still helping customers at the store (checking inventory and placing orders for items that are running low) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        67
+      ],
+      "pronunciatio": "\ud83c\udfa8",
+      "description": "continuing to work on her children's books (working on illustrations for the book) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "continuing his writing and research for his book (organizing his notes and research) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:57:40"
+  }
+}

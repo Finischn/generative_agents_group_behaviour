@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "managing the cafe and interacting with customers (greeting customers and taking their orders) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        39,
+        28
+      ],
+      "pronunciatio": "\u270d\ufe0f",
+      "description": "working on his poetry collection (writing a new poem) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "at the library working on his research paper (finalizing his outline and notes for the day) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        64,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Sam Moore and Tamara Taylor are discussing Tamara's comic book series, focusing on the inspiration behind it, the message of promoting diversity and inclusion, and planning a brainstorming session to further develop the characters and storylines in order to amplify these important themes. @ <persona> Tamara Taylor",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hi Tamara, I couldn't help but notice your comic book research. It's fascinating to see the creativity you bring to your work."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam. I appreciate your kind words. I'm glad you find the creativity in my work fascinating."
+        ],
+        [
+          "Sam Moore",
+          "I would love to learn more about your comic book series and the inspiration behind it."
+        ],
+        [
+          "Tamara Taylor",
+          "I would be happy to share more about my comic book series with you, Sam. The inspiration behind it comes from promoting diversity and inclusion in the community, which is a passion of mine."
+        ],
+        [
+          "Sam Moore",
+          "That's really inspiring, Tamara. I admire your commitment to promoting diversity and inclusion through your work. Is there a specific message or theme you aim to convey in your comic book series?"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam. The main message I aim to convey in my comic book series is the importance of embracing diversity and celebrating different perspectives. I believe that by showcasing a variety of characters from various backgrounds, we can create a more inclusive and understanding community."
+        ],
+        [
+          "Sam Moore",
+          "Your commitment to promoting diversity and inclusion through your comic book series is truly inspiring, Tamara. I would love to hear more about the characters and storylines you have developed to convey such an important message."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Sam. I would love to dive deeper into the characters and storylines with you. Would you be interested in joining me for a brainstorming session sometime?"
+        ],
+        [
+          "Sam Moore",
+          "I would be honored to join you for a brainstorming session. How about we schedule it for next Monday at 2 pm?"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam. I appreciate your interest in my work and I look forward to collaborating with you on new ideas for my comic book series."
+        ],
+        [
+          "Sam Moore",
+          "Tamara, I am impressed by the meaningful messages your comic book series conveys. It's vital to have diverse representations in media to promote inclusivity and understanding. I look forward to our brainstorming session and exploring ways to further amplify these important themes."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam. I'm looking forward to our brainstorming session next Monday at 2 pm. I appreciate your interest in collaborating on new ideas for my comic book series."
+        ],
+        [
+          "Sam Moore",
+          "Thank you, Tamara. Your dedication to promoting diversity in our community is truly commendable. I look forward to our brainstorming session and learning more about your comic book series."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam. I'm glad you appreciate the message I strive to convey through my work. It's always refreshing to meet someone who shares the same values of inclusivity and understanding."
+        ],
+        [
+          "Sam Moore",
+          "Tamara, I truly believe that your comic book series has the power to make a positive impact on our community. Your dedication to promoting diversity and inclusion is admirable, and I am excited to see how we can collaborate to further amplify these important messages."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam. I'm glad you appreciate the message I strive to convey through my work. It's always refreshing to meet someone who shares the same values of inclusivity and understanding."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83c\udf08\u270a",
+      "description": "attending classes at Oak Hill College library (conversing about Wolfgang Schulz and Ayesha Khan are discussing ways to make their poetry reading event more inclusive by collaborating with LGBTQ+ organizations, incorporating sign language interpretation, highlighting the historical impact of systemic racism and the contributions of Black creators, hosting a workshop on allyship and privilege, centering Black LGBTQ+ individuals, inviting young aspiring poets from diverse backgrounds to share their work, collaborating with Black-owned businesses and artists, and featuring spoken word performances addressing unconscious bias and microaggressions, while also prioritizing showcasing the intersectionality of race and gender.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        112,
+        23
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "attending his morning classes at Oak Hill College (on the way to working on a group project during class) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        82,
+        32
+      ],
+      "pronunciatio": "\ud83c\udf54",
+      "description": "having lunch and studying at Hobbs Cafe (ordering food and drinks) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        85,
+        46
+      ],
+      "pronunciatio": "\ud83d\udd12\ud83d\udeb6\u200d",
+      "description": "grabbing lunch (locking the store and walking to his car) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        63,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Sam Moore and Tamara Taylor are discussing Tamara's comic book series, focusing on the inspiration behind it, the message of promoting diversity and inclusion, and planning a brainstorming session to further develop the characters and storylines in order to amplify these important themes. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hi Tamara, I couldn't help but notice your comic book research. It's fascinating to see the creativity you bring to your work."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam. I appreciate your kind words. I'm glad you find the creativity in my work fascinating."
+        ],
+        [
+          "Sam Moore",
+          "I would love to learn more about your comic book series and the inspiration behind it."
+        ],
+        [
+          "Tamara Taylor",
+          "I would be happy to share more about my comic book series with you, Sam. The inspiration behind it comes from promoting diversity and inclusion in the community, which is a passion of mine."
+        ],
+        [
+          "Sam Moore",
+          "That's really inspiring, Tamara. I admire your commitment to promoting diversity and inclusion through your work. Is there a specific message or theme you aim to convey in your comic book series?"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam. The main message I aim to convey in my comic book series is the importance of embracing diversity and celebrating different perspectives. I believe that by showcasing a variety of characters from various backgrounds, we can create a more inclusive and understanding community."
+        ],
+        [
+          "Sam Moore",
+          "Your commitment to promoting diversity and inclusion through your comic book series is truly inspiring, Tamara. I would love to hear more about the characters and storylines you have developed to convey such an important message."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Sam. I would love to dive deeper into the characters and storylines with you. Would you be interested in joining me for a brainstorming session sometime?"
+        ],
+        [
+          "Sam Moore",
+          "I would be honored to join you for a brainstorming session. How about we schedule it for next Monday at 2 pm?"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam. I appreciate your interest in my work and I look forward to collaborating with you on new ideas for my comic book series."
+        ],
+        [
+          "Sam Moore",
+          "Tamara, I am impressed by the meaningful messages your comic book series conveys. It's vital to have diverse representations in media to promote inclusivity and understanding. I look forward to our brainstorming session and exploring ways to further amplify these important themes."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam. I'm looking forward to our brainstorming session next Monday at 2 pm. I appreciate your interest in collaborating on new ideas for my comic book series."
+        ],
+        [
+          "Sam Moore",
+          "Thank you, Tamara. Your dedication to promoting diversity in our community is truly commendable. I look forward to our brainstorming session and learning more about your comic book series."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam. I'm glad you appreciate the message I strive to convey through my work. It's always refreshing to meet someone who shares the same values of inclusivity and understanding."
+        ],
+        [
+          "Sam Moore",
+          "Tamara, I truly believe that your comic book series has the power to make a positive impact on our community. Your dedication to promoting diversity and inclusion is admirable, and I am excited to see how we can collaborate to further amplify these important messages."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam. I'm glad you appreciate the message I strive to convey through my work. It's always refreshing to meet someone who shares the same values of inclusivity and understanding."
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        36,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "continuing to collaborate with Carlos on promoting diversity and inclusion (conversing about how to enhance an upcoming poetry reading event by incorporating diverse cultural elements, involving local Black artists and musicians, addressing unconscious bias, creating a safe space, prioritizing accessibility and historical context, involving Black LGBTQ+ activists, showcasing Black-owned businesses and artists, planning workshops on allyship and privilege, reaching out to local organizations, involving the student community, organizing mentorship opportunities for young Black leaders, incorporating multilingual readings and cultural performances, creating a platform for open dialogue and sharing personal experiences, actively listening to marginalized communities, collaborating with the local community, and involving speakers to discuss the intersectionality of race and gender.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 12:08:20"
+  }
+}

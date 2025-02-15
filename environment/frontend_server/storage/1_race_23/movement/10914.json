@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        82,
+        16
+      ],
+      "pronunciatio": "\ud83e\uddfc\ud83e\uddb7",
+      "description": "waking up and completing her morning routine (washing her face and brushing her teeth) @ the Ville:Isabella Rodriguez's apartment:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        93,
+        18
+      ],
+      "pronunciatio": "\ud83d\udca4",
+      "description": "sleeping @ the Ville:Carlos Gomez's apartment:main room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        46
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        39,
+        62
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having breakfast (setting the table) @ the Ville:Moore family's house:main room:kitchen sink",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        113,
+        55
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Ayesha Khan are discussing ways to incorporate segments on the historical impact of systemic racism, inviting local activists and historians, showcasing personal narratives and spoken word performances, hosting a workshop on allyship and privilege, collaborating with Black-owned businesses and artists, and creating a mentorship program for young Black leaders to ensure full representation and inclusivity at their event. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, I was thinking about the event and how we can include a segment on the historical impact of systemic racism. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That's a great idea, Wolfgang. We can also consider inviting local activists or historians to provide insights on the topic."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I agree, it's important to provide a well-rounded perspective on the issue. Do you have any contacts we could reach out to for this?"
+        ],
+        [
+          "Ayesha Khan",
+          "I have a few contacts in mind that we could reach out to. Let me check and get back to you with some options."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great plan. Let's also make sure to highlight the resilience and strength of the Black community throughout history."
+        ],
+        [
+          "Ayesha Khan",
+          "We should also consider incorporating personal narratives from Black individuals in the community to highlight the lived experiences and perspectives on systemic racism."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think it would be powerful to include spoken word performances that address systemic racism and its effects on the community. What are your thoughts on incorporating that into our event?"
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Wolfgang. Incorporating spoken word performances on systemic racism will provide a powerful platform for individuals to share their stories and experiences."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I was also thinking about incorporating a workshop on allyship and privilege into our event. It could be a great way to educate the community on important topics. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That's a fantastic idea, Wolfgang. A workshop on allyship and privilege would be crucial for fostering understanding and support within the community. We could also incorporate interactive activities to engage participants further."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I think it would also be beneficial to collaborate with local Black-owned businesses for our event. It's essential to support and uplift our community in every aspect."
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Wolfgang. It's important for us to empower and elevate our community members, especially those from underrepresented backgrounds. Let's reach out to Black-owned businesses and artists to showcase their talents at the event."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I was also thinking about creating a mentorship program for young Black leaders in our community. It would be a great way to provide support and guidance to the next generation. What are your thoughts on this idea?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful initiative, Wolfgang. A mentorship program for young Black leaders would be extremely beneficial in providing support, guidance, and opportunities for growth within our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I believe it would be valuable to collaborate with local community leaders to ensure full representation and inclusivity at our event. What do you think about reaching out to them?"
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Wolfgang. Collaborating with local community leaders will ensure that our event is truly representative and inclusive. I'll start reaching out to them today."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        115,
+        54
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Ayesha Khan are discussing ways to incorporate segments on the historical impact of systemic racism, inviting local activists and historians, showcasing personal narratives and spoken word performances, hosting a workshop on allyship and privilege, collaborating with Black-owned businesses and artists, and creating a mentorship program for young Black leaders to ensure full representation and inclusivity at their event. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, I was thinking about the event and how we can include a segment on the historical impact of systemic racism. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That's a great idea, Wolfgang. We can also consider inviting local activists or historians to provide insights on the topic."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I agree, it's important to provide a well-rounded perspective on the issue. Do you have any contacts we could reach out to for this?"
+        ],
+        [
+          "Ayesha Khan",
+          "I have a few contacts in mind that we could reach out to. Let me check and get back to you with some options."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great plan. Let's also make sure to highlight the resilience and strength of the Black community throughout history."
+        ],
+        [
+          "Ayesha Khan",
+          "We should also consider incorporating personal narratives from Black individuals in the community to highlight the lived experiences and perspectives on systemic racism."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think it would be powerful to include spoken word performances that address systemic racism and its effects on the community. What are your thoughts on incorporating that into our event?"
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Wolfgang. Incorporating spoken word performances on systemic racism will provide a powerful platform for individuals to share their stories and experiences."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I was also thinking about incorporating a workshop on allyship and privilege into our event. It could be a great way to educate the community on important topics. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That's a fantastic idea, Wolfgang. A workshop on allyship and privilege would be crucial for fostering understanding and support within the community. We could also incorporate interactive activities to engage participants further."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I think it would also be beneficial to collaborate with local Black-owned businesses for our event. It's essential to support and uplift our community in every aspect."
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Wolfgang. It's important for us to empower and elevate our community members, especially those from underrepresented backgrounds. Let's reach out to Black-owned businesses and artists to showcase their talents at the event."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I was also thinking about creating a mentorship program for young Black leaders in our community. It would be a great way to provide support and guidance to the next generation. What are your thoughts on this idea?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful initiative, Wolfgang. A mentorship program for young Black leaders would be extremely beneficial in providing support, guidance, and opportunities for growth within our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I believe it would be valuable to collaborate with local community leaders to ensure full representation and inclusivity at our event. What do you think about reaching out to them?"
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Wolfgang. Collaborating with local community leaders will ensure that our event is truly representative and inclusive. I'll start reaching out to them today."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        93,
+        74
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Lin family's house:Eddy Lin's bedroom:bed",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        73,
+        74
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Moreno family's house:Tom and Jane Moreno's bedroom:bed",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        51,
+        70
+      ],
+      "pronunciatio": "\ud83d\udc55",
+      "description": "completing her morning routine (getting dressed) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:closet",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        80,
+        32
+      ],
+      "pronunciatio": "\ud83d\udd2c",
+      "description": "writing and researching for his book (researching different philosophical concepts and theories) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 06:19:00"
+  }
+}

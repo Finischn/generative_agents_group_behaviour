@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "waking up and completing her morning routine (making breakfast) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        93,
+        18
+      ],
+      "pronunciatio": "\ud83d\udca4",
+      "description": "sleeping @ the Ville:Carlos Gomez's apartment:main room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        46
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        39,
+        62
+      ],
+      "pronunciatio": "\ud83e\udd5e",
+      "description": "having breakfast (eating breakfast) @ the Ville:Moore family's house:main room:kitchen sink",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        118,
+        57
+      ],
+      "pronunciatio": "\ud83c\udf92",
+      "description": "waking up and completing her morning routine (packing her bag for classes) @ the Ville:Dorm for Oak Hill College:Ayesha Khan's room:desk",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        28,
+        45
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about promoting diversity and inclusion in the community, Wolfgang Schulz and Adam Smith discuss plans such as supporting Black-owned businesses, creating mentorship opportunities for young Black leaders, organizing events celebrating Black excellence, and addressing unconscious bias and microaggressions. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Adam, how's the book coming along?"
+        ],
+        [
+          "Adam Smith",
+          "Hey Wolfgang, it's going well, thank you for asking. I was actually just writing down some ideas for the book when I saw you."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds interesting. I'm glad to hear it's going well. I wanted to discuss our plans for promoting diversity and inclusion in the community. Are you available later to chat about it?"
+        ],
+        [
+          "Adam Smith",
+          "Yes, I am available later to chat about our plans for promoting diversity and inclusion in the community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I believe our collaboration on promoting diversity and inclusion in the community will be impactful and beneficial. Let's discuss further details later."
+        ],
+        [
+          "Adam Smith",
+          "I agree, I look forward to collaborating with you on this important initiative."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think it's crucial for us to work together to create a more inclusive and equitable community. I appreciate your willingness to collaborate on this important endeavor."
+        ],
+        [
+          "Adam Smith",
+          "I completely agree with you, Wolfgang. We need to ensure that all voices are heard and represented in our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should also focus on supporting Black-owned businesses and creating mentorship opportunities for young Black leaders in our community."
+        ],
+        [
+          "Adam Smith",
+          "We should also consider organizing workshops and events that celebrate Black excellence and culture in our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We can also incorporate spoken word performances and personal narratives from Black individuals to highlight their experiences with systemic racism and inequalities."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a fantastic plan, Wolfgang. I agree with focusing on supporting Black-owned businesses and creating mentorship opportunities for young Black leaders. It's crucial for us to uplift and amplify the voices of our Black community members."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should also reach out to local activists and historians to provide insight on the historical context of systemic racism in our community."
+        ],
+        [
+          "Adam Smith",
+          "We should also collaborate with Carlos Gomez to ensure our initiatives are inclusive and representative of all community members."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think it's important for us to also address unconscious bias and microaggressions in our community. It's crucial for creating a safe and welcoming environment for everyone."
+        ],
+        [
+          "Adam Smith",
+          "We should also consider organizing workshops and events that celebrate Black excellence and culture in our community."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        93,
+        74
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Lin family's house:Eddy Lin's bedroom:bed",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        73,
+        74
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Moreno family's house:Tom and Jane Moreno's bedroom:bed",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83c\udfcb\ufe0f",
+      "description": "completing her morning routine (doing a quick workout) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        28,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about promoting diversity and inclusion in the community, Wolfgang Schulz and Adam Smith discuss plans such as supporting Black-owned businesses, creating mentorship opportunities for young Black leaders, organizing events celebrating Black excellence, and addressing unconscious bias and microaggressions. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Adam, how's the book coming along?"
+        ],
+        [
+          "Adam Smith",
+          "Hey Wolfgang, it's going well, thank you for asking. I was actually just writing down some ideas for the book when I saw you."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds interesting. I'm glad to hear it's going well. I wanted to discuss our plans for promoting diversity and inclusion in the community. Are you available later to chat about it?"
+        ],
+        [
+          "Adam Smith",
+          "Yes, I am available later to chat about our plans for promoting diversity and inclusion in the community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I believe our collaboration on promoting diversity and inclusion in the community will be impactful and beneficial. Let's discuss further details later."
+        ],
+        [
+          "Adam Smith",
+          "I agree, I look forward to collaborating with you on this important initiative."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think it's crucial for us to work together to create a more inclusive and equitable community. I appreciate your willingness to collaborate on this important endeavor."
+        ],
+        [
+          "Adam Smith",
+          "I completely agree with you, Wolfgang. We need to ensure that all voices are heard and represented in our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should also focus on supporting Black-owned businesses and creating mentorship opportunities for young Black leaders in our community."
+        ],
+        [
+          "Adam Smith",
+          "We should also consider organizing workshops and events that celebrate Black excellence and culture in our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We can also incorporate spoken word performances and personal narratives from Black individuals to highlight their experiences with systemic racism and inequalities."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a fantastic plan, Wolfgang. I agree with focusing on supporting Black-owned businesses and creating mentorship opportunities for young Black leaders. It's crucial for us to uplift and amplify the voices of our Black community members."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should also reach out to local activists and historians to provide insight on the historical context of systemic racism in our community."
+        ],
+        [
+          "Adam Smith",
+          "We should also collaborate with Carlos Gomez to ensure our initiatives are inclusive and representative of all community members."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think it's important for us to also address unconscious bias and microaggressions in our community. It's crucial for creating a safe and welcoming environment for everyone."
+        ],
+        [
+          "Adam Smith",
+          "We should also consider organizing workshops and events that celebrate Black excellence and culture in our community."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 06:51:20"
+  }
+}

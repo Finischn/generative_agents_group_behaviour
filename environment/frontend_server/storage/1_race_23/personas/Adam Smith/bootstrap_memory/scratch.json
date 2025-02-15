@@ -1,0 +1,966 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 21:59:50",
+  "curr_tile": [
+    39,
+    30
+  ],
+  "daily_plan_req": "1. Wake up and complete morning routine at 4:00 am 2. Research John Harper's plans for boosting creativity in the village at 5:00 am 3. Reach out to Carlos and Wolfgang for input on creativity and inclusion at 9:00 am 4. Collaborate with Carlos on promoting diversity and inclusion at 1:00 pm 5. Schedule a meeting with Wolfgang to discuss creative ideas for upcoming event at 3:00 pm",
+  "name": "Adam Smith",
+  "first_name": "Adam",
+  "last_name": "Smith",
+  "age": 38,
+  "innate": "thoughtful, reflective, intellectual",
+  "race": "White",
+  "village": "longterm resident of the village",
+  "gender": "Male",
+  "political_affiliation": "Conservative",
+  "race_div": "American Indian or Alaska Native",
+  "education": "Master's degree",
+  "learned": "Adam Smith is a philosopher who loves to explore different ideas. He is always looking for ways to challenge people\u00e2\u20ac\u2122s preconceptions.",
+  "currently": "Status: Adam Smith's day on Tuesday February 14 will be focused on prioritizing creativity, diversity, and inclusion in his community initiatives. He plans to reach out to Carlos and Wolfgang for their input on incorporating creativity into upcoming projects. Adam also intends to collaborate with Carlos on promoting diversity and inclusion, as well as schedule a meeting with Wolfgang to discuss creative ideas for an upcoming event. Additionally, Adam will research John Harper's plans for boosting creativity in the village before making a decision on who to vote for in the local mayor election. Adam is determined to stay focused and proactive in his efforts to make a positive impact in his community.",
+  "lifestyle": "Adam Smith goes to bed around 8pm, awakes up around 4am, eats dinner around 5pm.",
+  "living_area": "the Ville:Adam Smith's house:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 104,
+  "importance_ele_n": 39,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 4:00 am",
+    "have breakfast at 5:00 am",
+    "spend the morning writing and researching for his book",
+    "have lunch at 12:00 pm",
+    "attend a lecture on creative thinking at 2:00 pm",
+    "go for a walk in the park at 4:00 pm",
+    "have dinner at 5:00 pm",
+    "attend a political debate for the local mayor election at 7:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      240
+    ],
+    [
+      "completing his morning routine (waking up and getting out of bed)",
+      5
+    ],
+    [
+      "completing his morning routine (brushing his teeth)",
+      5
+    ],
+    [
+      "completing his morning routine (washing his face)",
+      5
+    ],
+    [
+      "completing his morning routine (getting dressed)",
+      10
+    ],
+    [
+      "completing his morning routine (making his bed)",
+      5
+    ],
+    [
+      "completing his morning routine (meditating for 10 minutes)",
+      10
+    ],
+    [
+      "completing his morning routine (doing some light stretching)",
+      10
+    ],
+    [
+      "completing his morning routine (checking his schedule for the day)",
+      5
+    ],
+    [
+      "completing his morning routine (packing his bag for the day)",
+      5
+    ],
+    [
+      "having breakfast (making coffee)",
+      5
+    ],
+    [
+      "having breakfast (preparing toast and eggs)",
+      10
+    ],
+    [
+      "having breakfast (checking his emails)",
+      10
+    ],
+    [
+      "having breakfast (reading the news)",
+      10
+    ],
+    [
+      "having breakfast (making a list of tasks for the day)",
+      10
+    ],
+    [
+      "having breakfast (eating breakfast)",
+      15
+    ],
+    [
+      "writing and researching for his book (reviewing his notes and ideas for the book)",
+      10
+    ],
+    [
+      "writing and researching for his book (researching different philosophical concepts and theories)",
+      20
+    ],
+    [
+      "writing and researching for his book (taking a break to stretch and get some water)",
+      5
+    ],
+    [
+      "writing and researching for his book (writing down his thoughts and ideas for the book)",
+      25
+    ],
+    [
+      "having lunch (on the way to preparing his lunch)",
+      0
+    ],
+    [
+      "having lunch (conversing about promoting diversity and inclusion in the community, Wolfgang Schulz and Adam Smith discuss plans such as supporting Black-owned businesses, creating mentorship opportunities for young Black leaders, organizing events celebrating Black excellence, and addressing unconscious bias and microaggressions.)",
+      11
+    ],
+    [
+      "having lunch (eating his lunch)",
+      19
+    ],
+    [
+      "having lunch (on the way to checking his emails)",
+      0
+    ],
+    [
+      "having lunch (conversing about Isabella Rodriguez and Adam Smith are conversing about enjoying lunch, trying the specials, recommending shrimp scampi, discussing a poetry event to promote diversity and inclusion in the community, and Adam's willingness to support and get involved.)",
+      10
+    ],
+    [
+      "having lunch (checking his emails)",
+      10
+    ],
+    [
+      "having lunch (making a to-do list for the rest of the day)",
+      5
+    ],
+    [
+      "having lunch (taking a short break)",
+      5
+    ],
+    [
+      "attending a lecture on creative thinking (taking notes during the lecture)",
+      30
+    ],
+    [
+      "attending a lecture on creative thinking (on the way to asking questions and participating in discussions)",
+      0
+    ],
+    [
+      "attending a lecture on creative thinking (conversing about collaborating on promoting diversity and inclusion in their community by organizing a workshop together)",
+      5
+    ],
+    [
+      "attending a lecture on creative thinking (taking a short break)",
+      5
+    ],
+    [
+      "attending a lecture on creative thinking (reviewing his notes)",
+      10
+    ],
+    [
+      "reaching out to Carlos and Wolfgang for their input on incorporating creativity into upcoming projects (on the way to sending an email to Carlos and Wolfgang to schedule a meeting)",
+      0
+    ],
+    [
+      "reaching out to Carlos and Wolfgang for their input on incorporating creativity into upcoming projects (conversing about promoting diversity and inclusion by collaborating on incorporating more cultural elements and involving local Black artists and musicians, addressing systemic inequalities and unconscious bias, prioritizing accessibility and historical context, and creating a platform for open dialogue and sharing personal experiences during their upcoming poetry reading event.)",
+      15
+    ],
+    [
+      "reaching out to Carlos and Wolfgang for their input on incorporating creativity into upcoming projects (on the way to researching potential topics to discuss with Carlos and Wolfgang)",
+      0
+    ],
+    [
+      "reaching out to Carlos and Wolfgang for their input on incorporating creativity into upcoming projects (conversing about integrating creativity into projects and promoting diversity and inclusion, where Sam Moore and Adam Smith discuss ideas such as involving local artists and musicians, hosting workshops on allyship and privilege, collaborating with local organizations, incorporating cultural perspectives and historical context, amplifying the voices of Black creators, addressing unconscious bias and microaggressions, and involving the student community.)",
+      10
+    ],
+    [
+      "reaching out to Carlos and Wolfgang for their input on incorporating creativity into upcoming projects (preparing a list of questions to ask during the meeting)",
+      10
+    ],
+    [
+      "reaching out to Carlos and Wolfgang for their input on incorporating creativity into upcoming projects (reviewing his notes from previous discussions with Carlos and Wolfgang)",
+      10
+    ],
+    [
+      "reaching out to Carlos and Wolfgang for their input on incorporating creativity into upcoming projects (taking a break)",
+      5
+    ],
+    [
+      "reaching out to Carlos and Wolfgang for their input on incorporating creativity into upcoming projects (organizing his thoughts and ideas for the meeting)",
+      15
+    ],
+    [
+      "reaching out to Carlos and Wolfgang for their input on incorporating creativity into upcoming projects (sending a quick email to confirm the meeting time and location)",
+      5
+    ],
+    [
+      "collaborating with Carlos on promoting diversity and inclusion (discussing ideas with Carlos on how to promote diversity and inclusion)",
+      15
+    ],
+    [
+      "collaborating with Carlos on promoting diversity and inclusion (taking notes on their discussion)",
+      10
+    ],
+    [
+      "collaborating with Carlos on promoting diversity and inclusion (sharing his own ideas with Carlos)",
+      15
+    ],
+    [
+      "collaborating with Carlos on promoting diversity and inclusion (Carlos and Adam are brainstorming together)",
+      20
+    ],
+    [
+      "wrapping up the meeting and discussing next steps (discussing action items and setting a timeline for implementing their ideas)",
+      5
+    ],
+    [
+      "continuing to collaborate with Carlos on promoting diversity and inclusion (discussing potential ideas for promoting diversity and inclusion with Carlos)",
+      15
+    ],
+    [
+      "continuing to collaborate with Carlos on promoting diversity and inclusion (taking notes on their discussion)",
+      10
+    ],
+    [
+      "continuing to collaborate with Carlos on promoting diversity and inclusion (sharing his own ideas and suggestions)",
+      15
+    ],
+    [
+      "continuing to collaborate with Carlos on promoting diversity and inclusion (on the way to Carlos are brainstorming together)",
+      0
+    ],
+    [
+      "continuing to collaborate with Carlos on promoting diversity and inclusion (conversing about promoting diversity and inclusion in their upcoming poetry reading event by brainstorming ways to make it more impactful and inclusive, involving speakers to discuss intersectionality, reaching out to local organizations and Black creators, planning workshops on allyship and privilege, incorporating multilingual readings and cultural performances, involving Black LGBTQ+ activists for unique perspectives, including Black-owned businesses and artists, addressing unconscious bias and microaggressions, organizing mentorship opportunities for young Black leaders, prioritizing accessibility options for differently abled individuals, creating a safe space for all attendees, continually educating themselves on diversity and inclusion issues, and actively listening to marginalized communities to be better allies.)",
+      12
+    ],
+    [
+      "continuing to collaborate with Carlos on promoting diversity and inclusion (on the way to summarizing their discussion and making a plan of action)",
+      0
+    ],
+    [
+      "continuing to collaborate with Carlos on promoting diversity and inclusion (conversing about how to enhance an upcoming poetry reading event by incorporating diverse cultural elements, involving local Black artists and musicians, addressing unconscious bias, creating a safe space, prioritizing accessibility and historical context, involving Black LGBTQ+ activists, showcasing Black-owned businesses and artists, planning workshops on allyship and privilege, reaching out to local organizations, involving the student community, organizing mentorship opportunities for young Black leaders, incorporating multilingual readings and cultural performances, creating a platform for open dialogue and sharing personal experiences, actively listening to marginalized communities, collaborating with the local community, and involving speakers to discuss the intersectionality of race and gender.)",
+      12
+    ],
+    [
+      "having lunch (preparing his lunch)",
+      15
+    ],
+    [
+      "having lunch (eating his lunch)",
+      30
+    ],
+    [
+      "having lunch (on the way to checking his emails)",
+      0
+    ],
+    [
+      "having lunch (conversing about Adam Smith and Klaus Mueller are discussing ways to promote diversity and inclusion at their upcoming event by incorporating cultural elements, involving Black artists and musicians, addressing unconscious bias and microaggressions, collaborating with local schools and organizations, planning workshops on allyship and privilege, prioritizing accessibility options for differently-abled individuals, and involving Black LGBTQ+ activists for unique perspectives and experiences.)",
+      16
+    ],
+    [
+      "having lunch (checking his emails)",
+      14
+    ],
+    [
+      "having lunch (on the way to making a to-do list for the rest of the day)",
+      0
+    ],
+    [
+      "having lunch (conversing about organizing a poetry reading event to promote diversity and inclusion, where Isabella Rodriguez and Adam Smith discuss collaborating on reaching out to local organizations, involving young aspiring poets from diverse backgrounds, prioritizing accessibility options for differently-abled individuals, incorporating sign language interpretation or subtitles, involving Black artists and musicians, engaging with Black-owned businesses and artists, and addressing unconscious bias and microaggressions to create a more inclusive and safe space.)",
+      17
+    ],
+    [
+      "having lunch (making a to-do list for the rest of the day)",
+      13
+    ],
+    [
+      "having lunch (reviewing his notes from the morning research on John Harper's plans)",
+      10
+    ],
+    [
+      "having lunch (taking a short walk and ending the lunch break)",
+      5
+    ],
+    [
+      "having lunch (on the way to making a list of questions for his meeting with Wolfgang)",
+      0
+    ],
+    [
+      "having lunch (conversing about Adam Smith and Tom Moreno are discussing plans to boost creativity in the village, evaluating multiple candidates' platforms, organizing a community event to raise awareness about the election and promote diversity and inclusion, collaborating with Black-owned businesses and marginalized communities, involving youth in event planning, and reaching out to local community organizations for support in spreading awareness about the election.)",
+      13
+    ],
+    [
+      "making a list of questions for his meeting with Wolfgang",
+      2
+    ],
+    [
+      "attending a lecture on creative thinking (finding a seat in the lecture hall)",
+      5
+    ],
+    [
+      "attending a lecture on creative thinking (taking out his notebook and pen)",
+      5
+    ],
+    [
+      "attending a lecture on creative thinking (on the way to listening to the speaker's introduction)",
+      0
+    ],
+    [
+      "attending a lecture on creative thinking (conversing about promoting diversity and inclusion by incorporating cultural elements into their upcoming event, such as cultural performers, art exhibitions, panel discussions, collaborations with local organizations, representation from marginalized communities, accessibility options, workshops on allyship and privilege, interactive activities for cross-cultural understanding, student involvement, outreach to Black LGBTQ+ activists, multilingual elements, mentorship opportunities for young Black leaders, and support for Black-owned businesses and organizations.)",
+      10
+    ],
+    [
+      "attending a lecture on creative thinking (taking notes on the key points of the lecture)",
+      20
+    ],
+    [
+      "attending a lecture on creative thinking (participating in group discussions and activities)",
+      20
+    ],
+    [
+      "attending a lecture on creative thinking (on the way to wrapping up his notes and putting away his materials)",
+      0
+    ],
+    [
+      "attending a lecture on creative thinking (conversing about involving Black LGBTQ+ activists, providing accessibility options, collaborating with LGBTQ+ organizations, including young aspiring poets, Black-owned businesses, and diverse cultural elements, addressing unconscious bias and microaggressions, promoting diversity and inclusion, and creating a platform for open dialogue and sharing personal experiences during their upcoming poetry reading event.)",
+      12
+    ],
+    [
+      "researching John Harper's plans for boosting creativity in the village",
+      28
+    ],
+    [
+      "going for a walk in the park (on the way to putting on his walking shoes)",
+      0
+    ],
+    [
+      "going for a walk in the park (conversing about incorporating John Harper's ideas into their poetry reading event to promote diversity and inclusivity, including involving local artists and musicians from diverse backgrounds, prioritizing showcasing marginalized voices like Black creators and LGBTQ+ individuals, collaborating with Black LGBTQ+ activists, incorporating sign language interpretation and subtitles for accessibility, engaging with Black-owned businesses and organizations, reaching out to local organizations, inviting young aspiring poets from diverse backgrounds to perform, including workshops on systemic inequalities and racism, highlighting the experiences and voices of Black individuals, and incorporating elements of Black music genres and African American literature.)",
+      15
+    ],
+    [
+      "going for a walk in the park (putting on his walking shoes)",
+      5
+    ],
+    [
+      "going for a walk in the park (stretching)",
+      5
+    ],
+    [
+      "going for a walk in the park (walking to the park)",
+      10
+    ],
+    [
+      "going for a walk in the park (enjoying the scenery)",
+      15
+    ],
+    [
+      "going for a walk in the park (taking a break to rest)",
+      5
+    ],
+    [
+      "going for a walk in the park (continuing his walk)",
+      5
+    ],
+    [
+      "having dinner (preparing ingredients for dinner)",
+      10
+    ],
+    [
+      "having dinner (cooking dinner)",
+      30
+    ],
+    [
+      "having dinner (setting the table)",
+      5
+    ],
+    [
+      "having dinner (pouring drinks)",
+      5
+    ],
+    [
+      "having dinner (on the way to sitting down to eat)",
+      0
+    ],
+    [
+      "having dinner (conversing about innovative ways to promote diversity and inclusion in their upcoming projects by involving Black LGBTQ+ activists, prioritizing accessibility options, collaborating with local Black artists and musicians, addressing unconscious bias and microaggressions, actively listening to marginalized communities, hosting workshops on allyship and privilege, involving young aspiring poets from diverse backgrounds, organizing a poetry reading event with multilingual readings and cultural performances, including Black-owned businesses, addressing systemic inequalities and racism, collaborating with LGBTQ+ organizations, engaging the student community and media, and planning mentorship opportunities for young Black leaders.)",
+      14
+    ],
+    [
+      "attending a political debate for the local mayor election (finding a parking spot)",
+      1
+    ],
+    [
+      "attending a political debate for the local mayor election (checking in and receiving his ticket)",
+      10
+    ],
+    [
+      "attending a political debate for the local mayor election (finding his seat)",
+      5
+    ],
+    [
+      "attending a political debate for the local mayor election (listening to the opening speeches)",
+      15
+    ],
+    [
+      "attending a political debate for the local mayor election (taking notes on each candidate's stance on creativity in the village)",
+      30
+    ],
+    [
+      "attending a political debate for the local mayor election (participating in the Q&A session)",
+      20
+    ],
+    [
+      "attending a political debate for the local mayor election (on the way to taking a break and getting a drink)",
+      0
+    ],
+    [
+      "attending a political debate for the local mayor election (conversing about Adam and Sam are chatting about attending Sam's birthday party at The Rose and Crown Pub, where cultural performances and artwork promoting diversity and inclusion will be featured.)",
+      8
+    ],
+    [
+      "attending a political debate for the local mayor election (listening to the closing speeches)",
+      15
+    ],
+    [
+      "attending a political debate for the local mayor election (making a final decision on who to vote for)",
+      10
+    ],
+    [
+      "leaving the political debate and heading to The Rose and Crown Pub for Sam's birthday party.",
+      6
+    ],
+    [
+      "researching and making a decision on who to vote for in the local mayor election (researching the candidates' backgrounds and political stances)",
+      15
+    ],
+    [
+      "researching and making a decision on who to vote for in the local mayor election (on the way to taking notes on each candidate's plans for boosting creativity in the village)",
+      0
+    ],
+    [
+      "researching and making a decision on who to vote for in the local mayor election (conversing about Adam Smith and Klaus Mueller are discussing strategies to promote diversity and inclusion at a poetry reading event, including reaching out to local organizations, providing accessibility options for differently-abled individuals, involving Black LGBTQ+ activists, young aspiring poets, workshops on allyship and privilege, addressing unconscious bias and microaggressions, and collaborating with local schools and organizations.)",
+      14
+    ],
+    [
+      "researching and making a decision on who to vote for in the local mayor election (on the way to comparing and contrasting the candidates' ideas for promoting diversity and inclusion)",
+      0
+    ],
+    [
+      "researching and making a decision on who to vote for in the local mayor election (conversing about amplifying the voices of marginalized communities in their projects and brainstorming ideas on how to collaborate with local organizations, involve Black LGBTQ+ activists, prioritize accessibility options, reach out to Black-owned businesses and artists, address unconscious bias and microaggressions, organize workshops on allyship and privilege, involve young aspiring poets from diverse backgrounds, showcase cultural richness in a poetry reading event, actively listen to marginalized communities, engage with the student community and media to further amplify diverse voices.)",
+      15
+    ],
+    [
+      "researching and making a decision on who to vote for in the local mayor election (reflecting on his own values and priorities for the community)",
+      10
+    ],
+    [
+      "scheduling a meeting with Wolfgang to discuss creative ideas for an upcoming event (on the way to checking his calendar for available dates and times)",
+      0
+    ],
+    [
+      "scheduling a meeting with Wolfgang to discuss creative ideas for an upcoming event (conversing about how Adam Smith and Tom Moreno plan to align with John Harper's goals for boosting creativity, promoting diversity, and inclusion in the community through organizing a community event and incorporating various accessibility and educational initiatives.)",
+      12
+    ],
+    [
+      "scheduling a meeting with Wolfgang to discuss creative ideas for an upcoming event (sending an email to Wolfgang to inquire about his availability)",
+      5
+    ],
+    [
+      "scheduling a meeting with Wolfgang to discuss creative ideas for an upcoming event (waiting for a response from Wolfgang)",
+      10
+    ],
+    [
+      "scheduling a meeting with Wolfgang to discuss creative ideas for an upcoming event (checking his email for a response from Wolfgang)",
+      5
+    ],
+    [
+      "scheduling a meeting with Wolfgang to discuss creative ideas for an upcoming event (confirming the meeting time and location with Wolfgang)",
+      5
+    ],
+    [
+      "scheduling a meeting with Wolfgang to discuss creative ideas for an upcoming event (adding the meeting to his calendar)",
+      5
+    ],
+    [
+      "scheduling a meeting with Wolfgang to discuss creative ideas for an upcoming event (preparing a list of creative ideas to discuss with Wolfgang)",
+      15
+    ],
+    [
+      "scheduling a meeting with Wolfgang to discuss creative ideas for an upcoming event (reviewing the list of ideas and making any necessary changes)",
+      3
+    ],
+    [
+      "going to bed at 8:00 pm",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      3
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -7
+    ],
+    [
+      "sleeping",
+      -5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      10
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -4
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      6
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      240
+    ],
+    [
+      "completing his morning routine",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "writing and researching for his book",
+      60
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "attending a lecture on creative thinking",
+      60
+    ],
+    [
+      "reaching out to Carlos and Wolfgang for their input on incorporating creativity into upcoming projects",
+      60
+    ],
+    [
+      "collaborating with Carlos on promoting diversity and inclusion",
+      60
+    ],
+    [
+      "continuing to collaborate with Carlos on promoting diversity and inclusion",
+      60
+    ],
+    [
+      "having lunch",
+      120
+    ],
+    [
+      "attending a lecture on creative thinking",
+      60
+    ],
+    [
+      "researching John Harper's plans for boosting creativity in the village",
+      60
+    ],
+    [
+      "going for a walk in the park",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "attending a political debate for the local mayor election",
+      120
+    ],
+    [
+      "researching and making a decision on who to vote for in the local mayor election",
+      60
+    ],
+    [
+      "scheduling a meeting with Wolfgang to discuss creative ideas for an upcoming event",
+      60
+    ],
+    [
+      "going to bed at 8:00 pm",
+      120
+    ]
+  ],
+  "act_address": "the Ville:artist's co-living space:common room:common room table",
+  "act_start_time": "February 14, 2023, 21:46:00",
+  "act_duration": 15,
+  "act_description": "scheduling a meeting with Wolfgang to discuss creative ideas for an upcoming event (preparing a list of creative ideas to discuss with Wolfgang)",
+  "act_pronunciatio": "\ud83d\udcdd",
+  "act_event": [
+    "Adam Smith",
+    "prepare",
+    "list of creative ideas"
+  ],
+  "act_obj_description": "being used by Adam Smith for preparing a list of creative ideas to discuss with Wolfgang",
+  "act_obj_pronunciatio": "\ud83d\udcad",
+  "act_obj_event": [
+    "common room table",
+    "use",
+    "Adam Smith"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Tom Moreno": 494,
+    "Sam Moore": -136,
+    "Carlos Gomez": 350,
+    "Wolfgang Schulz": -4624,
+    "Isabella Rodriguez": -2278,
+    "Klaus Mueller": 230,
+    "Ayesha Khan": -1384
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "known_personas": [
+    "Tom Moreno",
+    "Sam Moore",
+    "Carlos Gomez",
+    "Wolfgang Schulz",
+    "Isabella Rodriguez",
+    "Klaus Mueller",
+    "Ayesha Khan"
+  ]
+}

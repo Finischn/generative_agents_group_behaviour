@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\u2615",
+      "description": "opening Hobbs Cafe and preparing for the day (brewing fresh coffee and preparing other drinks for the day) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        120,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending a creative writing workshop (participating in a writing exercise) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "at the library researching for his paper (reviewing his research question and objectives) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "reading at Hobbs cafe (reading his book) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        45
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Ayesha Khan are discussing their morning runs, the importance of discussions on race and diversity in the community, planning a tea tasting session with Klaus, preparing for upcoming exams, and training for an upcoming competition. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, how did your morning run go today?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, my morning run was great! I feel energized and ready for the day. How about you?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I had a good run this morning as well. It really helps me stay focused throughout the day."
+        ],
+        [
+          "Ayesha Khan",
+          "That's great to hear, Wolfgang! Running really does wonders for our focus and energy levels."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I also found it interesting when we discussed race and diversity in our community. It's important to have those conversations."
+        ],
+        [
+          "Ayesha Khan",
+          "Yes, I agree. It's crucial to have open discussions about race and diversity. It helps us understand each other better and create a more inclusive environment."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I appreciate our discussions about race and diversity. It's important to continue fostering understanding in our community."
+        ],
+        [
+          "Ayesha Khan",
+          "I agree, those discussions are so important for creating a more inclusive and understanding community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, I was thinking we should plan a time for that tea tasting session with Klaus and also set aside some time to further discuss race and diversity in our community. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea, Wolfgang! I think planning a tea tasting session with Klaus and continuing our discussions on race and diversity would be really beneficial for our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I was also reviewing my notes for the chemistry exam earlier. How are you feeling about the upcoming exams?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, I've been reviewing my notes too for the chemistry exam. I'm feeling pretty confident about it, but it's always good to stay on top of things."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I appreciate your study methods and your interest in Shakespeare's plays. It's really inspiring to see your dedication."
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, I agree, having these conversations about race and diversity is so crucial for our community. It's great to see the support and understanding we can create through open dialogues."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I was also thinking about our upcoming competition. How's your training going?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, I appreciate your dedication to your training for the upcoming competition. My training is going well too, thanks for asking. I'm confident we'll both do great!"
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        120,
+        45
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Ayesha Khan are discussing their morning runs, the importance of discussions on race and diversity in the community, planning a tea tasting session with Klaus, preparing for upcoming exams, and training for an upcoming competition. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, how did your morning run go today?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, my morning run was great! I feel energized and ready for the day. How about you?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I had a good run this morning as well. It really helps me stay focused throughout the day."
+        ],
+        [
+          "Ayesha Khan",
+          "That's great to hear, Wolfgang! Running really does wonders for our focus and energy levels."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I also found it interesting when we discussed race and diversity in our community. It's important to have those conversations."
+        ],
+        [
+          "Ayesha Khan",
+          "Yes, I agree. It's crucial to have open discussions about race and diversity. It helps us understand each other better and create a more inclusive environment."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I appreciate our discussions about race and diversity. It's important to continue fostering understanding in our community."
+        ],
+        [
+          "Ayesha Khan",
+          "I agree, those discussions are so important for creating a more inclusive and understanding community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, I was thinking we should plan a time for that tea tasting session with Klaus and also set aside some time to further discuss race and diversity in our community. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea, Wolfgang! I think planning a tea tasting session with Klaus and continuing our discussions on race and diversity would be really beneficial for our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I was also reviewing my notes for the chemistry exam earlier. How are you feeling about the upcoming exams?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, I've been reviewing my notes too for the chemistry exam. I'm feeling pretty confident about it, but it's always good to stay on top of things."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I appreciate your study methods and your interest in Shakespeare's plays. It's really inspiring to see your dedication."
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, I agree, having these conversations about race and diversity is so crucial for our community. It's great to see the support and understanding we can create through open dialogues."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I was also thinking about our upcoming competition. How's your training going?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, I appreciate your dedication to your training for the upcoming competition. My training is going well too, thanks for asking. I'm confident we'll both do great!"
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        91,
+        69
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "having breakfast and reviewing notes for his music theory class (reviewing his notes for his music theory class) @ the Ville:Lin family's house:common room:common room table",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\ud83d\udce7",
+      "description": "opening The Willow Market and Pharmacy (checking the store's email and responding to any urgent messages) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        69
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "working on her children's books (outlining the plot for the next book) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\u270d\ufe0f",
+      "description": "continuing his writing and research for his book (writing the first draft of the next chapter) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:39:10"
+  }
+}

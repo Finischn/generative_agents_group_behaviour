@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "managing the cafe and interacting with customers (conversing about discussing their upcoming meeting to review Carlos Gomez's poetry collection, their dedication to promoting diversity and inclusion in the poetry community, collaborating on uplifting marginalized voices, and planning ways to involve young Black leaders through mentorship programs and partnerships with local organizations.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having lunch (conversing about how to involve more Black-owned businesses in their community event to promote diversity and inclusion, brainstorming ideas and strategies to engage marginalized voices and ensure inclusivity in their planning.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Adam Smith and Klaus Mueller are discussing ways to promote diversity and inclusion at their upcoming event by incorporating cultural elements, involving Black artists and musicians, addressing unconscious bias and microaggressions, collaborating with local schools and organizations, planning workshops on allyship and privilege, prioritizing accessibility options for differently-abled individuals, and involving Black LGBTQ+ activists for unique perspectives and experiences. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey Klaus, I was thinking about our upcoming meeting to review Carlos Gomez's poetry collection. I believe it's crucial to continue promoting diversity and inclusion in our community through our collaboration. How do you feel about incorporating more cultural elements and involving local Black artists and musicians?"
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely, Adam. I completely agree with you. Incorporating more cultural elements and involving local Black artists and musicians is essential for creating a diverse and inclusive event. I think it would greatly enrich the experience for everyone involved."
+        ],
+        [
+          "Adam Smith",
+          "I also believe it's important to address unconscious bias and microaggressions during the event to ensure a safe and inclusive space for all attendees."
+        ],
+        [
+          "Klaus Mueller",
+          "I couldn't agree more, Adam. Addressing unconscious bias and microaggressions is crucial in creating a truly inclusive and safe environment for all attendees. It's important that we actively work towards promoting allyship and solidarity to support marginalized communities."
+        ],
+        [
+          "Adam Smith",
+          "I agree, Klaus. How about we also involve local schools to promote inclusivity and diversity for the event?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's a fantastic idea, Adam. Involving local schools to promote inclusivity and diversity for the event could make a significant impact. We can collaborate with them to engage young students and showcase diverse perspectives."
+        ],
+        [
+          "Adam Smith",
+          "I think reaching out to local organizations and Black creators would also add valuable perspectives to our event. How do you feel about that?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great plan, Adam. Including local organizations and Black creators will definitely enrich the event with diverse perspectives and talents. Let's work together to make this event a true celebration of diversity and inclusion."
+        ],
+        [
+          "Adam Smith",
+          "Klaus, I was also thinking about planning workshops on allyship and privilege to further educate our community. How do you feel about incorporating that into our event?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's a great idea, Adam. Workshops on allyship and privilege would definitely enhance our event and create a more inclusive space for dialogue and learning. Let's make sure to include those in our plans moving forward."
+        ],
+        [
+          "Adam Smith",
+          "Klaus, I believe it's important to prioritize accessibility options for differently abled individuals during our event. How do you feel about making sure that everyone feels welcome and included?"
+        ],
+        [
+          "Klaus Mueller",
+          "Adam, I completely agree with you on prioritizing accessibility options for differently-abled individuals. Ensuring that everyone feels welcome and included is paramount for the success of our event. Let's work together to make sure that all attendees can fully participate and engage."
+        ],
+        [
+          "Adam Smith",
+          "Klaus, I was also considering involving Black LGBTQ+ activists for unique perspectives and experiences during our event. How do you feel about including their voices in our planning?"
+        ],
+        [
+          "Klaus Mueller",
+          "I think involving Black LGBTQ+ activists for unique perspectives and experiences in our event planning is a fantastic idea, Adam. Their voices will bring valuable insights and contribute to creating a more inclusive and diverse space."
+        ],
+        [
+          "Adam Smith",
+          "Klaus, I think it would be beneficial to involve speakers to discuss the intersectionality of race and gender at our event. How do you feel about that?"
+        ],
+        [
+          "Klaus Mueller",
+          "Adam, I completely agree with you on involving speakers to discuss the intersectionality of race and gender at our event. It's crucial to have these conversations and shed light on the interconnected issues affecting marginalized communities. Let's make sure to include this in our planning moving forward."
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        77,
+        25
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "relaxing at home (conversing about promoting diversity and inclusivity at an upcoming poetry reading event by incorporating spoken word performances that highlight the experiences of marginalized communities.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        79,
+        24
+      ],
+      "pronunciatio": "\ud83d\ude0b",
+      "description": "having lunch (enjoying her meal) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        115,
+        33
+      ],
+      "pronunciatio": "\ud83c\udf0d",
+      "description": "having lunch (conversing about championing diversity and inclusivity in their collaboration, Wolfgang Schulz and Eddy Lin discuss actively promoting marginalized voices, addressing systemic inequalities, challenging unconscious bias and microaggressions, involving young aspiring poets from diverse backgrounds, collaborating with local organizations supporting marginalized communities, incorporating elements of Black music genres and African American literature, collaborating with Black-owned businesses and artists to uplift the Black community, showcasing the intersectionality of race and gender, engaging with the student community, involving diverse voices, and incorporating elements of different cultural music styles and Black LGBTQ+ voices.) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83c\udf0d",
+      "description": "having lunch and studying at Hobbs Cafe (conversing about championing diversity and inclusivity in their collaboration, Wolfgang Schulz and Eddy Lin discuss actively promoting marginalized voices, addressing systemic inequalities, challenging unconscious bias and microaggressions, involving young aspiring poets from diverse backgrounds, collaborating with local organizations supporting marginalized communities, incorporating elements of Black music genres and African American literature, collaborating with Black-owned businesses and artists to uplift the Black community, showcasing the intersectionality of race and gender, engaging with the student community, involving diverse voices, and incorporating elements of different cultural music styles and Black LGBTQ+ voices.) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        58,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "grabbing lunch (conversing about how to involve more Black-owned businesses in their community event to promote diversity and inclusion, brainstorming ideas and strategies to engage marginalized voices and ensure inclusivity in their planning.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        67
+      ],
+      "pronunciatio": "\ud83d\uddd2\ufe0f",
+      "description": "meeting with Carmen to discuss potential book ideas (preparing for the meeting by gathering her notes and ideas) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Adam Smith and Klaus Mueller are discussing ways to promote diversity and inclusion at their upcoming event by incorporating cultural elements, involving Black artists and musicians, addressing unconscious bias and microaggressions, collaborating with local schools and organizations, planning workshops on allyship and privilege, prioritizing accessibility options for differently-abled individuals, and involving Black LGBTQ+ activists for unique perspectives and experiences. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey Klaus, I was thinking about our upcoming meeting to review Carlos Gomez's poetry collection. I believe it's crucial to continue promoting diversity and inclusion in our community through our collaboration. How do you feel about incorporating more cultural elements and involving local Black artists and musicians?"
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely, Adam. I completely agree with you. Incorporating more cultural elements and involving local Black artists and musicians is essential for creating a diverse and inclusive event. I think it would greatly enrich the experience for everyone involved."
+        ],
+        [
+          "Adam Smith",
+          "I also believe it's important to address unconscious bias and microaggressions during the event to ensure a safe and inclusive space for all attendees."
+        ],
+        [
+          "Klaus Mueller",
+          "I couldn't agree more, Adam. Addressing unconscious bias and microaggressions is crucial in creating a truly inclusive and safe environment for all attendees. It's important that we actively work towards promoting allyship and solidarity to support marginalized communities."
+        ],
+        [
+          "Adam Smith",
+          "I agree, Klaus. How about we also involve local schools to promote inclusivity and diversity for the event?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's a fantastic idea, Adam. Involving local schools to promote inclusivity and diversity for the event could make a significant impact. We can collaborate with them to engage young students and showcase diverse perspectives."
+        ],
+        [
+          "Adam Smith",
+          "I think reaching out to local organizations and Black creators would also add valuable perspectives to our event. How do you feel about that?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great plan, Adam. Including local organizations and Black creators will definitely enrich the event with diverse perspectives and talents. Let's work together to make this event a true celebration of diversity and inclusion."
+        ],
+        [
+          "Adam Smith",
+          "Klaus, I was also thinking about planning workshops on allyship and privilege to further educate our community. How do you feel about incorporating that into our event?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's a great idea, Adam. Workshops on allyship and privilege would definitely enhance our event and create a more inclusive space for dialogue and learning. Let's make sure to include those in our plans moving forward."
+        ],
+        [
+          "Adam Smith",
+          "Klaus, I believe it's important to prioritize accessibility options for differently abled individuals during our event. How do you feel about making sure that everyone feels welcome and included?"
+        ],
+        [
+          "Klaus Mueller",
+          "Adam, I completely agree with you on prioritizing accessibility options for differently-abled individuals. Ensuring that everyone feels welcome and included is paramount for the success of our event. Let's work together to make sure that all attendees can fully participate and engage."
+        ],
+        [
+          "Adam Smith",
+          "Klaus, I was also considering involving Black LGBTQ+ activists for unique perspectives and experiences during our event. How do you feel about including their voices in our planning?"
+        ],
+        [
+          "Klaus Mueller",
+          "I think involving Black LGBTQ+ activists for unique perspectives and experiences in our event planning is a fantastic idea, Adam. Their voices will bring valuable insights and contribute to creating a more inclusive and diverse space."
+        ],
+        [
+          "Adam Smith",
+          "Klaus, I think it would be beneficial to involve speakers to discuss the intersectionality of race and gender at our event. How do you feel about that?"
+        ],
+        [
+          "Klaus Mueller",
+          "Adam, I completely agree with you on involving speakers to discuss the intersectionality of race and gender at our event. It's crucial to have these conversations and shed light on the interconnected issues affecting marginalized communities. Let's make sure to include this in our planning moving forward."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 13:06:00"
+  }
+}

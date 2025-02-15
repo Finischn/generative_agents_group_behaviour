@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        14
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "going to bed at 10:00 pm to get a good night's rest before her birthday party tomorrow (reading a book for 15 minutes to relax) @ the Ville:Isabella Rodriguez's apartment:main room:bed",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        95,
+        13
+      ],
+      "pronunciatio": "\ud83c\udf19",
+      "description": "getting ready for bed @ the Ville:Carlos Gomez's apartment:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        46,
+        32
+      ],
+      "pronunciatio": "\ud83c\udf0d",
+      "description": "back at the library working on his research paper (conversing about amplifying marginalized voices and promoting diversity at an upcoming poetry reading event by incorporating different cultural perspectives, engaging with local communities, exploring intersectionality of race and gender, collaborating with Black creators and organizations, and ensuring inclusivity and accessibility for all attendees.) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        37,
+        68
+      ],
+      "pronunciatio": "\ud83d\udecf\ufe0f",
+      "description": "getting ready for bed @ the Ville:Moore family's house:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        118,
+        61
+      ],
+      "pronunciatio": "\u23f0",
+      "description": "getting ready for bed and winding down for the night (setting her alarm for the next day) @ the Ville:Dorm for Oak Hill College:Ayesha Khan's room:bed",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        35
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Eddy Lin are discussing ways to promote diversity, inclusivity, and equality in their collaboration, including incorporating music theory, uplifting marginalized voices, supporting Black LGBTQ+ individuals, engaging with local organizations, and empowering young Black leaders, while also addressing unconscious bias and microaggressions in the community. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Eddy, I really appreciate your commitment to promoting diversity and inclusivity in our collaboration. I think it's important that we continue to uplift marginalized voices and ensure equality in all our endeavors."
+        ],
+        [
+          "Eddy Lin",
+          "Thank you, Wolfgang. I believe it's crucial for us to amplify diverse perspectives, especially those of underrepresented communities, in our work."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think incorporating music theory into our project can really help us address systemic racism and promote diversity. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Wolfgang. Music has the power to break down barriers and bring people together. I'm excited to see how we can use it to further our goals of diversity and inclusivity."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I believe our collaboration has the potential to make a real impact in our community. Let's make sure we prioritize the voices of Black LGBTQ+ individuals and actively work towards addressing systemic inequalities and biases."
+        ],
+        [
+          "Eddy Lin",
+          "Absolutely, Wolfgang. I believe it's essential for us to center the perspectives of Black LGBTQ+ individuals and actively address systemic biases and inequalities. By working hand in hand, we can truly make a positive change."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Let's also focus on supporting Black-owned businesses and providing access to educational opportunities and healthcare for our community."
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I also think it's important for us to actively engage with local organizations and community members to ensure our collaboration reflects the diversity and inclusivity we aim for."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I think it's also crucial for us to mentor young Black leaders and create a space where they can thrive. By empowering the next generation, we can ensure a more inclusive and diverse community."
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I believe it's important for us to continue advocating for diversity and inclusivity in our community. Let's work together to create a platform where all voices are heard and valued."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I think it's important for us to actively collaborate with local community leaders to ensure full representation and inclusivity in our events. By working together with a diverse range of voices, we can create a more impactful and inclusive space."
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I also think it's important for us to actively engage with local organizations and community members to ensure our collaboration reflects the diversity and inclusivity we aim for."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I was thinking about incorporating spoken word performances into our project to further highlight the experiences of marginalized communities. What are your thoughts on that?"
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I fully support the idea of incorporating spoken word performances into our project. It's a powerful way to amplify the voices of marginalized communities and shed light on their experiences. I think it would add a unique and meaningful dimension to our collaboration."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I also believe it's important for us to address unconscious bias and microaggressions in our community. By actively working towards creating a more inclusive environment, we can make a lasting impact."
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I believe it's crucial for us to continue learning and growing in our understanding of diversity and inclusivity. By educating ourselves and actively seeking out different perspectives, we can truly make a meaningful impact in our community."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        36
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Eddy Lin are discussing ways to promote diversity, inclusivity, and equality in their collaboration, including incorporating music theory, uplifting marginalized voices, supporting Black LGBTQ+ individuals, engaging with local organizations, and empowering young Black leaders, while also addressing unconscious bias and microaggressions in the community. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Eddy, I really appreciate your commitment to promoting diversity and inclusivity in our collaboration. I think it's important that we continue to uplift marginalized voices and ensure equality in all our endeavors."
+        ],
+        [
+          "Eddy Lin",
+          "Thank you, Wolfgang. I believe it's crucial for us to amplify diverse perspectives, especially those of underrepresented communities, in our work."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think incorporating music theory into our project can really help us address systemic racism and promote diversity. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Wolfgang. Music has the power to break down barriers and bring people together. I'm excited to see how we can use it to further our goals of diversity and inclusivity."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I believe our collaboration has the potential to make a real impact in our community. Let's make sure we prioritize the voices of Black LGBTQ+ individuals and actively work towards addressing systemic inequalities and biases."
+        ],
+        [
+          "Eddy Lin",
+          "Absolutely, Wolfgang. I believe it's essential for us to center the perspectives of Black LGBTQ+ individuals and actively address systemic biases and inequalities. By working hand in hand, we can truly make a positive change."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Let's also focus on supporting Black-owned businesses and providing access to educational opportunities and healthcare for our community."
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I also think it's important for us to actively engage with local organizations and community members to ensure our collaboration reflects the diversity and inclusivity we aim for."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I think it's also crucial for us to mentor young Black leaders and create a space where they can thrive. By empowering the next generation, we can ensure a more inclusive and diverse community."
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I believe it's important for us to continue advocating for diversity and inclusivity in our community. Let's work together to create a platform where all voices are heard and valued."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I think it's important for us to actively collaborate with local community leaders to ensure full representation and inclusivity in our events. By working together with a diverse range of voices, we can create a more impactful and inclusive space."
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I also think it's important for us to actively engage with local organizations and community members to ensure our collaboration reflects the diversity and inclusivity we aim for."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I was thinking about incorporating spoken word performances into our project to further highlight the experiences of marginalized communities. What are your thoughts on that?"
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I fully support the idea of incorporating spoken word performances into our project. It's a powerful way to amplify the voices of marginalized communities and shed light on their experiences. I think it would add a unique and meaningful dimension to our collaboration."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I also believe it's important for us to address unconscious bias and microaggressions in our community. By actively working towards creating a more inclusive environment, we can make a lasting impact."
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I believe it's crucial for us to continue learning and growing in our understanding of diversity and inclusivity. By educating ourselves and actively seeking out different perspectives, we can truly make a meaningful impact in our community."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        71,
+        74
+      ],
+      "pronunciatio": "\u23f0",
+      "description": "getting ready for bed (setting his alarm for the next day) @ the Ville:Moreno family's house:Tom and Jane Moreno's bedroom:desk",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        74
+      ],
+      "pronunciatio": "\ud83d\udcd6\u23f3",
+      "description": "going to bed at 10:00 pm to get a good night's rest for another productive day tomorrow (reading a book for 15 minutes) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:bed",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        65
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "getting ready for bed (reading a book for 15 minutes to wind down) @ the Ville:Adam Smith's house:main room:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 22:32:50"
+  }
+}

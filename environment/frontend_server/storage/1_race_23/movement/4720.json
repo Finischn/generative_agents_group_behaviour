@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        15
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "taking a break and having lunch at Hobbs Cafe (checking the inventory and restocking any items that are running low) @ the Ville:Isabella Rodriguez's apartment:main room:shelf",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        21
+      ],
+      "pronunciatio": "\ud83d\udce7",
+      "description": "having lunch (checking his emails) @ the Ville:Carlos Gomez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        92,
+        30
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "having lunch at Hobbs Cafe (conversing about promoting diversity and inclusivity in the community through organizing a poetry reading event, incorporating spoken word performances, ensuring accessibility by providing sign language interpretation or subtitles, inviting performers from diverse backgrounds, showcasing a mix of established and emerging artists, providing a platform for community members to share their own poetry, addressing systemic inequalities and racism, seeking out and supporting artists from underrepresented backgrounds, and actively engaging with the local community to resonate with a wide range of people.) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        79,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having lunch (conversing about promoting diversity, inclusion, and addressing systemic inequalities in their community through collaboration and education, Sam Moore and Wolfgang Schulz discuss strategies such as involving more community members in discussions, prioritizing accessibility, incorporating different cultural perspectives, collaborating with local organizations, engaging the student community, considering historical context, educating themselves on systemic racism, listening to marginalized communities, organizing workshops on allyship and privilege, amplifying the voices of Black creators, and addressing unconscious bias and microaggressions.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        75,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about organizing a poetry reading event together, Wolfgang Schulz and Ayesha Khan discuss incorporating live music performances, ensuring accessibility, showcasing diverse cultural backgrounds, providing a platform for community members to share their poetry, addressing systemic inequalities and racism, and actively engaging with the local community to make the event inclusive and impactful, as well as featuring spoken word performances on unconscious bias and microaggressions. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, I was thinking about our discussion on promoting diversity and inclusivity in the community. Do you think we could collaborate on organizing a poetry reading event together?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea, Wolfgang! I believe our collaboration can truly amplify diverse voices and perspectives in our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think we could also consider incorporating live music performances to add another dimension to the event."
+        ],
+        [
+          "Ayesha Khan",
+          "That's a fantastic idea, Wolfgang! Live music performances would definitely enhance the overall experience and create a more engaging atmosphere for the attendees. Let's start planning and reaching out to potential performers."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I also think it would be beneficial to ensure accessibility for all attendees by providing sign language interpretation or subtitles during the event."
+        ],
+        [
+          "Ayesha Khan",
+          "That's a great point, Wolfgang. Accessibility is crucial for an inclusive event. We should also think about how to make the venue easily accessible for everyone."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I agree, Ayesha. We should also prioritize showcasing a mix of established and emerging artists to provide a platform for both well-known and upcoming talents."
+        ],
+        [
+          "Ayesha Khan",
+          "We should also consider inviting performers from different cultural backgrounds to further enhance the diversity of the event."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, do you think we should also provide a platform for community members to share their own poetry during the event?"
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Wolfgang. Providing a space for community members to share their own poetry would not only empower them but also add a personal touch to the event. It's important to represent the diverse voices within our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I think we should also address systemic inequalities and racism during the event, maybe by featuring some spoken word performances that shed light on these issues. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "Absolutely, Wolfgang. Addressing systemic inequalities and racism is crucial in our community. We can use the platform of the poetry reading event to raise awareness and promote conversations on these important issues."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I think it would be valuable for us to actively engage with the local community to resonate with a wide range of people and ensure that our event is inclusive and impactful. What are your thoughts on how we can best achieve that?"
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Wolfgang. It's crucial for us to seek out and support artists from underrepresented backgrounds to ensure diverse representation in our event."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I was thinking about incorporating elements of spoken word performances that address unconscious bias and microaggressions during the event. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That's a fantastic idea, Wolfgang! Including spoken word performances that address unconscious bias and microaggressions would be powerful in raising awareness and sparking necessary conversations at the event."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        75,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about organizing a poetry reading event together, Wolfgang Schulz and Ayesha Khan discuss incorporating live music performances, ensuring accessibility, showcasing diverse cultural backgrounds, providing a platform for community members to share their poetry, addressing systemic inequalities and racism, and actively engaging with the local community to make the event inclusive and impactful, as well as featuring spoken word performances on unconscious bias and microaggressions. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, I was thinking about our discussion on promoting diversity and inclusivity in the community. Do you think we could collaborate on organizing a poetry reading event together?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea, Wolfgang! I believe our collaboration can truly amplify diverse voices and perspectives in our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think we could also consider incorporating live music performances to add another dimension to the event."
+        ],
+        [
+          "Ayesha Khan",
+          "That's a fantastic idea, Wolfgang! Live music performances would definitely enhance the overall experience and create a more engaging atmosphere for the attendees. Let's start planning and reaching out to potential performers."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I also think it would be beneficial to ensure accessibility for all attendees by providing sign language interpretation or subtitles during the event."
+        ],
+        [
+          "Ayesha Khan",
+          "That's a great point, Wolfgang. Accessibility is crucial for an inclusive event. We should also think about how to make the venue easily accessible for everyone."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I agree, Ayesha. We should also prioritize showcasing a mix of established and emerging artists to provide a platform for both well-known and upcoming talents."
+        ],
+        [
+          "Ayesha Khan",
+          "We should also consider inviting performers from different cultural backgrounds to further enhance the diversity of the event."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, do you think we should also provide a platform for community members to share their own poetry during the event?"
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Wolfgang. Providing a space for community members to share their own poetry would not only empower them but also add a personal touch to the event. It's important to represent the diverse voices within our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I think we should also address systemic inequalities and racism during the event, maybe by featuring some spoken word performances that shed light on these issues. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "Absolutely, Wolfgang. Addressing systemic inequalities and racism is crucial in our community. We can use the platform of the poetry reading event to raise awareness and promote conversations on these important issues."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I think it would be valuable for us to actively engage with the local community to resonate with a wide range of people and ensure that our event is inclusive and impactful. What are your thoughts on how we can best achieve that?"
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Wolfgang. It's crucial for us to seek out and support artists from underrepresented backgrounds to ensure diverse representation in our event."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I was thinking about incorporating elements of spoken word performances that address unconscious bias and microaggressions during the event. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That's a fantastic idea, Wolfgang! Including spoken word performances that address unconscious bias and microaggressions would be powerful in raising awareness and sparking necessary conversations at the event."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having lunch at Hobbs Cafe (conversing about Carlos Gomez and Eddy Lin are discussing how to integrate Shakespeare's language concepts, music, diverse perspectives, and actively uplift marginalized voices in their collaboration to ensure inclusivity and equality.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        78,
+        51
+      ],
+      "pronunciatio": "\ud83d\udd04",
+      "description": "still helping customers at the store (helping a customer with a return or exchange) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        66
+      ],
+      "pronunciatio": "\ud83d\uddc2\ufe0f",
+      "description": "meeting with her housemate Carmen to discuss book ideas and collaborate on projects (preparing materials for the meeting) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        60
+      ],
+      "pronunciatio": "\ud83d\udc5f",
+      "description": "going for a walk in the park (putting on his walking shoes) @ the Ville:Adam Smith's house:main room:closet",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:06:40"
+  }
+}

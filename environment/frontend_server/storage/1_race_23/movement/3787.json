@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        80,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "taking orders and serving customers at Hobbs Cafe (taking orders from customers) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcad",
+      "description": "working on his poetry collection (brainstorming new ideas for poems) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "still at the library researching (searching for relevant articles and studies) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        67,
+        46
+      ],
+      "pronunciatio": "\ud83c\udfe6",
+      "description": "running errands and attending to tasks (going to the bank to deposit a check) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "attending her second class at Oak Hill College library (participating in class discussions) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        111,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the potential collaboration between Wolfgang Schulz and Eddy Lin, as they discuss incorporating music theory, chemistry, and literature into their project while emphasizing diversity and inclusivity. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Eddy, I was thinking about how we could incorporate elements of music theory into my chemistry studies. What do you think about that?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a fascinating idea, Wolfgang! I think finding connections between music theory and chemistry could be really interesting. Have you thought about how rhythm or harmony could be applied to your experiments?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I haven't thought about that before, but that's an intriguing idea. I wonder how we can use musical concepts to enhance my understanding of chemical reactions."
+        ],
+        [
+          "Eddy Lin",
+          "I would love to explore this further with you, Wolfgang. Perhaps we could set up a meeting to brainstorm some ideas?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Absolutely, that sounds like a plan. Why don't we meet up after our classes tomorrow to dive deeper into this collaboration?"
+        ],
+        [
+          "Eddy Lin",
+          "I'm really excited to see how we can merge our different fields of study to create something unique and innovative. Looking forward to our meeting tomorrow!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I appreciate your enthusiasm, Eddy. It's always great to explore interdisciplinary connections. Let's plan to meet in the library tomorrow after classes to further discuss our ideas."
+        ],
+        [
+          "Eddy Lin",
+          "I'm really looking forward to seeing how we can blend the worlds of music and chemistry together."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I also think it would be interesting to incorporate elements of literature into our collaboration. Maybe we can explore the use of language in chemistry experiments."
+        ],
+        [
+          "Eddy Lin",
+          "That's a fantastic idea, Wolfgang! I believe incorporating elements of literature into our collaboration could provide a unique perspective on our research. It's truly inspiring to see how different disciplines can come together to create something innovative."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I agree, Eddy. Our collaboration has the potential to shed light on the importance of inclusivity in our work. Let's aim to create a project that not only combines music, chemistry, and literature but also promotes diversity and understanding."
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Wolfgang. It's crucial for us to create a project that not only showcases our different fields of study but also emphasizes the importance of diversity and inclusivity in our work."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think it's important for us to acknowledge our different backgrounds and experiences as we embark on this collaboration. Our diverse perspectives can only enrich our project and help us create something truly impactful."
+        ],
+        [
+          "Eddy Lin",
+          "I appreciate your openness to collaboration and your willingness to explore new ideas, Wolfgang. Our diverse backgrounds and perspectives can truly enrich our project and help us create something meaningful."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I appreciate your openness to collaboration and your willingness to explore new ideas, Eddy. Our diverse backgrounds and perspectives can truly enrich our project and help us create something meaningful."
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I am grateful for the opportunity to collaborate with you and explore these interdisciplinary connections. Your perspective and insights are truly valuable to me."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        110,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the potential collaboration between Wolfgang Schulz and Eddy Lin, as they discuss incorporating music theory, chemistry, and literature into their project while emphasizing diversity and inclusivity. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Eddy, I was thinking about how we could incorporate elements of music theory into my chemistry studies. What do you think about that?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a fascinating idea, Wolfgang! I think finding connections between music theory and chemistry could be really interesting. Have you thought about how rhythm or harmony could be applied to your experiments?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I haven't thought about that before, but that's an intriguing idea. I wonder how we can use musical concepts to enhance my understanding of chemical reactions."
+        ],
+        [
+          "Eddy Lin",
+          "I would love to explore this further with you, Wolfgang. Perhaps we could set up a meeting to brainstorm some ideas?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Absolutely, that sounds like a plan. Why don't we meet up after our classes tomorrow to dive deeper into this collaboration?"
+        ],
+        [
+          "Eddy Lin",
+          "I'm really excited to see how we can merge our different fields of study to create something unique and innovative. Looking forward to our meeting tomorrow!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I appreciate your enthusiasm, Eddy. It's always great to explore interdisciplinary connections. Let's plan to meet in the library tomorrow after classes to further discuss our ideas."
+        ],
+        [
+          "Eddy Lin",
+          "I'm really looking forward to seeing how we can blend the worlds of music and chemistry together."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I also think it would be interesting to incorporate elements of literature into our collaboration. Maybe we can explore the use of language in chemistry experiments."
+        ],
+        [
+          "Eddy Lin",
+          "That's a fantastic idea, Wolfgang! I believe incorporating elements of literature into our collaboration could provide a unique perspective on our research. It's truly inspiring to see how different disciplines can come together to create something innovative."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I agree, Eddy. Our collaboration has the potential to shed light on the importance of inclusivity in our work. Let's aim to create a project that not only combines music, chemistry, and literature but also promotes diversity and understanding."
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Wolfgang. It's crucial for us to create a project that not only showcases our different fields of study but also emphasizes the importance of diversity and inclusivity in our work."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think it's important for us to acknowledge our different backgrounds and experiences as we embark on this collaboration. Our diverse perspectives can only enrich our project and help us create something truly impactful."
+        ],
+        [
+          "Eddy Lin",
+          "I appreciate your openness to collaboration and your willingness to explore new ideas, Wolfgang. Our diverse backgrounds and perspectives can truly enrich our project and help us create something meaningful."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I appreciate your openness to collaboration and your willingness to explore new ideas, Eddy. Our diverse backgrounds and perspectives can truly enrich our project and help us create something meaningful."
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I am grateful for the opportunity to collaborate with you and explore these interdisciplinary connections. Your perspective and insights are truly valuable to me."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        69,
+        46
+      ],
+      "pronunciatio": "\u260e\ufe0f",
+      "description": "still helping customers at the store (answering the phone and taking orders for delivery) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        67
+      ],
+      "pronunciatio": "\ud83c\udfa8",
+      "description": "continuing to work on her children's books (working on illustrations for the book) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        36,
+        28
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "continuing his writing and research for his book (reading articles and books related to creativity) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:31:10"
+  }
+}

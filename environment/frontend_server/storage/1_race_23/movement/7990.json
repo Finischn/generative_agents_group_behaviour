@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        82,
+        16
+      ],
+      "pronunciatio": "\ud83e\uddfc",
+      "description": "going to bed at 10:00 pm to get a good night's rest before her birthday party tomorrow (washing her face) @ the Ville:Isabella Rodriguez's apartment:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        95,
+        13
+      ],
+      "pronunciatio": "\ud83c\udf19",
+      "description": "getting ready for bed @ the Ville:Carlos Gomez's apartment:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about amplifying marginalized voices and promoting diversity at an upcoming poetry reading event by incorporating different cultural perspectives, engaging with local communities, exploring intersectionality of race and gender, collaborating with Black creators and organizations, and ensuring inclusivity and accessibility for all attendees. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Eddy, how are you? I couldn't help but notice you working on some music theory exercises. It's fascinating to see how you incorporate elements of Black music genres and literature into your work. I was thinking about our upcoming poetry reading event and how we can further amplify marginalized voices and promote diversity."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Klaus, I'm doing well, thank you for noticing my work on incorporating Black music genres and literature. I have some ideas on how we can amplify marginalized voices and promote diversity at the poetry reading event."
+        ],
+        [
+          "Klaus Mueller",
+          "I was thinking we could invite poets from different cultural backgrounds and also organize workshops on allyship and privilege to create a more inclusive and diverse event."
+        ],
+        [
+          "Eddy Lin",
+          "That's a great idea, Klaus. We could also collaborate with local organizations to amplify marginalized voices and ensure accessibility for all attendees."
+        ],
+        [
+          "Klaus Mueller",
+          "We could also consider incorporating interactive activities to encourage dialogue on social issues and promote active listening."
+        ],
+        [
+          "Eddy Lin",
+          "Absolutely, Klaus. I think it's crucial to address unconscious bias and ensure venue accessibility for individuals with disabilities at our event. By actively promoting diversity and inclusivity, we can create a welcoming space for everyone."
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, I also think it's important for us to actively engage with the local community to resonate with a wide range of people and ensure that our event is truly inclusive."
+        ],
+        [
+          "Eddy Lin",
+          "Klaus, I completely agree. By actively involving and uplifting voices from underrepresented communities, we can create a more impactful and inclusive event. Let's continue brainstorming ideas to ensure that we are effectively promoting diversity and inclusivity at the poetry reading."
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, I think we should also consider reaching out to the local Black LGBTQ+ community to ensure proper representation and collaboration. Their perspectives and voices are essential in our event."
+        ],
+        [
+          "Eddy Lin",
+          "Klaus, I think it's crucial for us to showcase a mix of established and emerging artists from diverse backgrounds to truly reflect the diversity of our community. By providing a platform for a variety of voices to be heard, we can create a more enriching experience for our audience."
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, do you think we should also explore the intersectionality of race and gender in our event to further promote inclusivity?"
+        ],
+        [
+          "Eddy Lin",
+          "Klaus, I believe exploring the intersectionality of race and gender in our event is crucial to promote inclusivity. It's important for us to create a space where all voices are heard and represented."
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, I think we should also consider collaborating with local Black creators and organizations to further amplify the voices of marginalized communities in our poetry reading event."
+        ],
+        [
+          "Eddy Lin",
+          "Klaus, I agree with your suggestion to collaborate with local Black creators and organizations to amplify marginalized voices. Their perspectives and contributions are crucial for creating a truly inclusive event."
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, I was also thinking about incorporating different cultural perspectives and historical context into our event to provide a more comprehensive view. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "Klaus, I think incorporating different cultural perspectives and historical context into our event is a fantastic idea. By showcasing the diversity of experiences and voices, we can create a more enriching and inclusive environment for everyone attending."
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        60,
+        20
+      ],
+      "pronunciatio": "\ud83e\uddf9",
+      "description": "saying goodbye to his friends and family at The Rose and Crown Pub (helping the staff clean up and pack up decorations) @ the Ville:The Rose and Crown Pub:pub:kitchen sink",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83c\udfb6\ud83d\udcda",
+      "description": "studying and working on her senior thesis at the library (conversing about Eddy Lin and Ayesha Khan are discussing ways to promote diversity, inclusivity, and equity in their collaborative project by incorporating elements of Black music genres and African American literature, addressing cultural appropriation, and working towards dismantling systemic racism within the music industry and literature world.) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        56,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying for exams (reviewing his flashcards one last time) @ the Ville:Dorm for Oak Hill College:Wolfgang Schulz's room:desk",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        122,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about amplifying marginalized voices and promoting diversity at an upcoming poetry reading event by incorporating different cultural perspectives, engaging with local communities, exploring intersectionality of race and gender, collaborating with Black creators and organizations, and ensuring inclusivity and accessibility for all attendees. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Eddy, how are you? I couldn't help but notice you working on some music theory exercises. It's fascinating to see how you incorporate elements of Black music genres and literature into your work. I was thinking about our upcoming poetry reading event and how we can further amplify marginalized voices and promote diversity."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Klaus, I'm doing well, thank you for noticing my work on incorporating Black music genres and literature. I have some ideas on how we can amplify marginalized voices and promote diversity at the poetry reading event."
+        ],
+        [
+          "Klaus Mueller",
+          "I was thinking we could invite poets from different cultural backgrounds and also organize workshops on allyship and privilege to create a more inclusive and diverse event."
+        ],
+        [
+          "Eddy Lin",
+          "That's a great idea, Klaus. We could also collaborate with local organizations to amplify marginalized voices and ensure accessibility for all attendees."
+        ],
+        [
+          "Klaus Mueller",
+          "We could also consider incorporating interactive activities to encourage dialogue on social issues and promote active listening."
+        ],
+        [
+          "Eddy Lin",
+          "Absolutely, Klaus. I think it's crucial to address unconscious bias and ensure venue accessibility for individuals with disabilities at our event. By actively promoting diversity and inclusivity, we can create a welcoming space for everyone."
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, I also think it's important for us to actively engage with the local community to resonate with a wide range of people and ensure that our event is truly inclusive."
+        ],
+        [
+          "Eddy Lin",
+          "Klaus, I completely agree. By actively involving and uplifting voices from underrepresented communities, we can create a more impactful and inclusive event. Let's continue brainstorming ideas to ensure that we are effectively promoting diversity and inclusivity at the poetry reading."
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, I think we should also consider reaching out to the local Black LGBTQ+ community to ensure proper representation and collaboration. Their perspectives and voices are essential in our event."
+        ],
+        [
+          "Eddy Lin",
+          "Klaus, I think it's crucial for us to showcase a mix of established and emerging artists from diverse backgrounds to truly reflect the diversity of our community. By providing a platform for a variety of voices to be heard, we can create a more enriching experience for our audience."
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, do you think we should also explore the intersectionality of race and gender in our event to further promote inclusivity?"
+        ],
+        [
+          "Eddy Lin",
+          "Klaus, I believe exploring the intersectionality of race and gender in our event is crucial to promote inclusivity. It's important for us to create a space where all voices are heard and represented."
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, I think we should also consider collaborating with local Black creators and organizations to further amplify the voices of marginalized communities in our poetry reading event."
+        ],
+        [
+          "Eddy Lin",
+          "Klaus, I agree with your suggestion to collaborate with local Black creators and organizations to amplify marginalized voices. Their perspectives and contributions are crucial for creating a truly inclusive event."
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, I was also thinking about incorporating different cultural perspectives and historical context into our event to provide a more comprehensive view. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "Klaus, I think incorporating different cultural perspectives and historical context into our event is a fantastic idea. By showcasing the diversity of experiences and voices, we can create a more enriching and inclusive environment for everyone attending."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        70,
+        67
+      ],
+      "pronunciatio": "\ud83c\udfb2",
+      "description": "spending quality time with his wife, Jane (Jane are playing a board game together) @ the Ville:Moreno family's house:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        61,
+        65
+      ],
+      "pronunciatio": "\ud83e\uddfc",
+      "description": "going to bed at 10:00 pm to get a good night's rest for another productive day tomorrow (washing her face) @ the Ville:Tamara Taylor and Carmen Ortiz's house:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        20,
+        68
+      ],
+      "pronunciatio": "\ud83d\udebf",
+      "description": "getting ready for bed (washing his face) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 22:11:40"
+  }
+}

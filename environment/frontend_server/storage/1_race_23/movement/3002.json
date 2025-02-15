@@ -1,0 +1,171 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos and Isabella are chatting about the writing workshop, Carlos's poetry collection, Isabella's birthday party at Hobbs Cafe, and what desserts Carlos plans to bring. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Carlos, how's the writing workshop going? I saw you deep in thought over there. Anything interesting you're working on?"
+        ],
+        [
+          "Carlos Gomez",
+          "Hey Isabella, the workshop is going great. I'm actually working on a collection of poetry that explores the beauty of the natural world. How about you, how's your day going so far?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds fascinating, Carlos! Poetry is such a beautiful way to express oneself. I'm glad to hear the workshop is going well. As for me, I'm currently getting ready for my birthday party here at Hobbs Cafe tomorrow. You should definitely stop by if you're free!"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a great idea, Isabella! I'll definitely try to stop by your birthday party tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Carlos! I hope to see you there tomorrow at 5pm."
+        ],
+        [
+          "Carlos Gomez",
+          "I'll make sure to bring a gift for you. What kind of pastry or dessert do you like?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Carlos! I'm really looking forward to seeing you at the party tomorrow. As for pastries, I adore chocolate chip cookies or a classic red velvet cake. But really, your presence is the best gift of all."
+        ],
+        [
+          "Carlos Gomez",
+          "I'll make sure to bring either some chocolate chip cookies or a red velvet cake for your birthday party. Looking forward to seeing you tomorrow!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Carlos! Your thoughtfulness is truly appreciated. I can't wait to see you tomorrow at the party."
+        ]
+      ]
+    },
+    "Carlos Gomez": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos and Isabella are chatting about the writing workshop, Carlos's poetry collection, Isabella's birthday party at Hobbs Cafe, and what desserts Carlos plans to bring. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Carlos, how's the writing workshop going? I saw you deep in thought over there. Anything interesting you're working on?"
+        ],
+        [
+          "Carlos Gomez",
+          "Hey Isabella, the workshop is going great. I'm actually working on a collection of poetry that explores the beauty of the natural world. How about you, how's your day going so far?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds fascinating, Carlos! Poetry is such a beautiful way to express oneself. I'm glad to hear the workshop is going well. As for me, I'm currently getting ready for my birthday party here at Hobbs Cafe tomorrow. You should definitely stop by if you're free!"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a great idea, Isabella! I'll definitely try to stop by your birthday party tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Carlos! I hope to see you there tomorrow at 5pm."
+        ],
+        [
+          "Carlos Gomez",
+          "I'll make sure to bring a gift for you. What kind of pastry or dessert do you like?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Carlos! I'm really looking forward to seeing you at the party tomorrow. As for pastries, I adore chocolate chip cookies or a classic red velvet cake. But really, your presence is the best gift of all."
+        ],
+        [
+          "Carlos Gomez",
+          "I'll make sure to bring either some chocolate chip cookies or a red velvet cake for your birthday party. Looking forward to seeing you tomorrow!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Carlos! Your thoughtfulness is truly appreciated. I can't wait to see you tomorrow at the party."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "at the library researching for his paper (conversing about the importance of fostering understanding, inclusivity, and discussing race and diversity in their community through conversations between Klaus Mueller and Wolfgang Schulz.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        79,
+        23
+      ],
+      "pronunciatio": "\u2615\ud83c\udf82",
+      "description": "reading at Hobbs cafe (conversing about Sam and Isabella are discussing Isabella's birthday party at Hobbs Cafe, where Sam has been invited and will have his usual coffee and pastry prepared for him.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        118,
+        57
+      ],
+      "pronunciatio": "\ud83c\udf92",
+      "description": "getting ready for her classes (packing her bag with necessary materials for class) @ the Ville:Dorm for Oak Hill College:Ayesha Khan's room:desk",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        112,
+        25
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "attending classes and labs at Oak Hill College (conversing about the importance of fostering understanding, inclusivity, and discussing race and diversity in their community through conversations between Klaus Mueller and Wolfgang Schulz.) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        91,
+        69
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "having breakfast and reviewing notes for his music theory class (reviewing his notes for his music theory class) @ the Ville:Lin family's house:common room:common room table",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        85,
+        46
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "opening The Willow Market and Pharmacy (checking the inventory and restocking any items that are low) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\ud83d\udca1",
+      "description": "working on her children's books (brainstorming new story ideas) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        32,
+        53
+      ],
+      "pronunciatio": "\u270d\ufe0f",
+      "description": "continuing his writing and research for his book (writing the first draft of the next chapter) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:20:20"
+  }
+}

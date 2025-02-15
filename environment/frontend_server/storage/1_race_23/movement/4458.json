@@ -1,0 +1,171 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Eddy discussing Isabella's birthday party preparations, including the desserts she's excited for and Eddy offering help. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Isabella, how has your day been so far?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hey Eddy, my day has been busy but good. Getting ready for my birthday party tomorrow! How about you?"
+        ],
+        [
+          "Eddy Lin",
+          "That's exciting, happy early birthday! Are you doing anything special for the party?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Eddy! I appreciate it. I'm actually looking forward to having some chocolate chip cookies or a red velvet cake that Carlos is bringing. It's always nice to have delicious desserts at the party."
+        ],
+        [
+          "Eddy Lin",
+          "That sounds delicious! Chocolate chip cookies and red velvet cake are always a hit. I hope you have a fantastic birthday celebration!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Eddy! I'm glad you think so. I hope you can join us at the party tomorrow!"
+        ],
+        [
+          "Eddy Lin",
+          "Do you need any help with preparations for the party?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering, Eddy! I think I have everything under control for the party, but I really appreciate your kindness."
+        ],
+        [
+          "Eddy Lin",
+          "I'm looking forward to hearing about how the party goes. Have a fantastic birthday celebration, Isabella!"
+        ]
+      ]
+    },
+    "Carlos Gomez": {
+      "movement": [
+        52,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having lunch (conversing about Carlos Gomez and Sam Moore are discussing ways to promote diversity and inclusion in their community, emphasizing the importance of amplifying marginalized voices and taking meaningful action to address systemic inequalities.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        113,
+        27
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "having lunch at Hobbs Cafe (conversing about diversity and inclusivity in the community, Klaus Mueller and Wolfgang Schulz discuss collaborating with local groups, incorporating spoken word performances, ensuring accessibility for all, engaging students and media, and addressing systemic inequalities and racism.) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        51,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having lunch (conversing about Carlos Gomez and Sam Moore are discussing ways to promote diversity and inclusion in their community, emphasizing the importance of amplifying marginalized voices and taking meaningful action to address systemic inequalities.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        75,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf54",
+      "description": "having lunch (deciding what to order) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        102,
+        33
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "having lunch (conversing about diversity and inclusivity in the community, Klaus Mueller and Wolfgang Schulz discuss collaborating with local groups, incorporating spoken word performances, ensuring accessibility for all, engaging students and media, and addressing systemic inequalities and racism.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        78,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Eddy discussing Isabella's birthday party preparations, including the desserts she's excited for and Eddy offering help. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Isabella, how has your day been so far?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hey Eddy, my day has been busy but good. Getting ready for my birthday party tomorrow! How about you?"
+        ],
+        [
+          "Eddy Lin",
+          "That's exciting, happy early birthday! Are you doing anything special for the party?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Eddy! I appreciate it. I'm actually looking forward to having some chocolate chip cookies or a red velvet cake that Carlos is bringing. It's always nice to have delicious desserts at the party."
+        ],
+        [
+          "Eddy Lin",
+          "That sounds delicious! Chocolate chip cookies and red velvet cake are always a hit. I hope you have a fantastic birthday celebration!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Eddy! I'm glad you think so. I hope you can join us at the party tomorrow!"
+        ],
+        [
+          "Eddy Lin",
+          "Do you need any help with preparations for the party?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering, Eddy! I think I have everything under control for the party, but I really appreciate your kindness."
+        ],
+        [
+          "Eddy Lin",
+          "I'm looking forward to hearing about how the party goes. Have a fantastic birthday celebration, Isabella!"
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        67,
+        46
+      ],
+      "pronunciatio": "\ud83d\uded2",
+      "description": "grabbing lunch and continuing to help customers (assisting a customer with finding a specific product) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\ud83d\udc8c",
+      "description": "taking a lunch break and doing research for her adult comic book series (checking her emails) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        65
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "having lunch (reading a book) @ the Ville:Adam Smith's house:main room:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:23:00"
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        23
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "taking a break and enjoying a cup of tea with Klaus Mueller (reviewing the poems she wants to discuss) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        34,
+        47
+      ],
+      "pronunciatio": "\u270d\ufe0f\ud83d\udeb6",
+      "description": "working on his poetry collection (writing a new poem and taking a break to go for a walk in nature) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still working on his research paper at the library (organizing his research materials) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        71,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "relaxing at home (reading a book) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending classes at Oak Hill College library (conversing about collaborating on promoting diversity and inclusion in the community through organizing a poetry reading event that showcases Black-owned businesses, amplifies Black LGBTQ+ voices, ensures accessibility for all attendees, educates on allyship and privilege, celebrates cultural diversity, involves local organizations supporting the Black LGBTQ+ community, empowers young Black leaders, addresses unconscious bias and microaggressions, uplifts marginalized voices, and continuously educates on systemic inequalities and unconscious bias.) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        116,
+        30
+      ],
+      "pronunciatio": "\u2615",
+      "description": "studying for exams (taking a short break) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udda5\ufe0f",
+      "description": "working on their composition project at Oak Hill College (setting up their workspace and gathering necessary materials) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        39,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Adam Smith and Tom Moreno are discussing plans to boost creativity in the village, evaluating multiple candidates' platforms, organizing a community event to raise awareness about the election and promote diversity and inclusion, collaborating with Black-owned businesses and marginalized communities, involving youth in event planning, and reaching out to local community organizations for support in spreading awareness about the election. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Tom Moreno",
+          "Hey Adam, I noticed you were reviewing some notes on John Harper's plans. What are your thoughts on his platform for boosting creativity in the village?"
+        ],
+        [
+          "Adam Smith",
+          "Hey Tom, I think John Harper's plan for boosting creativity in the village is definitely worth considering. I appreciate your insights on this, and I believe it aligns with our goals for promoting diversity and inclusion in the community."
+        ],
+        [
+          "Tom Moreno",
+          "I agree, John Harper's focus on creativity could really benefit our community. Have you researched any other candidates' plans?"
+        ],
+        [
+          "Adam Smith",
+          "I have also looked into the other candidates' plans. I'm interested in exploring all the options before making a decision."
+        ],
+        [
+          "Tom Moreno",
+          "I think it's important for us to continue discussing and evaluating all the candidates' platforms thoroughly. We need to ensure that we make an informed decision that benefits the whole community."
+        ],
+        [
+          "Adam Smith",
+          "I agree, Tom. It's crucial for us to prioritize diversity and inclusion in our decision-making process. I think reaching out to Carlos and Wolfgang for their input on incorporating creativity into upcoming projects will be valuable."
+        ],
+        [
+          "Tom Moreno",
+          "Adam, do you think we should plan a community event to raise awareness about the election and promote diversity and inclusion?"
+        ],
+        [
+          "Adam Smith",
+          "I think organizing a community event to raise awareness about the election and promote diversity and inclusion is a fantastic idea. Let's discuss further details and start planning."
+        ],
+        [
+          "Tom Moreno",
+          "Adam, I think our collaboration with Black-owned businesses and marginalized communities will greatly enhance the impact of our community event. Let's set up a meeting to finalize the details."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a great plan, Tom. Let's set up a meeting with Carlos and Wolfgang to discuss how we can involve Black-owned businesses and marginalized communities in our community event."
+        ],
+        [
+          "Tom Moreno",
+          "Adam, I was thinking we could also involve the youth in our community event planning to ensure a diverse range of voices are represented and celebrated. What do you think?"
+        ],
+        [
+          "Adam Smith",
+          "That's a great idea, Tom. Involving the youth would definitely add a valuable perspective to our event planning."
+        ],
+        [
+          "Tom Moreno",
+          "Adam, how do you think we should go about reaching out to local community organizations for support in spreading awareness about the election?"
+        ],
+        [
+          "Adam Smith",
+          "I believe reaching out to local community organizations for support in spreading awareness about the election is crucial. Let's brainstorm some strategies for effective outreach."
+        ],
+        [
+          "Tom Moreno",
+          "Adam, I think it would be beneficial for us to also explore ways to engage with local schools and implement educational programs on diversity and inclusion. What are your thoughts?"
+        ],
+        [
+          "Adam Smith",
+          "Tom, I completely agree with you. Engaging with local schools and implementing educational programs on diversity and inclusion would be a fantastic way to support our community. Let's brainstorm some ideas on how we can make this happen."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "brainstorming and collaborating with Carmen on potential book ideas (discussing her current book ideas with Carmen) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        40,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Adam Smith and Tom Moreno are discussing plans to boost creativity in the village, evaluating multiple candidates' platforms, organizing a community event to raise awareness about the election and promote diversity and inclusion, collaborating with Black-owned businesses and marginalized communities, involving youth in event planning, and reaching out to local community organizations for support in spreading awareness about the election. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Tom Moreno",
+          "Hey Adam, I noticed you were reviewing some notes on John Harper's plans. What are your thoughts on his platform for boosting creativity in the village?"
+        ],
+        [
+          "Adam Smith",
+          "Hey Tom, I think John Harper's plan for boosting creativity in the village is definitely worth considering. I appreciate your insights on this, and I believe it aligns with our goals for promoting diversity and inclusion in the community."
+        ],
+        [
+          "Tom Moreno",
+          "I agree, John Harper's focus on creativity could really benefit our community. Have you researched any other candidates' plans?"
+        ],
+        [
+          "Adam Smith",
+          "I have also looked into the other candidates' plans. I'm interested in exploring all the options before making a decision."
+        ],
+        [
+          "Tom Moreno",
+          "I think it's important for us to continue discussing and evaluating all the candidates' platforms thoroughly. We need to ensure that we make an informed decision that benefits the whole community."
+        ],
+        [
+          "Adam Smith",
+          "I agree, Tom. It's crucial for us to prioritize diversity and inclusion in our decision-making process. I think reaching out to Carlos and Wolfgang for their input on incorporating creativity into upcoming projects will be valuable."
+        ],
+        [
+          "Tom Moreno",
+          "Adam, do you think we should plan a community event to raise awareness about the election and promote diversity and inclusion?"
+        ],
+        [
+          "Adam Smith",
+          "I think organizing a community event to raise awareness about the election and promote diversity and inclusion is a fantastic idea. Let's discuss further details and start planning."
+        ],
+        [
+          "Tom Moreno",
+          "Adam, I think our collaboration with Black-owned businesses and marginalized communities will greatly enhance the impact of our community event. Let's set up a meeting to finalize the details."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a great plan, Tom. Let's set up a meeting with Carlos and Wolfgang to discuss how we can involve Black-owned businesses and marginalized communities in our community event."
+        ],
+        [
+          "Tom Moreno",
+          "Adam, I was thinking we could also involve the youth in our community event planning to ensure a diverse range of voices are represented and celebrated. What do you think?"
+        ],
+        [
+          "Adam Smith",
+          "That's a great idea, Tom. Involving the youth would definitely add a valuable perspective to our event planning."
+        ],
+        [
+          "Tom Moreno",
+          "Adam, how do you think we should go about reaching out to local community organizations for support in spreading awareness about the election?"
+        ],
+        [
+          "Adam Smith",
+          "I believe reaching out to local community organizations for support in spreading awareness about the election is crucial. Let's brainstorm some strategies for effective outreach."
+        ],
+        [
+          "Tom Moreno",
+          "Adam, I think it would be beneficial for us to also explore ways to engage with local schools and implement educational programs on diversity and inclusion. What are your thoughts?"
+        ],
+        [
+          "Adam Smith",
+          "Tom, I completely agree with you. Engaging with local schools and implementing educational programs on diversity and inclusion would be a fantastic way to support our community. Let's brainstorm some ideas on how we can make this happen."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 14:06:40"
+  }
+}

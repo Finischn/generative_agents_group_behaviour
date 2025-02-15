@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf82",
+      "description": "celebrating her birthday party at Hobbs Cafe with friends and loved ones (cutting and serving the birthday cake brought by Carlos) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        27,
+        36
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having dinner @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        32
+      ],
+      "pronunciatio": "\ud83c\udf08",
+      "description": "meeting Isabella Rodriguez at Hobbs Cafe at 6:00 pm to discuss Carlos Gomez's poetry collection over a cup of tea (conversing about efforts to promote diversity and inclusion, specifically focusing on supporting the Black LGBTQ+ community, collaborating with local organizations and leaders, educating themselves on diversity issues, addressing biases and microaggressions, and empowering young aspiring poets from diverse backgrounds.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        39,
+        65
+      ],
+      "pronunciatio": "\ud83d\ude97",
+      "description": "going to The Rose and Crown Pub for his birthday party (starting his car and driving to The Rose and Crown Pub) @ the Ville:Moore family's house:main room:refrigerator",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        122,
+        47
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having dinner (eating dinner) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        77,
+        32
+      ],
+      "pronunciatio": "\ud83d\udde8\ufe0f",
+      "description": "studying for exams. (conversing about efforts to promote diversity and inclusion, specifically focusing on supporting the Black LGBTQ+ community, collaborating with local organizations and leaders, educating themselves on diversity issues, addressing biases and microaggressions, and empowering young aspiring poets from diverse backgrounds.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        75,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy Lin and Tom Moreno discussing ideas on how to further amplify marginalized voices and ensure inclusivity and diversity in their upcoming community event. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Tom, I was just thinking about our upcoming community event and how we can further amplify marginalized voices. Do you have any new ideas on how we can ensure inclusivity and diversity?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Eddy, I agree with you. One idea I have is to reach out to more Black-owned businesses and involve them in our event. This way, we can showcase a diverse range of voices and promote inclusivity. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "That's a great idea, Tom. I think reaching out to more Black-owned businesses will definitely help in promoting a more diverse and inclusive event. We could also consider involving youth from different communities to ensure a variety of voices are represented."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a fantastic idea, Eddy. We should also consider incorporating sign language interpretation or subtitles to ensure accessibility for all attendees. Engaging with different communities and ensuring inclusivity is key to making this event truly diverse and empowering."
+        ],
+        [
+          "Eddy Lin",
+          "Absolutely, incorporating sign language interpretation or subtitles is crucial for ensuring accessibility. I think it's great that we are actively working towards creating a more diverse and empowering event."
+        ],
+        [
+          "Tom Moreno",
+          "Eddy, I also think it's important for us to address unconscious bias and microaggressions in our planning to create a safe and welcoming space for everyone. What do you think about incorporating workshops on allyship and privilege?"
+        ],
+        [
+          "Eddy Lin",
+          "That's a great point, Tom. Addressing unconscious bias and microaggressions through workshops on allyship and privilege will definitely create a more inclusive and supportive environment at our event. Let's make sure to prioritize that in our planning."
+        ],
+        [
+          "Tom Moreno",
+          "Eddy, I think it's also crucial for us to involve local community organizations that support marginalized communities. By partnering with these organizations, we can further amplify diverse voices and make a lasting impact on inclusivity."
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Tom. Engaging with local organizations that support marginalized communities will definitely enrich our event and create a more inclusive space. Let's reach out to them and see how we can collaborate."
+        ],
+        [
+          "Tom Moreno",
+          "Eddy, I think it's important for us to continuously educate ourselves on issues of systemic inequalities and unconscious bias. By staying informed and self-reflective, we can ensure that our efforts towards diversity and inclusion are meaningful and impactful."
+        ],
+        [
+          "Eddy Lin",
+          "Tom, I think it's also important for us to actively listen and learn from the experiences of Black individuals in our community. By centering their perspectives and uplifting their voices, we can truly promote diversity and inclusivity. What do you think?"
+        ],
+        [
+          "Tom Moreno",
+          "Eddy, I think it's important for us to also celebrate cultural diversity in our event. We could consider showcasing different Black music genres and literature to highlight the richness of Black culture. What are your thoughts on incorporating cultural elements into our event?"
+        ],
+        [
+          "Eddy Lin",
+          "Tom, I completely agree with you. Celebrating cultural diversity by showcasing different Black music genres and literature will definitely add richness to our event. It's important to highlight the depth and beauty of Black culture to promote inclusivity. Let's work together to make sure we incorporate these elements effectively."
+        ],
+        [
+          "Tom Moreno",
+          "Eddy, I also think it would be beneficial for us to involve young Black leaders in our event. By empowering and highlighting the leadership of young Black individuals, we can further promote diversity and inclusion. What do you think about including them in our planning?"
+        ],
+        [
+          "Eddy Lin",
+          "Tom, I completely agree with you. Involving young Black leaders in our event is crucial for promoting diversity and inclusion. Their perspectives and leadership will bring valuable insights and representation to our event. Let's make sure to include them in our planning and create a space that celebrates their voices."
+        ],
+        [
+          "Tom Moreno",
+          "Hey Eddy, I think it's important for us to also involve the youth from different communities in our event to ensure a variety of voices are represented. What do you think about engaging with young individuals from diverse backgrounds?"
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy Lin and Tom Moreno discussing ideas on how to further amplify marginalized voices and ensure inclusivity and diversity in their upcoming community event. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Tom, I was just thinking about our upcoming community event and how we can further amplify marginalized voices. Do you have any new ideas on how we can ensure inclusivity and diversity?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Eddy, I agree with you. One idea I have is to reach out to more Black-owned businesses and involve them in our event. This way, we can showcase a diverse range of voices and promote inclusivity. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "That's a great idea, Tom. I think reaching out to more Black-owned businesses will definitely help in promoting a more diverse and inclusive event. We could also consider involving youth from different communities to ensure a variety of voices are represented."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a fantastic idea, Eddy. We should also consider incorporating sign language interpretation or subtitles to ensure accessibility for all attendees. Engaging with different communities and ensuring inclusivity is key to making this event truly diverse and empowering."
+        ],
+        [
+          "Eddy Lin",
+          "Absolutely, incorporating sign language interpretation or subtitles is crucial for ensuring accessibility. I think it's great that we are actively working towards creating a more diverse and empowering event."
+        ],
+        [
+          "Tom Moreno",
+          "Eddy, I also think it's important for us to address unconscious bias and microaggressions in our planning to create a safe and welcoming space for everyone. What do you think about incorporating workshops on allyship and privilege?"
+        ],
+        [
+          "Eddy Lin",
+          "That's a great point, Tom. Addressing unconscious bias and microaggressions through workshops on allyship and privilege will definitely create a more inclusive and supportive environment at our event. Let's make sure to prioritize that in our planning."
+        ],
+        [
+          "Tom Moreno",
+          "Eddy, I think it's also crucial for us to involve local community organizations that support marginalized communities. By partnering with these organizations, we can further amplify diverse voices and make a lasting impact on inclusivity."
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Tom. Engaging with local organizations that support marginalized communities will definitely enrich our event and create a more inclusive space. Let's reach out to them and see how we can collaborate."
+        ],
+        [
+          "Tom Moreno",
+          "Eddy, I think it's important for us to continuously educate ourselves on issues of systemic inequalities and unconscious bias. By staying informed and self-reflective, we can ensure that our efforts towards diversity and inclusion are meaningful and impactful."
+        ],
+        [
+          "Eddy Lin",
+          "Tom, I think it's also important for us to actively listen and learn from the experiences of Black individuals in our community. By centering their perspectives and uplifting their voices, we can truly promote diversity and inclusivity. What do you think?"
+        ],
+        [
+          "Tom Moreno",
+          "Eddy, I think it's important for us to also celebrate cultural diversity in our event. We could consider showcasing different Black music genres and literature to highlight the richness of Black culture. What are your thoughts on incorporating cultural elements into our event?"
+        ],
+        [
+          "Eddy Lin",
+          "Tom, I completely agree with you. Celebrating cultural diversity by showcasing different Black music genres and literature will definitely add richness to our event. It's important to highlight the depth and beauty of Black culture to promote inclusivity. Let's work together to make sure we incorporate these elements effectively."
+        ],
+        [
+          "Tom Moreno",
+          "Eddy, I also think it would be beneficial for us to involve young Black leaders in our event. By empowering and highlighting the leadership of young Black individuals, we can further promote diversity and inclusion. What do you think about including them in our planning?"
+        ],
+        [
+          "Eddy Lin",
+          "Tom, I completely agree with you. Involving young Black leaders in our event is crucial for promoting diversity and inclusion. Their perspectives and leadership will bring valuable insights and representation to our event. Let's make sure to include them in our planning and create a space that celebrates their voices."
+        ],
+        [
+          "Tom Moreno",
+          "Hey Eddy, I think it's important for us to also involve the youth from different communities in our event to ensure a variety of voices are represented. What do you think about engaging with young individuals from diverse backgrounds?"
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "brainstorming and outlining at the common room table (setting up her workspace at the common room table) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        39,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending a political debate for the local mayor election (taking notes on each candidate's stance on creativity in the village) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 19:03:00"
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\u2615",
+      "description": "welcoming customers and taking orders at Hobbs Cafe (turning on the coffee machines and preparing the coffee station) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending a creative writing workshop (sharing his writing with the group and receiving feedback) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "at the library researching for his paper (organizing his notes and creating an outline for his paper) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        79,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about organizing an event to discuss diversity and inclusion, with Sam Moore and Wolfgang Schulz collaborating and planning to involve more voices in the conversation. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Wolfgang, I heard about the potential collaboration between Carlos Gomez and you to elevate marginalized voices. That's really inspiring. How can I support or get involved?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam. Your willingness to support and get involved means a lot. One way you can help is by spreading awareness about our collaboration and encouraging more voices to join the conversation. Your support is invaluable in creating a more inclusive community."
+        ],
+        [
+          "Sam Moore",
+          "I will make sure to share the news of our collaboration with my friends and encourage them to join in."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much, Sam. Your support and advocacy for our collaboration are truly appreciated. I think it would be great if we could have a gathering to discuss the importance of diversity and inclusion further. Would you be interested in helping organize such an event?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a fantastic idea, Wolfgang. I'd be honored to help organize an event to discuss diversity and inclusion further. Let's work together to make it happen!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam. Your willingness to collaborate and support is truly appreciated. Let's discuss the details and plan for the event soon."
+        ],
+        [
+          "Sam Moore",
+          "I'm really excited to work together and create a more inclusive community. Let's set up a meeting to discuss the next steps."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I agree, Sam. Let's set up a meeting soon to start planning the event and invite more voices to join the conversation."
+        ],
+        [
+          "Sam Moore",
+          "Hey Wolfgang, I'm really excited to work with you on creating a more inclusive community. Let's plan the meeting for next week to discuss the event further and invite more voices to join the conversation."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam. I appreciate your enthusiasm and commitment to creating a more inclusive community. Let's finalize the details for the event and reach out to more individuals to join our conversation."
+        ],
+        [
+          "Sam Moore",
+          "Hey Wolfgang, I'm looking forward to organizing the event for discussing diversity and inclusion. Let's work together to make it a success!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam. I appreciate your enthusiasm and commitment to creating a more inclusive community. Let's finalize the details for the event and reach out to more individuals to join our conversation."
+        ],
+        [
+          "Sam Moore",
+          "Hey Wolfgang, I'm really looking forward to collaborating with you on organizing the event for discussing diversity and inclusion. Let's finalize the details and reach out to more individuals to join the conversation."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam. I truly value your commitment and support in creating a more inclusive community. Let's set up a meeting next week to finalize the details and invite more individuals to join the conversation."
+        ],
+        [
+          "Sam Moore",
+          "Hey Wolfgang, I'm really looking forward to collaborating with you on organizing the event for discussing diversity and inclusion. Let's finalize the details and reach out to more individuals to join the conversation."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam. Your eagerness to collaborate on this important event is truly commendable. Let's schedule a meeting soon to discuss the next steps and involve more voices in our conversation."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        114,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcba",
+      "description": "attending her first class at Oak Hill College library (finding a seat in the classroom) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        76,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about organizing an event to discuss diversity and inclusion, with Sam Moore and Wolfgang Schulz collaborating and planning to involve more voices in the conversation. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Wolfgang, I heard about the potential collaboration between Carlos Gomez and you to elevate marginalized voices. That's really inspiring. How can I support or get involved?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam. Your willingness to support and get involved means a lot. One way you can help is by spreading awareness about our collaboration and encouraging more voices to join the conversation. Your support is invaluable in creating a more inclusive community."
+        ],
+        [
+          "Sam Moore",
+          "I will make sure to share the news of our collaboration with my friends and encourage them to join in."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much, Sam. Your support and advocacy for our collaboration are truly appreciated. I think it would be great if we could have a gathering to discuss the importance of diversity and inclusion further. Would you be interested in helping organize such an event?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a fantastic idea, Wolfgang. I'd be honored to help organize an event to discuss diversity and inclusion further. Let's work together to make it happen!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam. Your willingness to collaborate and support is truly appreciated. Let's discuss the details and plan for the event soon."
+        ],
+        [
+          "Sam Moore",
+          "I'm really excited to work together and create a more inclusive community. Let's set up a meeting to discuss the next steps."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I agree, Sam. Let's set up a meeting soon to start planning the event and invite more voices to join the conversation."
+        ],
+        [
+          "Sam Moore",
+          "Hey Wolfgang, I'm really excited to work with you on creating a more inclusive community. Let's plan the meeting for next week to discuss the event further and invite more voices to join the conversation."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam. I appreciate your enthusiasm and commitment to creating a more inclusive community. Let's finalize the details for the event and reach out to more individuals to join our conversation."
+        ],
+        [
+          "Sam Moore",
+          "Hey Wolfgang, I'm looking forward to organizing the event for discussing diversity and inclusion. Let's work together to make it a success!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam. I appreciate your enthusiasm and commitment to creating a more inclusive community. Let's finalize the details for the event and reach out to more individuals to join our conversation."
+        ],
+        [
+          "Sam Moore",
+          "Hey Wolfgang, I'm really looking forward to collaborating with you on organizing the event for discussing diversity and inclusion. Let's finalize the details and reach out to more individuals to join the conversation."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam. I truly value your commitment and support in creating a more inclusive community. Let's set up a meeting next week to finalize the details and invite more individuals to join the conversation."
+        ],
+        [
+          "Sam Moore",
+          "Hey Wolfgang, I'm really looking forward to collaborating with you on organizing the event for discussing diversity and inclusion. Let's finalize the details and reach out to more individuals to join the conversation."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam. Your eagerness to collaborate on this important event is truly commendable. Let's schedule a meeting soon to discuss the next steps and involve more voices in our conversation."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        98,
+        65
+      ],
+      "pronunciatio": "\ud83d\udc5a\ud83d\udc56",
+      "description": "commuting to Oak Hill College (getting dressed and ready for the day) @ the Ville:Lin family's house:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        64,
+        52
+      ],
+      "pronunciatio": "\ud83e\uddf9",
+      "description": "helping customers at the store (restocking shelves with new products) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        74
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "continuing to work on her children's books (reviewing her outline for the children's book series) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        60
+      ],
+      "pronunciatio": "\ud83d\udc55\ud83d\udc56",
+      "description": "attending a lecture on creative thinking (getting dressed and ready to leave for the lecture) @ the Ville:Adam Smith's house:main room:closet",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:13:40"
+  }
+}

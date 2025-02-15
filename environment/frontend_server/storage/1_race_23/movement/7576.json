@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\u23f0",
+      "description": "closing Hobbs Cafe and getting ready for bed (setting the alarm for the cafe) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        95,
+        17
+      ],
+      "pronunciatio": "\ud83c\udf19",
+      "description": "getting ready for bed @ the Ville:Carlos Gomez's apartment:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        28,
+        48
+      ],
+      "pronunciatio": "\ud83e\udde0\ud83d\udcdd",
+      "description": "taking a break and going for a walk (reflecting on his research topic and jotting down any new ideas) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        58,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about staying informed and engaged in the local election by discussing ways to utilize social media, attend candidate events, meet for coffee to discuss candidates further, promote diversity and inclusion in the community, and plan a community event to raise awareness about the election @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Tom, I overheard you and Jane discussing the local election. Do you have any recommendations on how we can stay informed and engaged in the political scene?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Sam, I've actually been checking social media for any updates or discussions about the election. It's a good way to stay informed on what's happening around us."
+        ],
+        [
+          "Sam Moore",
+          "That's a good idea, Tom. I'll make sure to follow social media for updates on the election."
+        ],
+        [
+          "Tom Moreno",
+          "Yeah, social media can be a great tool to stay informed about what's going on in the community. Have you considered attending any of the local candidate events to hear directly from them?"
+        ],
+        [
+          "Sam Moore",
+          "That's a great suggestion, Tom. I'll definitely look into attending some of the local candidate events to learn more about their platforms."
+        ],
+        [
+          "Tom Moreno",
+          "I think it's important to make an informed decision when it comes to voting. Maybe we can discuss our thoughts on the candidates and their plans further over a cup of coffee sometime?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a great idea, Tom. I appreciate your insights and would love to continue our discussions over coffee. Let's plan a time to meet up and chat further about the upcoming election and candidates."
+        ],
+        [
+          "Tom Moreno",
+          "I'm glad we share a common interest in promoting diversity and inclusion in the community. It's inspiring to see how passionate you are about making a positive impact."
+        ],
+        [
+          "Sam Moore",
+          "Tom, I appreciate your insights on staying informed about the local election. It's important for us to be actively engaged in our community's political scene."
+        ],
+        [
+          "Tom Moreno",
+          "I'm glad we can work together towards a more inclusive community. Let's continue collaborating on projects that promote diversity and foster unity."
+        ],
+        [
+          "Sam Moore",
+          "Tom, I agree with you on the importance of making an informed decision when it comes to voting. I believe by staying engaged in the local political scene, we can truly make a difference in our community."
+        ],
+        [
+          "Tom Moreno",
+          "Sam, have you thought about hosting a community event to raise awareness about the local election and encourage more people to get involved?"
+        ],
+        [
+          "Sam Moore",
+          "Tom, hosting a community event to raise awareness about the local election is a fantastic idea. Let's work together to plan something impactful and engaging for the community."
+        ],
+        [
+          "Tom Moreno",
+          "Sam, I think hosting a community event to raise awareness about the local election would be a great way to engage more people and encourage participation. Let's discuss some ideas on how we can make it impactful and inclusive for everyone."
+        ],
+        [
+          "Sam Moore",
+          "Tom, I think hosting a community event to raise awareness about the local election would be a great way to engage more people and encourage participation. Let's discuss some ideas on how we can make it impactful and inclusive for everyone."
+        ],
+        [
+          "Tom Moreno",
+          "Sam, I was also thinking about reaching out to local community organizations for support in spreading awareness about the election. Do you have any contacts or ideas on how we can collaborate with them?"
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending her writing class at Oak Hill College library (reviewing the class material and taking notes) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "studying for exams (taking a longer break to eat dinner) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        81,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "reviewing notes and practicing music theory exercises at Oak Hill College (reviewing his notes from the previous music theory class) @ the Ville:Oak Hill College:classroom:blackboard",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        58,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about staying informed and engaged in the local election by discussing ways to utilize social media, attend candidate events, meet for coffee to discuss candidates further, promote diversity and inclusion in the community, and plan a community event to raise awareness about the election @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Tom, I overheard you and Jane discussing the local election. Do you have any recommendations on how we can stay informed and engaged in the political scene?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Sam, I've actually been checking social media for any updates or discussions about the election. It's a good way to stay informed on what's happening around us."
+        ],
+        [
+          "Sam Moore",
+          "That's a good idea, Tom. I'll make sure to follow social media for updates on the election."
+        ],
+        [
+          "Tom Moreno",
+          "Yeah, social media can be a great tool to stay informed about what's going on in the community. Have you considered attending any of the local candidate events to hear directly from them?"
+        ],
+        [
+          "Sam Moore",
+          "That's a great suggestion, Tom. I'll definitely look into attending some of the local candidate events to learn more about their platforms."
+        ],
+        [
+          "Tom Moreno",
+          "I think it's important to make an informed decision when it comes to voting. Maybe we can discuss our thoughts on the candidates and their plans further over a cup of coffee sometime?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a great idea, Tom. I appreciate your insights and would love to continue our discussions over coffee. Let's plan a time to meet up and chat further about the upcoming election and candidates."
+        ],
+        [
+          "Tom Moreno",
+          "I'm glad we share a common interest in promoting diversity and inclusion in the community. It's inspiring to see how passionate you are about making a positive impact."
+        ],
+        [
+          "Sam Moore",
+          "Tom, I appreciate your insights on staying informed about the local election. It's important for us to be actively engaged in our community's political scene."
+        ],
+        [
+          "Tom Moreno",
+          "I'm glad we can work together towards a more inclusive community. Let's continue collaborating on projects that promote diversity and foster unity."
+        ],
+        [
+          "Sam Moore",
+          "Tom, I agree with you on the importance of making an informed decision when it comes to voting. I believe by staying engaged in the local political scene, we can truly make a difference in our community."
+        ],
+        [
+          "Tom Moreno",
+          "Sam, have you thought about hosting a community event to raise awareness about the local election and encourage more people to get involved?"
+        ],
+        [
+          "Sam Moore",
+          "Tom, hosting a community event to raise awareness about the local election is a fantastic idea. Let's work together to plan something impactful and engaging for the community."
+        ],
+        [
+          "Tom Moreno",
+          "Sam, I think hosting a community event to raise awareness about the local election would be a great way to engage more people and encourage participation. Let's discuss some ideas on how we can make it impactful and inclusive for everyone."
+        ],
+        [
+          "Sam Moore",
+          "Tom, I think hosting a community event to raise awareness about the local election would be a great way to engage more people and encourage participation. Let's discuss some ideas on how we can make it impactful and inclusive for everyone."
+        ],
+        [
+          "Tom Moreno",
+          "Sam, I was also thinking about reaching out to local community organizations for support in spreading awareness about the election. Do you have any contacts or ideas on how we can collaborate with them?"
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        73
+      ],
+      "pronunciatio": "\ud83d\udcbb\ud83d\udce6",
+      "description": "winding down and getting ready for bed (turning off her computer and putting away her work materials) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "reflecting on his day and planning for tomorrow (reviewing his progress on his book writing) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 21:02:40"
+  }
+}

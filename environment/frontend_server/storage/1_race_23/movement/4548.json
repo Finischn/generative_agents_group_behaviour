@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        30
+      ],
+      "pronunciatio": "\ud83c\udf75\ud83c\udf82",
+      "description": "taking orders and serving customers at Hobbs Cafe (conversing about collaborating on poetry collection ideas over tea at Hobbs Cafe tomorrow at 3 pm with Klaus Mueller, planning to bring both chocolate chip cookies and red velvet cake to Isabella's birthday party at 5 pm at Hobbs Cafe, discussing potential collaboration with Wolfgang Schulz to elevate marginalized voices in their community.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        74,
+        30
+      ],
+      "pronunciatio": "\u2615\ud83c\udf70",
+      "description": "having lunch (conversing about collaborating on poetry collection ideas over tea at Hobbs Cafe tomorrow at 3 pm with Klaus Mueller, planning to bring both chocolate chip cookies and red velvet cake to Isabella's birthday party at 5 pm at Hobbs Cafe, discussing potential collaboration with Wolfgang Schulz to elevate marginalized voices in their community.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        112,
+        26
+      ],
+      "pronunciatio": "\u23f3",
+      "description": "having lunch at Hobbs Cafe (waiting for his food to be prepared) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        72,
+        30
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "having lunch (conversing about promoting diversity and inclusion in the community, discussing the upcoming local mayor election, evaluating John Harper's plans for boosting creativity, and planning to attend Isabella Rodriguez's birthday party at Hobbs Cafe.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy Lin and Ayesha Khan are discussing their collaboration on the intersection between music and literature, emphasizing the value of diverse perspectives and inclusivity in their project. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Ayesha, I really enjoyed our last conversation about your senior thesis and the potential collaboration between music and literature. I was thinking we could meet up later this week to discuss some ideas further. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea, Eddy! I'm looking forward to discussing our collaboration further."
+        ],
+        [
+          "Eddy Lin",
+          "I appreciate your insights on Shakespeare's language and the importance of inclusivity in literature. I believe our collaboration will be very impactful. Let's set up a time to meet and brainstorm ideas further."
+        ],
+        [
+          "Ayesha Khan",
+          "I agree, Eddy. I believe our collaboration has the potential to bring a unique perspective to literature and music."
+        ],
+        [
+          "Eddy Lin",
+          "I appreciate your perspective and insights as we navigate through this collaboration."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm glad you're interested in exploring the intersection between music and literature with me, Eddy. Let's definitely set up a time to meet and brainstorm ideas further."
+        ],
+        [
+          "Eddy Lin",
+          "I appreciate the perspective you bring to our discussions, Ayesha. Your insights are valuable to me."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm excited to see how our collaboration unfolds, Eddy. Your perspective adds so much to our discussions."
+        ],
+        [
+          "Eddy Lin",
+          "I appreciate the unique perspective you bring as a Black scholar, Ayesha. It's important to amplify diverse voices in our collaboration."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you for valuing my perspective as a Black scholar, Eddy. It's crucial to have diverse voices represented in our collaboration."
+        ],
+        [
+          "Eddy Lin",
+          "I believe incorporating diverse perspectives in our collaboration will make our project more impactful and inclusive."
+        ],
+        [
+          "Ayesha Khan",
+          "I agree, Eddy. It's crucial to prioritize diversity in our collaboration to ensure we are inclusive of all voices."
+        ],
+        [
+          "Eddy Lin",
+          "I appreciate the insights you bring as a Black scholar, Ayesha. It's important for us to work together in promoting diversity and inclusivity."
+        ],
+        [
+          "Ayesha Khan",
+          "I appreciate your openness to learning and understanding different perspectives, Eddy. It's truly inspiring."
+        ],
+        [
+          "Eddy Lin",
+          "I value the insights you bring as a Black scholar, Ayesha. It's important for us to collaborate and amplify diverse voices in our work together."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm glad we can collaborate on this project together, Eddy. Your openness to diversity and inclusivity is truly appreciated."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        44,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcb8",
+      "description": "having lunch (paying for his food) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy Lin and Ayesha Khan are discussing their collaboration on the intersection between music and literature, emphasizing the value of diverse perspectives and inclusivity in their project. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Ayesha, I really enjoyed our last conversation about your senior thesis and the potential collaboration between music and literature. I was thinking we could meet up later this week to discuss some ideas further. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea, Eddy! I'm looking forward to discussing our collaboration further."
+        ],
+        [
+          "Eddy Lin",
+          "I appreciate your insights on Shakespeare's language and the importance of inclusivity in literature. I believe our collaboration will be very impactful. Let's set up a time to meet and brainstorm ideas further."
+        ],
+        [
+          "Ayesha Khan",
+          "I agree, Eddy. I believe our collaboration has the potential to bring a unique perspective to literature and music."
+        ],
+        [
+          "Eddy Lin",
+          "I appreciate your perspective and insights as we navigate through this collaboration."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm glad you're interested in exploring the intersection between music and literature with me, Eddy. Let's definitely set up a time to meet and brainstorm ideas further."
+        ],
+        [
+          "Eddy Lin",
+          "I appreciate the perspective you bring to our discussions, Ayesha. Your insights are valuable to me."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm excited to see how our collaboration unfolds, Eddy. Your perspective adds so much to our discussions."
+        ],
+        [
+          "Eddy Lin",
+          "I appreciate the unique perspective you bring as a Black scholar, Ayesha. It's important to amplify diverse voices in our collaboration."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you for valuing my perspective as a Black scholar, Eddy. It's crucial to have diverse voices represented in our collaboration."
+        ],
+        [
+          "Eddy Lin",
+          "I believe incorporating diverse perspectives in our collaboration will make our project more impactful and inclusive."
+        ],
+        [
+          "Ayesha Khan",
+          "I agree, Eddy. It's crucial to prioritize diversity in our collaboration to ensure we are inclusive of all voices."
+        ],
+        [
+          "Eddy Lin",
+          "I appreciate the insights you bring as a Black scholar, Ayesha. It's important for us to work together in promoting diversity and inclusivity."
+        ],
+        [
+          "Ayesha Khan",
+          "I appreciate your openness to learning and understanding different perspectives, Eddy. It's truly inspiring."
+        ],
+        [
+          "Eddy Lin",
+          "I value the insights you bring as a Black scholar, Ayesha. It's important for us to collaborate and amplify diverse voices in our work together."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm glad we can collaborate on this project together, Eddy. Your openness to diversity and inclusivity is truly appreciated."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        72,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "grabbing lunch and continuing to help customers (conversing about promoting diversity and inclusion in the community, discussing the upcoming local mayor election, evaluating John Harper's plans for boosting creativity, and planning to attend Isabella Rodriguez's birthday party at Hobbs Cafe.) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "taking a lunch break and doing research for her adult comic book series (researching comic book publishers) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        33,
+        50
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f",
+      "description": "having lunch (taking a break) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:38:00"
+  }
+}

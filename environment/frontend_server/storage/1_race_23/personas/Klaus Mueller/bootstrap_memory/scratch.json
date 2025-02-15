@@ -1,0 +1,989 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 21:59:50",
+  "curr_tile": [
+    78,
+    37
+  ],
+  "daily_plan_req": " 1. Wake up and complete the morning routine at 7am 2. Head to the library at Oak Hill College to work on writing projects from 9am-1pm 3. Have lunch at Hobbs Cafe at 1:30pm 4. Meet Isabella Rodriguez at 3pm to discuss Carlos Gomez's poetry collection over a cup of tea 5. Schedule a follow-up meeting with Carlos Gomez to discuss specific ideas and action steps for promoting diversity and inclusivity in the community 6. Collaborate with Ayesha on organizing a poetry reading event to showcase diverse voices and perspectives",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 78,
+  "innate": "kind, inquisitive, passionate",
+  "race": "White",
+  "village": "longterm resident of the village",
+  "gender": "Male",
+  "political_affiliation": "Liberal",
+  "race_div": "Native Hawaiian or Pacific Islander",
+  "education": "Professional degree (JD, MD)",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.",
+  "currently": "Status: Klaus Mueller is looking forward to meeting Isabella Rodriguez at Hobbs Cafe at 3pm to discuss Carlos Gomez's poetry collection over a cup of tea. He is also planning to schedule a follow-up meeting with Carlos to discuss specific ideas and action steps for their collaboration on promoting diversity and inclusivity in the community. Additionally, Klaus will collaborate with Ayesha on organizing a poetry reading event to showcase diverse voices and perspectives, prioritizing diversity and inclusivity by incorporating a diverse lineup of performers, providing accessibility for all attendees, and actively engaging with marginalized communities in the planning process. Klaus is feeling inspired and motivated by the conversations and plans he engaged in on Monday, and is grateful for the opportunity to make a positive impact in their village through these initiatives.",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 50,
+  "importance_ele_n": 50,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "go to the library at Oak Hill College at 8:00 am",
+    "have lunch at 12:00 pm",
+    "continue working on his research paper until 5:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine (waking up and turning off his alarm)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (stretching and doing some light exercises)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower and getting dressed)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (making breakfast and eating)",
+      20
+    ],
+    [
+      "waking up and completing his morning routine (on the way to checking his schedule and making sure he has everything he needs for the day)",
+      0
+    ],
+    [
+      "waking up and completing his morning routine (conversing about strategizing ways to promote diversity and inclusivity at an upcoming poetry reading event by incorporating workshops on allyship and privilege, inviting speakers to discuss the intersectionality of race and gender, involving local Black LGBTQ+ activists, prioritizing the voices and experiences of the Black LGBTQ+ community, creating a specific segment during the event for their stories, and ensuring accessibility and engagement with the community to make the event welcoming and supportive for all attendees.)",
+      18
+    ],
+    [
+      "at the library working on his research paper (gathering research materials for his paper)",
+      22
+    ],
+    [
+      "at the library working on his research paper (on the way to setting up his workspace at the library)",
+      0
+    ],
+    [
+      "at the library working on his research paper (conversing about collaborating on promoting diversity and inclusion in their community by organizing a workshop together)",
+      5
+    ],
+    [
+      "at the library working on his research paper (reading and taking notes on relevant articles and books) (reviewing his research topic and objectives)",
+      10
+    ],
+    [
+      "at the library working on his research paper (reading and taking notes on relevant articles and books) (searching for relevant articles and books)",
+      15
+    ],
+    [
+      "at the library working on his research paper (reading and taking notes on relevant articles and books) (reading and taking notes on the first article)",
+      10
+    ],
+    [
+      "at the library working on his research paper (reading and taking notes on relevant articles and books) (taking a short break)",
+      5
+    ],
+    [
+      "at the library working on his research paper (reading and taking notes on relevant articles and books) (reading and taking notes on the second article)",
+      10
+    ],
+    [
+      "at the library working on his research paper (reading and taking notes on relevant articles and books) (taking a short break)",
+      5
+    ],
+    [
+      "at the library working on his research paper (organizing his notes and outlining his paper)",
+      30
+    ],
+    [
+      "at the library working on his research paper (writing the introduction and background information for his paper)",
+      30
+    ],
+    [
+      "at the library working on his research paper (on the way to taking a short break)",
+      0
+    ],
+    [
+      "at the library working on his research paper (conversing about prioritizing diversity and inclusivity in an upcoming poetry reading event, Klaus Mueller and Ayesha Khan discuss strategies such as collaborating with local organizations supporting the Black LGBTQ+ community, incorporating workshops on allyship and intersectionality, ensuring accessibility with sign language interpretation, featuring diverse performers, and addressing unconscious bias and microaggressions.)",
+      13
+    ],
+    [
+      "at the library working on his research paper (taking a short break)",
+      10
+    ],
+    [
+      "at the library working on his research paper (writing the main body of his paper) (reviewing his research notes)",
+      20
+    ],
+    [
+      "at the library working on his research paper (on the way to organizing his thoughts and ideas for the paper)",
+      0
+    ],
+    [
+      "at the library working on his research paper (conversing about Carlos Gomez and Klaus Mueller are discussing ways to promote diversity, inclusivity, and empowerment through their research collaboration on gentrification and poetry, planning an upcoming poetry reading event that includes diverse artists, sign language interpretation, multilingual readings, cultural performances, workshops on allyship and privilege, addressing unconscious bias and microaggressions, amplifying the voices of the Black LGBTQ+ community, involving young aspiring poets from diverse backgrounds, and collaborating with LGBTQ+ organizations.)",
+      15
+    ],
+    [
+      "at the library working on his research paper (writing the main body of his paper) (writing the introduction of the paper)",
+      10
+    ],
+    [
+      "at the library working on his research paper (writing the main body of his paper) (taking a short break)",
+      5
+    ],
+    [
+      "at the library working on his research paper (writing the main body of his paper) (researching and gathering evidence to support his arguments)",
+      20
+    ],
+    [
+      "at the library working on his research paper (finalizing his outline and notes for the day)",
+      5
+    ],
+    [
+      "at the library working on his research paper (taking a break to stretch and get some water)",
+      5
+    ],
+    [
+      "at the library working on his research paper (finalizing his notes and wrapping up his work for the day)",
+      8
+    ],
+    [
+      "having lunch at Hobbs Cafe (walking to Hobbs Cafe)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (ordering his food)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (finding a table to sit at)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (on the way to checking his phone for any messages or updates)",
+      0
+    ],
+    [
+      "having lunch at Hobbs Cafe (conversing about discussing their upcoming meeting to review Carlos Gomez's poetry collection, their dedication to promoting diversity and inclusion in the poetry community, collaborating on uplifting marginalized voices, and planning ways to involve young Black leaders through mentorship programs and partnerships with local organizations.)",
+      18
+    ],
+    [
+      "having lunch at Hobbs Cafe (on the way to eating his lunch)",
+      0
+    ],
+    [
+      "having lunch at Hobbs Cafe (conversing about Adam Smith and Klaus Mueller are discussing ways to promote diversity and inclusion at their upcoming event by incorporating cultural elements, involving Black artists and musicians, addressing unconscious bias and microaggressions, collaborating with local schools and organizations, planning workshops on allyship and privilege, prioritizing accessibility options for differently-abled individuals, and involving Black LGBTQ+ activists for unique perspectives and experiences.)",
+      16
+    ],
+    [
+      "having lunch at Hobbs Cafe (eating his lunch)",
+      10
+    ],
+    [
+      "having lunch at Hobbs Cafe (on the way to reflecting on his morning at the library)",
+      0
+    ],
+    [
+      "having lunch at Hobbs Cafe (conversing about collaborating on ways to amplify the voices of Black LGBTQ+ individuals through event planning, including involving community leaders and activists, creating safe spaces, incorporating performers and artists, offering allyship workshops, addressing unconscious bias, engaging with local LGBTQ+ organizations, and centering the experiences of the local Black LGBTQ+ community in their collaborative efforts.)",
+      17
+    ],
+    [
+      "having lunch at Hobbs Cafe (paying for his meal)",
+      3
+    ],
+    [
+      "having lunch at Hobbs Cafe (leaving Hobbs Cafe)",
+      5
+    ],
+    [
+      "still working on his research paper at the library (reviewing his research notes)",
+      15
+    ],
+    [
+      "still working on his research paper at the library (organizing his research materials)",
+      30
+    ],
+    [
+      "still working on his research paper at the library (on the way to writing the introduction for his paper)",
+      0
+    ],
+    [
+      "still working on his research paper at the library (conversing about amplifying marginalized voices and creating a space for underrepresented communities to share their experiences and engage with the local Black LGBTQ+ community by hosting a panel discussion, incorporating sign language interpretation at a poetry reading event, inviting Black LGBTQ+ activists to share their experiences, including workshops on allyship and privilege, collaborating with local Black-owned businesses and artists, involving young Black leaders, exploring the historical impact of systemic racism, and actively engaging with the community members to ensure their voices and concerns are heard.)",
+      21
+    ],
+    [
+      "still working on his research paper at the library (on the way to writing the introduction for his paper)",
+      0
+    ],
+    [
+      "still working on his research paper at the library (conversing about how Klaus Mueller and Eddy Lin plan to incorporate elements of jazz music and African American literature into their poetry reading event to uplift diverse voices, promote inclusivity, engage with marginalized communities, prioritize accessibility, and showcase a variety of talent from different cultural backgrounds, including Black LGBTQ+ individuals, while collaborating with local organizations and businesses to amplify underrepresented voices.)",
+      14
+    ],
+    [
+      "still working on his research paper at the library (writing the introduction for his paper)",
+      5
+    ],
+    [
+      "still working on his research paper at the library (taking a short break)",
+      10
+    ],
+    [
+      "still working on his research paper at the library (researching and gathering evidence for his paper) (reviewing his outline for the research paper)",
+      5
+    ],
+    [
+      "still working on his research paper at the library (researching and gathering evidence for his paper) (conducting online research for relevant articles and studies)",
+      15
+    ],
+    [
+      "still working on his research paper at the library (on the way to taking notes on the information he finds)",
+      0
+    ],
+    [
+      "still working on his research paper at the library (conversing about promoting diversity and inclusion, actively amplifying and supporting Black voices, particularly Black LGBTQ+ individuals and Black women, in their community engagement efforts and initiatives.)",
+      18
+    ],
+    [
+      "still working on his research paper at the library (on the way to organizing his notes and findings)",
+      0
+    ],
+    [
+      "still working on his research paper at the library (conversing about amplifying the voices of Black LGBTQ+ individuals and actively engaging with the community through event planning, featuring Black LGBTQ+ performers, collaborating with local LGBTQ+ organizations, providing workshops on allyship and privilege, centering the experiences and perspectives of Black LGBTQ+ individuals, prioritizing their voices, addressing systemic racism and biases, promoting diversity and inclusion, reflecting on privileges and biases, listening to feedback, considering mental health and well-being, involving local community leaders and activists, and empowering young aspiring poets from diverse backgrounds, including Black LGBTQ+ individuals.)",
+      20
+    ],
+    [
+      "still working on his research paper at the library (organizing his notes and findings)",
+      7
+    ],
+    [
+      "still working on his research paper at the library (taking a short break)",
+      15
+    ],
+    [
+      "still working on his research paper at the library (writing the body of his paper)",
+      28
+    ],
+    [
+      "still working on his research paper at the library (reviewing and editing his paper before leaving for the day)",
+      2
+    ],
+    [
+      "still working on his research paper at the library (finalizing his paper and saving his work)",
+      2
+    ],
+    [
+      "still working on his research paper at the library (finalizing his paper and saving his work)",
+      2
+    ],
+    [
+      "still working on his research paper at the library (finalizing his paper and saving his work)",
+      2
+    ],
+    [
+      "finishing up his research paper and preparing to leave the library.",
+      2
+    ],
+    [
+      "finishing up his research paper at the library (reviewing his research paper)",
+      10
+    ],
+    [
+      "finishing up his research paper at the library (making final edits and revisions)",
+      20
+    ],
+    [
+      "finishing up his research paper at the library (proofreading for any errors)",
+      10
+    ],
+    [
+      "finishing up his research paper at the library (formatting the paper according to the college's guidelines)",
+      10
+    ],
+    [
+      "finishing up his research paper at the library (printing the final copy)",
+      5
+    ],
+    [
+      "finishing up his research paper at the library (organizing his notes and materials)",
+      5
+    ],
+    [
+      "meeting Isabella Rodriguez at Hobbs Cafe at 6:00 pm to discuss Carlos Gomez's poetry collection over a cup of tea (walking to Hobbs Cafe)",
+      5
+    ],
+    [
+      "meeting Isabella Rodriguez at Hobbs Cafe at 6:00 pm to discuss Carlos Gomez's poetry collection over a cup of tea (reviewing his notes on Carlos Gomez's poetry collection)",
+      10
+    ],
+    [
+      "meeting Isabella Rodriguez at Hobbs Cafe at 6:00 pm to discuss Carlos Gomez's poetry collection over a cup of tea (ordering a cup of tea)",
+      5
+    ],
+    [
+      "meeting Isabella Rodriguez at Hobbs Cafe at 6:00 pm to discuss Carlos Gomez's poetry collection over a cup of tea (on the way to waiting for Isabella to arrive)",
+      0
+    ],
+    [
+      "meeting Isabella Rodriguez at Hobbs Cafe at 6:00 pm to discuss Carlos Gomez's poetry collection over a cup of tea (conversing about efforts to promote diversity and inclusion, specifically focusing on supporting the Black LGBTQ+ community, collaborating with local organizations and leaders, educating themselves on diversity issues, addressing biases and microaggressions, and empowering young aspiring poets from diverse backgrounds.)",
+      21
+    ],
+    [
+      "discussing Carlos Gomez's poetry collection with Isabella Rodriguez at Hobbs Cafe (ordering a cup of tea)",
+      9
+    ],
+    [
+      "discussing Carlos Gomez's poetry collection with Isabella Rodriguez at Hobbs Cafe (on the way to greeting Isabella and engaging in small talk)",
+      0
+    ],
+    [
+      "discussing Carlos Gomez's poetry collection with Isabella Rodriguez at Hobbs Cafe (conversing about Klaus Mueller and Isabella Rodriguez are discussing their collaboration in promoting diversity, inclusion, and amplifying marginalized voices, particularly focusing on supporting Black LGBTQ+ individuals within the poetry community.)",
+      16
+    ],
+    [
+      "discussing Carlos Gomez's poetry collection with Isabella Rodriguez at Hobbs Cafe (on the way to discussing his thoughts on Carlos Gomez's poetry collection)",
+      0
+    ],
+    [
+      "discussing Carlos Gomez's poetry collection with Isabella Rodriguez at Hobbs Cafe (conversing about collaborating on promoting diversity and inclusion in the community through engaging with Black LGBTQ+ individuals, young aspiring poets, local organizations, Black-owned businesses, and educational institutions, while also prioritizing accessibility options for differently-abled individuals.)",
+      16
+    ],
+    [
+      "actively listening to Isabella's thoughts and perspectives on promoting diversity and inclusion in the community.",
+      13
+    ],
+    [
+      "wrapping up the conversation and saying goodbye to Isabella at Hobbs Cafe. (on the way to wrapping up the conversation and saying goodbye to Isabella at Hobbs Cafe)",
+      0
+    ],
+    [
+      "wrapping up the conversation and saying goodbye to Isabella at Hobbs Cafe. (conversing about Eddy Lin and Klaus Mueller are discussing ways to promote diversity and inclusion at their upcoming poetry reading event by incorporating elements of jazz music, African American literature, accessibility options for differently-abled individuals, collaborating with Black-owned businesses and artists, involving young aspiring poets from diverse backgrounds, organizing workshops on allyship and privilege, inviting performers from different cultural backgrounds, showcasing Black LGBTQ+ individuals, and addressing systemic inequalities and racism to create a more equitable space.)",
+      16
+    ],
+    [
+      "taking notes on key points and ideas discussed.",
+      9
+    ],
+    [
+      "scheduling a follow-up meeting with Carlos Gomez at 8:00 pm to discuss specific ideas and action steps for promoting diversity and inclusivity in the community. (on the way to scheduling a follow-up meeting with Carlos Gomez at 8:00 pm to discuss specific ideas and action steps for promoting diversity and inclusivity in the community)",
+      0
+    ],
+    [
+      "scheduling a follow-up meeting with Carlos Gomez at 8:00 pm to discuss specific ideas and action steps for promoting diversity and inclusivity in the community. (conversing about Adam Smith and Klaus Mueller are discussing strategies to promote diversity and inclusion at a poetry reading event, including reaching out to local organizations, providing accessibility options for differently-abled individuals, involving Black LGBTQ+ activists, young aspiring poets, workshops on allyship and privilege, addressing unconscious bias and microaggressions, and collaborating with local schools and organizations.)",
+      14
+    ],
+    [
+      "collaborating with Ayesha on organizing a poetry reading event to showcase diverse voices and perspectives. (discussing the theme of the event with Ayesha)",
+      10
+    ],
+    [
+      "collaborating with Ayesha on organizing a poetry reading event to showcase diverse voices and perspectives. (on the way to brainstorming potential performers and reaching out to them)",
+      0
+    ],
+    [
+      "collaborating with Ayesha on organizing a poetry reading event to showcase diverse voices and perspectives. (conversing about Klaus Mueller and Sam Moore are discussing their upcoming collaboration on promoting diversity and inclusion in the community, brainstorming ideas such as engaging marginalized voices, ensuring accessibility, involving youth, addressing unconscious bias and microaggressions, and collaborating with local schools and organizations.)",
+      15
+    ],
+    [
+      "collaborating with Ayesha on organizing a poetry reading event to showcase diverse voices and perspectives. (on the way to brainstorming potential performers and reaching out to them)",
+      0
+    ],
+    [
+      "collaborating with Ayesha on organizing a poetry reading event to showcase diverse voices and perspectives. (conversing about how to incorporate more spoken word performances into their poetry reading event to showcase diverse voices and storytelling, ensuring inclusivity and accessibility, as well as involving young aspiring poets and collaborating with LGBTQ+ organizations, Black-owned businesses, local schools, and youth organizations to create a transformative and inclusive space for all attendees, while actively addressing unconscious bias, microaggressions, and the intersectionality of race and gender.)",
+      19
+    ],
+    [
+      "collaborating with Ayesha on organizing a poetry reading event to showcase diverse voices and perspectives. (brainstorming potential performers and reaching out to them)",
+      15
+    ],
+    [
+      "collaborating with Ayesha on organizing a poetry reading event to showcase diverse voices and perspectives. (researching accessible venues for the event)",
+      15
+    ],
+    [
+      "collaborating with Ayesha on organizing a poetry reading event to showcase diverse voices and perspectives. (creating a budget for the event)",
+      10
+    ],
+    [
+      "collaborating with Ayesha on organizing a poetry reading event to showcase diverse voices and perspectives. (discussing sponsorship opportunities with Ayesha)",
+      10
+    ],
+    [
+      "wrapping up the discussion and finalizing plans for the event.",
+      3
+    ],
+    [
+      "collaborating with Ayesha on organizing a poetry reading event to showcase diverse voices and perspectives. (finalizing the lineup of performers)",
+      6
+    ],
+    [
+      "wrapping up the discussion and setting a timeline for the next steps.",
+      1
+    ],
+    [
+      "wrapping up the meeting and discussing next steps for promoting diversity and inclusivity in the community.",
+      1
+    ],
+    [
+      "finishing up his work for the day and getting ready for bed (finishing up his writing projects at the library)",
+      30
+    ],
+    [
+      "finishing up his work for the day and getting ready for bed (organizing his notes and materials)",
+      10
+    ],
+    [
+      "finishing up his work for the day and getting ready for bed (checking his email for any urgent messages)",
+      5
+    ],
+    [
+      "finishing up his work for the day and getting ready for bed (responding to any urgent messages)",
+      10
+    ],
+    [
+      "finishing up his work for the day and getting ready for bed (packing up his belongings)",
+      5
+    ],
+    [
+      "going to bed at 11:00 pm",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -8
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -8
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      18
+    ],
+    [
+      "sleeping",
+      -7
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -2
+    ],
+    [
+      "sleeping",
+      -2
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -2
+    ],
+    [
+      "sleeping",
+      -2
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      10
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -1
+    ],
+    [
+      "sleeping",
+      -1
+    ],
+    [
+      "sleeping",
+      -7
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "at the library working on his research paper",
+      240
+    ],
+    [
+      "having lunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "still working on his research paper at the library",
+      240
+    ],
+    [
+      "finishing up his research paper at the library",
+      60
+    ],
+    [
+      "meeting Isabella Rodriguez at Hobbs Cafe at 6:00 pm to discuss Carlos Gomez's poetry collection over a cup of tea",
+      60
+    ],
+    [
+      "discussing Carlos Gomez's poetry collection with Isabella Rodriguez at Hobbs Cafe",
+      60
+    ],
+    [
+      "scheduling a follow-up meeting with Carlos Gomez at 8:00 pm to discuss specific ideas and action steps for promoting diversity and inclusivity in the community",
+      60
+    ],
+    [
+      "collaborating with Ayesha on organizing a poetry reading event to showcase diverse voices and perspectives",
+      60
+    ],
+    [
+      "finishing up his work for the day and getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm",
+      60
+    ]
+  ],
+  "act_address": "the Ville:artist's co-living space:common room:common room sofa",
+  "act_start_time": "February 14, 2023, 21:57:00",
+  "act_duration": 10,
+  "act_description": "collaborating with Ayesha on organizing a poetry reading event to showcase diverse voices and perspectives. (discussing sponsorship opportunities with Ayesha)",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Klaus Mueller",
+    "Klaus Mueller",
+    "is"
+  ],
+  "act_obj_description": "being sat on by Klaus Mueller and Ayesha as they discuss sponsorship opportunities for the poetry reading event",
+  "act_obj_pronunciatio": "\ud83d\udcba",
+  "act_obj_event": [
+    "common room sofa",
+    "be sat on",
+    "Klaus Mueller and Ayesha"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Ayesha Khan": -1912,
+    "Wolfgang Schulz": -298,
+    "Carlos Gomez": 488,
+    "Isabella Rodriguez": -154,
+    "Eddy Lin": 98,
+    "Adam Smith": 230,
+    "Tom Moreno": -52,
+    "Sam Moore": 368
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      76,
+      37
+    ],
+    [
+      75,
+      37
+    ],
+    [
+      74,
+      37
+    ],
+    [
+      73,
+      37
+    ],
+    [
+      72,
+      37
+    ],
+    [
+      71,
+      37
+    ],
+    [
+      70,
+      37
+    ],
+    [
+      69,
+      37
+    ],
+    [
+      68,
+      37
+    ],
+    [
+      67,
+      37
+    ],
+    [
+      66,
+      37
+    ],
+    [
+      65,
+      37
+    ],
+    [
+      64,
+      37
+    ],
+    [
+      63,
+      37
+    ],
+    [
+      62,
+      37
+    ],
+    [
+      61,
+      37
+    ],
+    [
+      60,
+      37
+    ],
+    [
+      59,
+      37
+    ],
+    [
+      58,
+      37
+    ],
+    [
+      57,
+      37
+    ],
+    [
+      56,
+      37
+    ],
+    [
+      55,
+      37
+    ],
+    [
+      54,
+      37
+    ],
+    [
+      53,
+      37
+    ],
+    [
+      52,
+      37
+    ],
+    [
+      51,
+      37
+    ],
+    [
+      50,
+      37
+    ],
+    [
+      49,
+      37
+    ],
+    [
+      48,
+      37
+    ],
+    [
+      47,
+      37
+    ],
+    [
+      46,
+      37
+    ],
+    [
+      45,
+      37
+    ],
+    [
+      44,
+      37
+    ],
+    [
+      43,
+      37
+    ],
+    [
+      42,
+      37
+    ],
+    [
+      41,
+      37
+    ],
+    [
+      41,
+      36
+    ],
+    [
+      41,
+      35
+    ],
+    [
+      41,
+      34
+    ],
+    [
+      40,
+      34
+    ],
+    [
+      39,
+      34
+    ],
+    [
+      38,
+      34
+    ],
+    [
+      38,
+      33
+    ],
+    [
+      37,
+      33
+    ],
+    [
+      36,
+      33
+    ]
+  ],
+  "known_personas": [
+    "Ayesha Khan",
+    "Wolfgang Schulz",
+    "Carlos Gomez",
+    "Isabella Rodriguez",
+    "Eddy Lin",
+    "Adam Smith",
+    "Tom Moreno",
+    "Sam Moore"
+  ]
+}

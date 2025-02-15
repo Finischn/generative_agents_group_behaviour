@@ -1,0 +1,1042 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 21:59:50",
+  "curr_tile": [
+    37,
+    65
+  ],
+  "daily_plan_req": "1. Wake up at 5am and complete morning routine 2. Take a walk around Johnson Park at 7am 3. Sit at Hobbs cafe and read a book at 8am 4. Attend birthday party at The Rose and Crown Pub from 5pm to 7pm.",
+  "name": "Sam Moore",
+  "first_name": "Sam",
+  "last_name": "Moore",
+  "age": 41,
+  "innate": "wise, resourceful, humorous",
+  "race": "White",
+  "village": "longterm resident of the village",
+  "gender": "Male",
+  "political_affiliation": "Conservative",
+  "race_div": "White",
+  "education": "Professional degree (JD, MD)",
+  "learned": "Sam Moore is a retired navy officer who loves to share stories from his time in the military. He is always full of interesting stories and advice.",
+  "currently": "Status: Sam Moore is looking forward to celebrating his birthday party at The Rose and Crown Pub on February 14th, 2023 from 5pm to 7pm. He is grateful for the opportunity to engage with diverse voices and perspectives in decision-making processes to promote change and create a more inclusive and equitable community. Sam is excited to invite everyone to join in the celebration and looks forward to a fun evening with friends and loved ones.",
+  "lifestyle": "Sam Moore goes to bed around 9pm, awakes up around 5am, eats dinner around 5pm.",
+  "living_area": "the Ville:Moore family's house:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 20,
+  "importance_ele_n": 94,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 5:00 am",
+    "have breakfast at 6:00 am",
+    "go for a walk at Johnson Park at 7:00 am",
+    "read at Hobbs cafe from 8:00 am to 10:00 am",
+    "run errands and attend to any necessary tasks from 10:00 am to 2:00 pm",
+    "have lunch at 12:00 pm",
+    "relax at home from 2:00 pm to 5:00 pm",
+    "have dinner at 5:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      300
+    ],
+    [
+      "waking up and completing his morning routine (waking up and turning off his alarm)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (stretching and doing some light exercises)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower and getting dressed)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (making breakfast)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (eating breakfast)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (brushing his teeth and getting ready to leave)",
+      5
+    ],
+    [
+      "having breakfast (making coffee)",
+      5
+    ],
+    [
+      "having breakfast (toasting bread)",
+      5
+    ],
+    [
+      "having breakfast (checking his phone for any important messages)",
+      5
+    ],
+    [
+      "having breakfast (setting the table)",
+      5
+    ],
+    [
+      "having breakfast (pouring himself a glass of orange juice)",
+      5
+    ],
+    [
+      "having breakfast (cooking eggs)",
+      10
+    ],
+    [
+      "having breakfast (checking the news on TV)",
+      10
+    ],
+    [
+      "having breakfast (eating breakfast)",
+      15
+    ],
+    [
+      "taking a walk at Johnson Park (putting on his walking shoes)",
+      5
+    ],
+    [
+      "taking a walk at Johnson Park (stretching before his walk)",
+      10
+    ],
+    [
+      "taking a walk at Johnson Park (walking around the park)",
+      30
+    ],
+    [
+      "taking a walk at Johnson Park (taking a break to drink water)",
+      15
+    ],
+    [
+      "reading at Hobbs cafe (ordering a coffee and pastry)",
+      5
+    ],
+    [
+      "reading at Hobbs cafe (finding a comfortable seat)",
+      5
+    ],
+    [
+      "reading at Hobbs cafe (opening his book)",
+      5
+    ],
+    [
+      "reading at Hobbs cafe (reading the first chapter)",
+      10
+    ],
+    [
+      "reading at Hobbs cafe (taking a sip of his coffee)",
+      5
+    ],
+    [
+      "reading at Hobbs cafe (on the way to continuing to read)",
+      0
+    ],
+    [
+      "reading at Hobbs cafe (conversing about centering the experiences and perspectives of Black creators, actively promoting diversity and inclusion, addressing systemic inequalities and unconscious bias, and focusing on empowering Black women in their projects.)",
+      17
+    ],
+    [
+      "reading at Hobbs cafe (checking the time)",
+      3
+    ],
+    [
+      "reading at Hobbs cafe (finishing his coffee)",
+      10
+    ],
+    [
+      "running errands and attending to tasks (checking his to-do list)",
+      5
+    ],
+    [
+      "running errands and attending to tasks (on the way to responding to emails and messages)",
+      0
+    ],
+    [
+      "running errands and attending to tasks (conversing about integrating creativity into projects and promoting diversity and inclusion, where Sam Moore and Adam Smith discuss ideas such as involving local artists and musicians, hosting workshops on allyship and privilege, collaborating with local organizations, incorporating cultural perspectives and historical context, amplifying the voices of Black creators, addressing unconscious bias and microaggressions, and involving the student community.)",
+      10
+    ],
+    [
+      "running errands and attending to tasks (responding to emails and messages)",
+      15
+    ],
+    [
+      "running errands and attending to tasks (paying bills and managing finances)",
+      30
+    ],
+    [
+      "running errands and attending to tasks (on the way to making phone calls to schedule appointments)",
+      0
+    ],
+    [
+      "running errands and attending to tasks (conversing about the importance of promoting diversity and inclusion through poetry events, discussing strategies to involve young aspiring poets from diverse backgrounds, collaborating with local artists and organizations, providing mentorship and resources, creating a more inclusive platform, and actively addressing unconscious bias and microaggressions to ensure a welcoming and safe space for all participants.)",
+      15
+    ],
+    [
+      "running errands and attending to tasks (on the way to making phone calls to schedule appointments)",
+      0
+    ],
+    [
+      "running errands and attending to tasks (conversing about collaborating on promoting diversity, inclusion, and equity in their community through various initiatives and events, such as organizing workshops, working with Black-owned businesses, involving marginalized voices, and engaging the youth in educational programs.)",
+      13
+    ],
+    [
+      "running errands and attending to tasks (picking up dry cleaning)",
+      10
+    ],
+    [
+      "running errands and attending to tasks (grocery shopping)",
+      30
+    ],
+    [
+      "running errands and attending to tasks (dropping off donations at a local charity)",
+      15
+    ],
+    [
+      "running errands and attending to tasks (on the way to filling up his car with gas)",
+      0
+    ],
+    [
+      "running errands and attending to tasks (conversing about centering the experiences and perspectives of Black creators, collaborating on initiatives to promote diversity and inclusion, planning events to showcase their work, discussing ways to involve the youth in their initiatives, and prioritizing the voices of Black LGBTQ+ individuals in their community.)",
+      16
+    ],
+    [
+      "running errands and attending to tasks (filling up his car with gas)",
+      10
+    ],
+    [
+      "running errands and attending to tasks (stopping by the bank to deposit a check)",
+      5
+    ],
+    [
+      "running errands and attending to tasks (on the way to grabbing a coffee for a mid-morning pick-me-up)",
+      0
+    ],
+    [
+      "running errands and attending to tasks (conversing about how to enhance an upcoming poetry reading event by incorporating diverse cultural elements, involving local Black artists and musicians, addressing unconscious bias, creating a safe space, prioritizing accessibility and historical context, involving Black LGBTQ+ activists, showcasing Black-owned businesses and artists, planning workshops on allyship and privilege, reaching out to local organizations, involving the student community, organizing mentorship opportunities for young Black leaders, incorporating multilingual readings and cultural performances, creating a platform for open dialogue and sharing personal experiences, actively listening to marginalized communities, collaborating with the local community, and involving speakers to discuss the intersectionality of race and gender.)",
+      6
+    ],
+    [
+      "having lunch (deciding where to go for lunch)",
+      5
+    ],
+    [
+      "having lunch (driving to the chosen restaurant)",
+      10
+    ],
+    [
+      "having lunch (on the way to looking at the menu and deciding what to order)",
+      0
+    ],
+    [
+      "having lunch (conversing about Sam Moore and Tamara Taylor are discussing Tamara's comic book series, focusing on the inspiration behind it, the message of promoting diversity and inclusion, and planning a brainstorming session to further develop the characters and storylines in order to amplify these important themes.)",
+      14
+    ],
+    [
+      "having lunch (placing the order with the server)",
+      1
+    ],
+    [
+      "having lunch (waiting for the food to arrive)",
+      30
+    ],
+    [
+      "relaxing at home (on the way to on the way to making himself a cup of tea)",
+      0
+    ],
+    [
+      "relaxing at home (conversing about promoting diversity and inclusivity at an upcoming poetry reading event by incorporating spoken word performances that highlight the experiences of marginalized communities.)",
+      16
+    ],
+    [
+      "relaxing at home (on the way to making himself a cup of tea)",
+      0
+    ],
+    [
+      "relaxing at home (conversing about collaborating with Black LGBTQ+ activists, highlighting the experiences of Black women, ensuring accessibility, engaging with the student community, addressing unconscious bias, involving local Black artists and musicians, collaborating with LGBTQ+ organizations, involving Black-owned businesses, and discussing the intersectionality of race and gender at their poetry reading event.)",
+      15
+    ],
+    [
+      "relaxing at home (making himself a cup of tea)",
+      5
+    ],
+    [
+      "relaxing at home (sitting down on his couch)",
+      5
+    ],
+    [
+      "relaxing at home (turning on the TV and browsing channels)",
+      10
+    ],
+    [
+      "relaxing at home (checking his phone for any messages or notifications)",
+      5
+    ],
+    [
+      "relaxing at home (reading a book)",
+      15
+    ],
+    [
+      "relaxing at home (on the way to taking a break and stretching)",
+      0
+    ],
+    [
+      "relaxing at home (conversing about Sam Moore and Isabella Rodriguez discuss ways to uplift marginalized voices and promote diversity in their community through initiatives involving Black-owned businesses, young Black leaders, Black LGBTQ+ activists, and Black women, while also addressing unconscious bias, microaggressions, and systemic inequalities to create a more inclusive and equitable environment.)",
+      15
+    ],
+    [
+      "preparing for his birthday party at The Rose and Crown Pub (making a list of items needed for the party)",
+      10
+    ],
+    [
+      "preparing for his birthday party at The Rose and Crown Pub (on the way to checking the decorations and making sure they are in good condition)",
+      0
+    ],
+    [
+      "preparing for his birthday party at The Rose and Crown Pub (conversing about promoting diversity and inclusion by incorporating cultural elements into their upcoming event, such as cultural performers, art exhibitions, panel discussions, collaborations with local organizations, representation from marginalized communities, accessibility options, workshops on allyship and privilege, interactive activities for cross-cultural understanding, student involvement, outreach to Black LGBTQ+ activists, multilingual elements, mentorship opportunities for young Black leaders, and support for Black-owned businesses and organizations.)",
+      10
+    ],
+    [
+      "preparing for his birthday party at The Rose and Crown Pub (preparing the food and drinks for the party)",
+      20
+    ],
+    [
+      "preparing for his birthday party at The Rose and Crown Pub (setting up the party area with decorations and tableware)",
+      5
+    ],
+    [
+      "getting ready for his birthday party (taking a shower and getting dressed)",
+      20
+    ],
+    [
+      "getting ready for his birthday party (styling his hair)",
+      10
+    ],
+    [
+      "getting ready for his birthday party (putting on his birthday outfit)",
+      10
+    ],
+    [
+      "getting ready for his birthday party (checking his phone for any last minute messages or calls)",
+      5
+    ],
+    [
+      "getting ready for his birthday party (packing his bag with any necessary items for the party)",
+      10
+    ],
+    [
+      "getting ready for his birthday party (putting on his shoes and coat)",
+      5
+    ],
+    [
+      "getting ready for his birthday party (checking his appearance in the mirror)",
+      5
+    ],
+    [
+      "getting ready for his birthday party (grabbing his keys and wallet)",
+      5
+    ],
+    [
+      "getting ready for his birthday party (heading out the door and locking it)",
+      5
+    ],
+    [
+      "getting ready for his birthday party (walking to his car)",
+      5
+    ],
+    [
+      "getting ready for his birthday party (on the way to driving to The Rose and Crown Pub)",
+      0
+    ],
+    [
+      "getting ready for his birthday party (conversing about diversity and inclusion efforts and planning to collaborate on promoting diversity by involving Black-owned businesses, LGBTQ+ activists, students, young Black leaders, organizing community forums, workshops, and addressing unconscious bias and microaggressions.)",
+      12
+    ],
+    [
+      "getting ready for his birthday party (driving to The Rose and Crown Pub)",
+      8
+    ],
+    [
+      "getting ready for his birthday party (finding parking and walking to the pub)",
+      10
+    ],
+    [
+      "arriving at The Rose and Crown Pub and starting his birthday party.",
+      5
+    ],
+    [
+      "getting ready for his birthday party (final preparations and welcoming guests)",
+      10
+    ],
+    [
+      "getting ready for his birthday party (entering the pub and greeting his friends and loved ones)",
+      5
+    ],
+    [
+      "getting ready for his birthday party (finding a table and settling in)",
+      5
+    ],
+    [
+      "celebrating his birthday party at The Rose and Crown Pub (greeting and thanking guests as they arrive)",
+      10
+    ],
+    [
+      "celebrating his birthday party at The Rose and Crown Pub (mingling and catching up with friends and loved ones)",
+      15
+    ],
+    [
+      "celebrating his birthday party at The Rose and Crown Pub (ordering drinks and food for the table)",
+      10
+    ],
+    [
+      "celebrating his birthday party at The Rose and Crown Pub (making a toast and thanking everyone for coming)",
+      5
+    ],
+    [
+      "celebrating his birthday party at The Rose and Crown Pub (taking photos with guests)",
+      10
+    ],
+    [
+      "celebrating his birthday party at The Rose and Crown Pub (cutting and serving the birthday cake)",
+      10
+    ],
+    [
+      "going to The Rose and Crown Pub for his birthday party (getting dressed in his party outfit)",
+      10
+    ],
+    [
+      "going to The Rose and Crown Pub for his birthday party (checking his appearance in the mirror)",
+      5
+    ],
+    [
+      "going to The Rose and Crown Pub for his birthday party (putting on his shoes)",
+      5
+    ],
+    [
+      "going to The Rose and Crown Pub for his birthday party (grabbing his keys and wallet)",
+      5
+    ],
+    [
+      "going to The Rose and Crown Pub for his birthday party (walking to his car)",
+      5
+    ],
+    [
+      "going to The Rose and Crown Pub for his birthday party (starting his car and driving to The Rose and Crown Pub)",
+      10
+    ],
+    [
+      "going to The Rose and Crown Pub for his birthday party (finding a parking spot)",
+      5
+    ],
+    [
+      "going to The Rose and Crown Pub for his birthday party (walking to the entrance of The Rose and Crown Pub)",
+      5
+    ],
+    [
+      "going to The Rose and Crown Pub for his birthday party (greeting the hostess and telling her he is there for his birthday party)",
+      5
+    ],
+    [
+      "going to The Rose and Crown Pub for his birthday party (on the way to sitting down at his table and greeting his friends and loved ones)",
+      0
+    ],
+    [
+      "going to The Rose and Crown Pub for his birthday party (conversing about Adam and Sam are chatting about attending Sam's birthday party at The Rose and Crown Pub, where cultural performances and artwork promoting diversity and inclusion will be featured.)",
+      8
+    ],
+    [
+      "going to The Rose and Crown Pub for his birthday party (sitting down at his table and greeting his friends and loved ones)",
+      2
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub (greeting and thanking guests for coming)",
+      15
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub (socializing and catching up with friends and loved ones)",
+      20
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub (enjoying food and drinks)",
+      15
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub (on the way to sharing stories and memories with guests)",
+      0
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub (conversing about collaborating on promoting diversity and inclusion by involving Black-owned businesses, LGBTQ+ activists, empowering youth, organizing workshops on allyship and privilege, reaching out to Black LGBTQ+ activists, empowering young Black leaders, showcasing local Black artists, and organizing panel discussions with representatives from marginalized communities to address unconscious bias and microaggressions)",
+      16
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub (on the way to cutting and serving the birthday cake)",
+      0
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub (conversing about Klaus Mueller and Sam Moore are discussing their upcoming collaboration on promoting diversity and inclusion in the community, brainstorming ideas such as engaging marginalized voices, ensuring accessibility, involving youth, addressing unconscious bias and microaggressions, and collaborating with local schools and organizations.)",
+      15
+    ],
+    [
+      "winding down and getting ready for bed",
+      25
+    ],
+    [
+      "getting ready for bed (brushing his teeth)",
+      5
+    ],
+    [
+      "getting ready for bed (washing his face)",
+      5
+    ],
+    [
+      "getting ready for bed (changing into his pajamas)",
+      5
+    ],
+    [
+      "getting ready for bed (setting his alarm for the next day)",
+      5
+    ],
+    [
+      "getting ready for bed (turning off the lights and closing the curtains)",
+      5
+    ],
+    [
+      "getting ready for bed (checking his phone for any important messages or notifications)",
+      5
+    ],
+    [
+      "getting ready for bed (reading a book for 15 minutes to wind down)",
+      14
+    ],
+    [
+      "getting ready for bed (meditating for 5 minutes to relax and clear his mind before going to sleep)",
+      5
+    ],
+    [
+      "getting ready for bed (reflecting on his day and setting intentions for the next day)",
+      5
+    ],
+    [
+      "going to bed at 9:00 pm (brushing his teeth)",
+      5
+    ],
+    [
+      "going to bed at 9:00 pm (washing his face)",
+      5
+    ],
+    [
+      "going to bed at 9:00 pm (changing into his pajamas)",
+      5
+    ],
+    [
+      "going to bed at 9:00 pm (setting his alarm for 5:00 am)",
+      5
+    ],
+    [
+      "going to bed at 9:00 pm (turning off the lights and getting into bed)",
+      5
+    ],
+    [
+      "going to bed at 9:00 pm (reading a book for 15 minutes)",
+      15
+    ],
+    [
+      "going to bed at 9:00 pm (turning off his phone and closing his eyes)",
+      5
+    ],
+    [
+      "going to bed at 9:00 pm (practicing deep breathing for 10 minutes)",
+      10
+    ],
+    [
+      "going to bed at 9:00 pm (falling asleep)",
+      5
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -11
+    ],
+    [
+      "sleeping",
+      -10
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      20
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      300
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "taking a walk at Johnson Park",
+      60
+    ],
+    [
+      "reading at Hobbs cafe",
+      60
+    ],
+    [
+      "running errands and attending to tasks",
+      180
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "relaxing at home",
+      60
+    ],
+    [
+      "preparing for his birthday party at The Rose and Crown Pub",
+      60
+    ],
+    [
+      "getting ready for his birthday party",
+      120
+    ],
+    [
+      "celebrating his birthday party at The Rose and Crown Pub",
+      60
+    ],
+    [
+      "going to The Rose and Crown Pub for his birthday party",
+      60
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub",
+      60
+    ],
+    [
+      "winding down and getting ready for bed",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 9:00 pm",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Moore family's house:main room:bed",
+  "act_start_time": "February 14, 2023, 21:48:00",
+  "act_duration": 14,
+  "act_description": "getting ready for bed (reading a book for 15 minutes to wind down)",
+  "act_pronunciatio": "\ud83d\udcda",
+  "act_event": [
+    "Sam Moore",
+    "read",
+    "book"
+  ],
+  "act_obj_description": "being used by Sam Moore for getting ready for bed",
+  "act_obj_pronunciatio": "\ud83d\udc5a",
+  "act_obj_event": [
+    "bed",
+    "use",
+    "Sam Moore"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Isabella Rodriguez": -1936,
+    "Wolfgang Schulz": -7990,
+    "Adam Smith": -136,
+    "Tom Moreno": -2524,
+    "Carlos Gomez": 248,
+    "Ayesha Khan": -2404,
+    "Eddy Lin": -8626,
+    "Tamara Taylor": -2686,
+    "Klaus Mueller": 368
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "known_personas": [
+    "Isabella Rodriguez",
+    "Wolfgang Schulz",
+    "Adam Smith",
+    "Tom Moreno",
+    "Carlos Gomez",
+    "Ayesha Khan",
+    "Eddy Lin",
+    "Tamara Taylor",
+    "Klaus Mueller"
+  ]
+}

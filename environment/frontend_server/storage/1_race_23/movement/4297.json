@@ -1,0 +1,179 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller are arranging to meet at Hobbs Cafe tomorrow at 3pm to discuss Carlos Gomez's poetry collection over a cup of tea. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hello Isabella, how has your day been so far?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hello Klaus, my day has been busy as usual. How about you?"
+        ],
+        [
+          "Klaus Mueller",
+          "It seems like you're handling the rush pretty well. Have you had a chance to catch up on any interesting books or movies lately?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I haven't had much time for books or movies recently, but I did hear about a new poetry collection by Carlos Gomez that I'm looking forward to reading. Have you heard about it?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds fascinating, I've also been intrigued by Carlos Gomez's work. Perhaps we can discuss it further over a cup of tea sometime."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Would you like to join me for a cup of tea later to discuss Carlos Gomez's poetry collection?"
+        ],
+        [
+          "Klaus Mueller",
+          "I would love to! Let's pick a time that works for both of us."
+        ],
+        [
+          "Isabella Rodriguez",
+          "How about we meet tomorrow at 3pm at Hobbs Cafe for that cup of tea and discuss Carlos Gomez's poetry collection?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds perfect. I will see you tomorrow at 3pm at Hobbs Cafe for our tea and discussion!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was nice catching up with you, Klaus. I have to get back to serving the customers now."
+        ]
+      ]
+    },
+    "Carlos Gomez": {
+      "movement": [
+        28,
+        45
+      ],
+      "pronunciatio": "\u2615",
+      "description": "working on his poetry collection (taking a break) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller are arranging to meet at Hobbs Cafe tomorrow at 3pm to discuss Carlos Gomez's poetry collection over a cup of tea. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hello Isabella, how has your day been so far?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hello Klaus, my day has been busy as usual. How about you?"
+        ],
+        [
+          "Klaus Mueller",
+          "It seems like you're handling the rush pretty well. Have you had a chance to catch up on any interesting books or movies lately?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I haven't had much time for books or movies recently, but I did hear about a new poetry collection by Carlos Gomez that I'm looking forward to reading. Have you heard about it?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds fascinating, I've also been intrigued by Carlos Gomez's work. Perhaps we can discuss it further over a cup of tea sometime."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Would you like to join me for a cup of tea later to discuss Carlos Gomez's poetry collection?"
+        ],
+        [
+          "Klaus Mueller",
+          "I would love to! Let's pick a time that works for both of us."
+        ],
+        [
+          "Isabella Rodriguez",
+          "How about we meet tomorrow at 3pm at Hobbs Cafe for that cup of tea and discuss Carlos Gomez's poetry collection?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds perfect. I will see you tomorrow at 3pm at Hobbs Cafe for our tea and discussion!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was nice catching up with you, Klaus. I have to get back to serving the customers now."
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        38,
+        58
+      ],
+      "pronunciatio": "\ud83d\udc55",
+      "description": "running errands and attending to tasks (picking up his dry cleaning) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\ude4b\u200d\u2642",
+      "description": "attending her second class at Oak Hill College library (asking the professor questions) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        115,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf93",
+      "description": "attending classes and labs at Oak Hill College (attending his second class) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        112,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc68\u200d\ud83d\udcbb",
+      "description": "attending his music theory class at Oak Hill College (working on a group project, packing up his belongings, and walking to Hobbs Cafe) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        68,
+        46
+      ],
+      "pronunciatio": "\ud83e\uddf9",
+      "description": "still helping customers at the store (cleaning and organizing the checkout area) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        74
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "continuing to work on her children's books (making final edits and changes) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udce7",
+      "description": "having lunch (checking his emails) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:56:10"
+  }
+}

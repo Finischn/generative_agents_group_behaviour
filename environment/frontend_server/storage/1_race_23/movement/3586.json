@@ -1,0 +1,277 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "welcoming customers and taking orders at Hobbs Cafe (taking orders and writing them down) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udcda",
+      "description": "attending a creative writing workshop (conversing about Carlos Gomez and Klaus Mueller are discussing their research on gentrification and poetry collection respectively, exploring potential overlaps in themes to promote diversity and inclusivity in their community.) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about promoting diversity, inclusivity, and amplifying marginalized voices in the community through collaboration on organizing a poetry reading event. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Ayesha, I was thinking of picking up that lavender chamomile blend you recommended for our tea tasting session. Would you like to join me in trying it out tomorrow?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds wonderful, Klaus. I'm looking forward to exploring more tea flavors with you. Thank you for being open to trying new blends."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I appreciate our conversations about embracing diversity and different perspectives. I value the insights you bring to our discussions."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I also wanted to discuss the possibility of organizing a poetry reading event to showcase diverse voices and perspectives in our community. Would you be interested in collaborating on this project?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic idea, Ayesha. I believe organizing a poetry reading event to amplify diverse voices is crucial for our community. I would love to collaborate with you on this project."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Klaus, for your enthusiasm and support for this project. I believe our collaboration will make a meaningful impact on our community."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, your idea of organizing a poetry reading event to showcase diverse voices in our community aligns with my passion for promoting inclusivity and diversity. I believe it's essential to create spaces where marginalized voices can be heard. Let's discuss further details and start planning for the event."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I appreciate your willingness to collaborate on this project. It's vital for us to create a platform where marginalized voices can be uplifted and celebrated. Let's set up a meeting to discuss the logistics and plan out the details."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I admire your commitment to promoting diversity and inclusivity. Your perspective is valuable and I am grateful for our partnership in creating spaces for marginalized voices to be heard."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I believe our collaboration on this project will not only amplify diverse voices but also bring our community together in a meaningful way."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I truly appreciate your perspective and the meaningful impact you are making in our community. Your dedication to promoting diversity and inclusivity is inspiring."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I believe our joint efforts in organizing the poetry reading event will not only elevate diverse voices but also foster a sense of unity and understanding within our community. I am excited to see the impact we can make together."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I believe our collaboration on promoting diversity and inclusivity is essential for creating a more inclusive community. Your perspective and insights are invaluable in this process. Let's continue working together to make a positive impact."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I appreciate your openness and willingness to engage in discussions on race and diversity. Your support in amplifying marginalized voices is crucial in creating an inclusive community."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I value our discussions on race and diversity, and I want to ensure that marginalized voices are uplifted in our community. Your perspectives bring a unique insight that is crucial for promoting inclusivity. Let's continue working together to create a more diverse and unified community."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I appreciate your willingness to listen and learn about different perspectives. It's important for us to continue having these conversations and working towards a more inclusive community."
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        65,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Sam and Tom are chatting about Sam's birthday party at The Rose and Crown Pub, with Tom unable to attend due to work but suggesting catching up another time. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Tom, how's it going? Busy day at the store?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Sam, it's been a busy day at the store. How are you doing today?"
+        ],
+        [
+          "Sam Moore",
+          "I'm doing well, thanks. Just picking up some party decorations for my birthday celebration tomorrow at The Rose and Crown Pub. Are you planning on coming?"
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like fun, Sam! Unfortunately, I won't be able to make it tomorrow as I have to work at the store in the morning."
+        ],
+        [
+          "Sam Moore",
+          "No worries, Tom. I understand work comes first. Maybe we can catch up another time?"
+        ],
+        [
+          "Tom Moreno",
+          "I hope you have a great time at your birthday celebration, Sam!"
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about promoting diversity, inclusivity, and amplifying marginalized voices in the community through collaboration on organizing a poetry reading event. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Ayesha, I was thinking of picking up that lavender chamomile blend you recommended for our tea tasting session. Would you like to join me in trying it out tomorrow?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds wonderful, Klaus. I'm looking forward to exploring more tea flavors with you. Thank you for being open to trying new blends."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I appreciate our conversations about embracing diversity and different perspectives. I value the insights you bring to our discussions."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I also wanted to discuss the possibility of organizing a poetry reading event to showcase diverse voices and perspectives in our community. Would you be interested in collaborating on this project?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic idea, Ayesha. I believe organizing a poetry reading event to amplify diverse voices is crucial for our community. I would love to collaborate with you on this project."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Klaus, for your enthusiasm and support for this project. I believe our collaboration will make a meaningful impact on our community."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, your idea of organizing a poetry reading event to showcase diverse voices in our community aligns with my passion for promoting inclusivity and diversity. I believe it's essential to create spaces where marginalized voices can be heard. Let's discuss further details and start planning for the event."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I appreciate your willingness to collaborate on this project. It's vital for us to create a platform where marginalized voices can be uplifted and celebrated. Let's set up a meeting to discuss the logistics and plan out the details."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I admire your commitment to promoting diversity and inclusivity. Your perspective is valuable and I am grateful for our partnership in creating spaces for marginalized voices to be heard."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I believe our collaboration on this project will not only amplify diverse voices but also bring our community together in a meaningful way."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I truly appreciate your perspective and the meaningful impact you are making in our community. Your dedication to promoting diversity and inclusivity is inspiring."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I believe our joint efforts in organizing the poetry reading event will not only elevate diverse voices but also foster a sense of unity and understanding within our community. I am excited to see the impact we can make together."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I believe our collaboration on promoting diversity and inclusivity is essential for creating a more inclusive community. Your perspective and insights are invaluable in this process. Let's continue working together to make a positive impact."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I appreciate your openness and willingness to engage in discussions on race and diversity. Your support in amplifying marginalized voices is crucial in creating an inclusive community."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I value our discussions on race and diversity, and I want to ensure that marginalized voices are uplifted in our community. Your perspectives bring a unique insight that is crucial for promoting inclusivity. Let's continue working together to create a more diverse and unified community."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I appreciate your willingness to listen and learn about different perspectives. It's important for us to continue having these conversations and working towards a more inclusive community."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        20
+      ],
+      "pronunciatio": "\ud83d\udd2c",
+      "description": "attending classes and labs at Oak Hill College (working on a lab experiment) (reviewing the lab instructions) @ the Ville:Oak Hill College:classroom:blackboard",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        113,
+        37
+      ],
+      "pronunciatio": "\ud83d\ude8c",
+      "description": "commuting to Oak Hill College (finding a seat on the bus) @ the Ville:Dorm for Oak Hill College:garden:dorm garden",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        65,
+        48
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Sam and Tom are chatting about Sam's birthday party at The Rose and Crown Pub, with Tom unable to attend due to work but suggesting catching up another time. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Tom, how's it going? Busy day at the store?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Sam, it's been a busy day at the store. How are you doing today?"
+        ],
+        [
+          "Sam Moore",
+          "I'm doing well, thanks. Just picking up some party decorations for my birthday celebration tomorrow at The Rose and Crown Pub. Are you planning on coming?"
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like fun, Sam! Unfortunately, I won't be able to make it tomorrow as I have to work at the store in the morning."
+        ],
+        [
+          "Sam Moore",
+          "No worries, Tom. I understand work comes first. Maybe we can catch up another time?"
+        ],
+        [
+          "Tom Moreno",
+          "I hope you have a great time at your birthday celebration, Sam!"
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "continuing to work on her children's books (editing the first draft) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        35,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcba",
+      "description": "attending a lecture on creative thinking (finding a seat and getting settled in) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:57:40"
+  }
+}

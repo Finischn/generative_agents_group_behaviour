@@ -1,0 +1,2909 @@
+[
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Ayesha",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 13, 2023, 06:07:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 13, 2023, 07:08:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Wolfgang",
+        "output": "no",
+        "time": "February 13, 2023, 07:17:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Wolfgang",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 13, 2023, 07:18:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Wolfgang",
+        "output": "no",
+        "time": "February 13, 2023, 07:25:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Wolfgang",
+        "output": "no",
+        "time": "February 13, 2023, 07:34:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Wolfgang",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 13, 2023, 07:34:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Wolfgang",
+        "output": "no",
+        "time": "February 13, 2023, 07:44:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Wolfgang",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 13, 2023, 07:44:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Wolfgang",
+        "output": "no",
+        "time": "February 13, 2023, 07:47:50"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Wolfgang",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 13, 2023, 07:47:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 13, 2023, 08:03:30"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Tom",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 13, 2023, 08:04:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Adam",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 13, 2023, 08:04:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Isabella",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 13, 2023, 08:06:50"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 08:14:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Carlos",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 13, 2023, 08:14:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Carlos",
+        "target_name": "Isabella",
+        "output": "no",
+        "time": "February 13, 2023, 08:14:50"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 13, 2023, 08:20:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Wolfgang",
+        "output": "no",
+        "time": "February 13, 2023, 08:32:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 13, 2023, 08:32:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Carlos",
+        "target_name": "Wolfgang",
+        "output": "no",
+        "time": "February 13, 2023, 08:47:30"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Wolfgang",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 13, 2023, 08:47:30"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Sam",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 13, 2023, 09:07:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Carlos",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 13, 2023, 09:14:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Sam",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 13, 2023, 09:25:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Carlos",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 13, 2023, 09:28:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 13, 2023, 09:43:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Sam",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 13, 2023, 09:51:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Tom",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 13, 2023, 09:51:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Sam",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 13, 2023, 09:57:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 10:01:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Ayesha",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 13, 2023, 10:01:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Wolfgang",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 10:15:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Eddy",
+        "target_name": "Wolfgang",
+        "output": "no",
+        "time": "February 13, 2023, 10:15:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Wolfgang",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 13, 2023, 10:25:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 10:39:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 10:40:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 10:41:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 10:41:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 10:42:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 10:43:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 10:43:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 10:44:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 10:45:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 10:45:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 10:46:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 10:47:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 10:47:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 10:48:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 10:49:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 10:49:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 10:50:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 10:51:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 10:51:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 10:52:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 10:53:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 10:53:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Isabella",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 13, 2023, 10:56:50"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Isabella",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 13, 2023, 11:53:40"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 13, 2023, 11:53:40"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 13, 2023, 12:06:30"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Carlos",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 13, 2023, 12:13:30"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Isabella",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 12:19:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Eddy",
+        "target_name": "Isabella",
+        "output": "no",
+        "time": "February 13, 2023, 12:19:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Eddy",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 13, 2023, 12:20:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 13, 2023, 12:25:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 13, 2023, 12:26:40"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 13, 2023, 12:26:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 12:31:30"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 13, 2023, 12:31:30"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 13, 2023, 12:38:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Tom",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 12:38:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Carlos",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 13, 2023, 12:42:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Tom",
+        "target_name": "Tamara",
+        "output": "no",
+        "time": "February 13, 2023, 12:42:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Tamara",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 13, 2023, 12:42:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 13, 2023, 12:46:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Tom",
+        "target_name": "Tamara",
+        "output": "no",
+        "time": "February 13, 2023, 12:47:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Tamara",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 13, 2023, 12:47:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 13, 2023, 12:51:40"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Eddy",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 13, 2023, 13:03:30"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Isabella",
+        "target_name": "Ayesha",
+        "output": "no",
+        "time": "February 13, 2023, 13:03:40"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Sam",
+        "target_name": "Ayesha",
+        "output": "no",
+        "time": "February 13, 2023, 13:04:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 13, 2023, 13:04:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Sam",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 13:04:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Sam",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 13:04:40"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Sam",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 13:12:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Eddy",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 13, 2023, 13:12:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Ayesha",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 13, 2023, 13:17:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 13, 2023, 13:19:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Ayesha",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 13, 2023, 13:31:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 13, 2023, 13:40:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 13, 2023, 13:45:30"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Sam",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 13, 2023, 13:45:30"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 13, 2023, 14:07:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Adam",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 13, 2023, 14:07:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Adam",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 13, 2023, 14:08:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Carlos",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 13, 2023, 14:26:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Adam",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 14:26:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 13, 2023, 14:28:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Adam",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 13, 2023, 14:28:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 13, 2023, 14:39:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 13, 2023, 14:59:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 13, 2023, 14:59:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Carlos",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 13, 2023, 15:00:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Tom",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 15:00:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 13, 2023, 15:03:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Adam",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 13, 2023, 15:03:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 13, 2023, 15:03:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 15:11:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 13, 2023, 15:11:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 13, 2023, 15:14:30"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 15:25:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 13, 2023, 15:28:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 16:23:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 13, 2023, 16:23:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Carlos",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 13, 2023, 16:24:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 13, 2023, 16:29:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 13, 2023, 16:29:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 13, 2023, 16:36:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 13, 2023, 16:52:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 16:52:30"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 16:57:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 13, 2023, 16:57:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Isabella",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 13, 2023, 16:58:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 17:13:30"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 13, 2023, 17:13:30"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Wolfgang",
+        "output": "no",
+        "time": "February 13, 2023, 17:13:50"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 13, 2023, 17:13:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 13, 2023, 17:30:40"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Adam",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 13, 2023, 17:30:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Wolfgang",
+        "output": "no",
+        "time": "February 13, 2023, 17:45:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 13, 2023, 17:45:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 13, 2023, 18:04:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 13, 2023, 18:08:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 13, 2023, 18:08:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 13, 2023, 18:30:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 13, 2023, 18:44:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 13, 2023, 18:52:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Carlos",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 13, 2023, 19:07:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Tom",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 19:07:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Eddy",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 13, 2023, 19:08:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Tom",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 19:08:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 13, 2023, 19:14:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 13, 2023, 19:14:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Sam",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 19:36:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Eddy",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 13, 2023, 19:36:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 13, 2023, 20:59:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 13, 2023, 20:59:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 13, 2023, 21:00:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 21:00:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Wolfgang",
+        "output": "no",
+        "time": "February 13, 2023, 21:00:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Wolfgang",
+        "output": "no",
+        "time": "February 13, 2023, 21:00:50"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 21:01:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 21:01:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Wolfgang",
+        "output": "no",
+        "time": "February 13, 2023, 21:04:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 13, 2023, 21:04:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 13, 2023, 21:17:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 13, 2023, 21:22:30"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Ayesha",
+        "output": "no",
+        "time": "February 13, 2023, 21:39:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 21:46:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 21:46:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 13, 2023, 21:46:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 13, 2023, 22:04:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 13, 2023, 22:22:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 13, 2023, 22:40:30"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Wolfgang",
+        "output": "no",
+        "time": "February 14, 2023, 06:07:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 06:07:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Wolfgang",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 06:44:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Isabella",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 07:28:30"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 07:34:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 14, 2023, 08:05:30"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Sam",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 14, 2023, 08:05:30"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 14, 2023, 08:06:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Adam",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 14, 2023, 08:06:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 14, 2023, 08:07:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 14, 2023, 08:09:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Adam",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 14, 2023, 08:10:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 14, 2023, 08:25:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 08:47:30"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 14, 2023, 08:52:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 09:03:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 14, 2023, 09:12:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 14, 2023, 09:12:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 14, 2023, 09:19:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 14, 2023, 09:34:30"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Ayesha",
+        "output": "no",
+        "time": "February 14, 2023, 09:45:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 14, 2023, 09:45:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 14, 2023, 10:04:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 14, 2023, 10:04:30"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 10:06:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 14, 2023, 10:38:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 14, 2023, 10:54:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Ayesha",
+        "output": "no",
+        "time": "February 14, 2023, 10:54:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 14, 2023, 10:55:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 14, 2023, 10:58:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 14, 2023, 11:16:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 14, 2023, 11:16:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 14, 2023, 11:23:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 11:36:30"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 11:38:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 11:49:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Isabella",
+        "target_name": "Tamara",
+        "output": "no",
+        "time": "February 14, 2023, 11:54:50"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Tamara",
+        "target_name": "Isabella",
+        "output": "no",
+        "time": "February 14, 2023, 11:54:50"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Isabella",
+        "target_name": "Tamara",
+        "output": "no",
+        "time": "February 14, 2023, 11:55:50"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Isabella",
+        "target_name": "Tamara",
+        "output": "no",
+        "time": "February 14, 2023, 12:02:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Tamara",
+        "target_name": "Isabella",
+        "output": "no",
+        "time": "February 14, 2023, 12:02:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Sam",
+        "target_name": "Tamara",
+        "output": "yes",
+        "time": "February 14, 2023, 12:04:50"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 14, 2023, 12:10:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 14, 2023, 12:10:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 12:17:50"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 14, 2023, 12:32:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Tom",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 14, 2023, 12:32:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 14, 2023, 12:32:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 14, 2023, 12:32:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 14, 2023, 12:32:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 14, 2023, 12:32:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Ayesha",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 14, 2023, 12:32:40"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Adam",
+        "target_name": "Ayesha",
+        "output": "no",
+        "time": "February 14, 2023, 12:32:40"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Eddy",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 14, 2023, 12:33:40"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Adam",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 14, 2023, 12:33:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 14, 2023, 12:38:30"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 14, 2023, 12:46:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Carlos",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 14, 2023, 12:47:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Tom",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 14, 2023, 12:47:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 12:49:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Adam",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 14, 2023, 12:51:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 14, 2023, 13:06:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Ayesha",
+        "output": "no",
+        "time": "February 14, 2023, 13:08:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Ayesha",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 14, 2023, 13:08:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Ayesha",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 14, 2023, 13:08:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Ayesha",
+        "output": "no",
+        "time": "February 14, 2023, 13:09:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Adam",
+        "target_name": "Ayesha",
+        "output": "no",
+        "time": "February 14, 2023, 13:09:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 13:10:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 14, 2023, 13:15:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 14, 2023, 13:27:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Ayesha",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 14, 2023, 13:46:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": false,
+        "init_name": "Tom",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 13:46:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 14:06:40"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 14:07:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 14, 2023, 14:08:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Isabella",
+        "output": "no",
+        "time": "February 14, 2023, 14:08:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 14, 2023, 14:09:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 14, 2023, 14:28:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 14, 2023, 14:31:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Adam",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 14, 2023, 14:31:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 14, 2023, 14:41:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 14, 2023, 14:43:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 15:13:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 14, 2023, 15:19:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 14, 2023, 15:24:30"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Ayesha",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 15:41:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 14, 2023, 15:51:30"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Ayesha",
+        "output": "no",
+        "time": "February 14, 2023, 15:58:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 14, 2023, 15:58:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 14, 2023, 16:25:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 14, 2023, 16:25:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 14, 2023, 16:27:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 14, 2023, 16:45:40"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 14, 2023, 16:45:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 14, 2023, 16:45:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 14, 2023, 16:46:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 14, 2023, 16:47:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 14, 2023, 16:47:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 14, 2023, 16:56:30"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 14, 2023, 16:56:30"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 14, 2023, 17:03:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 14, 2023, 17:03:50"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 14, 2023, 17:12:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Ayesha",
+        "output": "no",
+        "time": "February 14, 2023, 17:12:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Wolfgang",
+        "output": "no",
+        "time": "February 14, 2023, 17:14:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 17:14:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 14, 2023, 17:26:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 14, 2023, 17:31:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 14, 2023, 17:31:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 14, 2023, 17:32:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Ayesha",
+        "output": "no",
+        "time": "February 14, 2023, 17:32:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 14, 2023, 17:39:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Wolfgang",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 14, 2023, 17:48:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 17:51:40"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Ayesha",
+        "output": "no",
+        "time": "February 14, 2023, 17:52:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 14, 2023, 17:52:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 14, 2023, 18:12:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 14, 2023, 18:27:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Adam",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 14, 2023, 18:27:00"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 14, 2023, 18:27:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 14, 2023, 18:35:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 14, 2023, 19:01:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Eddy",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 14, 2023, 19:01:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 14, 2023, 19:04:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 14, 2023, 19:04:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 14, 2023, 19:07:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 14, 2023, 19:10:30"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Adam",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 14, 2023, 19:10:30"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Adam",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 14, 2023, 19:11:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Adam",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 14, 2023, 19:15:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 19:15:30"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Tom",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 14, 2023, 19:21:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 14, 2023, 19:21:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Tom",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 14, 2023, 19:21:50"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 14, 2023, 19:28:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 14, 2023, 19:44:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Adam",
+        "target_name": "Wolfgang",
+        "output": "no",
+        "time": "February 14, 2023, 19:44:50"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 14, 2023, 19:46:40"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 14, 2023, 19:46:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 14, 2023, 19:54:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Wolfgang",
+        "output": "no",
+        "time": "February 14, 2023, 20:07:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 20:07:40"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 14, 2023, 20:10:40"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Adam",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 14, 2023, 20:10:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 14, 2023, 20:11:10"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 14, 2023, 20:11:10"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 14, 2023, 20:14:30"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 20:29:40"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 14, 2023, 20:33:00"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 14, 2023, 20:40:40"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 14, 2023, 20:48:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Adam",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 14, 2023, 20:56:40"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 14, 2023, 21:30:20"
+    },
+    {
+        "init_group": "White",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 21:30:20"
+    },
+    {
+        "init_group": "Black",
+        "target_group": "Black",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 14, 2023, 21:38:40"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 14, 2023, 21:51:30"
+    },
+    {
+        "init_group": "White",
+        "target_group": "White",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 14, 2023, 21:51:30"
+    }
+]

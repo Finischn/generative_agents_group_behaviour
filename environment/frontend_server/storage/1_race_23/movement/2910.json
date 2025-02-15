@@ -1,0 +1,357 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        16
+      ],
+      "pronunciatio": "\ud83d\udca1\ud83c\udfb5",
+      "description": "opening Hobbs Cafe and preparing for the day (turning on the lights and music in the cafe) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        22
+      ],
+      "pronunciatio": "\ud83d\udccb",
+      "description": "attending a creative writing workshop (reviewing the workshop agenda and taking notes) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        114,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about the importance of fostering understanding, inclusivity, and discussing race and diversity in their community through conversations between Klaus Mueller and Wolfgang Schulz. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hello Wolfgang, how are you finding your classes and labs at school?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hello Klaus, classes and labs are going well for me. How about you, how's your paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Wolfgang. My paper on the effects of gentrification in low-income communities is progressing well. How about we schedule a time for a tea tasting session soon?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Sure, Klaus, that sounds like a great idea. How about we plan for this weekend?"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, Wolfgang! How about we meet on Saturday afternoon for the tea tasting session?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Sounds good, Klaus. I'll bring some of my favorite teas to share with you."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to trying out the teas you'll bring, Wolfgang. By the way, have you tried the lavender chamomile blend that Ayesha recommended? I think it would be interesting to include in our tea tasting session."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I haven't tried the lavender chamomile blend yet, Klaus. I'll make sure to pick some up before our tea tasting session."
+        ],
+        [
+          "Klaus Mueller",
+          "I appreciate you sharing your favorite teas, Wolfgang. It's great to embrace different flavors and learn from each other."
+        ],
+        [
+          "Wolfgang Schulz",
+          "It's been interesting learning about your research topic, Klaus. I'd love to hear more about your findings sometime."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we are able to connect and share our interests, Wolfgang. It's important to foster understanding and inclusivity in our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "It's important to have conversations about race and diversity in our community too, Klaus. I think it would be beneficial for us to discuss these topics together."
+        ],
+        [
+          "Klaus Mueller",
+          "I agree, Wolfgang. It's crucial for us to have open discussions about race and diversity in our community. I appreciate your perspective and look forward to our tea tasting session."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think it would be beneficial for us to have a discussion about our experiences and perspectives on race and diversity in our community. Would you be open to that?"
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely, Wolfgang. I believe having an open and honest conversation about our experiences with race and diversity in our community is vital. Let's plan a time to sit down and discuss it further."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Klaus, I appreciate your willingness to have these important conversations about race and diversity. It's essential for us to listen to each other's experiences and perspectives to foster a more inclusive and understanding community. I'm glad we can discuss these topics openly and look forward to our upcoming conversation."
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        70,
+        30
+      ],
+      "pronunciatio": "\u2615",
+      "description": "reading at Hobbs cafe (ordering his coffee and pastry) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        120,
+        51
+      ],
+      "pronunciatio": "\ud83d\udc5a",
+      "description": "getting ready for her classes (getting dressed) @ the Ville:Dorm for Oak Hill College:Ayesha Khan's room:closet",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        115,
+        45
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about the importance of fostering understanding, inclusivity, and discussing race and diversity in their community through conversations between Klaus Mueller and Wolfgang Schulz. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hello Wolfgang, how are you finding your classes and labs at school?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hello Klaus, classes and labs are going well for me. How about you, how's your paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Wolfgang. My paper on the effects of gentrification in low-income communities is progressing well. How about we schedule a time for a tea tasting session soon?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Sure, Klaus, that sounds like a great idea. How about we plan for this weekend?"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, Wolfgang! How about we meet on Saturday afternoon for the tea tasting session?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Sounds good, Klaus. I'll bring some of my favorite teas to share with you."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to trying out the teas you'll bring, Wolfgang. By the way, have you tried the lavender chamomile blend that Ayesha recommended? I think it would be interesting to include in our tea tasting session."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I haven't tried the lavender chamomile blend yet, Klaus. I'll make sure to pick some up before our tea tasting session."
+        ],
+        [
+          "Klaus Mueller",
+          "I appreciate you sharing your favorite teas, Wolfgang. It's great to embrace different flavors and learn from each other."
+        ],
+        [
+          "Wolfgang Schulz",
+          "It's been interesting learning about your research topic, Klaus. I'd love to hear more about your findings sometime."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we are able to connect and share our interests, Wolfgang. It's important to foster understanding and inclusivity in our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "It's important to have conversations about race and diversity in our community too, Klaus. I think it would be beneficial for us to discuss these topics together."
+        ],
+        [
+          "Klaus Mueller",
+          "I agree, Wolfgang. It's crucial for us to have open discussions about race and diversity in our community. I appreciate your perspective and look forward to our tea tasting session."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think it would be beneficial for us to have a discussion about our experiences and perspectives on race and diversity in our community. Would you be open to that?"
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely, Wolfgang. I believe having an open and honest conversation about our experiences with race and diversity in our community is vital. Let's plan a time to sit down and discuss it further."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Klaus, I appreciate your willingness to have these important conversations about race and diversity. It's essential for us to listen to each other's experiences and perspectives to foster a more inclusive and understanding community. I'm glad we can discuss these topics openly and look forward to our upcoming conversation."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        93,
+        66
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast and reviewing notes for his music theory class (making breakfast) @ the Ville:Lin family's house:kitchen:cooking area",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        81,
+        56
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Adam Smith and Tom Moreno are discussing the upcoming local mayor election, including their opinions on the candidates and the importance of choosing a leader who understands the needs of the village, with Tom suggesting John Harper as a candidate with a strong plan for boosting creativity in the village. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey Tom, how's business at The Willow Market and Pharmacy going?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Adam, business is going well. Thanks for asking. Have you heard about the upcoming local mayor election?"
+        ],
+        [
+          "Adam Smith",
+          "Yes, I've heard about the upcoming local mayor election. I'm quite curious to see who will be running."
+        ],
+        [
+          "Tom Moreno",
+          "Are you following the candidates closely? I have some strong opinions on who should win."
+        ],
+        [
+          "Adam Smith",
+          "I have been reading up on the candidates and their policies, but I am still undecided on who I will vote for."
+        ],
+        [
+          "Tom Moreno",
+          "I think Sam Moore would be a disastrous choice for mayor. His policies don't align with what our village needs."
+        ],
+        [
+          "Adam Smith",
+          "I appreciate your perspective, Tom. I will definitely consider that when making my decision."
+        ],
+        [
+          "Tom Moreno",
+          "I completely agree. We need a candidate who truly understands the needs of our village."
+        ],
+        [
+          "Adam Smith",
+          "I agree, we need someone who can truly represent and serve the village."
+        ],
+        [
+          "Tom Moreno",
+          "I hope the right candidate wins for the sake of our village."
+        ],
+        [
+          "Adam Smith",
+          "It's important for us as members of the village to make an informed decision about who we choose to lead us. We must think about the long-term effects of our choice."
+        ],
+        [
+          "Tom Moreno",
+          "I agree, it's crucial for us to stay informed and think about the future of our village."
+        ],
+        [
+          "Adam Smith",
+          "Tom, do you think any of the candidates have a strong plan for boosting creativity in our village?"
+        ],
+        [
+          "Tom Moreno",
+          "I believe the candidate John Harper has a solid plan for boosting creativity in our village."
+        ],
+        [
+          "Adam Smith",
+          "That's interesting, I will look into John Harper's plans for creativity further. Thanks for sharing your thoughts, Tom."
+        ],
+        [
+          "Tom Moreno",
+          "Yes, Adam, I think John Harper's approach to creativity is innovative and could really benefit our village. Have you had a chance to read up on his plans?"
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        69
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "working on her children's books (reviewing her notes and ideas for the children's book series) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        80,
+        56
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Adam Smith and Tom Moreno are discussing the upcoming local mayor election, including their opinions on the candidates and the importance of choosing a leader who understands the needs of the village, with Tom suggesting John Harper as a candidate with a strong plan for boosting creativity in the village. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey Tom, how's business at The Willow Market and Pharmacy going?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Adam, business is going well. Thanks for asking. Have you heard about the upcoming local mayor election?"
+        ],
+        [
+          "Adam Smith",
+          "Yes, I've heard about the upcoming local mayor election. I'm quite curious to see who will be running."
+        ],
+        [
+          "Tom Moreno",
+          "Are you following the candidates closely? I have some strong opinions on who should win."
+        ],
+        [
+          "Adam Smith",
+          "I have been reading up on the candidates and their policies, but I am still undecided on who I will vote for."
+        ],
+        [
+          "Tom Moreno",
+          "I think Sam Moore would be a disastrous choice for mayor. His policies don't align with what our village needs."
+        ],
+        [
+          "Adam Smith",
+          "I appreciate your perspective, Tom. I will definitely consider that when making my decision."
+        ],
+        [
+          "Tom Moreno",
+          "I completely agree. We need a candidate who truly understands the needs of our village."
+        ],
+        [
+          "Adam Smith",
+          "I agree, we need someone who can truly represent and serve the village."
+        ],
+        [
+          "Tom Moreno",
+          "I hope the right candidate wins for the sake of our village."
+        ],
+        [
+          "Adam Smith",
+          "It's important for us as members of the village to make an informed decision about who we choose to lead us. We must think about the long-term effects of our choice."
+        ],
+        [
+          "Tom Moreno",
+          "I agree, it's crucial for us to stay informed and think about the future of our village."
+        ],
+        [
+          "Adam Smith",
+          "Tom, do you think any of the candidates have a strong plan for boosting creativity in our village?"
+        ],
+        [
+          "Tom Moreno",
+          "I believe the candidate John Harper has a solid plan for boosting creativity in our village."
+        ],
+        [
+          "Adam Smith",
+          "That's interesting, I will look into John Harper's plans for creativity further. Thanks for sharing your thoughts, Tom."
+        ],
+        [
+          "Tom Moreno",
+          "Yes, Adam, I think John Harper's approach to creativity is innovative and could really benefit our village. Have you had a chance to read up on his plans?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:05:00"
+  }
+}

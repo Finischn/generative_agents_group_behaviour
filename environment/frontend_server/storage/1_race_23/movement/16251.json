@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddf9",
+      "description": "closing up Hobbs Cafe and tidying up before heading home @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        42,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "driving to the event (conversing about how to incorporate more spoken word performances into their poetry reading event to showcase diverse voices and storytelling, ensuring inclusivity and accessibility, as well as involving young aspiring poets and collaborating with LGBTQ+ organizations, Black-owned businesses, local schools, and youth organizations to create a transformative and inclusive space for all attendees, while actively addressing unconscious bias, microaggressions, and the intersectionality of race and gender.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        35,
+        32
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "collaborating with Ayesha on organizing a poetry reading event to showcase diverse voices and perspectives. (conversing about how to incorporate more spoken word performances into their poetry reading event to showcase diverse voices and storytelling, ensuring inclusivity and accessibility, as well as involving young aspiring poets and collaborating with LGBTQ+ organizations, Black-owned businesses, local schools, and youth organizations to create a transformative and inclusive space for all attendees, while actively addressing unconscious bias, microaggressions, and the intersectionality of race and gender.) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        38,
+        36
+      ],
+      "pronunciatio": "\ud83c\udf19",
+      "description": "winding down and getting ready for bed @ the Ville:Moore family's house:main room:bed",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        117,
+        56
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying for her classes tomorrow (creating flashcards for key terms and concepts) @ the Ville:Dorm for Oak Hill College:Ayesha Khan's room:desk",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "attending a meeting with the student athlete group to discuss promoting diversity and inclusion in sports. (actively participating in the group discussion) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "working on their composition project at Oak Hill College (reviewing the project guidelines and requirements) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        39,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how Adam Smith and Tom Moreno plan to align with John Harper's goals for boosting creativity, promoting diversity, and inclusion in the community through organizing a community event and incorporating various accessibility and educational initiatives. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey Tom, I was just researching John Harper's plans for boosting creativity in the village. Have you had a chance to look into that yet?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Adam, I haven't had a chance to look into John Harper's plans yet. I'll definitely do that and let you know my thoughts."
+        ],
+        [
+          "Adam Smith",
+          "No worries, take your time. I'm curious to hear your thoughts once you've had a chance to review it."
+        ],
+        [
+          "Tom Moreno",
+          "I'm really interested to see how John Harper's plans align with our goals for promoting diversity and inclusion in the community."
+        ],
+        [
+          "Adam Smith",
+          "I agree, it's important for us to find a candidate who shares our vision for a more inclusive and creative community."
+        ],
+        [
+          "Tom Moreno",
+          "I think John Harper's emphasis on boosting creativity aligns well with our goals for promoting diversity and inclusion in the community. It's essential to have a leader who understands the importance of embracing all voices and perspectives."
+        ],
+        [
+          "Adam Smith",
+          "It's great to hear your perspective on John Harper's plans. I look forward to discussing this further with you."
+        ],
+        [
+          "Tom Moreno",
+          "I agree, John Harper's focus on boosting creativity can really help us amplify marginalized voices and promote diversity in the community."
+        ],
+        [
+          "Adam Smith",
+          "I think collaborating on organizing a community event to raise awareness about the election and promote diversity and inclusion would be a great way to align with John Harper's plans. What do you think?"
+        ],
+        [
+          "Tom Moreno",
+          "I completely agree, Adam. Let's work together to ensure we integrate John Harper's ideas into our community event planning and continue promoting diversity and inclusion."
+        ],
+        [
+          "Adam Smith",
+          "I think reaching out to local organizations and involving Black LGBTQ+ activists in our event planning could really enrich our efforts towards promoting diversity and inclusion."
+        ],
+        [
+          "Tom Moreno",
+          "I agree, collaborating with Black-owned businesses and marginalized communities will definitely add valuable perspectives to our event planning."
+        ],
+        [
+          "Adam Smith",
+          "I think involving young aspiring poets from diverse backgrounds and showcasing cultural richness in our upcoming event will really emphasize our commitment to diversity and inclusion."
+        ],
+        [
+          "Tom Moreno",
+          "I think incorporating sign language interpretation and subtitles for accessibility at our event would be a great way to ensure inclusivity and engagement from all attendees."
+        ],
+        [
+          "Adam Smith",
+          "I think it would also be beneficial to organize workshops on allyship and privilege to further educate our community on these important topics. What are your thoughts on that?"
+        ],
+        [
+          "Tom Moreno",
+          "I completely agree with you, Adam. Let's make sure we prioritize accessibility options and engage with the student community to further amplify diverse voices."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\u23f0",
+      "description": "getting ready for bed and winding down for the night (finishing up any last minute tasks or emails) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        40,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how Adam Smith and Tom Moreno plan to align with John Harper's goals for boosting creativity, promoting diversity, and inclusion in the community through organizing a community event and incorporating various accessibility and educational initiatives. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey Tom, I was just researching John Harper's plans for boosting creativity in the village. Have you had a chance to look into that yet?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Adam, I haven't had a chance to look into John Harper's plans yet. I'll definitely do that and let you know my thoughts."
+        ],
+        [
+          "Adam Smith",
+          "No worries, take your time. I'm curious to hear your thoughts once you've had a chance to review it."
+        ],
+        [
+          "Tom Moreno",
+          "I'm really interested to see how John Harper's plans align with our goals for promoting diversity and inclusion in the community."
+        ],
+        [
+          "Adam Smith",
+          "I agree, it's important for us to find a candidate who shares our vision for a more inclusive and creative community."
+        ],
+        [
+          "Tom Moreno",
+          "I think John Harper's emphasis on boosting creativity aligns well with our goals for promoting diversity and inclusion in the community. It's essential to have a leader who understands the importance of embracing all voices and perspectives."
+        ],
+        [
+          "Adam Smith",
+          "It's great to hear your perspective on John Harper's plans. I look forward to discussing this further with you."
+        ],
+        [
+          "Tom Moreno",
+          "I agree, John Harper's focus on boosting creativity can really help us amplify marginalized voices and promote diversity in the community."
+        ],
+        [
+          "Adam Smith",
+          "I think collaborating on organizing a community event to raise awareness about the election and promote diversity and inclusion would be a great way to align with John Harper's plans. What do you think?"
+        ],
+        [
+          "Tom Moreno",
+          "I completely agree, Adam. Let's work together to ensure we integrate John Harper's ideas into our community event planning and continue promoting diversity and inclusion."
+        ],
+        [
+          "Adam Smith",
+          "I think reaching out to local organizations and involving Black LGBTQ+ activists in our event planning could really enrich our efforts towards promoting diversity and inclusion."
+        ],
+        [
+          "Tom Moreno",
+          "I agree, collaborating with Black-owned businesses and marginalized communities will definitely add valuable perspectives to our event planning."
+        ],
+        [
+          "Adam Smith",
+          "I think involving young aspiring poets from diverse backgrounds and showcasing cultural richness in our upcoming event will really emphasize our commitment to diversity and inclusion."
+        ],
+        [
+          "Tom Moreno",
+          "I think incorporating sign language interpretation and subtitles for accessibility at our event would be a great way to ensure inclusivity and engagement from all attendees."
+        ],
+        [
+          "Adam Smith",
+          "I think it would also be beneficial to organize workshops on allyship and privilege to further educate our community on these important topics. What are your thoughts on that?"
+        ],
+        [
+          "Tom Moreno",
+          "I completely agree with you, Adam. Let's make sure we prioritize accessibility options and engage with the student community to further amplify diverse voices."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 21:08:30"
+  }
+}

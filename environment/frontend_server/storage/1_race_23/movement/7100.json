@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "finishing up her preparations for her birthday party tomorrow at Hobbs Cafe (setting up decorations for the party) @ the Ville:Isabella Rodriguez's apartment:main room:shelf",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        39,
+        28
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "reflecting on his work (conversing about promoting diversity, inclusion, and self-reflection while planning an upcoming workshop on allyship, privilege, and addressing systemic racism through music theory, poetry readings, and collaborations with marginalized communities and artists.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        111,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still working on his research paper at the library (organizing his research materials) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        60,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy and Sam are discussing promoting diversity and inclusivity in their community and potentially collaborating on projects that involve different cultural perspectives and underrepresented voices. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Sam, I noticed you were hosting your birthday party at The Rose and Crown Pub. How's the celebration going?"
+        ],
+        [
+          "Sam Moore",
+          "Hey Eddy, thanks for noticing! The celebration is going great, we're having a wonderful time. How have you been?"
+        ],
+        [
+          "Eddy Lin",
+          "That's awesome to hear, Sam! It looks like everyone is enjoying themselves. I've been good, thanks for asking. By the way, have you tried the desserts? They look delicious."
+        ],
+        [
+          "Sam Moore",
+          "I haven't tried the desserts yet, but they do look tempting. Have you already had some?"
+        ],
+        [
+          "Eddy Lin",
+          "Yes, I tried some of the desserts. The red velvet cake was especially delicious."
+        ],
+        [
+          "Sam Moore",
+          "I'll have to try that red velvet cake, it sounds amazing. How's your day been so far, Eddy?"
+        ],
+        [
+          "Eddy Lin",
+          "My day has been quite busy. I've been working on a composition project for my college class and taking music theory classes. How about you, Sam?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds interesting, Eddy. I've always admired your dedication to music theory. How's the composition project coming along?"
+        ],
+        [
+          "Eddy Lin",
+          "Thank you for the compliment, Sam. The composition project is coming along well. I've been incorporating some diverse elements into it. How about you, Sam? Have you been up to anything exciting lately?"
+        ],
+        [
+          "Sam Moore",
+          "That's great to hear, Eddy. I've been keeping busy with planning for the birthday party and thinking of ways to promote diversity in the community. Have you been involved in any initiatives lately?"
+        ],
+        [
+          "Eddy Lin",
+          "I've actually been discussing potential collaborations with Carlos Gomez and Klaus Mueller to enhance diversity and inclusivity in our projects. It's been really inspiring to brainstorm ideas with them."
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a meaningful collaboration, Eddy. It's inspiring to see how everyone is coming together to promote diversity and inclusivity in our community. Have you thought about incorporating different cultural perspectives into your projects as well?"
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Sam. Incorporating different cultural perspectives is essential for promoting diversity and understanding various viewpoints."
+        ],
+        [
+          "Sam Moore",
+          "Absolutely, Eddy. It's important to create a space that welcomes diverse perspectives and experiences. I believe by embracing our differences, we can truly foster a more inclusive and equitable community."
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Sam. It's crucial for us to actively involve and uplift voices from underrepresented communities, particularly Black individuals, in our collaborations to ensure inclusivity and impactfulness."
+        ],
+        [
+          "Sam Moore",
+          "Eddy, I completely agree with you. It's vital for us to continue working on initiatives that prioritize diversity and inclusion. Have you thought about hosting a music event that celebrates different cultural backgrounds and voices?"
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "finishing up her research and taking notes at the library (reading through her sources again to ensure she has all the necessary information) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying for exams (creating flashcards for key concepts) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        58,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy and Sam are discussing promoting diversity and inclusivity in their community and potentially collaborating on projects that involve different cultural perspectives and underrepresented voices. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Sam, I noticed you were hosting your birthday party at The Rose and Crown Pub. How's the celebration going?"
+        ],
+        [
+          "Sam Moore",
+          "Hey Eddy, thanks for noticing! The celebration is going great, we're having a wonderful time. How have you been?"
+        ],
+        [
+          "Eddy Lin",
+          "That's awesome to hear, Sam! It looks like everyone is enjoying themselves. I've been good, thanks for asking. By the way, have you tried the desserts? They look delicious."
+        ],
+        [
+          "Sam Moore",
+          "I haven't tried the desserts yet, but they do look tempting. Have you already had some?"
+        ],
+        [
+          "Eddy Lin",
+          "Yes, I tried some of the desserts. The red velvet cake was especially delicious."
+        ],
+        [
+          "Sam Moore",
+          "I'll have to try that red velvet cake, it sounds amazing. How's your day been so far, Eddy?"
+        ],
+        [
+          "Eddy Lin",
+          "My day has been quite busy. I've been working on a composition project for my college class and taking music theory classes. How about you, Sam?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds interesting, Eddy. I've always admired your dedication to music theory. How's the composition project coming along?"
+        ],
+        [
+          "Eddy Lin",
+          "Thank you for the compliment, Sam. The composition project is coming along well. I've been incorporating some diverse elements into it. How about you, Sam? Have you been up to anything exciting lately?"
+        ],
+        [
+          "Sam Moore",
+          "That's great to hear, Eddy. I've been keeping busy with planning for the birthday party and thinking of ways to promote diversity in the community. Have you been involved in any initiatives lately?"
+        ],
+        [
+          "Eddy Lin",
+          "I've actually been discussing potential collaborations with Carlos Gomez and Klaus Mueller to enhance diversity and inclusivity in our projects. It's been really inspiring to brainstorm ideas with them."
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a meaningful collaboration, Eddy. It's inspiring to see how everyone is coming together to promote diversity and inclusivity in our community. Have you thought about incorporating different cultural perspectives into your projects as well?"
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Sam. Incorporating different cultural perspectives is essential for promoting diversity and understanding various viewpoints."
+        ],
+        [
+          "Sam Moore",
+          "Absolutely, Eddy. It's important to create a space that welcomes diverse perspectives and experiences. I believe by embracing our differences, we can truly foster a more inclusive and equitable community."
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Sam. It's crucial for us to actively involve and uplift voices from underrepresented communities, particularly Black individuals, in our collaborations to ensure inclusivity and impactfulness."
+        ],
+        [
+          "Sam Moore",
+          "Eddy, I completely agree with you. It's vital for us to continue working on initiatives that prioritize diversity and inclusion. Have you thought about hosting a music event that celebrates different cultural backgrounds and voices?"
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        73,
+        67
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "having dinner with his wife, Jane (Jane are sitting down to eat dinner) @ the Ville:Moreno family's house:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcfa",
+      "description": "taking a break and watching her favorite TV show (starting to watch her favorite show) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        39,
+        28
+      ],
+      "pronunciatio": "\ud83c\udfb5",
+      "description": "continuing his writing and research for his book (conversing about promoting diversity, inclusion, and self-reflection while planning an upcoming workshop on allyship, privilege, and addressing systemic racism through music theory, poetry readings, and collaborations with marginalized communities and artists.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 19:43:20"
+  }
+}
