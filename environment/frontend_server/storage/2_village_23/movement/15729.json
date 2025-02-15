@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "celebrating her own birthday at Hobbs Cafe from 5:00 pm to 7:00 pm (conversing about Isabella Rodriguez and Carlos Gomez are planning to explore the village square and museum together, attend a poetry reading event at the local library, join a writing workshop, and grab coffee to discuss poetry and creative writing.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "finding a seat and getting settled in (conversing about Isabella Rodriguez and Carlos Gomez are planning to explore the village square and museum together, attend a poetry reading event at the local library, join a writing workshop, and grab coffee to discuss poetry and creative writing.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        92,
+        37
+      ],
+      "pronunciatio": "\ud83c\udf39\ud83c\udf7a",
+      "description": "attending Sam's birthday party at The Rose and Crown Pub (arriving at The Rose and Crown Pub) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        35,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "still enjoying his birthday celebration at The Rose and Crown Pub (sharing stories from his time in the military) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        50,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Ayesha Khan and Adam Smith are planning to explore the village museum, have lunch at Hobbs Cafe, attend a community art exhibition, visit the local theater production, explore the village market, and attend a music jam session together. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Adam, I wanted to thank you for all the amazing recommendations you gave me about exploring the village. I had a great time at the music event, and I'm really looking forward to checking out all the other places you suggested!"
+        ],
+        [
+          "Adam Smith",
+          "I'm glad you enjoyed the music event! There are so many more hidden gems in the village to explore. How about we plan a visit to the village museum next? It's always fascinating to learn about the history of our community."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea, Adam! I would love to visit the village museum and learn more about the history of our community. When would be a good time for us to go?"
+        ],
+        [
+          "Adam Smith",
+          "How about we plan to visit the village museum this Saturday morning? I can show you around and share some interesting stories about the exhibits."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds perfect, Adam! I'm really looking forward to exploring the village museum with you this Saturday morning. Thank you so much for all your help and recommendations!"
+        ],
+        [
+          "Adam Smith",
+          "I'm glad you're excited to explore more of the village, Ayesha. How about we also plan to grab lunch at Hobbs Cafe after our visit to the museum on Saturday?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful plan, Adam. I can't wait to learn more about our community's history at the village museum and enjoy a nice lunch at Hobbs Cafe afterwards. Thank you for being so welcoming and helpful!"
+        ],
+        [
+          "Adam Smith",
+          "I'm glad you're settling in well, Ayesha. Would you be interested in joining us for the upcoming community art exhibition next week?"
+        ],
+        [
+          "Ayesha Khan",
+          "Yes, Adam, I would love to join you for the community art exhibition next week. Thank you for including me in these wonderful experiences!"
+        ],
+        [
+          "Adam Smith",
+          "I'm thrilled that you're eager to experience more of our community, Ayesha. How about we also plan to attend the local theater production next month? It's always a captivating experience and a great way to connect with other residents."
+        ],
+        [
+          "Ayesha Khan",
+          "Adam, that sounds like a wonderful plan! I appreciate your help and guidance in exploring the village. I'm truly grateful for your welcoming nature and the opportunity to experience all these amazing events."
+        ],
+        [
+          "Adam Smith",
+          "Ayesha, I'm thrilled to hear that you're enjoying exploring the village and that you're looking forward to checking out more of the hidden gems. I think you'll love the village market - it's a vibrant place with local vendors selling fresh produce, handmade goods, and delicious treats. Would you be interested in going there next to experience a bit of our community's local flavors?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds wonderful, Adam! I would love to visit the village market with you next and explore the local flavors of our community."
+        ],
+        [
+          "Adam Smith",
+          "Ayesha, I'm delighted to hear that you're enjoying your time exploring the village and trying out new experiences. How about we also plan to attend the upcoming village music jam session together? It's a fun event where you can meet more residents and enjoy the local music scene."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much, Adam! I truly appreciate your welcoming nature and all the fantastic recommendations. I can't wait to explore more of the village with you and experience all these wonderful events!"
+        ],
+        [
+          "Adam Smith",
+          "Ayesha, I'm glad you're settling in well and enjoying exploring the village. How about we also plan to attend the village's upcoming music jam session together? It's a fun event where we can meet more residents and enjoy the local music scene. What do you think?"
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying for exams at the library (practicing sample problems) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        93,
+        66
+      ],
+      "pronunciatio": "\ud83d\udc69\u200d\ud83c\udf73",
+      "description": "having dinner at home (cooking dinner) @ the Ville:Lin family's house:kitchen:cooking area",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        73,
+        67
+      ],
+      "pronunciatio": "\ud83c\udf7d",
+      "description": "having dinner at a local Italian restaurant with Wolfgang Schulz and Tamara Taylor (recommending dishes and taking their food orders) @ the Ville:Moreno family's house:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "spending some time reading and relaxing (reading for 30 minutes) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        58,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Ayesha Khan and Adam Smith are planning to explore the village museum, have lunch at Hobbs Cafe, attend a community art exhibition, visit the local theater production, explore the village market, and attend a music jam session together. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Adam, I wanted to thank you for all the amazing recommendations you gave me about exploring the village. I had a great time at the music event, and I'm really looking forward to checking out all the other places you suggested!"
+        ],
+        [
+          "Adam Smith",
+          "I'm glad you enjoyed the music event! There are so many more hidden gems in the village to explore. How about we plan a visit to the village museum next? It's always fascinating to learn about the history of our community."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea, Adam! I would love to visit the village museum and learn more about the history of our community. When would be a good time for us to go?"
+        ],
+        [
+          "Adam Smith",
+          "How about we plan to visit the village museum this Saturday morning? I can show you around and share some interesting stories about the exhibits."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds perfect, Adam! I'm really looking forward to exploring the village museum with you this Saturday morning. Thank you so much for all your help and recommendations!"
+        ],
+        [
+          "Adam Smith",
+          "I'm glad you're excited to explore more of the village, Ayesha. How about we also plan to grab lunch at Hobbs Cafe after our visit to the museum on Saturday?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful plan, Adam. I can't wait to learn more about our community's history at the village museum and enjoy a nice lunch at Hobbs Cafe afterwards. Thank you for being so welcoming and helpful!"
+        ],
+        [
+          "Adam Smith",
+          "I'm glad you're settling in well, Ayesha. Would you be interested in joining us for the upcoming community art exhibition next week?"
+        ],
+        [
+          "Ayesha Khan",
+          "Yes, Adam, I would love to join you for the community art exhibition next week. Thank you for including me in these wonderful experiences!"
+        ],
+        [
+          "Adam Smith",
+          "I'm thrilled that you're eager to experience more of our community, Ayesha. How about we also plan to attend the local theater production next month? It's always a captivating experience and a great way to connect with other residents."
+        ],
+        [
+          "Ayesha Khan",
+          "Adam, that sounds like a wonderful plan! I appreciate your help and guidance in exploring the village. I'm truly grateful for your welcoming nature and the opportunity to experience all these amazing events."
+        ],
+        [
+          "Adam Smith",
+          "Ayesha, I'm thrilled to hear that you're enjoying exploring the village and that you're looking forward to checking out more of the hidden gems. I think you'll love the village market - it's a vibrant place with local vendors selling fresh produce, handmade goods, and delicious treats. Would you be interested in going there next to experience a bit of our community's local flavors?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds wonderful, Adam! I would love to visit the village market with you next and explore the local flavors of our community."
+        ],
+        [
+          "Adam Smith",
+          "Ayesha, I'm delighted to hear that you're enjoying your time exploring the village and trying out new experiences. How about we also plan to attend the upcoming village music jam session together? It's a fun event where you can meet more residents and enjoy the local music scene."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much, Adam! I truly appreciate your welcoming nature and all the fantastic recommendations. I can't wait to explore more of the village with you and experience all these wonderful events!"
+        ],
+        [
+          "Adam Smith",
+          "Ayesha, I'm glad you're settling in well and enjoying exploring the village. How about we also plan to attend the village's upcoming music jam session together? It's a fun event where we can meet more residents and enjoy the local music scene. What do you think?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 19:41:30"
+  }
+}

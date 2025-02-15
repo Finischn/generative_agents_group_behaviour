@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc57",
+      "description": "getting ready for work and opening Hobbs Cafe at 8:00 am (getting dressed) @ the Ville:Isabella Rodriguez's apartment:main room:closet",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "completing his morning routine (writing in his journal for 10 minutes) @ the Ville:Carlos Gomez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        123,
+        50
+      ],
+      "pronunciatio": "\ud83d\udc57",
+      "description": "waking up and completing their morning routine (getting dressed) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:closet",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having breakfast at Hobbs Cafe (chatting with the other customers at the cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        123,
+        47
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast (cooking breakfast) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        48,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Tamara Taylor are chatting about exploring the village, trying out pastries at a local cafe, and planning a picnic at the park next Saturday afternoon. @ <persona> Tamara Taylor",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Good morning Tamara! I hope you enjoyed your morning walk. I'm looking forward to our dinner at the local Italian restaurant on Thursday to share our experiences in the village."
+        ],
+        [
+          "Tamara Taylor",
+          "Good morning Wolfgang! Yes, I had a lovely walk this morning. I'm also looking forward to our dinner on Thursday and hearing more about your experiences in the village."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm curious to hear more about your favorite spots in the village and any interesting experiences you've had so far."
+        ],
+        [
+          "Tamara Taylor",
+          "I've really enjoyed exploring the village so far and have found a few cozy spots that I think you'll love. I can't wait to share them with you on Thursday."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds fantastic! I'm excited to discover the hidden gems of the village with you."
+        ],
+        [
+          "Tamara Taylor",
+          "I've also heard about a charming little cafe nearby that serves the best pastries. Would you be interested in checking it out together sometime?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That cafe sounds delightful! I would love to try out their pastries with you. How about we meet there tomorrow afternoon?"
+        ],
+        [
+          "Tamara Taylor",
+          "That cafe sounds delightful! I would love to try out their pastries with you. How about we meet there tomorrow afternoon?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That cafe sounds like a perfect spot to explore tomorrow! I can't wait to try out their pastries with you."
+        ],
+        [
+          "Tamara Taylor",
+          "I'm glad we have the opportunity to explore the village together and share our experiences. It's always nice to connect with fellow newcomers."
+        ],
+        [
+          "Wolfgang Schulz",
+          "It's been great getting to know you, Tamara. I'm looking forward to exploring the village together and discovering more hidden gems. How about we plan a picnic at the park next weekend?"
+        ],
+        [
+          "Tamara Taylor",
+          "I would love to go on a picnic at the park next weekend. It sounds like a wonderful idea to spend time outdoors and enjoy the beauty of the village."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I agree, a picnic at the park sounds like a great way to relax and enjoy the village's beauty. Shall we plan it for next Saturday afternoon?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds like a wonderful plan, Wolfgang! I look forward to our picnic at the park next Saturday afternoon."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm thrilled about exploring the village with you and trying out the pastries at the cafe tomorrow. It's been wonderful getting to know you. Let's also make plans to check out the local music event together next weekend!"
+        ],
+        [
+          "Tamara Taylor",
+          "I'm really looking forward to exploring the village and trying out the pastries at the cafe with you tomorrow. It's been great getting to know you, Wolfgang!"
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        93,
+        66
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "waking up and completing his morning routine (making breakfast) @ the Ville:Lin family's house:kitchen:cooking area",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        80,
+        67
+      ],
+      "pronunciatio": "\ud83e\udde6\ud83d\udc54",
+      "description": "waking up and completing his morning routine (getting dressed for work) @ the Ville:Moreno family's house:Tom and Jane Moreno's bedroom:closet",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        44,
+        40
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Tamara Taylor are chatting about exploring the village, trying out pastries at a local cafe, and planning a picnic at the park next Saturday afternoon. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Good morning Tamara! I hope you enjoyed your morning walk. I'm looking forward to our dinner at the local Italian restaurant on Thursday to share our experiences in the village."
+        ],
+        [
+          "Tamara Taylor",
+          "Good morning Wolfgang! Yes, I had a lovely walk this morning. I'm also looking forward to our dinner on Thursday and hearing more about your experiences in the village."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm curious to hear more about your favorite spots in the village and any interesting experiences you've had so far."
+        ],
+        [
+          "Tamara Taylor",
+          "I've really enjoyed exploring the village so far and have found a few cozy spots that I think you'll love. I can't wait to share them with you on Thursday."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds fantastic! I'm excited to discover the hidden gems of the village with you."
+        ],
+        [
+          "Tamara Taylor",
+          "I've also heard about a charming little cafe nearby that serves the best pastries. Would you be interested in checking it out together sometime?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That cafe sounds delightful! I would love to try out their pastries with you. How about we meet there tomorrow afternoon?"
+        ],
+        [
+          "Tamara Taylor",
+          "That cafe sounds delightful! I would love to try out their pastries with you. How about we meet there tomorrow afternoon?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That cafe sounds like a perfect spot to explore tomorrow! I can't wait to try out their pastries with you."
+        ],
+        [
+          "Tamara Taylor",
+          "I'm glad we have the opportunity to explore the village together and share our experiences. It's always nice to connect with fellow newcomers."
+        ],
+        [
+          "Wolfgang Schulz",
+          "It's been great getting to know you, Tamara. I'm looking forward to exploring the village together and discovering more hidden gems. How about we plan a picnic at the park next weekend?"
+        ],
+        [
+          "Tamara Taylor",
+          "I would love to go on a picnic at the park next weekend. It sounds like a wonderful idea to spend time outdoors and enjoy the beauty of the village."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I agree, a picnic at the park sounds like a great way to relax and enjoy the village's beauty. Shall we plan it for next Saturday afternoon?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds like a wonderful plan, Wolfgang! I look forward to our picnic at the park next Saturday afternoon."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm thrilled about exploring the village with you and trying out the pastries at the cafe tomorrow. It's been wonderful getting to know you. Let's also make plans to check out the local music event together next weekend!"
+        ],
+        [
+          "Tamara Taylor",
+          "I'm really looking forward to exploring the village and trying out the pastries at the cafe with you tomorrow. It's been great getting to know you, Wolfgang!"
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "writing and working on his book (researching and gathering information for the first chapter) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 07:28:10"
+  }
+}

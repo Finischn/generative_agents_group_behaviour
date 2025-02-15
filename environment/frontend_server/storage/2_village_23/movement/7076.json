@@ -1,0 +1,357 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        62,
+        32
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "closing Hobbs Cafe and heading home (restocking supplies for the next day) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83c\udfad",
+      "description": "attending a community poetry reading event (mingling with other poets and attendees) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "at the library at Oak Hill College (conducting online research on gentrification) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        51,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring various activities and events in their village, such as visiting the local library, village market, art gallery, old town square, and engaging in community workshops and poetry reading events. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Adam, I'm excited about our plans for a walk in Johnson Park and grabbing coffee at Hobbs Cafe. Do you think we should also check out the local library and see what's new at the village market?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a great idea, Sam! I'm always up for exploring new things in our village. Let's make sure to include the library and village market in our plans."
+        ],
+        [
+          "Sam Moore",
+          "We can also look into attending some of the upcoming music events and exploring the art gallery together. What do you think, Adam?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a fantastic idea, Sam! I'm really looking forward to exploring the art gallery and attending the music events with you. Let's definitely make a plan to do that together."
+        ],
+        [
+          "Sam Moore",
+          "We should also consider visiting the old town square and village museum. I think it would be a great way to learn more about the history of our village."
+        ],
+        [
+          "Adam Smith",
+          "Absolutely, Sam! Visiting the old town square and village museum sounds like a fantastic idea. We can delve into the rich history and culture of our village together."
+        ],
+        [
+          "Sam Moore",
+          "We should also make plans to connect with other long-term residents in the village and attend some of the community workshops together."
+        ],
+        [
+          "Adam Smith",
+          "We should definitely make time to connect with other long-term residents in the village and attend some of the community workshops together. It would be a great way to engage with our community and learn from each other."
+        ],
+        [
+          "Sam Moore",
+          "We can also plan to explore the local history museum and participate in a walking tour to learn more about our village's heritage."
+        ],
+        [
+          "Adam Smith",
+          "We should also consider joining the writing workshop next week to further engage with the community and explore our creative side together."
+        ],
+        [
+          "Sam Moore",
+          "We should also explore the local history museum and see if there are any upcoming walking tours that we can join to learn more about our village's heritage."
+        ],
+        [
+          "Adam Smith",
+          "We should definitely make plans to attend the upcoming poetry reading event at the local library next weekend. It would be a great way to further explore our village's culture and connect with other residents."
+        ],
+        [
+          "Sam Moore",
+          "We should also consider checking out the local art gallery next week. It would be a great opportunity to appreciate the talent of local artists and immerse ourselves in the artistic scene of our village."
+        ],
+        [
+          "Adam Smith",
+          "We should definitely make plans to attend the upcoming poetry reading event at the local library next weekend. It would be a great way to further explore our village's culture and connect with other residents."
+        ],
+        [
+          "Sam Moore",
+          "We should also consider volunteering for the local community clean-up event next month. It would be a great way to give back to our village and make a positive impact."
+        ],
+        [
+          "Adam Smith",
+          "We should definitely make plans to attend the upcoming poetry reading event at the local library next weekend. It would be a great way to further explore our village's culture and connect with other residents."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Ayesha Khan and Wolfgang Schulz are discussing attending a local theater production of a Shakespearean play together and considering exploring the local bookstore for Shakespeare-related books or resources to further immerse themselves in his works. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, I noticed you're studying for exams too. How do you find the use of language in Shakespeare's plays? Do you have any favorite works?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, I find the language in Shakespeare's plays fascinating! My favorite work is Hamlet. What about you?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hamlet is one of my favorites too! I find the use of language in that play to be incredibly rich and profound. Have you ever thought about attending a local theater production of a Shakespearean play here in the village?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That's a great idea, Ayesha! I would love to attend a local theater production of a Shakespearean play. It would be a fantastic experience."
+        ],
+        [
+          "Ayesha Khan",
+          "I heard there's a local theater group that performs Shakespearean plays. Maybe we could check out one of their shows together?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic idea! I'm definitely up for watching a local theater production of a Shakespearean play with you. When do you think we should go?"
+        ],
+        [
+          "Ayesha Khan",
+          "We should check the local theater group's schedule and see if they have any upcoming performances of Shakespearean plays. Maybe we can make plans to attend one together."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great plan! Let's definitely check the local theater group's schedule and make arrangements to attend one of their Shakespearean plays together."
+        ],
+        [
+          "Ayesha Khan",
+          "I'll look up the local theater group's schedule and let you know when they have a Shakespearean play coming up."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thanks for suggesting the local theater group, Ayesha. I appreciate it. Let me know when you find out the schedule, and we can plan our visit together."
+        ],
+        [
+          "Ayesha Khan",
+          "Do you have any preferences for which Shakespearean play you would like to see first?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I don't have a specific preference for the Shakespearean play. I'm open to watching any of them. What about you?"
+        ],
+        [
+          "Ayesha Khan",
+          "I'm excited to explore the local theater scene with you. Let's make a plan to attend the next Shakespearean play together!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm looking forward to exploring the local theater scene with you and experiencing the magic of Shakespeare's works live!"
+        ],
+        [
+          "Ayesha Khan",
+          "We should also consider checking out the local bookstore for any Shakespeare-related books or resources. I think it would be a great way to further immerse ourselves in his works."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That's a fantastic idea, Ayesha! Exploring the local theater scene together sounds like a great plan. I'm excited to see which Shakespearean play we'll watch first."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Ayesha Khan and Wolfgang Schulz are discussing attending a local theater production of a Shakespearean play together and considering exploring the local bookstore for Shakespeare-related books or resources to further immerse themselves in his works. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, I noticed you're studying for exams too. How do you find the use of language in Shakespeare's plays? Do you have any favorite works?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, I find the language in Shakespeare's plays fascinating! My favorite work is Hamlet. What about you?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hamlet is one of my favorites too! I find the use of language in that play to be incredibly rich and profound. Have you ever thought about attending a local theater production of a Shakespearean play here in the village?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That's a great idea, Ayesha! I would love to attend a local theater production of a Shakespearean play. It would be a fantastic experience."
+        ],
+        [
+          "Ayesha Khan",
+          "I heard there's a local theater group that performs Shakespearean plays. Maybe we could check out one of their shows together?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic idea! I'm definitely up for watching a local theater production of a Shakespearean play with you. When do you think we should go?"
+        ],
+        [
+          "Ayesha Khan",
+          "We should check the local theater group's schedule and see if they have any upcoming performances of Shakespearean plays. Maybe we can make plans to attend one together."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great plan! Let's definitely check the local theater group's schedule and make arrangements to attend one of their Shakespearean plays together."
+        ],
+        [
+          "Ayesha Khan",
+          "I'll look up the local theater group's schedule and let you know when they have a Shakespearean play coming up."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thanks for suggesting the local theater group, Ayesha. I appreciate it. Let me know when you find out the schedule, and we can plan our visit together."
+        ],
+        [
+          "Ayesha Khan",
+          "Do you have any preferences for which Shakespearean play you would like to see first?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I don't have a specific preference for the Shakespearean play. I'm open to watching any of them. What about you?"
+        ],
+        [
+          "Ayesha Khan",
+          "I'm excited to explore the local theater scene with you. Let's make a plan to attend the next Shakespearean play together!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm looking forward to exploring the local theater scene with you and experiencing the magic of Shakespeare's works live!"
+        ],
+        [
+          "Ayesha Khan",
+          "We should also consider checking out the local bookstore for any Shakespeare-related books or resources. I think it would be a great way to further immerse ourselves in his works."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That's a fantastic idea, Ayesha! Exploring the local theater scene together sounds like a great plan. I'm excited to see which Shakespearean play we'll watch first."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciatio": "\ud83c\udfb6",
+      "description": "practicing music and studying (listening to different musical styles for inspiration) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        73,
+        69
+      ],
+      "pronunciatio": "\ud83d\udcfa\u2764\ufe0f",
+      "description": "relaxing and watching TV with his wife (watching the show with his wife) @ the Ville:Moreno family's house:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcd6\u23f0",
+      "description": "taking some time to read (reading her book for 30 minutes) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        52,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring various activities and events in their village, such as visiting the local library, village market, art gallery, old town square, and engaging in community workshops and poetry reading events. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Adam, I'm excited about our plans for a walk in Johnson Park and grabbing coffee at Hobbs Cafe. Do you think we should also check out the local library and see what's new at the village market?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a great idea, Sam! I'm always up for exploring new things in our village. Let's make sure to include the library and village market in our plans."
+        ],
+        [
+          "Sam Moore",
+          "We can also look into attending some of the upcoming music events and exploring the art gallery together. What do you think, Adam?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a fantastic idea, Sam! I'm really looking forward to exploring the art gallery and attending the music events with you. Let's definitely make a plan to do that together."
+        ],
+        [
+          "Sam Moore",
+          "We should also consider visiting the old town square and village museum. I think it would be a great way to learn more about the history of our village."
+        ],
+        [
+          "Adam Smith",
+          "Absolutely, Sam! Visiting the old town square and village museum sounds like a fantastic idea. We can delve into the rich history and culture of our village together."
+        ],
+        [
+          "Sam Moore",
+          "We should also make plans to connect with other long-term residents in the village and attend some of the community workshops together."
+        ],
+        [
+          "Adam Smith",
+          "We should definitely make time to connect with other long-term residents in the village and attend some of the community workshops together. It would be a great way to engage with our community and learn from each other."
+        ],
+        [
+          "Sam Moore",
+          "We can also plan to explore the local history museum and participate in a walking tour to learn more about our village's heritage."
+        ],
+        [
+          "Adam Smith",
+          "We should also consider joining the writing workshop next week to further engage with the community and explore our creative side together."
+        ],
+        [
+          "Sam Moore",
+          "We should also explore the local history museum and see if there are any upcoming walking tours that we can join to learn more about our village's heritage."
+        ],
+        [
+          "Adam Smith",
+          "We should definitely make plans to attend the upcoming poetry reading event at the local library next weekend. It would be a great way to further explore our village's culture and connect with other residents."
+        ],
+        [
+          "Sam Moore",
+          "We should also consider checking out the local art gallery next week. It would be a great opportunity to appreciate the talent of local artists and immerse ourselves in the artistic scene of our village."
+        ],
+        [
+          "Adam Smith",
+          "We should definitely make plans to attend the upcoming poetry reading event at the local library next weekend. It would be a great way to further explore our village's culture and connect with other residents."
+        ],
+        [
+          "Sam Moore",
+          "We should also consider volunteering for the local community clean-up event next month. It would be a great way to give back to our village and make a positive impact."
+        ],
+        [
+          "Adam Smith",
+          "We should definitely make plans to attend the upcoming poetry reading event at the local library next weekend. It would be a great way to further explore our village's culture and connect with other residents."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 19:39:20"
+  }
+}

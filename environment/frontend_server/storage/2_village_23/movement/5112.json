@@ -1,0 +1,357 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break and having lunch at Hobbs Cafe (taking a break and having lunch herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        38,
+        40
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Sam Moore and Carlos Gomez, making plans to explore the village together, meet at Hobbs Cafe, attend Sam's birthday party at The Rose and Crown Pub, grab a coffee in the morning, explore Johnson Park, visit the local library, and connect with other residents. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Carlos, I was just thinking about our conversation the other day about exploring the village. How about we meet up tomorrow at 4 pm at Hobbs Cafe and chat some more about the places you want to visit? I can also help you settle in and introduce you to more residents."
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds wonderful, Sam! I appreciate your guidance and I'm looking forward to exploring the village with you. Meeting at Hobbs Cafe at 4 pm works for me."
+        ],
+        [
+          "Sam Moore",
+          "I'm excited to show you around the village and introduce you to more residents. Tomorrow at 4 pm at Hobbs Cafe, we can discuss more places to explore together."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam, I'm really grateful for your help and guidance. I'm looking forward to tomorrow's meeting at Hobbs Cafe!"
+        ],
+        [
+          "Sam Moore",
+          "Let's also make plans to attend my birthday party at The Rose and Crown Pub tomorrow. It will be a great opportunity for you to meet more residents and immerse yourself in the community."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you so much, Sam! I truly appreciate the invitation to your birthday party at The Rose and Crown Pub. I am looking forward to meeting more residents and experiencing the community's warmth tomorrow evening."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're excited to attend the birthday party! It will be a great way for you to meet more villagers and feel welcomed in the community. I'll see you tomorrow at 4 pm at Hobbs Cafe and then we can head to The Rose and Crown Pub together."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam, for being so welcoming and showing me around the village. I'm really looking forward to exploring more with you and attending your birthday party at The Rose and Crown Pub."
+        ],
+        [
+          "Sam Moore",
+          "How about we grab a coffee at Hobbs Cafe tomorrow morning before we head out to explore the village together?"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you so much for all your help and guidance, Sam. I really appreciate your welcoming nature and I'm looking forward to exploring the village together."
+        ],
+        [
+          "Sam Moore",
+          "Let's grab a coffee at Hobbs Cafe tomorrow morning before we head out to explore the village together."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam, for your kindness and for inviting me to your birthday party at The Rose and Crown Pub. I feel truly welcomed and I'm looking forward to exploring the village with you."
+        ],
+        [
+          "Sam Moore",
+          "Let's make plans to explore Johnson Park tomorrow morning before we head to Hobbs Cafe for coffee. It will be a great way for you to experience the natural beauty of the village and connect with other residents."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam, for your kindness and for inviting me to explore Johnson Park tomorrow morning. I can't wait to appreciate the natural beauty of the village with you before heading to Hobbs Cafe for coffee."
+        ],
+        [
+          "Sam Moore",
+          "Let's plan to explore the local library together after our coffee at Hobbs Cafe and before heading to my birthday party at The Rose and Crown Pub tomorrow evening. It will be a great way for you to learn more about the village's history and culture."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam, for all your guidance and for showing me around the village. I'm truly grateful for your kindness and I'm looking forward to exploring more with you."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        108,
+        32
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f",
+      "description": "at the library at Oak Hill College (conducting online research on gentrification) (taking a break) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        38,
+        41
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Sam Moore and Carlos Gomez, making plans to explore the village together, meet at Hobbs Cafe, attend Sam's birthday party at The Rose and Crown Pub, grab a coffee in the morning, explore Johnson Park, visit the local library, and connect with other residents. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Carlos, I was just thinking about our conversation the other day about exploring the village. How about we meet up tomorrow at 4 pm at Hobbs Cafe and chat some more about the places you want to visit? I can also help you settle in and introduce you to more residents."
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds wonderful, Sam! I appreciate your guidance and I'm looking forward to exploring the village with you. Meeting at Hobbs Cafe at 4 pm works for me."
+        ],
+        [
+          "Sam Moore",
+          "I'm excited to show you around the village and introduce you to more residents. Tomorrow at 4 pm at Hobbs Cafe, we can discuss more places to explore together."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam, I'm really grateful for your help and guidance. I'm looking forward to tomorrow's meeting at Hobbs Cafe!"
+        ],
+        [
+          "Sam Moore",
+          "Let's also make plans to attend my birthday party at The Rose and Crown Pub tomorrow. It will be a great opportunity for you to meet more residents and immerse yourself in the community."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you so much, Sam! I truly appreciate the invitation to your birthday party at The Rose and Crown Pub. I am looking forward to meeting more residents and experiencing the community's warmth tomorrow evening."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're excited to attend the birthday party! It will be a great way for you to meet more villagers and feel welcomed in the community. I'll see you tomorrow at 4 pm at Hobbs Cafe and then we can head to The Rose and Crown Pub together."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam, for being so welcoming and showing me around the village. I'm really looking forward to exploring more with you and attending your birthday party at The Rose and Crown Pub."
+        ],
+        [
+          "Sam Moore",
+          "How about we grab a coffee at Hobbs Cafe tomorrow morning before we head out to explore the village together?"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you so much for all your help and guidance, Sam. I really appreciate your welcoming nature and I'm looking forward to exploring the village together."
+        ],
+        [
+          "Sam Moore",
+          "Let's grab a coffee at Hobbs Cafe tomorrow morning before we head out to explore the village together."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam, for your kindness and for inviting me to your birthday party at The Rose and Crown Pub. I feel truly welcomed and I'm looking forward to exploring the village with you."
+        ],
+        [
+          "Sam Moore",
+          "Let's make plans to explore Johnson Park tomorrow morning before we head to Hobbs Cafe for coffee. It will be a great way for you to experience the natural beauty of the village and connect with other residents."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam, for your kindness and for inviting me to explore Johnson Park tomorrow morning. I can't wait to appreciate the natural beauty of the village with you before heading to Hobbs Cafe for coffee."
+        ],
+        [
+          "Sam Moore",
+          "Let's plan to explore the local library together after our coffee at Hobbs Cafe and before heading to my birthday party at The Rose and Crown Pub tomorrow evening. It will be a great way for you to learn more about the village's history and culture."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam, for all your guidance and for showing me around the village. I'm truly grateful for your kindness and I'm looking forward to exploring more with you."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        111,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Ayesha Khan are planning to explore the village's history, culture, local art gallery, village square, museum, and take a walking tour to discover hidden gems and historical landmarks before attending a local music event. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, I was thinking we could check out the local music event tonight after Sam's birthday party at The Rose and Crown Pub, what do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea! I'm looking forward to it."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Do you want to grab dinner at Hobbs Cafe before heading to the music event?"
+        ],
+        [
+          "Ayesha Khan",
+          "Sure, dinner at Hobbs Cafe sounds perfect! What time should we meet there?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Great, let's meet at 7 pm at Hobbs Cafe then. I'll see you there!"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, I also wanted to ask if you're still up for exploring the village's history and culture with me tomorrow morning before we head to the music event?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic plan! I'm really excited to explore the village's history and culture with you tomorrow morning."
+        ],
+        [
+          "Ayesha Khan",
+          "Do you think we should also visit the local art gallery while exploring the village tomorrow morning?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That's a great idea! Let's definitely include a visit to the local art gallery while exploring the village tomorrow morning."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Wolfgang! I'm really looking forward to our day together exploring the village and immersing ourselves in its history and culture."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I was also thinking we could visit the village square and museum to learn more about the local history. How does that sound to you?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic idea, Wolfgang! I can't wait to explore the village's history and culture with you tomorrow morning."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, should we also include a visit to the village museum while exploring the village's history and culture tomorrow morning?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, I think visiting the village museum is a fantastic idea! It would be so interesting to learn more about the local history there. I'm really looking forward to it!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I also heard about a local walking tour that showcases the village's hidden gems and historical landmarks. Would you be interested in joining me for that as well?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, the local walking tour sounds like a fascinating way to discover the hidden gems and historical landmarks of the village. I'm definitely interested in joining you for that!"
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        115,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Ayesha Khan are planning to explore the village's history, culture, local art gallery, village square, museum, and take a walking tour to discover hidden gems and historical landmarks before attending a local music event. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, I was thinking we could check out the local music event tonight after Sam's birthday party at The Rose and Crown Pub, what do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea! I'm looking forward to it."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Do you want to grab dinner at Hobbs Cafe before heading to the music event?"
+        ],
+        [
+          "Ayesha Khan",
+          "Sure, dinner at Hobbs Cafe sounds perfect! What time should we meet there?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Great, let's meet at 7 pm at Hobbs Cafe then. I'll see you there!"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, I also wanted to ask if you're still up for exploring the village's history and culture with me tomorrow morning before we head to the music event?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic plan! I'm really excited to explore the village's history and culture with you tomorrow morning."
+        ],
+        [
+          "Ayesha Khan",
+          "Do you think we should also visit the local art gallery while exploring the village tomorrow morning?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That's a great idea! Let's definitely include a visit to the local art gallery while exploring the village tomorrow morning."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Wolfgang! I'm really looking forward to our day together exploring the village and immersing ourselves in its history and culture."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I was also thinking we could visit the village square and museum to learn more about the local history. How does that sound to you?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic idea, Wolfgang! I can't wait to explore the village's history and culture with you tomorrow morning."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, should we also include a visit to the village museum while exploring the village's history and culture tomorrow morning?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, I think visiting the village museum is a fantastic idea! It would be so interesting to learn more about the local history there. I'm really looking forward to it!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I also heard about a local walking tour that showcases the village's hidden gems and historical landmarks. Would you be interested in joining me for that as well?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, the local walking tour sounds like a fascinating way to discover the hidden gems and historical landmarks of the village. I'm definitely interested in joining you for that!"
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        80,
+        21
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "taking a break and having lunch at Hobbs Cafe (eating his lunch) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\ud83d\uded2",
+      "description": "managing the store at The Willow Market and Pharmacy (helping a customer with a special order) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "continuing work on her new children's book series (outlining the plot for the first book) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83e\udde0",
+      "description": "continuing to work on his book (writing the first draft of the chapter) (organizing his thoughts and ideas for the chapter) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 14:12:00"
+  }
+}

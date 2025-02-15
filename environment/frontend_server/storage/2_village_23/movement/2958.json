@@ -1,0 +1,219 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udd13",
+      "description": "opening Hobbs Cafe and standing at the counter (unlocking the doors to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        84,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Sam Moore chatting about the village, recommendations for places to explore, an invitation to a birthday party, and settling in the community. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hello Sam, I couldn't help but notice you're a regular here. How long have you been living in this village?"
+        ],
+        [
+          "Sam Moore",
+          "I've been a resident here for over 20 years now. It's a lovely village with a great sense of community."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm new here and still getting to know everyone. Do you have any recommendations on places to explore in the village?"
+        ],
+        [
+          "Sam Moore",
+          "You should definitely visit Johnson Park, it's a beautiful place for a walk and to relax. Also, make sure to check out the local library, it's a great resource to learn more about the history of our village."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam. I'll make sure to check out Johnson Park and the local library. It was great chatting with you."
+        ],
+        [
+          "Sam Moore",
+          "If you ever need a tour guide around the village, feel free to ask. I'd be happy to show you around and introduce you to some of the other residents."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam. I appreciate your offer to show me around the village. I'll definitely take you up on that sometime."
+        ],
+        [
+          "Sam Moore",
+          "You should also make sure to grab a coffee at Hobbs Cafe, it's a popular spot for locals to relax and catch up."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for all the recommendations, Sam. I'll make sure to visit Johnson Park and the local library soon. I might take you up on that tour offer as well."
+        ],
+        [
+          "Sam Moore",
+          "Feel free to join me at The Rose and Crown Pub tomorrow for my birthday party. It's a great way to meet more villagers and be part of the community."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for the invitation, Sam. I would love to join you at The Rose and Crown Pub for your birthday party tomorrow."
+        ],
+        [
+          "Sam Moore",
+          "You're very welcome, Carlos. I'm glad to help you settle in. If you have any more questions or need assistance, don't hesitate to ask. Enjoy exploring the village!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam. I appreciate your warm welcome and the guidance you've provided. I look forward to exploring the village and meeting more of the residents. I'll make sure to stop by The Rose and Crown Pub for your birthday party tomorrow."
+        ],
+        [
+          "Sam Moore",
+          "Feel free to ask me any questions about the village or if you need any help getting settled. I'm here to assist you in any way I can."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam. I appreciate your warm welcome and the guidance you've provided. I look forward to exploring the village and meeting more of the residents. I'll make sure to stop by The Rose and Crown Pub for your birthday party tomorrow."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        49
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f\ud83d\udc65",
+      "description": "waking up and completing his morning routine (conversing about Klaus Mueller and Wolfgang Schulz discussing exploring the village, with Klaus inviting Wolfgang to join him and Ayesha on a tour the following day.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        77,
+        28
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Sam Moore chatting about the village, recommendations for places to explore, an invitation to a birthday party, and settling in the community. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hello Sam, I couldn't help but notice you're a regular here. How long have you been living in this village?"
+        ],
+        [
+          "Sam Moore",
+          "I've been a resident here for over 20 years now. It's a lovely village with a great sense of community."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm new here and still getting to know everyone. Do you have any recommendations on places to explore in the village?"
+        ],
+        [
+          "Sam Moore",
+          "You should definitely visit Johnson Park, it's a beautiful place for a walk and to relax. Also, make sure to check out the local library, it's a great resource to learn more about the history of our village."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam. I'll make sure to check out Johnson Park and the local library. It was great chatting with you."
+        ],
+        [
+          "Sam Moore",
+          "If you ever need a tour guide around the village, feel free to ask. I'd be happy to show you around and introduce you to some of the other residents."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam. I appreciate your offer to show me around the village. I'll definitely take you up on that sometime."
+        ],
+        [
+          "Sam Moore",
+          "You should also make sure to grab a coffee at Hobbs Cafe, it's a popular spot for locals to relax and catch up."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for all the recommendations, Sam. I'll make sure to visit Johnson Park and the local library soon. I might take you up on that tour offer as well."
+        ],
+        [
+          "Sam Moore",
+          "Feel free to join me at The Rose and Crown Pub tomorrow for my birthday party. It's a great way to meet more villagers and be part of the community."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for the invitation, Sam. I would love to join you at The Rose and Crown Pub for your birthday party tomorrow."
+        ],
+        [
+          "Sam Moore",
+          "You're very welcome, Carlos. I'm glad to help you settle in. If you have any more questions or need assistance, don't hesitate to ask. Enjoy exploring the village!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam. I appreciate your warm welcome and the guidance you've provided. I look forward to exploring the village and meeting more of the residents. I'll make sure to stop by The Rose and Crown Pub for your birthday party tomorrow."
+        ],
+        [
+          "Sam Moore",
+          "Feel free to ask me any questions about the village or if you need any help getting settled. I'm here to assist you in any way I can."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam. I appreciate your warm welcome and the guidance you've provided. I look forward to exploring the village and meeting more of the residents. I'll make sure to stop by The Rose and Crown Pub for your birthday party tomorrow."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        122,
+        30
+      ],
+      "pronunciatio": "\ud83d\ude8c",
+      "description": "attending classes at Oak Hill College (waiting for the bus) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        86,
+        37
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "having breakfast (conversing about Klaus Mueller and Wolfgang Schulz discussing exploring the village, with Klaus inviting Wolfgang to join him and Ayesha on a tour the following day.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        98,
+        43
+      ],
+      "pronunciatio": "\u2615",
+      "description": "attending classes at Oak Hill College (conversing about two friends, Eddy and Tom, catching up on their day, discussing Eddy's music theory classes, and planning to meet for a coffee chat next Wednesday) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        73,
+        65
+      ],
+      "pronunciatio": "\u2615",
+      "description": "managing the store at The Willow Market and Pharmacy (conversing about two friends, Eddy and Tom, catching up on their day, discussing Eddy's music theory classes, and planning to meet for a coffee chat next Wednesday) @ the Ville:Moreno family's house:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83d\udca1",
+      "description": "working on her new children's book series (brainstorming new characters and plot points) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "having breakfast and reading the news (making a list of potential topics for his book) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:13:00"
+  }
+}

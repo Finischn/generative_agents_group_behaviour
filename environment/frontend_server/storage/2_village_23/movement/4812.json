@@ -1,0 +1,97 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "taking a break and having lunch at Hobbs Cafe (chatting with customers and making them feel welcome) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        93,
+        29
+      ],
+      "pronunciatio": "\ud83c\udfdb\ufe0f",
+      "description": "exploring the village and taking in nature (conversing about Carlos Gomez and Ayesha Khan are discussing their plans to explore the local village, visit the library to research Shakespeare's works, try pastries at a local bakery, visit the old town square, explore the village museum, attend a local music event, have a walking tour of the village, and attend Sam's birthday party at The Rose and Crown Pub.) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "at the library at Oak Hill College (conversing about Klaus Mueller and Wolfgang Schulz make plans to explore the history of the village's landmarks together, with Klaus offering to give Wolfgang a tour and share interesting stories starting from Oak Hill College at 9am the next morning.) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        37,
+        61
+      ],
+      "pronunciatio": "\ud83d\uded2",
+      "description": "gathering party materials and decorations at home (making a shopping list for the party materials) @ the Ville:Moore family's house:main room:desk",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        89,
+        32
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "having lunch (conversing about Carlos Gomez and Ayesha Khan are discussing their plans to explore the local village, visit the library to research Shakespeare's works, try pastries at a local bakery, visit the old town square, explore the village museum, attend a local music event, have a walking tour of the village, and attend Sam's birthday party at The Rose and Crown Pub.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        72,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "having lunch (eating his lunch) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        59,
+        30
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "attending classes at Oak Hill College (conversing about Eddy Lin and Klaus Mueller are discussing plans to jam with local musicians, explore the village's history and culture, organize a music event, and visit the local art gallery after their village exploration with Ayesha Khan.) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        67,
+        57
+      ],
+      "pronunciatio": "\ud83e\udd66",
+      "description": "managing the store at The Willow Market and Pharmacy (restocking perishable items) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\ud83c\udfb6",
+      "description": "taking a break and spending some time relaxing (listening to some calming music) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "continuing to work on his book (reviewing his notes and research materials) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:22:00"
+  }
+}

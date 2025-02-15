@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83e\uddfc\ud83e\uddfd",
+      "description": "closing Hobbs Cafe and heading home (cleaning and wiping down the counters) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        35,
+        32
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "attending a community poetry reading event (leaving his house and heading to the event) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "at the library at Oak Hill College (reviewing his research topic and outline) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        57,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Ayesha Khan and Sam Moore are chatting about exploring the village, including visiting the library, village square, local history museum, attending music events, trying out the bakery on Main Street, meeting residents, and celebrating Sam's birthday at The Rose and Crown Pub. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Ayesha! It's great to see you here at the library. How have you been finding your time exploring the village so far?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Sam! I've been loving my time exploring the village so far. The library has been a great place to research and learn more about Shakespeare's works. Have you discovered any hidden gems in the village that I should check out?"
+        ],
+        [
+          "Sam Moore",
+          "You should definitely check out the village square, especially during market days. It's a lively place with local vendors selling unique goods."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds wonderful, I'll definitely check out the village square during market days. Thank you for the recommendation, Sam!"
+        ],
+        [
+          "Sam Moore",
+          "If you're interested in history, I recommend visiting the local history museum. It's full of fascinating artifacts and stories about our village."
+        ],
+        [
+          "Ayesha Khan",
+          "That's a great suggestion, Sam. I'll make sure to visit the local history museum soon. Thanks for sharing!"
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, since you enjoy exploring the village's culture, you should attend the music events at the community center. It's a great way to experience the local music scene."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic way to immerse myself in the village's music scene! I can't wait to attend the music events at the community center. Thank you for the recommendation, Sam."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, if you're interested in trying out local cuisine, I recommend visiting the bakery on Main Street. They have the best pastries and coffee in town!"
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Sam! I'll make sure to visit the bakery on Main Street and try out their pastries and coffee."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, since you're new to the village, I would be happy to show you around some more and introduce you to other residents. How about we grab a cup of coffee at Hobbs Cafe tomorrow morning?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea, Sam! I would love to explore more of the village with you and meet some of the other residents. Coffee at Hobbs Cafe tomorrow morning sounds perfect."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, don't forget to join me at my birthday party tomorrow evening at The Rose and Crown Pub. I would love for you to meet some of the other long-term residents and have a good time."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much, Sam! I'm really looking forward to attending your birthday party at The Rose and Crown Pub tomorrow evening. It will be a great opportunity for me to meet more of the long-term residents and celebrate with you."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, I also wanted to mention that there is a local art gallery in town that showcases some incredible pieces of art. If you're interested, I can take you there and we can appreciate the beauty together."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much for all the wonderful recommendations, Sam! I really appreciate your help in discovering more about the village. I'm looking forward to exploring the village square, visiting the history museum, attending music events at the community center, trying out the bakery on Main Street, and most importantly, celebrating your birthday at The Rose and Crown Pub. I'm so grateful for your kindness and generosity."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        55,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Ayesha Khan and Sam Moore are chatting about exploring the village, including visiting the library, village square, local history museum, attending music events, trying out the bakery on Main Street, meeting residents, and celebrating Sam's birthday at The Rose and Crown Pub. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Ayesha! It's great to see you here at the library. How have you been finding your time exploring the village so far?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Sam! I've been loving my time exploring the village so far. The library has been a great place to research and learn more about Shakespeare's works. Have you discovered any hidden gems in the village that I should check out?"
+        ],
+        [
+          "Sam Moore",
+          "You should definitely check out the village square, especially during market days. It's a lively place with local vendors selling unique goods."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds wonderful, I'll definitely check out the village square during market days. Thank you for the recommendation, Sam!"
+        ],
+        [
+          "Sam Moore",
+          "If you're interested in history, I recommend visiting the local history museum. It's full of fascinating artifacts and stories about our village."
+        ],
+        [
+          "Ayesha Khan",
+          "That's a great suggestion, Sam. I'll make sure to visit the local history museum soon. Thanks for sharing!"
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, since you enjoy exploring the village's culture, you should attend the music events at the community center. It's a great way to experience the local music scene."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic way to immerse myself in the village's music scene! I can't wait to attend the music events at the community center. Thank you for the recommendation, Sam."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, if you're interested in trying out local cuisine, I recommend visiting the bakery on Main Street. They have the best pastries and coffee in town!"
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Sam! I'll make sure to visit the bakery on Main Street and try out their pastries and coffee."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, since you're new to the village, I would be happy to show you around some more and introduce you to other residents. How about we grab a cup of coffee at Hobbs Cafe tomorrow morning?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea, Sam! I would love to explore more of the village with you and meet some of the other residents. Coffee at Hobbs Cafe tomorrow morning sounds perfect."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, don't forget to join me at my birthday party tomorrow evening at The Rose and Crown Pub. I would love for you to meet some of the other long-term residents and have a good time."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much, Sam! I'm really looking forward to attending your birthday party at The Rose and Crown Pub tomorrow evening. It will be a great opportunity for me to meet more of the long-term residents and celebrate with you."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, I also wanted to mention that there is a local art gallery in town that showcases some incredible pieces of art. If you're interested, I can take you there and we can appreciate the beauty together."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much for all the wonderful recommendations, Sam! I really appreciate your help in discovering more about the village. I'm looking forward to exploring the village square, visiting the history museum, attending music events at the community center, trying out the bakery on Main Street, and most importantly, celebrating your birthday at The Rose and Crown Pub. I'm so grateful for your kindness and generosity."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        62,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "studying for exams at the library (reviewing his notes from class) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        95,
+        74
+      ],
+      "pronunciatio": "\ud83c\udfb6",
+      "description": "practicing music and studying (practicing scales on his instrument) @ the Ville:Lin family's house:Eddy Lin's bedroom:desk",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        76,
+        56
+      ],
+      "pronunciatio": "\ud83c\udf7f\ud83e\udd64",
+      "description": "relaxing and watching TV with his wife (getting snacks and drinks for himself and his wife) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        57,
+        65
+      ],
+      "pronunciatio": "\u2615\ud83d\udcd6",
+      "description": "taking some time to read (making a cup of tea to enjoy while reading) @ the Ville:Tamara Taylor and Carmen Ortiz's house:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        61
+      ],
+      "pronunciatio": "\ud83d\ude0b",
+      "description": "taking a break to have dinner (enjoying his meal) @ the Ville:Adam Smith's house:main room:cooking area",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 19:08:10"
+  }
+}

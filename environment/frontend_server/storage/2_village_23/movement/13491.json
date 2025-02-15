@@ -1,0 +1,97 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "serving customers at Hobbs Cafe (preparing lunch items for customers) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        27,
+        45
+      ],
+      "pronunciatio": "\ud83c\udf33",
+      "description": "exploring the village and taking in nature (conversing about building a friendship through exploring the village, attending events, and engaging in shared interests like poetry, writing, and history) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        109,
+        30
+      ],
+      "pronunciatio": "\ud83e\ude91",
+      "description": "having lunch at Hobbs Cafe (finding a table and sitting down) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        37,
+        65
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "resting and preparing for his birthday party at home (taking a short nap) @ the Ville:Moore family's house:main room:bed",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        116,
+        38
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having lunch (eating her lunch) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        98,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying at the library (reviewing his notes from previous lectures) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83d\udc65",
+      "description": "taking a break and grabbing lunch at Hobbs Cafe (conversing about two friends, Eddy and Adam, discussing their lunch plans, sharing their experiences at Hobbs Cafe, and making plans to attend an upcoming music event together.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        88,
+        46
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "taking a lunch break (walking to the local sandwich shop for lunch) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        39,
+        30
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "taking a break and relaxing (conversing about building a friendship through exploring the village, attending events, and engaging in shared interests like poetry, writing, and history) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciatio": "\ud83d\udde8\ufe0f",
+      "description": "taking a break for lunch (conversing about the different cultural events and community activities in the village, with Adam recommending various places and events for Carlos to explore, such as poetry readings, art galleries, music events, writing workshops, the farmer's market, the local library, and a community art exhibition.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 13:28:30"
+  }
+}

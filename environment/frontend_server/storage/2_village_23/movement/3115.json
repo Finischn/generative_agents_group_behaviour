@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "opening Hobbs Cafe and standing at the counter (conversing about Isabella Rodriguez and Carlos Gomez discussing their mutual interest in creative writing, arranging to meet at Hobbs Cafe tomorrow at 4 pm to further their conversation, and looking forward to sharing about Carlos's poetry collection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        74,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "attending a creative writing workshop (conversing about Isabella Rodriguez and Carlos Gomez discussing their mutual interest in creative writing, arranging to meet at Hobbs Cafe tomorrow at 4 pm to further their conversation, and looking forward to sharing about Carlos's poetry collection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "at the library at Oak Hill College (reviewing his research topic and objectives) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast at Hobbs Cafe (enjoying his breakfast) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        86,
+        30
+      ],
+      "pronunciatio": "\ud83d\ude8c",
+      "description": "attending classes at Oak Hill College (riding the bus to Oak Hill College) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        118,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy and Wolfgang discussing recommendations for places to visit and things to do in the village, including the old town square, village museum, and a tour of the village's history and culture. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Eddy, I heard you've been living in the village for quite some time. I'm still getting to know the area, do you have any recommendations for places to visit or things to do around here?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Wolfgang, welcome to the village! One place you should definitely check out is the old town square, especially on market days. There's always something interesting happening there, and you can get a feel for the community. If you're into history, the village museum is a hidden gem too."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds fascinating, thank you for the recommendations, Eddy! I'll make sure to visit the old town square on the next market day and check out the village museum too."
+        ],
+        [
+          "Eddy Lin",
+          "Feel free to ask me if you ever need more recommendations or if you have any questions about the village. I'm always happy to help newcomers settle in!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Eddy, I truly appreciate your help and welcoming attitude. I'll definitely make use of your suggestions and look forward to exploring more of the village!"
+        ],
+        [
+          "Eddy Lin",
+          "I'm also involved in a little project with Ayesha Khan exploring the village's history and culture. If you're interested, you're welcome to join us on our tour this Saturday afternoon!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great initiative, Eddy! I would love to join you and Ayesha on the tour this Saturday afternoon. It would be a fantastic opportunity to learn more about the village's history and culture."
+        ],
+        [
+          "Eddy Lin",
+          "Great, I'll provide you with more details about the tour and the meeting point. Let's exchange contact information so I can keep you updated."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much, Eddy, I really appreciate all your help and guidance. I'm looking forward to joining you and Ayesha on the tour this Saturday afternoon. Please do send me the details and I'll make sure to be there!"
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad you're settling in well, Wolfgang. If you need any more tips or have any questions, feel free to reach out to me anytime!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Eddy, I will definitely join you and Ayesha on the tour this Saturday afternoon. I look forward to learning more about the village's history and culture."
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad you're settling in well, Wolfgang. If you need any more tips or have any questions, feel free to reach out to me anytime!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for inviting me to join the tour with Ayesha this Saturday. I'm really looking forward to learning more about the village's history and culture."
+        ],
+        [
+          "Eddy Lin",
+          "If you're interested, we could grab a coffee sometime this week and chat more about the village and music. What do you think?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a wonderful idea, Eddy! I'd love to grab a coffee with you this week and chat more about the village and music."
+        ],
+        [
+          "Eddy Lin",
+          "It's been a pleasure chatting with you, Wolfgang. I look forward to our coffee chat this week!"
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        116,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy and Wolfgang discussing recommendations for places to visit and things to do in the village, including the old town square, village museum, and a tour of the village's history and culture. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Eddy, I heard you've been living in the village for quite some time. I'm still getting to know the area, do you have any recommendations for places to visit or things to do around here?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Wolfgang, welcome to the village! One place you should definitely check out is the old town square, especially on market days. There's always something interesting happening there, and you can get a feel for the community. If you're into history, the village museum is a hidden gem too."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds fascinating, thank you for the recommendations, Eddy! I'll make sure to visit the old town square on the next market day and check out the village museum too."
+        ],
+        [
+          "Eddy Lin",
+          "Feel free to ask me if you ever need more recommendations or if you have any questions about the village. I'm always happy to help newcomers settle in!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Eddy, I truly appreciate your help and welcoming attitude. I'll definitely make use of your suggestions and look forward to exploring more of the village!"
+        ],
+        [
+          "Eddy Lin",
+          "I'm also involved in a little project with Ayesha Khan exploring the village's history and culture. If you're interested, you're welcome to join us on our tour this Saturday afternoon!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great initiative, Eddy! I would love to join you and Ayesha on the tour this Saturday afternoon. It would be a fantastic opportunity to learn more about the village's history and culture."
+        ],
+        [
+          "Eddy Lin",
+          "Great, I'll provide you with more details about the tour and the meeting point. Let's exchange contact information so I can keep you updated."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much, Eddy, I really appreciate all your help and guidance. I'm looking forward to joining you and Ayesha on the tour this Saturday afternoon. Please do send me the details and I'll make sure to be there!"
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad you're settling in well, Wolfgang. If you need any more tips or have any questions, feel free to reach out to me anytime!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Eddy, I will definitely join you and Ayesha on the tour this Saturday afternoon. I look forward to learning more about the village's history and culture."
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad you're settling in well, Wolfgang. If you need any more tips or have any questions, feel free to reach out to me anytime!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for inviting me to join the tour with Ayesha this Saturday. I'm really looking forward to learning more about the village's history and culture."
+        ],
+        [
+          "Eddy Lin",
+          "If you're interested, we could grab a coffee sometime this week and chat more about the village and music. What do you think?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a wonderful idea, Eddy! I'd love to grab a coffee with you this week and chat more about the village and music."
+        ],
+        [
+          "Eddy Lin",
+          "It's been a pleasure chatting with you, Wolfgang. I look forward to our coffee chat this week!"
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        52
+      ],
+      "pronunciatio": "\ud83d\udce7",
+      "description": "managing the store at The Willow Market and Pharmacy (checking the store's email and responding to any customer inquiries) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        74
+      ],
+      "pronunciatio": "\u270d\ufe0f",
+      "description": "working on her new children's book series (writing the first draft of the first chapter) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        29,
+        42
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "going for a walk around the village (walking around the village) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:39:10"
+  }
+}

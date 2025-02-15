@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83e\uddf9",
+      "description": "closing Hobbs Cafe and cleaning up (clearing and wiping down tables) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        18
+      ],
+      "pronunciatio": "\ud83c\udfb5",
+      "description": "winding down for the evening (listening to some calming music) @ the Ville:Carlos Gomez's apartment:main room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        96,
+        30
+      ],
+      "pronunciatio": "\ud83e\udd1d",
+      "description": "attending Sam's birthday party at The Rose and Crown Pub (conversing about organizing a community event involving local schools, musicians, artisans, community organizations, interactive workshops, a local food festival, cultural workshops, local leaders and policymakers, creating a schedule of events, collaborating with local businesses, and creating promotional materials to spread the word and increase attendance.) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        57,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Sam Moore and Adam Smith are discussing various cultural events and activities in their village that they plan to attend together, including art exhibits, poetry readings, music events, historical tours, cooking classes, community picnics, and local theater plays. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Adam! I had a great time at my birthday celebration tonight. Thank you for being a part of it. Have you seen the latest art exhibit at the local gallery? I heard it's amazing!"
+        ],
+        [
+          "Adam Smith",
+          "Hey Sam! I'm glad you had a great time at your birthday celebration. I haven't seen the latest art exhibit yet, but I'm definitely interested in checking it out. Do you want to go together sometime this week?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a great idea, Adam! How about we plan to visit the art exhibit on Friday afternoon? We can grab a coffee at Hobbs Cafe before heading there."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a plan, Sam! I'm looking forward to exploring the art exhibit with you on Friday afternoon."
+        ],
+        [
+          "Sam Moore",
+          "I also heard there's a poetry reading happening next week at the village square. Would you like to attend that together as well?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds fantastic, Sam! I love attending poetry readings. I'm definitely up for going to the one at the village square next week. It'll be a great way to immerse ourselves in some local culture."
+        ],
+        [
+          "Sam Moore",
+          "We should also look into attending the music event happening at the community center next month. It sounds like it's going to be a fun evening with live performances."
+        ],
+        [
+          "Adam Smith",
+          "I completely agree, Sam. Let's make sure to mark our calendars for the music event at the community center next month. It's always a joy experiencing live performances in our village."
+        ],
+        [
+          "Sam Moore",
+          "We should also consider joining the historical tour next weekend, Adam. It would be fascinating to learn more about our village's past."
+        ],
+        [
+          "Adam Smith",
+          "That's a great idea, Sam. I've always been interested in learning more about our village's history. Let's definitely join the historical tour next weekend."
+        ],
+        [
+          "Sam Moore",
+          "We should also make plans to attend the cooking class at the community center next month. I've always wanted to learn some new recipes!"
+        ],
+        [
+          "Adam Smith",
+          "That's a fantastic idea, Sam! I'm always up for learning new recipes. Let's definitely sign up for the cooking class at the community center next month."
+        ],
+        [
+          "Sam Moore",
+          "We should also look into participating in the community picnic next weekend. It would be a great opportunity to enjoy some outdoor fun with our neighbors."
+        ],
+        [
+          "Adam Smith",
+          "I completely agree, Sam. Let's make sure to participate in the community picnic next weekend. It'll be a great way to enjoy some outdoor fun with everyone."
+        ],
+        [
+          "Sam Moore",
+          "We should also plan to visit the local theater play happening next month. I heard it's a fantastic production that we should not miss!"
+        ],
+        [
+          "Adam Smith",
+          "Absolutely, Sam! I'm excited to explore all these upcoming events with you. Our village has so much to offer, and I can't wait to experience it all together."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having dinner (eating her dinner) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda\u23f0",
+      "description": "studying for exams at the library (continuing to review and study until 20:00 PM) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83c\udfb9",
+      "description": "practicing his music and studying at Oak Hill College (practicing his piano skills) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        83,
+        42
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "making arrangements for a gathering at the community center to introduce Carlos to more villagers (conversing about organizing a community event involving local schools, musicians, artisans, community organizations, interactive workshops, a local food festival, cultural workshops, local leaders and policymakers, creating a schedule of events, collaborating with local businesses, and creating promotional materials to spread the word and increase attendance.) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83d\udcd6\u23f0",
+      "description": "spending some time reading and relaxing (continuing to read for 30 minutes) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        57,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Sam Moore and Adam Smith are discussing various cultural events and activities in their village that they plan to attend together, including art exhibits, poetry readings, music events, historical tours, cooking classes, community picnics, and local theater plays. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Adam! I had a great time at my birthday celebration tonight. Thank you for being a part of it. Have you seen the latest art exhibit at the local gallery? I heard it's amazing!"
+        ],
+        [
+          "Adam Smith",
+          "Hey Sam! I'm glad you had a great time at your birthday celebration. I haven't seen the latest art exhibit yet, but I'm definitely interested in checking it out. Do you want to go together sometime this week?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a great idea, Adam! How about we plan to visit the art exhibit on Friday afternoon? We can grab a coffee at Hobbs Cafe before heading there."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a plan, Sam! I'm looking forward to exploring the art exhibit with you on Friday afternoon."
+        ],
+        [
+          "Sam Moore",
+          "I also heard there's a poetry reading happening next week at the village square. Would you like to attend that together as well?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds fantastic, Sam! I love attending poetry readings. I'm definitely up for going to the one at the village square next week. It'll be a great way to immerse ourselves in some local culture."
+        ],
+        [
+          "Sam Moore",
+          "We should also look into attending the music event happening at the community center next month. It sounds like it's going to be a fun evening with live performances."
+        ],
+        [
+          "Adam Smith",
+          "I completely agree, Sam. Let's make sure to mark our calendars for the music event at the community center next month. It's always a joy experiencing live performances in our village."
+        ],
+        [
+          "Sam Moore",
+          "We should also consider joining the historical tour next weekend, Adam. It would be fascinating to learn more about our village's past."
+        ],
+        [
+          "Adam Smith",
+          "That's a great idea, Sam. I've always been interested in learning more about our village's history. Let's definitely join the historical tour next weekend."
+        ],
+        [
+          "Sam Moore",
+          "We should also make plans to attend the cooking class at the community center next month. I've always wanted to learn some new recipes!"
+        ],
+        [
+          "Adam Smith",
+          "That's a fantastic idea, Sam! I'm always up for learning new recipes. Let's definitely sign up for the cooking class at the community center next month."
+        ],
+        [
+          "Sam Moore",
+          "We should also look into participating in the community picnic next weekend. It would be a great opportunity to enjoy some outdoor fun with our neighbors."
+        ],
+        [
+          "Adam Smith",
+          "I completely agree, Sam. Let's make sure to participate in the community picnic next weekend. It'll be a great way to enjoy some outdoor fun with everyone."
+        ],
+        [
+          "Sam Moore",
+          "We should also plan to visit the local theater play happening next month. I heard it's a fantastic production that we should not miss!"
+        ],
+        [
+          "Adam Smith",
+          "Absolutely, Sam! I'm excited to explore all these upcoming events with you. Our village has so much to offer, and I can't wait to experience it all together."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 20:34:10"
+  }
+}

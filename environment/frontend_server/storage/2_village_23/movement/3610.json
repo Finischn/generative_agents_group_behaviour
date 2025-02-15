@@ -1,0 +1,139 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciatio": "\ud83d\udce6\u2714\ufe0f",
+      "description": "greeting customers and taking orders at Hobbs Cafe (preparing the orders and making sure they are correct) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        87,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Eddy Lin chatting about their day, the creative writing workshop, and Eddy offering recommendations as a village resident. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Eddy, I couldn't help but notice you taking a break between classes. How's your day going so far?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Carlos, my day is going pretty well. How about you? Are you enjoying the creative writing workshop?"
+        ],
+        [
+          "Carlos Gomez",
+          "I'm really enjoying the creative writing workshop. It's been great meeting new people and exploring my creativity. How long have you been a resident here in the village?"
+        ],
+        [
+          "Eddy Lin",
+          "I have been a resident here for quite some time now. If you ever need any recommendations or have any questions about the village, feel free to ask me."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Eddy. I appreciate your offer. I might take you up on that offer sometime. It's been great chatting with you. I should head back to the workshop now."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        131,
+        46
+      ],
+      "pronunciatio": "\ud83d\uddd2\ufe0f",
+      "description": "at the library at Oak Hill College (organizing his notes and creating an outline for his paper) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        71,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "reading at Hobbs Cafe (continuing to read) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending classes at Oak Hill College (taking notes) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        113,
+        30
+      ],
+      "pronunciatio": "\ud83d\udd2c",
+      "description": "attending classes at Oak Hill College (conducting a lab experiment) (reviewing the lab instructions) @ the Ville:Oak Hill College:classroom:blackboard",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        86,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Eddy Lin chatting about their day, the creative writing workshop, and Eddy offering recommendations as a village resident. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Eddy, I couldn't help but notice you taking a break between classes. How's your day going so far?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Carlos, my day is going pretty well. How about you? Are you enjoying the creative writing workshop?"
+        ],
+        [
+          "Carlos Gomez",
+          "I'm really enjoying the creative writing workshop. It's been great meeting new people and exploring my creativity. How long have you been a resident here in the village?"
+        ],
+        [
+          "Eddy Lin",
+          "I have been a resident here for quite some time now. If you ever need any recommendations or have any questions about the village, feel free to ask me."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Eddy. I appreciate your offer. I might take you up on that offer sometime. It's been great chatting with you. I should head back to the workshop now."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        73,
+        58
+      ],
+      "pronunciatio": "\u2615",
+      "description": "helping customers with their orders (taking a break) @ the Ville:Moreno family's house:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        57,
+        65
+      ],
+      "pronunciatio": "\u2615\ufe0f",
+      "description": "taking a break and spending some time relaxing (making a cup of tea) @ the Ville:Tamara Taylor and Carmen Ortiz's house:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        27,
+        44
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "going for a walk around the village to clear his mind (walking around the village) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:01:40"
+  }
+}

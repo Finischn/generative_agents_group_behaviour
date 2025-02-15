@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        60,
+        48
+      ],
+      "pronunciatio": "\u2615",
+      "description": "closing up Hobbs Cafe and getting ready to go home (restocking the coffee beans and other supplies) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        59,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring various activities and events in the village, such as writing workshops, music events, poetry readings, visiting museums, art galleries, the old town square, Johnson Park, and a walking tour, between Carlos Gomez and Sam Moore. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Sam, I wanted to thank you again for inviting me to your birthday party. I really appreciate the warm welcome I've received from you and the other villagers. I'm looking forward to exploring more of the village with you and meeting other residents. It's been a great experience so far!"
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're enjoying your time here, Carlos. There's so much to explore in the village, and I'm happy to show you around. Let's plan our next adventure together!"
+        ],
+        [
+          "Carlos Gomez",
+          "I'm really looking forward to attending the writing workshop tomorrow. It's always great to connect with other creatives in the community and hone my skills. Would you like to join me?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a fantastic opportunity, Carlos. I'd love to join you at the writing workshop tomorrow. It'll be a great way for us to meet more villagers and continue exploring our creative side together."
+        ],
+        [
+          "Carlos Gomez",
+          "I also heard about a local music event happening this weekend. Would you be interested in attending that together?"
+        ],
+        [
+          "Sam Moore",
+          "Carlos, I'm thrilled to hear that you're enjoying the village and the warm welcome you've received. I'm more than happy to continue exploring with you and introducing you to more of our community's activities. Let's definitely plan to attend the writing workshop together and check out the local music event this weekend. It's wonderful to have you here!"
+        ],
+        [
+          "Carlos Gomez",
+          "I also heard about a poetry reading event at the local library over the weekend. Would you like to attend that with me?"
+        ],
+        [
+          "Sam Moore",
+          "Carlos, I'm delighted to hear about the poetry reading event at the local library. I think attending that together would be a wonderful way for us to further immerse ourselves in the village's culture and connect with more residents. Count me in for the poetry reading event!"
+        ],
+        [
+          "Carlos Gomez",
+          "Sam, I've been curious about the history and culture of the village. Would you be interested in exploring the local museums and art galleries with me sometime?"
+        ],
+        [
+          "Sam Moore",
+          "Carlos, I would be delighted to explore the local museums and art galleries with you. It's a great way to delve deeper into the history and culture of our village. Let's plan a visit together soon."
+        ],
+        [
+          "Carlos Gomez",
+          "Sam, I was thinking about checking out the old town square and village museum. Would you be interested in exploring them with me?"
+        ],
+        [
+          "Sam Moore",
+          "Carlos, I'm thrilled that you're eager to explore the village's history and culture. How about we start with a visit to the old town square and village museum tomorrow afternoon?"
+        ],
+        [
+          "Carlos Gomez",
+          "Sam, I was thinking about taking a walk in Johnson Park together. Would you be up for exploring the natural beauty of the park with me?"
+        ],
+        [
+          "Sam Moore",
+          "Carlos, I would be more than happy to take a walk in Johnson Park with you. It's a beautiful spot in our village and a great way to connect with nature. Let's plan to explore the park together soon."
+        ],
+        [
+          "Carlos Gomez",
+          "Sam, I also heard about a walking tour of the village happening next week. Would you be interested in joining me on that tour?"
+        ],
+        [
+          "Sam Moore",
+          "Carlos, I am thrilled to see your enthusiasm for exploring the village's history and culture. How about we start by visiting the old town square and village museum tomorrow afternoon? It would be a great way for you to learn more about our community's rich heritage."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        92,
+        32
+      ],
+      "pronunciatio": "\ud83c\udfb5",
+      "description": "at the library at Oak Hill College (conversing about organizing a music event at the village square, Eddy Lin and Klaus Mueller discuss incorporating local talent, cultural heritage, food stalls, artisan showcases, interactive workshops, community collaborations, school involvement, venue securing, promotional materials, timeline establishment, and sponsorship outreach.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        58,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring various activities and events in the village, such as writing workshops, music events, poetry readings, visiting museums, art galleries, the old town square, Johnson Park, and a walking tour, between Carlos Gomez and Sam Moore. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Sam, I wanted to thank you again for inviting me to your birthday party. I really appreciate the warm welcome I've received from you and the other villagers. I'm looking forward to exploring more of the village with you and meeting other residents. It's been a great experience so far!"
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're enjoying your time here, Carlos. There's so much to explore in the village, and I'm happy to show you around. Let's plan our next adventure together!"
+        ],
+        [
+          "Carlos Gomez",
+          "I'm really looking forward to attending the writing workshop tomorrow. It's always great to connect with other creatives in the community and hone my skills. Would you like to join me?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a fantastic opportunity, Carlos. I'd love to join you at the writing workshop tomorrow. It'll be a great way for us to meet more villagers and continue exploring our creative side together."
+        ],
+        [
+          "Carlos Gomez",
+          "I also heard about a local music event happening this weekend. Would you be interested in attending that together?"
+        ],
+        [
+          "Sam Moore",
+          "Carlos, I'm thrilled to hear that you're enjoying the village and the warm welcome you've received. I'm more than happy to continue exploring with you and introducing you to more of our community's activities. Let's definitely plan to attend the writing workshop together and check out the local music event this weekend. It's wonderful to have you here!"
+        ],
+        [
+          "Carlos Gomez",
+          "I also heard about a poetry reading event at the local library over the weekend. Would you like to attend that with me?"
+        ],
+        [
+          "Sam Moore",
+          "Carlos, I'm delighted to hear about the poetry reading event at the local library. I think attending that together would be a wonderful way for us to further immerse ourselves in the village's culture and connect with more residents. Count me in for the poetry reading event!"
+        ],
+        [
+          "Carlos Gomez",
+          "Sam, I've been curious about the history and culture of the village. Would you be interested in exploring the local museums and art galleries with me sometime?"
+        ],
+        [
+          "Sam Moore",
+          "Carlos, I would be delighted to explore the local museums and art galleries with you. It's a great way to delve deeper into the history and culture of our village. Let's plan a visit together soon."
+        ],
+        [
+          "Carlos Gomez",
+          "Sam, I was thinking about checking out the old town square and village museum. Would you be interested in exploring them with me?"
+        ],
+        [
+          "Sam Moore",
+          "Carlos, I'm thrilled that you're eager to explore the village's history and culture. How about we start with a visit to the old town square and village museum tomorrow afternoon?"
+        ],
+        [
+          "Carlos Gomez",
+          "Sam, I was thinking about taking a walk in Johnson Park together. Would you be up for exploring the natural beauty of the park with me?"
+        ],
+        [
+          "Sam Moore",
+          "Carlos, I would be more than happy to take a walk in Johnson Park with you. It's a beautiful spot in our village and a great way to connect with nature. Let's plan to explore the park together soon."
+        ],
+        [
+          "Carlos Gomez",
+          "Sam, I also heard about a walking tour of the village happening next week. Would you be interested in joining me on that tour?"
+        ],
+        [
+          "Sam Moore",
+          "Carlos, I am thrilled to see your enthusiasm for exploring the village's history and culture. How about we start by visiting the old town square and village museum tomorrow afternoon? It would be a great way for you to learn more about our community's rich heritage."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        91,
+        32
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "studying at the library (conversing about exploring the village, attending events, and delving into its culture and traditions between Wolfgang Schulz and Ayesha Khan) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        116,
+        41
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying for exams at the library (practicing more sample problems) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        92,
+        32
+      ],
+      "pronunciatio": "\ud83c\udfb6\ud83c\udfa8",
+      "description": "continuing to work on his composition project at Oak Hill College (conversing about organizing a music event at the village square, Eddy Lin and Klaus Mueller discuss incorporating local talent, cultural heritage, food stalls, artisan showcases, interactive workshops, community collaborations, school involvement, venue securing, promotional materials, timeline establishment, and sponsorship outreach.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        78,
+        51
+      ],
+      "pronunciatio": "\ud83d\uddc2\ufe0f",
+      "description": "managing the store at The Willow Market and Pharmacy (on the way to organizing and filing paperwork) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        57,
+        68
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "cooking and having dinner (deciding on a recipe for dinner) @ the Ville:Tamara Taylor and Carmen Ortiz's house:kitchen:refrigerator",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        24,
+        50
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "continuing to work on his book (taking a break to go for a short walk) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 17:06:40"
+  }
+}

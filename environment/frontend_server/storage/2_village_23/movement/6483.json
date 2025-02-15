@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udca1\ud83d\udd12",
+      "description": "heading home (turning off all the lights and locking up the cafe) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending a community poetry reading event (reviewing his poems and selecting which ones to read) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "at the library at Oak Hill College (researching statistics and data to support his argument) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        59,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcf8",
+      "description": "celebrating his birthday at The Rose and Crown Pub (taking photos with his guests) @ the Ville:The Rose and Crown Pub:pub:behind the bar counter",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        37
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having dinner (cooking dinner) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        88,
+        56
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two individuals, Wolfgang Schulz and Tamara Taylor, making plans to meet for dinner at a local Italian restaurant on Thursday evening to share their experiences as newcomers in the village @ <persona> Tamara Taylor",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hi Tamara, I couldn't help but notice you preparing food. What are you cooking?"
+        ],
+        [
+          "Tamara Taylor",
+          "Hello Wolfgang, I'm just preparing some pasta with homemade tomato sauce. Are you a fan of pasta?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds delicious! I actually love pasta, especially when it's paired with a good glass of wine."
+        ],
+        [
+          "Tamara Taylor",
+          "I'm glad you like pasta! We should definitely share a meal together sometime and maybe discuss our experiences as newcomers in the village."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great idea, Tamara! I would love to share a meal with you and discuss our experiences in the village. How about we plan for it later this week?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds wonderful, Wolfgang! Let's plan for dinner on Thursday evening. How about we meet at the local Italian restaurant around 7 pm?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a plan, Tamara! I look forward to our dinner on Thursday evening. I'm excited to share stories about our experiences in the village."
+        ],
+        [
+          "Tamara Taylor",
+          "Yes, I think that would be a great idea. It's always nice to meet new people in the village and share experiences. Looking forward to our dinner on Thursday!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I agree, Tamara! It's been great getting to know you and sharing our experiences in the village. I'm looking forward to our dinner on Thursday evening."
+        ],
+        [
+          "Tamara Taylor",
+          "It was nice chatting with you, Wolfgang. I'm excited for our dinner on Thursday to continue our conversation."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm glad we connected, Tamara. I look forward to our dinner on Thursday and getting to know more about your experiences in the village."
+        ],
+        [
+          "Tamara Taylor",
+          "I'm looking forward to hearing more about your experiences in the village and sharing mine as well. It's always great to connect with fellow newcomers."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm glad we connected, Tamara. I look forward to our dinner on Thursday and getting to know more about your experiences in the village."
+        ],
+        [
+          "Tamara Taylor",
+          "I'm glad we've connected, Wolfgang. It will be interesting to hear more about your experiences in the village. I hope our dinner on Thursday will be a great opportunity to share stories and get to know each other better."
+        ],
+        [
+          "Wolfgang Schulz",
+          "It's been really nice getting to know you, Tamara. I'm excited about our dinner on Thursday and can't wait to share more stories about our experiences in the village."
+        ],
+        [
+          "Tamara Taylor",
+          "It's been lovely chatting with you, Wolfgang. I'm looking forward to our dinner on Thursday evening and continuing our conversation."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        100,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "waiting for his food to be prepared (reviewing his notes from his music theory class) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        80,
+        43
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "heading home from work (conversing about Tom Moreno and Wolfgang Schulz are chatting about Wolfgang's experience in the village, getting recommendations for a local cafe, being invited to a community gathering, and expressing gratitude for the warm welcome received.) @ the Ville:Ryan Park's apartment:main room:closet",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        87,
+        56
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two individuals, Wolfgang Schulz and Tamara Taylor, making plans to meet for dinner at a local Italian restaurant on Thursday evening to share their experiences as newcomers in the village @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hi Tamara, I couldn't help but notice you preparing food. What are you cooking?"
+        ],
+        [
+          "Tamara Taylor",
+          "Hello Wolfgang, I'm just preparing some pasta with homemade tomato sauce. Are you a fan of pasta?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds delicious! I actually love pasta, especially when it's paired with a good glass of wine."
+        ],
+        [
+          "Tamara Taylor",
+          "I'm glad you like pasta! We should definitely share a meal together sometime and maybe discuss our experiences as newcomers in the village."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great idea, Tamara! I would love to share a meal with you and discuss our experiences in the village. How about we plan for it later this week?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds wonderful, Wolfgang! Let's plan for dinner on Thursday evening. How about we meet at the local Italian restaurant around 7 pm?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a plan, Tamara! I look forward to our dinner on Thursday evening. I'm excited to share stories about our experiences in the village."
+        ],
+        [
+          "Tamara Taylor",
+          "Yes, I think that would be a great idea. It's always nice to meet new people in the village and share experiences. Looking forward to our dinner on Thursday!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I agree, Tamara! It's been great getting to know you and sharing our experiences in the village. I'm looking forward to our dinner on Thursday evening."
+        ],
+        [
+          "Tamara Taylor",
+          "It was nice chatting with you, Wolfgang. I'm excited for our dinner on Thursday to continue our conversation."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm glad we connected, Tamara. I look forward to our dinner on Thursday and getting to know more about your experiences in the village."
+        ],
+        [
+          "Tamara Taylor",
+          "I'm looking forward to hearing more about your experiences in the village and sharing mine as well. It's always great to connect with fellow newcomers."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm glad we connected, Tamara. I look forward to our dinner on Thursday and getting to know more about your experiences in the village."
+        ],
+        [
+          "Tamara Taylor",
+          "I'm glad we've connected, Wolfgang. It will be interesting to hear more about your experiences in the village. I hope our dinner on Thursday will be a great opportunity to share stories and get to know each other better."
+        ],
+        [
+          "Wolfgang Schulz",
+          "It's been really nice getting to know you, Tamara. I'm excited about our dinner on Thursday and can't wait to share more stories about our experiences in the village."
+        ],
+        [
+          "Tamara Taylor",
+          "It's been lovely chatting with you, Wolfgang. I'm looking forward to our dinner on Thursday evening and continuing our conversation."
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        61
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "taking a break to have dinner (cooking dinner) @ the Ville:Adam Smith's house:main room:cooking area",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 18:00:30"
+  }
+}

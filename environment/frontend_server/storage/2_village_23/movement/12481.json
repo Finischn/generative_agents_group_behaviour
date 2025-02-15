@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        33,
+        36
+      ],
+      "pronunciatio": "\u2615\ud83e\udd50",
+      "description": "serving customers at Hobbs Cafe (brewing coffee and preparing pastries) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "working on editing his poetry collection (making edits and revisions to his poems) @ the Ville:Carlos Gomez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        115,
+        47
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f\ud83c\udf0d",
+      "description": "still meeting with Isabella at Oak Hill College library (conversing about two friends, Klaus Mueller and Wolfgang Schulz, discussing their excitement for exploring the village's history, culture, music scene, local landmarks, art gallery, theater productions, library, farmer's market, local traditions, and festivals together) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        39,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a warm welcome and offer of assistance from Sam Moore to help Tamara Taylor settle in the village, including plans to explore Johnson Park together, have breakfast at Hobbs Cafe, and learn more about the village's history @ <persona> Tamara Taylor",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hello, Tamara! Welcome to the village. I'm Sam Moore, a longterm resident here. If you need any help settling in or want to know more about the area, feel free to ask me. I'm always happy to assist newcomers."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Sam! I really appreciate your offer to help. I would love to learn more about the village and its history. Maybe we can grab a coffee sometime and you can tell me more about the area?"
+        ],
+        [
+          "Sam Moore",
+          "I'd be happy to show you around the village and introduce you to some of our friendly residents. How about we start with a stroll in Johnson Park tomorrow morning?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds wonderful, Sam. I would love to explore Johnson Park with you tomorrow morning and learn more about the village. Thank you for being so welcoming and helpful."
+        ],
+        [
+          "Sam Moore",
+          "Great! Let's meet at Hobbs Cafe at 8am tomorrow for breakfast before our stroll in Johnson Park. I'll share more about the village's history and some interesting stories from my time here."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam! I look forward to our breakfast at Hobbs Cafe tomorrow morning and learning more about the village from you."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're settling in well, Tamara. If you have any questions or need recommendations for places to visit or things to do in the village, don't hesitate to ask. Our community is very friendly and always happy to help."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam! I appreciate your warm welcome and willingness to help. I'm excited to explore Johnson Park with you tomorrow morning and learn more about the village's history."
+        ],
+        [
+          "Sam Moore",
+          "I'm looking forward to our walk in Johnson Park tomorrow morning and sharing more about the village with you."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam! I'm really excited to explore Johnson Park with you tomorrow morning and learn more about the village's history. I appreciate your warm welcome and guidance."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're settling in well, Tamara. If you have any questions or need recommendations for places to visit or things to do in the village, don't hesitate to ask. Our community is very friendly and always happy to help."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam! I appreciate your warm welcome and willingness to help. I'm excited to explore Johnson Park with you tomorrow morning and learn more about the village's history."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're settling in well, Tamara. If you have any questions or need recommendations for places to visit or things to do in the village, don't hesitate to ask. Our community is very friendly and always happy to help."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Sam! I'm really looking forward to our breakfast at Hobbs Cafe and exploring Johnson Park tomorrow morning. Your kindness and willingness to show me around mean a lot to me."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're settling in well, Tamara. If you have any questions or need recommendations for places to visit or things to do in the village, don't hesitate to ask. Our community is very friendly and always happy to help."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Sam! I'm really looking forward to our breakfast at Hobbs Cafe and exploring Johnson Park tomorrow morning. Your kindness and willingness to show me around mean a lot to me."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        112,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending classes at Oak Hill College (attending her second class) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        117,
+        46
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "meeting Klaus Mueller for the village tour (conversing about two friends, Klaus Mueller and Wolfgang Schulz, discussing their excitement for exploring the village's history, culture, music scene, local landmarks, art gallery, theater productions, library, farmer's market, local traditions, and festivals together) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        118,
+        30
+      ],
+      "pronunciatio": "\ud83c\udfb6",
+      "description": "attending his music theory and composition class at Oak Hill College (working on a music composition assignment) (researching different musical styles for inspiration) @ the Ville:Oak Hill College:library:bookshelf",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\ud83d\uddfa\ufe0f",
+      "description": "offering recommendations and assistance to Tamara as she explores the village and attends the music event with Ayesha Khan (providing directions and information about the village) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        37,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a warm welcome and offer of assistance from Sam Moore to help Tamara Taylor settle in the village, including plans to explore Johnson Park together, have breakfast at Hobbs Cafe, and learn more about the village's history @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hello, Tamara! Welcome to the village. I'm Sam Moore, a longterm resident here. If you need any help settling in or want to know more about the area, feel free to ask me. I'm always happy to assist newcomers."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Sam! I really appreciate your offer to help. I would love to learn more about the village and its history. Maybe we can grab a coffee sometime and you can tell me more about the area?"
+        ],
+        [
+          "Sam Moore",
+          "I'd be happy to show you around the village and introduce you to some of our friendly residents. How about we start with a stroll in Johnson Park tomorrow morning?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds wonderful, Sam. I would love to explore Johnson Park with you tomorrow morning and learn more about the village. Thank you for being so welcoming and helpful."
+        ],
+        [
+          "Sam Moore",
+          "Great! Let's meet at Hobbs Cafe at 8am tomorrow for breakfast before our stroll in Johnson Park. I'll share more about the village's history and some interesting stories from my time here."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam! I look forward to our breakfast at Hobbs Cafe tomorrow morning and learning more about the village from you."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're settling in well, Tamara. If you have any questions or need recommendations for places to visit or things to do in the village, don't hesitate to ask. Our community is very friendly and always happy to help."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam! I appreciate your warm welcome and willingness to help. I'm excited to explore Johnson Park with you tomorrow morning and learn more about the village's history."
+        ],
+        [
+          "Sam Moore",
+          "I'm looking forward to our walk in Johnson Park tomorrow morning and sharing more about the village with you."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam! I'm really excited to explore Johnson Park with you tomorrow morning and learn more about the village's history. I appreciate your warm welcome and guidance."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're settling in well, Tamara. If you have any questions or need recommendations for places to visit or things to do in the village, don't hesitate to ask. Our community is very friendly and always happy to help."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam! I appreciate your warm welcome and willingness to help. I'm excited to explore Johnson Park with you tomorrow morning and learn more about the village's history."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're settling in well, Tamara. If you have any questions or need recommendations for places to visit or things to do in the village, don't hesitate to ask. Our community is very friendly and always happy to help."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Sam! I'm really looking forward to our breakfast at Hobbs Cafe and exploring Johnson Park tomorrow morning. Your kindness and willingness to show me around mean a lot to me."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're settling in well, Tamara. If you have any questions or need recommendations for places to visit or things to do in the village, don't hesitate to ask. Our community is very friendly and always happy to help."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Sam! I'm really looking forward to our breakfast at Hobbs Cafe and exploring Johnson Park tomorrow morning. Your kindness and willingness to show me around mean a lot to me."
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        34,
+        36
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "attending a local community meeting or event related to the upcoming mayor election (greeting and socializing with other attendees) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 10:40:10"
+  }
+}

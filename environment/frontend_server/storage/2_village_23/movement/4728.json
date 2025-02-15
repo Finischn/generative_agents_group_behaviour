@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "taking a break and having lunch at Hobbs Cafe (chatting with customers and making them feel welcome) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        87,
+        29
+      ],
+      "pronunciatio": "\ud83d\udcd3\u2712\ufe0f",
+      "description": "exploring the village and taking in nature (grabbing his notebook and pen) @ the Ville:Carlos Gomez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        72,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "having lunch at Hobbs Cafe (eating his lunch) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        38,
+        54
+      ],
+      "pronunciatio": "\ud83d\udcb0",
+      "description": "gathering party materials and decorations at home (checking his budget for the party) @ the Ville:Moore family's house:main room:desk",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        96,
+        32
+      ],
+      "pronunciatio": "\u23f3",
+      "description": "having lunch (waiting in line to get her food) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the village, meeting local musicians, and having lunch at Hobbs Cafe with Eddy, as well as attending the upcoming local music event and visiting the local art gallery together @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Eddy, I overheard you talking about recommendations for places to visit in the village earlier. Do you have any suggestions for must-see spots around here?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Wolfgang, one spot you definitely shouldn't miss is the village square. It's the heart of the community and there's always something interesting happening there."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thanks for the suggestion, Eddy. I'll definitely make sure to check out the village square. Anything else you recommend for a newcomer like me?"
+        ],
+        [
+          "Eddy Lin",
+          "Another must-see spot in the village is the old town square. It's full of history and charm, definitely worth a visit."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Eddy. I appreciate the recommendations. I'll make sure to explore the village square and the old town square."
+        ],
+        [
+          "Eddy Lin",
+          "You should also visit the village museum. It's a great place to learn more about the village's history and culture."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds fascinating, Eddy. I will definitely make time to visit the village museum and learn more about the history and culture here. Thank you for the recommendation!"
+        ],
+        [
+          "Eddy Lin",
+          "If you're interested in experiencing the local music scene, I can introduce you to some talented musicians in the village. It could be a great way for you to immerse yourself in our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That's great, Eddy. I would love to meet some local musicians and experience the music scene here. When would be a good time for that?"
+        ],
+        [
+          "Eddy Lin",
+          "We could grab lunch at Hobbs Cafe and discuss more about the village after your exploration. How does that sound?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic plan, Eddy. I look forward to exploring the village, meeting local musicians, and having lunch at Hobbs Cafe with you. What time should we meet there?"
+        ],
+        [
+          "Eddy Lin",
+          "We can also plan to attend the upcoming local music event together. It would be a great way for you to enjoy the village's music scene and meet more people from the community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much for all your recommendations, Eddy. I really appreciate your help in getting to know the village better."
+        ],
+        [
+          "Eddy Lin",
+          "We can plan to attend the upcoming local music event together. It would be a great way for you to enjoy the village's music scene and meet more people from the community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic plan, Eddy. I look forward to exploring the village, meeting local musicians, and having lunch at Hobbs Cafe with you. What time should we meet there?"
+        ],
+        [
+          "Eddy Lin",
+          "We can also plan to visit the local art gallery together. It showcases some of the best artworks from local artists and is a great way to appreciate the artistic side of our village."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        120,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the village, meeting local musicians, and having lunch at Hobbs Cafe with Eddy, as well as attending the upcoming local music event and visiting the local art gallery together @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Eddy, I overheard you talking about recommendations for places to visit in the village earlier. Do you have any suggestions for must-see spots around here?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Wolfgang, one spot you definitely shouldn't miss is the village square. It's the heart of the community and there's always something interesting happening there."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thanks for the suggestion, Eddy. I'll definitely make sure to check out the village square. Anything else you recommend for a newcomer like me?"
+        ],
+        [
+          "Eddy Lin",
+          "Another must-see spot in the village is the old town square. It's full of history and charm, definitely worth a visit."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Eddy. I appreciate the recommendations. I'll make sure to explore the village square and the old town square."
+        ],
+        [
+          "Eddy Lin",
+          "You should also visit the village museum. It's a great place to learn more about the village's history and culture."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds fascinating, Eddy. I will definitely make time to visit the village museum and learn more about the history and culture here. Thank you for the recommendation!"
+        ],
+        [
+          "Eddy Lin",
+          "If you're interested in experiencing the local music scene, I can introduce you to some talented musicians in the village. It could be a great way for you to immerse yourself in our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That's great, Eddy. I would love to meet some local musicians and experience the music scene here. When would be a good time for that?"
+        ],
+        [
+          "Eddy Lin",
+          "We could grab lunch at Hobbs Cafe and discuss more about the village after your exploration. How does that sound?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic plan, Eddy. I look forward to exploring the village, meeting local musicians, and having lunch at Hobbs Cafe with you. What time should we meet there?"
+        ],
+        [
+          "Eddy Lin",
+          "We can also plan to attend the upcoming local music event together. It would be a great way for you to enjoy the village's music scene and meet more people from the community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much for all your recommendations, Eddy. I really appreciate your help in getting to know the village better."
+        ],
+        [
+          "Eddy Lin",
+          "We can plan to attend the upcoming local music event together. It would be a great way for you to enjoy the village's music scene and meet more people from the community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic plan, Eddy. I look forward to exploring the village, meeting local musicians, and having lunch at Hobbs Cafe with you. What time should we meet there?"
+        ],
+        [
+          "Eddy Lin",
+          "We can also plan to visit the local art gallery together. It showcases some of the best artworks from local artists and is a great way to appreciate the artistic side of our village."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        68
+      ],
+      "pronunciatio": "\ud83c\udf54",
+      "description": "managing the store at The Willow Market and Pharmacy (taking a lunch break) @ the Ville:Moreno family's house:kitchen:refrigerator",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\ud83e\ude91",
+      "description": "taking a break and spending some time relaxing (finding a comfortable spot to sit and relax) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        22,
+        68
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having lunch (washing his dishes) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:08:00"
+  }
+}

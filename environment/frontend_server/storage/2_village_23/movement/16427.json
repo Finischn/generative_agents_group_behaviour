@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddf9\ud83e\uddfd",
+      "description": "closing Hobbs Cafe and cleaning up (sweeping and mopping the floors) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        13
+      ],
+      "pronunciatio": "\ud83d\udebf",
+      "description": "winding down for the evening (taking a warm shower) @ the Ville:Carlos Gomez's apartment:bathroom:shower",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        59,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc6b",
+      "description": "still at Sam's birthday party at The Rose and Crown Pub (catching up with Sam and other friends) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        56,
+        29
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "reflecting on his birthday celebration and feeling grateful for his friends and the fun evening they had. He is also looking forward to getting a good night's sleep (conversing about their collaborative research project on gentrification and how it has the potential to bring about positive change in their village, emphasizing their dedication, insights, and gratitude towards each other.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        117,
+        51
+      ],
+      "pronunciatio": "\ud83d\uddd3\ufe0f",
+      "description": "getting ready for bed (checking her schedule for the next day) @ the Ville:Dorm for Oak Hill College:Ayesha Khan's room:desk",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        110,
+        58
+      ],
+      "pronunciatio": "\ud83d\udcaa",
+      "description": "exercising in his room (doing strength training exercises) @ the Ville:Dorm for Oak Hill College:Wolfgang Schulz's room:lifting weight",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        93,
+        66
+      ],
+      "pronunciatio": "\u2615",
+      "description": "winding down for the night and getting ready for bed (making a cup of tea to help him relax) @ the Ville:Lin family's house:kitchen:cooking area",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        40,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Adam Smith and Tom Moreno, planning to attend various cultural events together such as art exhibits, music events, historical landmarks tours, cooking classes, and community poetry readings in their village. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey Tom, I'm looking forward to meeting you at the art gallery tomorrow to discuss the exhibit and grab coffee afterward."
+        ],
+        [
+          "Tom Moreno",
+          "Hey Adam, I can't wait to dive into the art exhibit with you and discuss our thoughts over coffee afterwards. It's always such a pleasure exploring the cultural scene of the village with you."
+        ],
+        [
+          "Adam Smith",
+          "Have you had a chance to explore the new music event that just opened in the village? I heard it's quite unique and worth checking out together."
+        ],
+        [
+          "Tom Moreno",
+          "I haven't had a chance to check out the new music event yet, but I'm definitely interested in exploring it with you. How about we make plans to attend it together this weekend?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a plan! Let's make sure to check the schedule for the music event and confirm the details. Looking forward to experiencing it together!"
+        ],
+        [
+          "Tom Moreno",
+          "Absolutely, Adam! Let's plan to meet at the music event this weekend and enjoy the unique experience together. I'll check the schedule and get back to you with the details."
+        ],
+        [
+          "Adam Smith",
+          "Great! I'll also look into any other upcoming cultural events in the village that we can explore together. It's always exciting to discover new experiences. Let's catch up soon and plan our next adventure!"
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a wonderful idea, Adam! Let's also consider exploring the upcoming art exhibit at the community center next week. It could be a great addition to our cultural adventures."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like an excellent plan, Tom! Let's make sure to also explore the historical landmarks tour that Tamara and I are planning for tomorrow morning. It would be great if you could join us and immerse yourself in the village's rich history and culture."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a fantastic idea, Adam! I'm definitely interested in joining you and Tamara for the historical landmarks tour tomorrow morning. It'll be a great opportunity to learn more about the village's history and culture together."
+        ],
+        [
+          "Adam Smith",
+          "Tom, I also heard about a local cooking class happening next week. Would you be interested in joining me for that as well?"
+        ],
+        [
+          "Tom Moreno",
+          "Adam, I would love to join you for the local cooking class next week. It sounds like a fun and tasty experience to share together."
+        ],
+        [
+          "Adam Smith",
+          "Tom, have you heard about the community poetry reading happening this Friday? It could be a unique event to explore together."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds intriguing, Adam! I would love to attend the community poetry reading this Friday with you. It's always a pleasure to explore new events and experiences together. Let's plan to meet up for the poetry reading and enjoy the creative atmosphere."
+        ],
+        [
+          "Adam Smith",
+          "Tom, I also found out about a workshop on local art history happening next month. Would you be interested in attending with me?"
+        ],
+        [
+          "Tom Moreno",
+          "Adam, the local cooking class sounds like a fantastic experience! Count me in for that. I'm excited to learn new recipes and techniques with you."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83d\uddd3\ufe0f",
+      "description": "getting ready for bed (checking her schedule for the next day) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        40,
+        34
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Adam Smith and Tom Moreno, planning to attend various cultural events together such as art exhibits, music events, historical landmarks tours, cooking classes, and community poetry readings in their village. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey Tom, I'm looking forward to meeting you at the art gallery tomorrow to discuss the exhibit and grab coffee afterward."
+        ],
+        [
+          "Tom Moreno",
+          "Hey Adam, I can't wait to dive into the art exhibit with you and discuss our thoughts over coffee afterwards. It's always such a pleasure exploring the cultural scene of the village with you."
+        ],
+        [
+          "Adam Smith",
+          "Have you had a chance to explore the new music event that just opened in the village? I heard it's quite unique and worth checking out together."
+        ],
+        [
+          "Tom Moreno",
+          "I haven't had a chance to check out the new music event yet, but I'm definitely interested in exploring it with you. How about we make plans to attend it together this weekend?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a plan! Let's make sure to check the schedule for the music event and confirm the details. Looking forward to experiencing it together!"
+        ],
+        [
+          "Tom Moreno",
+          "Absolutely, Adam! Let's plan to meet at the music event this weekend and enjoy the unique experience together. I'll check the schedule and get back to you with the details."
+        ],
+        [
+          "Adam Smith",
+          "Great! I'll also look into any other upcoming cultural events in the village that we can explore together. It's always exciting to discover new experiences. Let's catch up soon and plan our next adventure!"
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a wonderful idea, Adam! Let's also consider exploring the upcoming art exhibit at the community center next week. It could be a great addition to our cultural adventures."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like an excellent plan, Tom! Let's make sure to also explore the historical landmarks tour that Tamara and I are planning for tomorrow morning. It would be great if you could join us and immerse yourself in the village's rich history and culture."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a fantastic idea, Adam! I'm definitely interested in joining you and Tamara for the historical landmarks tour tomorrow morning. It'll be a great opportunity to learn more about the village's history and culture together."
+        ],
+        [
+          "Adam Smith",
+          "Tom, I also heard about a local cooking class happening next week. Would you be interested in joining me for that as well?"
+        ],
+        [
+          "Tom Moreno",
+          "Adam, I would love to join you for the local cooking class next week. It sounds like a fun and tasty experience to share together."
+        ],
+        [
+          "Adam Smith",
+          "Tom, have you heard about the community poetry reading happening this Friday? It could be a unique event to explore together."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds intriguing, Adam! I would love to attend the community poetry reading this Friday with you. It's always a pleasure to explore new events and experiences together. Let's plan to meet up for the poetry reading and enjoy the creative atmosphere."
+        ],
+        [
+          "Adam Smith",
+          "Tom, I also found out about a workshop on local art history happening next month. Would you be interested in attending with me?"
+        ],
+        [
+          "Tom Moreno",
+          "Adam, the local cooking class sounds like a fantastic experience! Count me in for that. I'm excited to learn new recipes and techniques with you."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 21:37:50"
+  }
+}

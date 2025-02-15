@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "serving customers at Hobbs Cafe (serving customers their orders) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        93,
+        29
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the village's history through literature, planning to incorporate their findings into creative writing exercises, visiting the local museum for inspiration, continuing their exploration of the village, attending a creative writing workshop together, joining a poetry reading event at the local library, and exploring a local music event happening in the village this weekend. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Ayesha, how's the studying going? Finding any interesting insights in your literature readings?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Carlos, studying is going well! I'm actually learning so much about the village's history through literature. Have you discovered any hidden gems while exploring?"
+        ],
+        [
+          "Carlos Gomez",
+          "That's so interesting! I've been captivated by the beauty of this village and its rich history. I've been reflecting on our conversations about poetry and literature while exploring. Do you think we should incorporate some of our findings into our creative writing exercises?"
+        ],
+        [
+          "Ayesha Khan",
+          "I agree, incorporating the village's history into our creative writing exercises could bring a unique perspective to our work."
+        ],
+        [
+          "Carlos Gomez",
+          "We could brainstorm ideas for our next poetry collection based on the village's history and culture. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "I think that's a brilliant idea, Carlos. Let's gather more inspiration from the village and our conversations to fuel our creativity."
+        ],
+        [
+          "Carlos Gomez",
+          "We could visit the local museum next to gain more inspiration. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea, Carlos! Let's plan a visit to the local museum soon to draw more inspiration for our creative endeavors."
+        ],
+        [
+          "Carlos Gomez",
+          "Ayesha, how about we continue our exploration of the village after visiting the museum? Maybe we can have lunch at the local bakery and then head to the old town square."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful plan, Carlos! I'm excited to continue our exploration of the village and experience more of its rich history and culture."
+        ],
+        [
+          "Carlos Gomez",
+          "Ayesha, I was thinking we could also attend the creative writing workshop together tomorrow. It would be a great opportunity to further explore our creativity and share our passion for literature with others in the community."
+        ],
+        [
+          "Ayesha Khan",
+          "Carlos, I completely agree! Attending the creative writing workshop tomorrow sounds like a fantastic idea. It would be wonderful to immerse ourselves in our passion for literature and creativity further. I look forward to it!"
+        ],
+        [
+          "Carlos Gomez",
+          "Ayesha, would you be interested in joining me to attend the poetry reading event at the local library this weekend?"
+        ],
+        [
+          "Ayesha Khan",
+          "Carlos, I think attending the poetry reading event at the local library this weekend sounds like a fantastic idea. It would be a great opportunity to appreciate poetry and connect with the local literary community. I am looking forward to it!"
+        ],
+        [
+          "Carlos Gomez",
+          "Ayesha, shall we also explore the local music event happening in the village this weekend? It could be another wonderful experience for us to share."
+        ],
+        [
+          "Ayesha Khan",
+          "Carlos, I would love to explore the local music event happening in the village this weekend with you. It sounds like a fantastic opportunity to immerse ourselves in the local cultural scene and enjoy some great music together."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\uddd2\ufe0f",
+      "description": "still writing at the library (organizing their notes and creating an outline for the tour) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        57,
+        56
+      ],
+      "pronunciatio": "\ud83d\udc55",
+      "description": "preparing for his birthday party at home (getting dressed in comfortable clothes) @ the Ville:Moore family's house:main room:closet",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        94,
+        29
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the village's history through literature, planning to incorporate their findings into creative writing exercises, visiting the local museum for inspiration, continuing their exploration of the village, attending a creative writing workshop together, joining a poetry reading event at the local library, and exploring a local music event happening in the village this weekend. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Ayesha, how's the studying going? Finding any interesting insights in your literature readings?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Carlos, studying is going well! I'm actually learning so much about the village's history through literature. Have you discovered any hidden gems while exploring?"
+        ],
+        [
+          "Carlos Gomez",
+          "That's so interesting! I've been captivated by the beauty of this village and its rich history. I've been reflecting on our conversations about poetry and literature while exploring. Do you think we should incorporate some of our findings into our creative writing exercises?"
+        ],
+        [
+          "Ayesha Khan",
+          "I agree, incorporating the village's history into our creative writing exercises could bring a unique perspective to our work."
+        ],
+        [
+          "Carlos Gomez",
+          "We could brainstorm ideas for our next poetry collection based on the village's history and culture. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "I think that's a brilliant idea, Carlos. Let's gather more inspiration from the village and our conversations to fuel our creativity."
+        ],
+        [
+          "Carlos Gomez",
+          "We could visit the local museum next to gain more inspiration. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea, Carlos! Let's plan a visit to the local museum soon to draw more inspiration for our creative endeavors."
+        ],
+        [
+          "Carlos Gomez",
+          "Ayesha, how about we continue our exploration of the village after visiting the museum? Maybe we can have lunch at the local bakery and then head to the old town square."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful plan, Carlos! I'm excited to continue our exploration of the village and experience more of its rich history and culture."
+        ],
+        [
+          "Carlos Gomez",
+          "Ayesha, I was thinking we could also attend the creative writing workshop together tomorrow. It would be a great opportunity to further explore our creativity and share our passion for literature with others in the community."
+        ],
+        [
+          "Ayesha Khan",
+          "Carlos, I completely agree! Attending the creative writing workshop tomorrow sounds like a fantastic idea. It would be wonderful to immerse ourselves in our passion for literature and creativity further. I look forward to it!"
+        ],
+        [
+          "Carlos Gomez",
+          "Ayesha, would you be interested in joining me to attend the poetry reading event at the local library this weekend?"
+        ],
+        [
+          "Ayesha Khan",
+          "Carlos, I think attending the poetry reading event at the local library this weekend sounds like a fantastic idea. It would be a great opportunity to appreciate poetry and connect with the local literary community. I am looking forward to it!"
+        ],
+        [
+          "Carlos Gomez",
+          "Ayesha, shall we also explore the local music event happening in the village this weekend? It could be another wonderful experience for us to share."
+        ],
+        [
+          "Ayesha Khan",
+          "Carlos, I would love to explore the local music event happening in the village this weekend with you. It sounds like a fantastic opportunity to immerse ourselves in the local cultural scene and enjoy some great music together."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udc69\u200d\ud83d\udcbb",
+      "description": "studying at the library (working on practice problems) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        55,
+        23
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2640",
+      "description": "exploring the village's art scene with Ayesha (Ayesha are walking to the second art gallery) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcb0",
+      "description": "managing day to day operations at The Willow Market and Pharmacy (restocking the cash register and counting the day's earnings) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        69
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "continuing to work on her children's book series @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        39,
+        28
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "writing and working on his book (writing the first draft of the chapter) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 14:53:20"
+  }
+}

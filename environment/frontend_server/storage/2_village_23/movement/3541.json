@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\u270d\ufe0f",
+      "description": "greeting customers and taking orders at Hobbs Cafe (taking orders and writing them down accurately) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        79,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending a creative writing workshop (taking notes on the feedback) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        49
+      ],
+      "pronunciatio": "\ud83d\uddd2\ufe0f",
+      "description": "at the library at Oak Hill College (organizing his notes and creating an outline for his paper) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        27,
+        45
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Adam Smith and Sam Moore are making plans to meet up for a walk in Johnson Park and grab coffee at Hobbs Cafe this coming Saturday afternoon, while also discussing the local library and village market. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Adam, I was just thinking about the birthday party tomorrow at The Rose and Crown Pub. Are you planning to stop by?"
+        ],
+        [
+          "Adam Smith",
+          "Hey Sam, sounds like a great event! I'll definitely try to make it to The Rose and Crown Pub tomorrow. Thanks for letting me know."
+        ],
+        [
+          "Sam Moore",
+          "Great, I look forward to seeing you there! By the way, have you had a chance to explore Johnson Park recently? It's such a peaceful place for a walk."
+        ],
+        [
+          "Adam Smith",
+          "Yes, I actually went for a walk around Johnson Park earlier today. It's indeed a peaceful place."
+        ],
+        [
+          "Sam Moore",
+          "That's great to hear! Maybe we can plan to go for a walk together in Johnson Park sometime and catch up on the latest happenings in the village."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a fantastic idea, Sam! I would love to go for a walk in Johnson Park together sometime and catch up on the latest news in the village."
+        ],
+        [
+          "Sam Moore",
+          "We can also grab a coffee at Hobbs Cafe after our walk in Johnson Park. What do you think?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a perfect plan, Sam! Let's aim for a walk in Johnson Park and coffee at Hobbs Cafe this coming Saturday afternoon. I'll see you there!"
+        ],
+        [
+          "Sam Moore",
+          "Sounds like a plan! Let's meet at Johnson Park this Saturday at 3 pm for our walk and then head to Hobbs Cafe for coffee."
+        ],
+        [
+          "Adam Smith",
+          "Looking forward to catching up with you and exploring Johnson Park together this Saturday!"
+        ],
+        [
+          "Sam Moore",
+          "Great, I'll see you at Johnson Park this Saturday at 3 pm then. Looking forward to our walk and coffee at Hobbs Cafe!"
+        ],
+        [
+          "Adam Smith",
+          "Looking forward to our walk in Johnson Park and coffee at Hobbs Cafe this Saturday afternoon!"
+        ],
+        [
+          "Sam Moore",
+          "It's always nice to catch up with fellow village residents. Have you had the chance to visit the local library yet? It's a great spot to learn more about the village's history and culture."
+        ],
+        [
+          "Adam Smith",
+          "Yes, I have visited the local library. It's a wonderful place to learn more about the village's rich history and culture."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you enjoyed the local library! Have you checked out the village market on Saturdays? It's a great place to find locally sourced goods and meet other villagers."
+        ],
+        [
+          "Adam Smith",
+          "Yes, the village market on Saturdays is definitely a must-visit. I've found some amazing locally sourced goods there and it's a great way to support our local businesses."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        74,
+        30
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending classes at Oak Hill College (listening to the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        110,
+        37
+      ],
+      "pronunciatio": "\ud83d\udd2c",
+      "description": "attending classes at Oak Hill College (conducting a lab experiment) (setting up the lab equipment) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending classes at Oak Hill College (attending his first class) (listening to the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        88,
+        55
+      ],
+      "pronunciatio": "\ud83d\uded2",
+      "description": "helping customers with their orders (assisting a customer with a special order) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "continuing work on her new children's book series (taking a break to have a snack) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        27,
+        45
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Adam Smith and Sam Moore are making plans to meet up for a walk in Johnson Park and grab coffee at Hobbs Cafe this coming Saturday afternoon, while also discussing the local library and village market. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Adam, I was just thinking about the birthday party tomorrow at The Rose and Crown Pub. Are you planning to stop by?"
+        ],
+        [
+          "Adam Smith",
+          "Hey Sam, sounds like a great event! I'll definitely try to make it to The Rose and Crown Pub tomorrow. Thanks for letting me know."
+        ],
+        [
+          "Sam Moore",
+          "Great, I look forward to seeing you there! By the way, have you had a chance to explore Johnson Park recently? It's such a peaceful place for a walk."
+        ],
+        [
+          "Adam Smith",
+          "Yes, I actually went for a walk around Johnson Park earlier today. It's indeed a peaceful place."
+        ],
+        [
+          "Sam Moore",
+          "That's great to hear! Maybe we can plan to go for a walk together in Johnson Park sometime and catch up on the latest happenings in the village."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a fantastic idea, Sam! I would love to go for a walk in Johnson Park together sometime and catch up on the latest news in the village."
+        ],
+        [
+          "Sam Moore",
+          "We can also grab a coffee at Hobbs Cafe after our walk in Johnson Park. What do you think?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a perfect plan, Sam! Let's aim for a walk in Johnson Park and coffee at Hobbs Cafe this coming Saturday afternoon. I'll see you there!"
+        ],
+        [
+          "Sam Moore",
+          "Sounds like a plan! Let's meet at Johnson Park this Saturday at 3 pm for our walk and then head to Hobbs Cafe for coffee."
+        ],
+        [
+          "Adam Smith",
+          "Looking forward to catching up with you and exploring Johnson Park together this Saturday!"
+        ],
+        [
+          "Sam Moore",
+          "Great, I'll see you at Johnson Park this Saturday at 3 pm then. Looking forward to our walk and coffee at Hobbs Cafe!"
+        ],
+        [
+          "Adam Smith",
+          "Looking forward to our walk in Johnson Park and coffee at Hobbs Cafe this Saturday afternoon!"
+        ],
+        [
+          "Sam Moore",
+          "It's always nice to catch up with fellow village residents. Have you had the chance to visit the local library yet? It's a great spot to learn more about the village's history and culture."
+        ],
+        [
+          "Adam Smith",
+          "Yes, I have visited the local library. It's a wonderful place to learn more about the village's rich history and culture."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you enjoyed the local library! Have you checked out the village market on Saturdays? It's a great place to find locally sourced goods and meet other villagers."
+        ],
+        [
+          "Adam Smith",
+          "Yes, the village market on Saturdays is definitely a must-visit. I've found some amazing locally sourced goods there and it's a great way to support our local businesses."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:50:10"
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        14
+      ],
+      "pronunciatio": "\ud83e\udd38\u200d\u2642",
+      "description": "waking up and completing her morning routine (stretching and doing some light exercises) @ the Ville:Isabella Rodriguez's apartment:main room:bed",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        93,
+        18
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Carlos Gomez's apartment:main room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        46
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        37,
+        65
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2642",
+      "description": "taking a walk at Johnson Park (stretching before his walk) @ the Ville:Moore family's house:main room:bed",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        113,
+        55
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Ayesha Khan are planning to explore the local art gallery, grab a bite at Hobbs Cafe, attend a Shakespearean play, and take a walking tour of the village's historical landmarks together. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, good morning! How are you today? Did you sleep well?"
+        ],
+        [
+          "Ayesha Khan",
+          "Good morning Wolfgang! I slept well, thank you. I'm excited for our plans today! How was your run?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "My run was great, thank you for asking! I can't wait to explore the village with you today."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm so glad we have the opportunity to discover more about the village together. I can't wait to see what today has in store for us!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I hear there's a local theater production of a Shakespearean play happening tonight. Would you be interested in attending with me?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds fantastic! I would love to attend the local theater production of the Shakespearean play with you tonight, Wolfgang."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'll make the reservation for the theater tickets. What time should we meet before the play?"
+        ],
+        [
+          "Ayesha Khan",
+          "That's a great plan, Wolfgang. I'm looking forward to attending the theater production with you. Shall we meet at Hobbs Cafe before the play?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Great! Let's meet at Hobbs Cafe at 6 pm before the play. I'll see you then, Ayesha!"
+        ],
+        [
+          "Ayesha Khan",
+          "Sounds like a perfect plan! I'm looking forward to the theater production tonight. See you at Hobbs Cafe at 6 pm, Wolfgang!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Looking forward to exploring the village with you today, Ayesha. How about we start by visiting the local art gallery first?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful idea, Wolfgang! I'm excited to explore the local art gallery with you."
+        ],
+        [
+          "Wolfgang Schulz",
+          "After visiting the art gallery, we could grab a quick bite at Hobbs Cafe before heading to the theater production. I heard they have amazing pastries there!"
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Wolfgang! Let's start our exploration at the local art gallery, and then we can grab a bite to eat at Hobbs Cafe before the theater production."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm also interested in exploring the village's historical landmarks and maybe taking a walking tour. Would you like to join me?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fascinating plan, Wolfgang! I would love to explore the village's historical landmarks and take a walking tour with you."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        114,
+        55
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Ayesha Khan are planning to explore the local art gallery, grab a bite at Hobbs Cafe, attend a Shakespearean play, and take a walking tour of the village's historical landmarks together. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, good morning! How are you today? Did you sleep well?"
+        ],
+        [
+          "Ayesha Khan",
+          "Good morning Wolfgang! I slept well, thank you. I'm excited for our plans today! How was your run?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "My run was great, thank you for asking! I can't wait to explore the village with you today."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm so glad we have the opportunity to discover more about the village together. I can't wait to see what today has in store for us!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I hear there's a local theater production of a Shakespearean play happening tonight. Would you be interested in attending with me?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds fantastic! I would love to attend the local theater production of the Shakespearean play with you tonight, Wolfgang."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'll make the reservation for the theater tickets. What time should we meet before the play?"
+        ],
+        [
+          "Ayesha Khan",
+          "That's a great plan, Wolfgang. I'm looking forward to attending the theater production with you. Shall we meet at Hobbs Cafe before the play?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Great! Let's meet at Hobbs Cafe at 6 pm before the play. I'll see you then, Ayesha!"
+        ],
+        [
+          "Ayesha Khan",
+          "Sounds like a perfect plan! I'm looking forward to the theater production tonight. See you at Hobbs Cafe at 6 pm, Wolfgang!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Looking forward to exploring the village with you today, Ayesha. How about we start by visiting the local art gallery first?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful idea, Wolfgang! I'm excited to explore the local art gallery with you."
+        ],
+        [
+          "Wolfgang Schulz",
+          "After visiting the art gallery, we could grab a quick bite at Hobbs Cafe before heading to the theater production. I heard they have amazing pastries there!"
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Wolfgang! Let's start our exploration at the local art gallery, and then we can grab a bite to eat at Hobbs Cafe before the theater production."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm also interested in exploring the village's historical landmarks and maybe taking a walking tour. Would you like to join me?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fascinating plan, Wolfgang! I would love to explore the village's historical landmarks and take a walking tour with you."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        93,
+        74
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Lin family's house:Eddy Lin's bedroom:bed",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        72,
+        74
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Moreno family's house:Tom and Jane Moreno's bedroom:bed",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        61,
+        67
+      ],
+      "pronunciatio": "\ud83d\udebf",
+      "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Tamara Taylor and Carmen Ortiz's house:bathroom:shower",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        39,
+        28
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "writing and working on his book (writing the introduction for the book) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 06:16:20"
+  }
+}

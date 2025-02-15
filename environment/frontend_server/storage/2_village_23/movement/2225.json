@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        14
+      ],
+      "pronunciatio": "\ud83d\udecf\ufe0f",
+      "description": "waking up and completing her morning routine (stretching and getting out of bed) @ the Ville:Isabella Rodriguez's apartment:main room:bed",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        93,
+        18
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Carlos Gomez's apartment:main room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        46
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        37,
+        65
+      ],
+      "pronunciatio": "\ud83c\udfc3\u200d\u2642",
+      "description": "going for a walk at Johnson Park (stretching before his walk) @ the Ville:Moore family's house:main room:bed",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        114,
+        52
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two villagers, Ayesha Khan and Wolfgang Schulz, chatting about exploring the village together, discussing Shakespeare's works, and planning to have lunch at a local cafe. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Good morning, Wolfgang! How are you finding our village so far?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Good morning, Ayesha! I'm finding the village quite lovely, thank you for asking."
+        ],
+        [
+          "Ayesha Khan",
+          "It's great to hear you're enjoying the village. Have you had a chance to explore much of it yet?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Yes, I've been exploring the park during my morning runs. It's a great way to start the day!"
+        ],
+        [
+          "Ayesha Khan",
+          "That's wonderful to hear! I've been wanting to explore more of the village myself. Maybe we could take a walk together sometime and discover new places together."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great idea! I would love to explore the village with you."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm actually researching language in Shakespeare's plays for my senior thesis. It's quite fascinating. Have you read any of his works?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That's interesting! I haven't read much of Shakespeare's work, but I'd love to learn more about it. Maybe we could discuss it over coffee sometime?"
+        ],
+        [
+          "Ayesha Khan",
+          "I'd love to show you around the village and share some of my favorite spots with you."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds wonderful, Ayesha! I would be delighted to go for a walk with you and discover more of the village."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm glad we met, Wolfgang. It's always nice to make new friends in a new place."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm glad we met too, Ayesha. It's nice to have someone to explore the village with."
+        ],
+        [
+          "Ayesha Khan",
+          "Would you like to join me for lunch at the local cafe? I know a great spot that serves delicious sandwiches and soups."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds fantastic, Ayesha! I would love to join you for lunch at the local cafe and try out the delicious sandwiches and soups."
+        ],
+        [
+          "Ayesha Khan",
+          "Would you be interested in joining me for a walk this afternoon to explore more of the village?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great plan, Ayesha! I'm excited to explore more of the village and learn about Shakespeare's works with you."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        114,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two villagers, Ayesha Khan and Wolfgang Schulz, chatting about exploring the village together, discussing Shakespeare's works, and planning to have lunch at a local cafe. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Good morning, Wolfgang! How are you finding our village so far?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Good morning, Ayesha! I'm finding the village quite lovely, thank you for asking."
+        ],
+        [
+          "Ayesha Khan",
+          "It's great to hear you're enjoying the village. Have you had a chance to explore much of it yet?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Yes, I've been exploring the park during my morning runs. It's a great way to start the day!"
+        ],
+        [
+          "Ayesha Khan",
+          "That's wonderful to hear! I've been wanting to explore more of the village myself. Maybe we could take a walk together sometime and discover new places together."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great idea! I would love to explore the village with you."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm actually researching language in Shakespeare's plays for my senior thesis. It's quite fascinating. Have you read any of his works?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That's interesting! I haven't read much of Shakespeare's work, but I'd love to learn more about it. Maybe we could discuss it over coffee sometime?"
+        ],
+        [
+          "Ayesha Khan",
+          "I'd love to show you around the village and share some of my favorite spots with you."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds wonderful, Ayesha! I would be delighted to go for a walk with you and discover more of the village."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm glad we met, Wolfgang. It's always nice to make new friends in a new place."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm glad we met too, Ayesha. It's nice to have someone to explore the village with."
+        ],
+        [
+          "Ayesha Khan",
+          "Would you like to join me for lunch at the local cafe? I know a great spot that serves delicious sandwiches and soups."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds fantastic, Ayesha! I would love to join you for lunch at the local cafe and try out the delicious sandwiches and soups."
+        ],
+        [
+          "Ayesha Khan",
+          "Would you be interested in joining me for a walk this afternoon to explore more of the village?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great plan, Ayesha! I'm excited to explore more of the village and learn about Shakespeare's works with you."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        94,
+        74
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Lin family's house:Eddy Lin's bedroom:bed",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        72,
+        74
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Moreno family's house:Tom and Jane Moreno's bedroom:bed",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        61,
+        68
+      ],
+      "pronunciatio": "\ud83d\udc55",
+      "description": "waking up and completing her morning routine (getting dressed) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:closet",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        80,
+        37
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "writing and working on his book (researching and gathering information for the book) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 06:10:50"
+  }
+}

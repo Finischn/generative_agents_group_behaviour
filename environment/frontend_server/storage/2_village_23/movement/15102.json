@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        65,
+        30
+      ],
+      "pronunciatio": "\ud83c\udf72\ud83e\udd64",
+      "description": "preparing for Sam Moore's birthday party at The Rose and Crown Pub at 5:00 pm (preparing food and drinks for the party) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        79,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcb8",
+      "description": "having dinner (paying for his meal) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciatio": "\ud83d\udec4",
+      "description": "still writing at the library (finalizing the outline and adding visuals) (packing up their materials and heading to the meeting with Isabella) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        57,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "celebrating his birthday at The Rose and Crown Pub (greeting his friends and thanking them for coming) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Ayesha Khan are discussing their plans to explore the village's cultural events, historical landmarks, poetry reading event, Shakespearean play, village square, museum, writing workshop, music event, farmers' market, local cafes and restaurants, village park, and local theaters together. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, it's great to see you here at Isabella's birthday celebration! How have you been enjoying your time in the village so far?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hi, Wolfgang! I've been having a wonderful time exploring the village and immersing myself in the community. It's been so fascinating learning about the history and culture here."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I completely agree! The village has so much to offer. I'm looking forward to our upcoming plans to explore more cultural events together."
+        ],
+        [
+          "Ayesha Khan",
+          "I can't wait to attend the poetry reading event at the local bookstore with you and then watch the Shakespearean play at the local theater!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should also visit the art gallery and take a walking tour to discover more hidden gems in the village. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "I think we should also check out the historical landmarks, village square, and museum. It would be so interesting to learn more about the village's past."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I agree, exploring the historical landmarks, village square, and museum sounds like a great idea. We can also join the writing workshop at the local bookstore to enhance our knowledge about the village's cultural heritage."
+        ],
+        [
+          "Ayesha Khan",
+          "We should also consider attending the local music event and exploring the farmers' market together. It would be a great way to experience more of the village's culture."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think it would be great to also explore the local cafes and restaurants in the village. Trying out different cuisines and experiencing the local flavors would be a fantastic way to immerse ourselves in the community."
+        ],
+        [
+          "Ayesha Khan",
+          "We should definitely explore the village park next! It would be a lovely way to enjoy the natural beauty of the village and maybe even have a picnic."
+        ],
+        [
+          "Wolfgang Schulz",
+          "How about we finalize our plans for the poetry reading event and Shakespearean play? Should we set a specific date and time to attend together?"
+        ],
+        [
+          "Ayesha Khan",
+          "I think it's a great idea to finalize our plans for the poetry reading event and Shakespearean play. How about we set a date and time to attend together?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I completely agree! The village has so much to offer. I'm looking forward to our upcoming plans to explore more cultural events together."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm excited to explore the village's historical landmarks, attend the poetry reading event, and watch the Shakespearean play with you! Let's set a date and time to make sure we don't miss out on any of these exciting events."
+        ],
+        [
+          "Wolfgang Schulz",
+          "How about we plan a visit to the village park this weekend? It would be a great way to enjoy the natural beauty of the village and spend some time outdoors."
+        ],
+        [
+          "Ayesha Khan",
+          "We should also explore the local theaters and see if there are any upcoming performances we can attend together."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Ayesha Khan are discussing their plans to explore the village's cultural events, historical landmarks, poetry reading event, Shakespearean play, village square, museum, writing workshop, music event, farmers' market, local cafes and restaurants, village park, and local theaters together. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, it's great to see you here at Isabella's birthday celebration! How have you been enjoying your time in the village so far?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hi, Wolfgang! I've been having a wonderful time exploring the village and immersing myself in the community. It's been so fascinating learning about the history and culture here."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I completely agree! The village has so much to offer. I'm looking forward to our upcoming plans to explore more cultural events together."
+        ],
+        [
+          "Ayesha Khan",
+          "I can't wait to attend the poetry reading event at the local bookstore with you and then watch the Shakespearean play at the local theater!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should also visit the art gallery and take a walking tour to discover more hidden gems in the village. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "I think we should also check out the historical landmarks, village square, and museum. It would be so interesting to learn more about the village's past."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I agree, exploring the historical landmarks, village square, and museum sounds like a great idea. We can also join the writing workshop at the local bookstore to enhance our knowledge about the village's cultural heritage."
+        ],
+        [
+          "Ayesha Khan",
+          "We should also consider attending the local music event and exploring the farmers' market together. It would be a great way to experience more of the village's culture."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think it would be great to also explore the local cafes and restaurants in the village. Trying out different cuisines and experiencing the local flavors would be a fantastic way to immerse ourselves in the community."
+        ],
+        [
+          "Ayesha Khan",
+          "We should definitely explore the village park next! It would be a lovely way to enjoy the natural beauty of the village and maybe even have a picnic."
+        ],
+        [
+          "Wolfgang Schulz",
+          "How about we finalize our plans for the poetry reading event and Shakespearean play? Should we set a specific date and time to attend together?"
+        ],
+        [
+          "Ayesha Khan",
+          "I think it's a great idea to finalize our plans for the poetry reading event and Shakespearean play. How about we set a date and time to attend together?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I completely agree! The village has so much to offer. I'm looking forward to our upcoming plans to explore more cultural events together."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm excited to explore the village's historical landmarks, attend the poetry reading event, and watch the Shakespearean play with you! Let's set a date and time to make sure we don't miss out on any of these exciting events."
+        ],
+        [
+          "Wolfgang Schulz",
+          "How about we plan a visit to the village park this weekend? It would be a great way to enjoy the natural beauty of the village and spend some time outdoors."
+        ],
+        [
+          "Ayesha Khan",
+          "We should also explore the local theaters and see if there are any upcoming performances we can attend together."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        91,
+        67
+      ],
+      "pronunciatio": "\ud83d\udd0d\ud83d\udcdd",
+      "description": "working on his composition project at Oak Hill College (reviewing and making changes to his composition) @ the Ville:Lin family's house:common room:common room table",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        67,
+        46
+      ],
+      "pronunciatio": "\ud83e\uddf9",
+      "description": "closing The Willow Market and Pharmacy and heading home (cleaning and organizing the store) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        50,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "cooking and having dinner (conversing about Isabella Rodriguez and Tamara Taylor are discussing their experiences settling into the village and planning to explore local attractions together, such as visiting the village museum, old town square, art gallery, local farmer's market, and attending a village music jam session.) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        61
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "taking a break to have dinner (cooking dinner) @ the Ville:Adam Smith's house:main room:cooking area",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 17:57:00"
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        65,
+        36
+      ],
+      "pronunciatio": "\ud83d\udcba",
+      "description": "closing up Hobbs Cafe and getting ready to go home (organizing the seating area) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        63,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Ayesha and Carlos, planning to meet at the library the next day to take a walk, discuss Shakespeare's works, explore the village, and potentially attend a creative writing workshop together. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Ayesha! I saw you at the library earlier. How was your study session?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Carlos! My study session was productive. I found some interesting articles for my thesis on Shakespeare's plays. How was your day?"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds fascinating! I'm currently working on a collection of poetry that explores the beauty of the natural world. Would you be interested in taking a walk with me tomorrow to gather some inspiration? Perhaps we can also discuss some of Shakespeare's works on our stroll."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful idea, Carlos! I would love to take a walk with you and discuss Shakespeare's works. It's always inspiring to explore nature and literature together."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm glad you're up for it. How about we meet at the library tomorrow morning around 10 am before our walk?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful plan, Carlos! I'm looking forward to our walk tomorrow. Maybe we can also grab a coffee at Hobbs Cafe afterwards to continue our discussion."
+        ],
+        [
+          "Carlos Gomez",
+          "Great! I'll see you at the library tomorrow morning at 10 am for our walk and discussion."
+        ],
+        [
+          "Ayesha Khan",
+          "I can't wait to explore the village with you and delve into Shakespeare's works. Meeting at the library tomorrow sounds perfect!"
+        ],
+        [
+          "Carlos Gomez",
+          "I'm excited to share my poetry collection with you as well. Perhaps we can discuss it over coffee at Hobbs Cafe after our walk tomorrow."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm really looking forward to our walk tomorrow and discussing both Shakespeare's works and your poetry collection. It will be a delightful experience."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm also thinking of attending the creative writing workshop this weekend. Would you be interested in joining me?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic opportunity, Carlos! I would love to join you at the creative writing workshop this weekend. It will be a great way for us to further explore our passion for literature and writing."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm excited to explore the village with you tomorrow and discuss Shakespeare's works. I've heard there's a beautiful spot by the river that would be perfect for our walk. Shall we meet there?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful idea, Carlos! Exploring the village and discussing Shakespeare's works while taking a walk by the river sounds perfect. I can't wait to see that beautiful spot and have an inspiring conversation with you."
+        ],
+        [
+          "Carlos Gomez",
+          "It was lovely speaking with you, Ayesha. I\u2019m excited for our walk tomorrow and look forward to exploring the village with you."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm thrilled to explore the village with you and delve into Shakespeare's works tomorrow. Meeting at the library at 10 am sounds perfect!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        57,
+        29
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "at the library at Oak Hill College (taking a break to stretch and get some water) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        59,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring various aspects of the local music, art, history, and culture scene in the village, as Sam Moore and Eddy Lin make plans to attend a music event, meet musician Carlos Gomez, organize a jam session, visit the local art gallery and history museum, attend a workshop at the community center, and explore the local library together. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Eddy, I was just reminiscing about our plans to attend that local music event together. Have you had a chance to check out any local artists or musicians yet?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, I actually had the chance to meet Carlos Gomez recently. He's a talented musician in the village, and I think he could be a great addition to the local music event. I could introduce you to him if you're interested."
+        ],
+        [
+          "Sam Moore",
+          "That's fantastic news! I would love to meet Carlos and hear his music. Let's arrange a time to connect with him."
+        ],
+        [
+          "Eddy Lin",
+          "I'll reach out to Carlos and see if he's available this weekend to meet up. I think it would be great for you to hear his music before the event. How about we plan to meet at Hobbs Cafe on Saturday afternoon?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a plan. I'll make sure to clear my schedule for Saturday afternoon. Looking forward to meeting Carlos and discussing the event further."
+        ],
+        [
+          "Eddy Lin",
+          "I also wanted to mention that Klaus Mueller and I are planning to organize a music event at the village square after our jam session on Saturday. Would you be interested in joining us?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a great plan, Eddy. I appreciate you introducing me to Carlos and including me in the village music event. I'm looking forward to Saturday!"
+        ],
+        [
+          "Eddy Lin",
+          "I've also been exploring the village's art scene and I think you would enjoy visiting the local art gallery. Would you be interested in checking it out after our music event on Saturday?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a fantastic idea, Eddy. I would love to explore the local art gallery after our music event on Saturday. Thank you for sharing all these wonderful opportunities with me."
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad you're excited about exploring the village's art scene. Let's plan to visit the local art gallery together after our music event on Saturday. It will be a great opportunity to immerse ourselves in the cultural side of the village."
+        ],
+        [
+          "Sam Moore",
+          "I appreciate all your efforts in connecting me with the local music and art scene, Eddy. It's been wonderful exploring these opportunities with you."
+        ],
+        [
+          "Eddy Lin",
+          "Sam, I also heard about a local workshop happening at the community center this weekend. Would you be interested in attending together?"
+        ],
+        [
+          "Sam Moore",
+          "That workshop at the community center sounds interesting, Eddy. I'd love to attend it with you this weekend."
+        ],
+        [
+          "Eddy Lin",
+          "Sam, since we're both interested in exploring different aspects of the village, how about we also check out the local history museum together? I heard they have some fascinating exhibits that showcase the rich heritage of our village."
+        ],
+        [
+          "Sam Moore",
+          "That workshop at the community center sounds interesting, Eddy. I'd love to attend it with you this weekend."
+        ],
+        [
+          "Eddy Lin",
+          "Sam, I was also thinking of exploring the local library to delve deeper into the village's history and culture. Would you be interested in joining me for a visit?"
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        60,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Ayesha and Carlos, planning to meet at the library the next day to take a walk, discuss Shakespeare's works, explore the village, and potentially attend a creative writing workshop together. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Ayesha! I saw you at the library earlier. How was your study session?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Carlos! My study session was productive. I found some interesting articles for my thesis on Shakespeare's plays. How was your day?"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds fascinating! I'm currently working on a collection of poetry that explores the beauty of the natural world. Would you be interested in taking a walk with me tomorrow to gather some inspiration? Perhaps we can also discuss some of Shakespeare's works on our stroll."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful idea, Carlos! I would love to take a walk with you and discuss Shakespeare's works. It's always inspiring to explore nature and literature together."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm glad you're up for it. How about we meet at the library tomorrow morning around 10 am before our walk?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful plan, Carlos! I'm looking forward to our walk tomorrow. Maybe we can also grab a coffee at Hobbs Cafe afterwards to continue our discussion."
+        ],
+        [
+          "Carlos Gomez",
+          "Great! I'll see you at the library tomorrow morning at 10 am for our walk and discussion."
+        ],
+        [
+          "Ayesha Khan",
+          "I can't wait to explore the village with you and delve into Shakespeare's works. Meeting at the library tomorrow sounds perfect!"
+        ],
+        [
+          "Carlos Gomez",
+          "I'm excited to share my poetry collection with you as well. Perhaps we can discuss it over coffee at Hobbs Cafe after our walk tomorrow."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm really looking forward to our walk tomorrow and discussing both Shakespeare's works and your poetry collection. It will be a delightful experience."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm also thinking of attending the creative writing workshop this weekend. Would you be interested in joining me?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic opportunity, Carlos! I would love to join you at the creative writing workshop this weekend. It will be a great way for us to further explore our passion for literature and writing."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm excited to explore the village with you tomorrow and discuss Shakespeare's works. I've heard there's a beautiful spot by the river that would be perfect for our walk. Shall we meet there?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful idea, Carlos! Exploring the village and discussing Shakespeare's works while taking a walk by the river sounds perfect. I can't wait to see that beautiful spot and have an inspiring conversation with you."
+        ],
+        [
+          "Carlos Gomez",
+          "It was lovely speaking with you, Ayesha. I\u2019m excited for our walk tomorrow and look forward to exploring the village with you."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm thrilled to explore the village with you and delve into Shakespeare's works tomorrow. Meeting at the library at 10 am sounds perfect!"
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying for exams at the library (practicing more sample problems) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        59,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring various aspects of the local music, art, history, and culture scene in the village, as Sam Moore and Eddy Lin make plans to attend a music event, meet musician Carlos Gomez, organize a jam session, visit the local art gallery and history museum, attend a workshop at the community center, and explore the local library together. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Eddy, I was just reminiscing about our plans to attend that local music event together. Have you had a chance to check out any local artists or musicians yet?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, I actually had the chance to meet Carlos Gomez recently. He's a talented musician in the village, and I think he could be a great addition to the local music event. I could introduce you to him if you're interested."
+        ],
+        [
+          "Sam Moore",
+          "That's fantastic news! I would love to meet Carlos and hear his music. Let's arrange a time to connect with him."
+        ],
+        [
+          "Eddy Lin",
+          "I'll reach out to Carlos and see if he's available this weekend to meet up. I think it would be great for you to hear his music before the event. How about we plan to meet at Hobbs Cafe on Saturday afternoon?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a plan. I'll make sure to clear my schedule for Saturday afternoon. Looking forward to meeting Carlos and discussing the event further."
+        ],
+        [
+          "Eddy Lin",
+          "I also wanted to mention that Klaus Mueller and I are planning to organize a music event at the village square after our jam session on Saturday. Would you be interested in joining us?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a great plan, Eddy. I appreciate you introducing me to Carlos and including me in the village music event. I'm looking forward to Saturday!"
+        ],
+        [
+          "Eddy Lin",
+          "I've also been exploring the village's art scene and I think you would enjoy visiting the local art gallery. Would you be interested in checking it out after our music event on Saturday?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a fantastic idea, Eddy. I would love to explore the local art gallery after our music event on Saturday. Thank you for sharing all these wonderful opportunities with me."
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad you're excited about exploring the village's art scene. Let's plan to visit the local art gallery together after our music event on Saturday. It will be a great opportunity to immerse ourselves in the cultural side of the village."
+        ],
+        [
+          "Sam Moore",
+          "I appreciate all your efforts in connecting me with the local music and art scene, Eddy. It's been wonderful exploring these opportunities with you."
+        ],
+        [
+          "Eddy Lin",
+          "Sam, I also heard about a local workshop happening at the community center this weekend. Would you be interested in attending together?"
+        ],
+        [
+          "Sam Moore",
+          "That workshop at the community center sounds interesting, Eddy. I'd love to attend it with you this weekend."
+        ],
+        [
+          "Eddy Lin",
+          "Sam, since we're both interested in exploring different aspects of the village, how about we also check out the local history museum together? I heard they have some fascinating exhibits that showcase the rich heritage of our village."
+        ],
+        [
+          "Sam Moore",
+          "That workshop at the community center sounds interesting, Eddy. I'd love to attend it with you this weekend."
+        ],
+        [
+          "Eddy Lin",
+          "Sam, I was also thinking of exploring the local library to delve deeper into the village's history and culture. Would you be interested in joining me for a visit?"
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        78,
+        51
+      ],
+      "pronunciatio": "\ud83d\uddc2\ufe0f",
+      "description": "managing the store at The Willow Market and Pharmacy (on the way to organizing and filing paperwork) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        65,
+        53
+      ],
+      "pronunciatio": "\ud83d\uded2",
+      "description": "cooking and having dinner (making a grocery list) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        24,
+        50
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "continuing to work on his book (taking a break to go for a short walk) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 17:14:40"
+  }
+}

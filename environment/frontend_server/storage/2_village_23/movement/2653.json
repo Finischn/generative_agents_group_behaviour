@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc5a",
+      "description": "getting ready to open Hobbs Cafe (getting dressed in her cafe uniform) @ the Ville:Isabella Rodriguez's apartment:main room:closet",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        13
+      ],
+      "pronunciatio": "\ud83d\udebf",
+      "description": "waking up and completing his morning routine (taking a shower) @ the Ville:Carlos Gomez's apartment:bathroom:shower",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        117,
+        52
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Ayesha Khan discussing exploring the village, learning about its history, meeting residents, visiting the local library, having coffee at Hobbs Cafe, and looking forward to the tour the next day. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Good morning! I noticed you're new to the village. Welcome! Is there anything you'd like to know about the area or anyone you'd like to meet?"
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you for the warm welcome, Klaus! I appreciate the offer. I would love to learn more about the history of the village and perhaps meet some other residents. Is there a good place to start exploring?"
+        ],
+        [
+          "Klaus Mueller",
+          "I would be happy to give you a tour of the village and introduce you to some of the residents. How about we start with the village square and then visit the local market?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds wonderful, Klaus! I would love to join you on the tour and meet some of the residents. Thank you for offering to show me around."
+        ],
+        [
+          "Klaus Mueller",
+          "Great! Let's meet at the village square at 9:00 am tomorrow for the tour. I'll introduce you to some of the residents and we can explore the village together."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Klaus! I look forward to the tour tomorrow. I'm excited to learn more about the village and meet the residents."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're interested in learning more about the village. We can also visit the local library, which has a great collection of local history books. Would you be interested in that?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic idea, Klaus! I would love to visit the local library with you and explore the collection of local history books."
+        ],
+        [
+          "Klaus Mueller",
+          "After visiting the local library, we can grab a coffee at Hobbs Cafe and continue our conversation about the village if you'd like."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful plan, Klaus! I can't wait to explore the village with you and learn more about its history. Thank you for offering to show me around."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're excited to explore the village with me, Ayesha. Feel free to ask me any questions you have along the way. Let's make tomorrow's tour a memorable one."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much for offering to show me around the village, Klaus! I really appreciate your kindness and look forward to learning more about the area and meeting the residents."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to showing you around tomorrow and introducing you to some of the residents. It's always great to welcome new members to our community."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much for your generosity, Klaus! I'm truly grateful for your help in showing me around the village and introducing me to the residents. I look forward to our tour tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're excited to explore the village with me, Ayesha. Feel free to ask me any questions you have along the way. Let's make tomorrow's tour a memorable one."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much for offering to show me around the village and introducing me to the residents. I really appreciate your kindness and look forward to learning more about the area."
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "going for a walk at Johnson Park (continuing his walk) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        117,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Ayesha Khan discussing exploring the village, learning about its history, meeting residents, visiting the local library, having coffee at Hobbs Cafe, and looking forward to the tour the next day. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Good morning! I noticed you're new to the village. Welcome! Is there anything you'd like to know about the area or anyone you'd like to meet?"
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you for the warm welcome, Klaus! I appreciate the offer. I would love to learn more about the history of the village and perhaps meet some other residents. Is there a good place to start exploring?"
+        ],
+        [
+          "Klaus Mueller",
+          "I would be happy to give you a tour of the village and introduce you to some of the residents. How about we start with the village square and then visit the local market?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds wonderful, Klaus! I would love to join you on the tour and meet some of the residents. Thank you for offering to show me around."
+        ],
+        [
+          "Klaus Mueller",
+          "Great! Let's meet at the village square at 9:00 am tomorrow for the tour. I'll introduce you to some of the residents and we can explore the village together."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Klaus! I look forward to the tour tomorrow. I'm excited to learn more about the village and meet the residents."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're interested in learning more about the village. We can also visit the local library, which has a great collection of local history books. Would you be interested in that?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic idea, Klaus! I would love to visit the local library with you and explore the collection of local history books."
+        ],
+        [
+          "Klaus Mueller",
+          "After visiting the local library, we can grab a coffee at Hobbs Cafe and continue our conversation about the village if you'd like."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful plan, Klaus! I can't wait to explore the village with you and learn more about its history. Thank you for offering to show me around."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're excited to explore the village with me, Ayesha. Feel free to ask me any questions you have along the way. Let's make tomorrow's tour a memorable one."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much for offering to show me around the village, Klaus! I really appreciate your kindness and look forward to learning more about the area and meeting the residents."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to showing you around tomorrow and introducing you to some of the residents. It's always great to welcome new members to our community."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much for your generosity, Klaus! I'm truly grateful for your help in showing me around the village and introducing me to the residents. I look forward to our tour tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're excited to explore the village with me, Ayesha. Feel free to ask me any questions you have along the way. Let's make tomorrow's tour a memorable one."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much for offering to show me around the village and introducing me to the residents. I really appreciate your kindness and look forward to learning more about the area."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        68,
+        37
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast (eating his breakfast) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        97,
+        67
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83d\udc57",
+      "description": "waking up and completing his morning routine (taking a shower and getting dressed) @ the Ville:Lin family's house:bathroom:shower",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        71,
+        70
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "waking up and completing his morning routine (getting dressed in his work uniform) @ the Ville:Moreno family's house:Tom and Jane Moreno's bedroom:closet",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        60,
+        78
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "going for a morning walk (walking around the neighborhood) @ the Ville:Tamara Taylor and Carmen Ortiz's house:garden:house garden",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udce7",
+      "description": "having breakfast and reading the news (checking his emails) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:22:10"
+  }
+}

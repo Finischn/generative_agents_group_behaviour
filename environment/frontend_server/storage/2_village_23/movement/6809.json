@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        14
+      ],
+      "pronunciatio": "\ud83d\udecc",
+      "description": "getting ready for bed @ the Ville:Isabella Rodriguez's apartment:main room:bed",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        55,
+        20
+      ],
+      "pronunciatio": "\ud83d\udccd\u23f0",
+      "description": "attending a community poetry reading event (checking the event location and time) @ the Ville:The Rose and Crown Pub:pub:refrigerator",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "at the library at Oak Hill College (setting up his laptop and materials at his designated study area) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        55,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcb0",
+      "description": "celebrating his birthday at The Rose and Crown Pub (cleaning up and settling the bill) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        114,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy Lin and Ayesha Khan are making plans to explore the village's history, culture, music scene, art gallery, local music hotspots, historical landmarks, local farmer's market, attend music events at the community center, and join a village music jam session together. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Ayesha, I noticed you're gathering research materials at the library. Are you interested in exploring more of the village's history and culture with me?"
+        ],
+        [
+          "Ayesha Khan",
+          "Yes, I would love to explore more of the village with you, Eddy. I'm particularly interested in learning about the local music scene and visiting the art gallery."
+        ],
+        [
+          "Eddy Lin",
+          "That's great to hear, Ayesha. I can show you around some of the local music hotspots and maybe even introduce you to some talented musicians in the area."
+        ],
+        [
+          "Ayesha Khan",
+          "I'd also love to visit the local library together to learn more about the village's heritage. When would be a good time for us to do that?"
+        ],
+        [
+          "Eddy Lin",
+          "How about we meet at Hobbs Cafe tomorrow afternoon? We can explore the village's art scene and maybe catch a glimpse of some local musicians. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful plan, Eddy. I'm looking forward to exploring the village's art scene and meeting local musicians with you tomorrow at Hobbs Cafe."
+        ],
+        [
+          "Eddy Lin",
+          "So, after we explore the local music scene and the art gallery, would you be interested in attending the upcoming music event at the community center this weekend?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic plan, Eddy! I'm really excited to immerse myself in the local music scene and attend the upcoming music event at the community center this weekend. Thank you for showing me around and introducing me to the village's culture and history."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, since you are new to the village, would you be interested in joining our village music jam session next week? It's a great way to meet more local musicians and immerse yourself in the vibrant music scene here."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful opportunity, Eddy! I would love to join the village music jam session next week and meet more local musicians. Thank you for inviting me."
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad that you're interested in exploring more of the village's music scene and culture, Ayesha. How about we also visit the historical landmarks and the local farmer's market together next week to get a better sense of the community?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic plan, Eddy! I'm really excited to immerse myself in the local music scene and attend the upcoming music event at the community center this weekend. Thank you for showing me around and introducing me to the village's culture and history."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, since you are new to the village, would you like to join me in exploring the historical landmarks and the local farmer's market next week? It would be a great way to experience more of the community."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful plan, Eddy! I'm really looking forward to exploring the historical landmarks and the local farmer's market with you next week. Thank you for inviting me."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, since you are new to the village, would you like to join me in exploring the historical landmarks and the local farmer's market next week? It would be a great way to experience more of the community."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much for inviting me, Eddy. I would love to join you in exploring the historical landmarks and the local farmer's market next week. It sounds like a great way to experience more of the community."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "studying for exams at the library (conversing about two friends, Sam Moore and Wolfgang Schulz, discussing Wolfgang's interest in sports and Sam offering to show him around the village and introduce him to the local sports community.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        113,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy Lin and Ayesha Khan are making plans to explore the village's history, culture, music scene, art gallery, local music hotspots, historical landmarks, local farmer's market, attend music events at the community center, and join a village music jam session together. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Ayesha, I noticed you're gathering research materials at the library. Are you interested in exploring more of the village's history and culture with me?"
+        ],
+        [
+          "Ayesha Khan",
+          "Yes, I would love to explore more of the village with you, Eddy. I'm particularly interested in learning about the local music scene and visiting the art gallery."
+        ],
+        [
+          "Eddy Lin",
+          "That's great to hear, Ayesha. I can show you around some of the local music hotspots and maybe even introduce you to some talented musicians in the area."
+        ],
+        [
+          "Ayesha Khan",
+          "I'd also love to visit the local library together to learn more about the village's heritage. When would be a good time for us to do that?"
+        ],
+        [
+          "Eddy Lin",
+          "How about we meet at Hobbs Cafe tomorrow afternoon? We can explore the village's art scene and maybe catch a glimpse of some local musicians. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful plan, Eddy. I'm looking forward to exploring the village's art scene and meeting local musicians with you tomorrow at Hobbs Cafe."
+        ],
+        [
+          "Eddy Lin",
+          "So, after we explore the local music scene and the art gallery, would you be interested in attending the upcoming music event at the community center this weekend?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic plan, Eddy! I'm really excited to immerse myself in the local music scene and attend the upcoming music event at the community center this weekend. Thank you for showing me around and introducing me to the village's culture and history."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, since you are new to the village, would you be interested in joining our village music jam session next week? It's a great way to meet more local musicians and immerse yourself in the vibrant music scene here."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful opportunity, Eddy! I would love to join the village music jam session next week and meet more local musicians. Thank you for inviting me."
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad that you're interested in exploring more of the village's music scene and culture, Ayesha. How about we also visit the historical landmarks and the local farmer's market together next week to get a better sense of the community?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic plan, Eddy! I'm really excited to immerse myself in the local music scene and attend the upcoming music event at the community center this weekend. Thank you for showing me around and introducing me to the village's culture and history."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, since you are new to the village, would you like to join me in exploring the historical landmarks and the local farmer's market next week? It would be a great way to experience more of the community."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful plan, Eddy! I'm really looking forward to exploring the historical landmarks and the local farmer's market with you next week. Thank you for inviting me."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, since you are new to the village, would you like to join me in exploring the historical landmarks and the local farmer's market next week? It would be a great way to experience more of the community."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much for inviting me, Eddy. I would love to join you in exploring the historical landmarks and the local farmer's market next week. It sounds like a great way to experience more of the community."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        73,
+        67
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having dinner with his wife, Jane Moreno (Jane are sitting down to eat dinner) @ the Ville:Moreno family's house:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        57,
+        66
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "cooking and having dinner (cooking the main dish) @ the Ville:Tamara Taylor and Carmen Ortiz's house:kitchen:cooking area",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        61
+      ],
+      "pronunciatio": "\ud83d\ude0b",
+      "description": "taking a break to have dinner (enjoying his meal) @ the Ville:Adam Smith's house:main room:cooking area",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 18:54:50"
+  }
+}

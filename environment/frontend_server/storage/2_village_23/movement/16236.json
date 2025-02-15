@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "closing Hobbs Cafe and cleaning up (washing dishes and putting them away) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        18
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "winding down for the evening (reading a book) @ the Ville:Carlos Gomez's apartment:main room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        115,
+        30
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "still at Sam's birthday party at The Rose and Crown Pub (conversing about exploring the village, learning about its history, and making plans to visit hidden gems, the farmer's market, art gallery, old town square, Hobbs Cafe, village museum, and a local music event, with Klaus Mueller offering to show Ayesha Khan around and share his knowledge.) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        55,
+        23
+      ],
+      "pronunciatio": "\ud83d\ude97",
+      "description": "saying goodbye to his friends and heading home from The Rose and Crown Pub (getting into his car and starting the engine) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        115,
+        31
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "studying or writing (conversing about exploring the village, learning about its history, and making plans to visit hidden gems, the farmer's market, art gallery, old town square, Hobbs Cafe, village museum, and a local music event, with Klaus Mueller offering to show Ayesha Khan around and share his knowledge.) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        122,
+        41
+      ],
+      "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+      "description": "exercising in his room (doing a warm-up routine) @ the Ville:Dorm for Oak Hill College:garden:dorm garden",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        80,
+        43
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning their upcoming adventure to explore the local art and music scene, including visiting an art gallery, attending a music event at the community center, exploring historical landmarks, and visiting the village museum, while coordinating with friends to join them for the day of exploration. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Tom! Thanks for checking in on my music theory classes. I'm excited for our upcoming plans to explore the local music and art scene together. Do you have any new ideas for our next adventure?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Eddy! I am looking forward to our next adventure. I was thinking we could check out the art gallery that just opened up in town. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a great idea, Tom! I've heard that the new art gallery features some amazing local artists. I'm definitely up for checking it out with you."
+        ],
+        [
+          "Tom Moreno",
+          "That art exhibit sounds fascinating, Eddy. Let's set a date to visit it together. How about this Saturday afternoon?"
+        ],
+        [
+          "Eddy Lin",
+          "I'm also looking forward to the music event at the community center this weekend. It would be great if we could attend it together after exploring the art gallery."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a plan, Eddy! I'm excited for our weekend of art and music. Let's make sure to coordinate our schedules for both the art gallery visit and the music event at the community center. I'll reach out to Carlos and Tamara to see if they can join us as well."
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a great idea, Tom! We can also grab a bite to eat at the local diner after the art gallery visit. I'll check with Ayesha to see if she would like to join us as well."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a wonderful plan, Eddy! I'll also reach out to Wolfgang Schulz to see if he would like to join us for the art gallery visit and music event at the community center."
+        ],
+        [
+          "Eddy Lin",
+          "I think it would be a great idea to also explore the historical landmarks in the village after our visit to the art gallery and music event. It would be a fun way to learn more about the heritage of our community."
+        ],
+        [
+          "Tom Moreno",
+          "That's a fantastic idea, Eddy! Exploring the historical landmarks in the village sounds like a great way to deepen our connection to this community. Let's definitely plan for that after the art gallery visit and music event."
+        ],
+        [
+          "Eddy Lin",
+          "I was thinking we could also swing by the village museum during our day of exploration, Tom. It would be fascinating to learn more about the history of our community."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a comprehensive plan, Eddy! I appreciate your suggestions for our day of exploration. Let's finalize the details and coordinate with everyone. I'll make sure to reach out to Carlos, Tamara, Ayesha, and Wolfgang to confirm our plans for Saturday. Looking forward to our adventure!"
+        ],
+        [
+          "Eddy Lin",
+          "I think it would be a good idea to meet up at Hobbs Cafe before we start our day of exploration. We can grab some coffee and plan out the details for our adventure together."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a fantastic plan, Eddy! Meeting up at Hobbs Cafe for coffee before our day of exploration is a great idea. I'll check in with everyone to confirm our Saturday adventure. Looking forward to it!"
+        ],
+        [
+          "Eddy Lin",
+          "Tom, I think it would be a good idea to pick up some brochures from the village tourist center to learn more about the historical landmarks we'll be exploring. It could provide us with some fascinating insights and enrich our experience."
+        ],
+        [
+          "Tom Moreno",
+          "That's a great idea, Eddy! Picking up brochures from the village tourist center will definitely enhance our experience exploring the historical landmarks. I'll make sure to do that before we meet at Hobbs Cafe on Saturday."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        81,
+        43
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning their upcoming adventure to explore the local art and music scene, including visiting an art gallery, attending a music event at the community center, exploring historical landmarks, and visiting the village museum, while coordinating with friends to join them for the day of exploration. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Tom! Thanks for checking in on my music theory classes. I'm excited for our upcoming plans to explore the local music and art scene together. Do you have any new ideas for our next adventure?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Eddy! I am looking forward to our next adventure. I was thinking we could check out the art gallery that just opened up in town. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a great idea, Tom! I've heard that the new art gallery features some amazing local artists. I'm definitely up for checking it out with you."
+        ],
+        [
+          "Tom Moreno",
+          "That art exhibit sounds fascinating, Eddy. Let's set a date to visit it together. How about this Saturday afternoon?"
+        ],
+        [
+          "Eddy Lin",
+          "I'm also looking forward to the music event at the community center this weekend. It would be great if we could attend it together after exploring the art gallery."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a plan, Eddy! I'm excited for our weekend of art and music. Let's make sure to coordinate our schedules for both the art gallery visit and the music event at the community center. I'll reach out to Carlos and Tamara to see if they can join us as well."
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a great idea, Tom! We can also grab a bite to eat at the local diner after the art gallery visit. I'll check with Ayesha to see if she would like to join us as well."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a wonderful plan, Eddy! I'll also reach out to Wolfgang Schulz to see if he would like to join us for the art gallery visit and music event at the community center."
+        ],
+        [
+          "Eddy Lin",
+          "I think it would be a great idea to also explore the historical landmarks in the village after our visit to the art gallery and music event. It would be a fun way to learn more about the heritage of our community."
+        ],
+        [
+          "Tom Moreno",
+          "That's a fantastic idea, Eddy! Exploring the historical landmarks in the village sounds like a great way to deepen our connection to this community. Let's definitely plan for that after the art gallery visit and music event."
+        ],
+        [
+          "Eddy Lin",
+          "I was thinking we could also swing by the village museum during our day of exploration, Tom. It would be fascinating to learn more about the history of our community."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a comprehensive plan, Eddy! I appreciate your suggestions for our day of exploration. Let's finalize the details and coordinate with everyone. I'll make sure to reach out to Carlos, Tamara, Ayesha, and Wolfgang to confirm our plans for Saturday. Looking forward to our adventure!"
+        ],
+        [
+          "Eddy Lin",
+          "I think it would be a good idea to meet up at Hobbs Cafe before we start our day of exploration. We can grab some coffee and plan out the details for our adventure together."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a fantastic plan, Eddy! Meeting up at Hobbs Cafe for coffee before our day of exploration is a great idea. I'll check in with everyone to confirm our Saturday adventure. Looking forward to it!"
+        ],
+        [
+          "Eddy Lin",
+          "Tom, I think it would be a good idea to pick up some brochures from the village tourist center to learn more about the historical landmarks we'll be exploring. It could provide us with some fascinating insights and enrich our experience."
+        ],
+        [
+          "Tom Moreno",
+          "That's a great idea, Eddy! Picking up brochures from the village tourist center will definitely enhance our experience exploring the historical landmarks. I'll make sure to do that before we meet at Hobbs Cafe on Saturday."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "spending some time reading and relaxing (reading for 20 more minutes) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        37,
+        36
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "taking a break to relax and unwind before bed (reading a book) @ the Ville:Adam Smith's house:main room:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 21:06:00"
+  }
+}

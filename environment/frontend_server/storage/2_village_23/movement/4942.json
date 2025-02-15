@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Isabella Rodriguez are planning to explore the old town square, visit the village museum, attend a local music event, have lunch at Hobbs Cafe, and visit the local art gallery together. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Isabella, I was thinking we could start our village exploration by checking out the old town square. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea! I've heard there's a lot of history there. Should we meet at the cafe tomorrow morning before we head out?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a plan! Let's meet at 9am tomorrow at Hobbs Cafe to start off our adventure."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Do you have any recommendations on what we should check out in the old town square?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "We could visit the village museum next to learn more about the history of the area. I've heard it's quite fascinating!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a wonderful plan! I can't wait to explore the village with you and learn more about its history."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I also heard about a local music event happening this weekend. Would you be interested in attending it together?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I would love to attend the local music event with you this weekend! It sounds like a great opportunity to experience more of what the village has to offer."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We can also plan to have lunch at Hobbs Cafe after visiting the village museum. It would be a great way to relax and discuss what we've learned."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm really looking forward to attending the local music event with you! It's going to be a fun experience."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm glad we met and are able to explore the village together. This will definitely make our experience here more memorable!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for suggesting all these wonderful plans, Wolfgang! I can't wait to explore the old town square with you and learn more about the village. Meeting at 9am tomorrow at Hobbs Cafe sounds perfect. I'm excited for our adventure!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Should we also make plans to visit the local art gallery after the music event? I've heard they have some amazing pieces on display."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's a fantastic idea! Let's definitely plan to visit the local art gallery after the music event. I've always enjoyed exploring different forms of art."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm glad we have such similar interests and can explore the village together. This is going to be an unforgettable experience!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It would be great to explore the local art gallery after the music event. I can't wait to see the amazing pieces on display!"
+        ]
+      ]
+    },
+    "Carlos Gomez": {
+      "movement": [
+        33,
+        50
+      ],
+      "pronunciatio": "\ud83c\udf33\ud83c\udfb6",
+      "description": "exploring the village and taking in nature (taking in the sights and sounds of the park) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        108,
+        41
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "at the library at Oak Hill College (conducting online research on gentrification) (logging into the library's online database) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        60,
+        43
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "gathering party materials and decorations at home (browsing and selecting party decorations) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        105,
+        32
+      ],
+      "pronunciatio": "\ud83e\ude91",
+      "description": "having lunch (finding a seat in the cafeteria) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        72,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Isabella Rodriguez are planning to explore the old town square, visit the village museum, attend a local music event, have lunch at Hobbs Cafe, and visit the local art gallery together. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Isabella, I was thinking we could start our village exploration by checking out the old town square. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea! I've heard there's a lot of history there. Should we meet at the cafe tomorrow morning before we head out?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a plan! Let's meet at 9am tomorrow at Hobbs Cafe to start off our adventure."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Do you have any recommendations on what we should check out in the old town square?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "We could visit the village museum next to learn more about the history of the area. I've heard it's quite fascinating!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a wonderful plan! I can't wait to explore the village with you and learn more about its history."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I also heard about a local music event happening this weekend. Would you be interested in attending it together?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I would love to attend the local music event with you this weekend! It sounds like a great opportunity to experience more of what the village has to offer."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We can also plan to have lunch at Hobbs Cafe after visiting the village museum. It would be a great way to relax and discuss what we've learned."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm really looking forward to attending the local music event with you! It's going to be a fun experience."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm glad we met and are able to explore the village together. This will definitely make our experience here more memorable!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for suggesting all these wonderful plans, Wolfgang! I can't wait to explore the old town square with you and learn more about the village. Meeting at 9am tomorrow at Hobbs Cafe sounds perfect. I'm excited for our adventure!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Should we also make plans to visit the local art gallery after the music event? I've heard they have some amazing pieces on display."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's a fantastic idea! Let's definitely plan to visit the local art gallery after the music event. I've always enjoyed exploring different forms of art."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm glad we have such similar interests and can explore the village together. This is going to be an unforgettable experience!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It would be great to explore the local art gallery after the music event. I can't wait to see the amazing pieces on display!"
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83e\udd14",
+      "description": "taking a break and having lunch at Hobbs Cafe (looking at the menu and deciding what to order) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        64,
+        52
+      ],
+      "pronunciatio": "\ud83e\udd66",
+      "description": "managing the store at The Willow Market and Pharmacy (restocking perishable items) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        69
+      ],
+      "pronunciatio": "\ud83e\udd38\u200d\u2640",
+      "description": "taking a break and spending some time relaxing (stretching her body) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83e\udde0",
+      "description": "continuing to work on his book (organizing his thoughts and ideas for the next chapter) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:43:40"
+  }
+}

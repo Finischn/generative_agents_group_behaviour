@@ -1,0 +1,97 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "opening Hobbs Cafe and standing at the counter (conversing about Isabella Rodriguez and Carlos Gomez discussing their mutual interest in creative writing, arranging to meet at Hobbs Cafe tomorrow at 4 pm to further their conversation, and looking forward to sharing about Carlos's poetry collection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "attending a creative writing workshop (conversing about Isabella Rodriguez and Carlos Gomez discussing their mutual interest in creative writing, arranging to meet at Hobbs Cafe tomorrow at 4 pm to further their conversation, and looking forward to sharing about Carlos's poetry collection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "at the library at Oak Hill College (reviewing his research topic and objectives) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast at Hobbs Cafe (enjoying his breakfast) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        101,
+        30
+      ],
+      "pronunciatio": "\ud83d\ude8c",
+      "description": "attending classes at Oak Hill College (riding the bus to Oak Hill College) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        113,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending classes at Oak Hill College (taking notes during his first class) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        111,
+        31
+      ],
+      "pronunciatio": "\ud83d\ude8c",
+      "description": "attending classes at Oak Hill College (riding the bus to Oak Hill College) @ the Ville:Dorm for Oak Hill College:garden:dorm garden",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        52
+      ],
+      "pronunciatio": "\ud83d\udce7",
+      "description": "managing the store at The Willow Market and Pharmacy (checking the store's email and responding to any customer inquiries) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        74
+      ],
+      "pronunciatio": "\u270d\ufe0f",
+      "description": "working on her new children's book series (writing the first draft of the first chapter) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        29,
+        42
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "going for a walk around the village (walking around the village) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:41:40"
+  }
+}

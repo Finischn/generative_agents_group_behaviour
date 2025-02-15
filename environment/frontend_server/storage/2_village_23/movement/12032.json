@@ -1,0 +1,203 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udce7",
+      "description": "meeting Klaus at Oak Hill College library to discuss research on gentrification (checking her email for any updates from Klaus) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        58,
+        30
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "attending a creative writing workshop (conversing about Carlos Gomez and Sam Moore discussing exploring the village, attending a birthday party at The Rose and Crown Pub, visiting the local art gallery, market, Johnson Park, old town square, and Hobbs Cafe, as well as appreciating the guidance and recommendations shared.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcca",
+      "description": "still meeting with Isabella at Oak Hill College library (discussing their research findings on gentrification) (discussing their research findings on gentrification with Isabella) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        56,
+        29
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f\ud83c\udfa8",
+      "description": "still reading at Hobbs Cafe (conversing about Carlos Gomez and Sam Moore discussing exploring the village, attending a birthday party at The Rose and Crown Pub, visiting the local art gallery, market, Johnson Park, old town square, and Hobbs Cafe, as well as appreciating the guidance and recommendations shared.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending classes at Oak Hill College (taking notes during the class) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        39,
+        30
+      ],
+      "pronunciatio": "\ud83c\udfa8",
+      "description": "getting ready for his next class (conversing about exploring the village's cultural scene, visiting art galleries, attending music events, going to workshops, visiting historical landmarks, discovering hidden gems, and learning about the village's history and heritage through various activities suggested by Wolfgang Schulz and Eddy Lin.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83c\udfa8",
+      "description": "attending his music theory and composition class at Oak Hill College (conversing about exploring the village's cultural scene, visiting art galleries, attending music events, going to workshops, visiting historical landmarks, discovering hidden gems, and learning about the village's history and heritage through various activities suggested by Wolfgang Schulz and Eddy Lin.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        88,
+        46
+      ],
+      "pronunciatio": "\ud83d\udecd\ufe0f",
+      "description": "managing day to day operations at The Willow Market and Pharmacy (assisting customers with their purchases) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        41,
+        34
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the village, where Adam Smith provides recommendations on places to visit and community events to attend as Tamara Taylor settles into her new home. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Tamara Taylor",
+          "Hello Adam! It's always nice to see you out and about in the village. How long have you been living here?"
+        ],
+        [
+          "Adam Smith",
+          "I've been a resident of this village for over a decade now. It's a wonderful place to call home."
+        ],
+        [
+          "Tamara Taylor",
+          "I just recently moved here, and I'm still getting to know the area. Any recommendations on places to explore or things to do around here?"
+        ],
+        [
+          "Adam Smith",
+          "Welcome to the village, Tamara! Since you're new here, I recommend checking out Johnson Park for a nice walk and visiting the local art gallery to get a taste of the village's culture. If you're interested in community events, there's a poetry reading happening at the library next week. Feel free to ask me for more recommendations anytime!"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Adam! I'll definitely take your recommendations to heart and check out Johnson Park and the art gallery. The poetry reading sounds intriguing as well. I appreciate your insight into the village's offerings."
+        ],
+        [
+          "Adam Smith",
+          "Feel free to ask me for more recommendations anytime! I'm also planning to attend the poetry reading at the library next week. It would be great to see you there."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Adam, for the warm welcome and the wonderful suggestions. I'll be sure to explore Johnson Park, visit the art gallery, and mark my calendar for the poetry reading at the library next week. I'm looking forward to immersing myself in the village's culture."
+        ],
+        [
+          "Adam Smith",
+          "Feel free to reach out to me if you have any more questions or need further recommendations. I'm always happy to help newcomers settle into the village."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Adam! I appreciate your helpful suggestions and warm welcome. I look forward to exploring Johnson Park, visiting the art gallery, and attending the poetry reading at the library. I'll definitely reach out if I have more questions. It's been lovely chatting with you!"
+        ],
+        [
+          "Adam Smith",
+          "Feel free to reach out to me if you have any more questions or need further recommendations. I'm always happy to help newcomers settle into the village."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Adam! I truly appreciate your welcoming attitude and the thoughtful recommendations. I will make sure to explore Johnson Park, visit the art gallery, and attend the poetry reading at the library. It's reassuring to know that I can turn to you for more advice as I settle into the village. I look forward to seeing you at the poetry reading next week!"
+        ],
+        [
+          "Adam Smith",
+          "Feel free to reach out to me if you have any more questions or need further recommendations. I'm always happy to help newcomers settle into the village."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Adam! I truly appreciate your welcoming attitude and the thoughtful recommendations. I will make sure to explore Johnson Park, visit the art gallery, and attend the poetry reading at the library. It's reassuring to know that I can turn to you for more advice as I settle into the village. I look forward to seeing you at the poetry reading next week!"
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        41,
+        35
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the village, where Adam Smith provides recommendations on places to visit and community events to attend as Tamara Taylor settles into her new home. @ <persona> Tamara Taylor",
+      "chat": [
+        [
+          "Tamara Taylor",
+          "Hello Adam! It's always nice to see you out and about in the village. How long have you been living here?"
+        ],
+        [
+          "Adam Smith",
+          "I've been a resident of this village for over a decade now. It's a wonderful place to call home."
+        ],
+        [
+          "Tamara Taylor",
+          "I just recently moved here, and I'm still getting to know the area. Any recommendations on places to explore or things to do around here?"
+        ],
+        [
+          "Adam Smith",
+          "Welcome to the village, Tamara! Since you're new here, I recommend checking out Johnson Park for a nice walk and visiting the local art gallery to get a taste of the village's culture. If you're interested in community events, there's a poetry reading happening at the library next week. Feel free to ask me for more recommendations anytime!"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Adam! I'll definitely take your recommendations to heart and check out Johnson Park and the art gallery. The poetry reading sounds intriguing as well. I appreciate your insight into the village's offerings."
+        ],
+        [
+          "Adam Smith",
+          "Feel free to ask me for more recommendations anytime! I'm also planning to attend the poetry reading at the library next week. It would be great to see you there."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Adam, for the warm welcome and the wonderful suggestions. I'll be sure to explore Johnson Park, visit the art gallery, and mark my calendar for the poetry reading at the library next week. I'm looking forward to immersing myself in the village's culture."
+        ],
+        [
+          "Adam Smith",
+          "Feel free to reach out to me if you have any more questions or need further recommendations. I'm always happy to help newcomers settle into the village."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Adam! I appreciate your helpful suggestions and warm welcome. I look forward to exploring Johnson Park, visiting the art gallery, and attending the poetry reading at the library. I'll definitely reach out if I have more questions. It's been lovely chatting with you!"
+        ],
+        [
+          "Adam Smith",
+          "Feel free to reach out to me if you have any more questions or need further recommendations. I'm always happy to help newcomers settle into the village."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Adam! I truly appreciate your welcoming attitude and the thoughtful recommendations. I will make sure to explore Johnson Park, visit the art gallery, and attend the poetry reading at the library. It's reassuring to know that I can turn to you for more advice as I settle into the village. I look forward to seeing you at the poetry reading next week!"
+        ],
+        [
+          "Adam Smith",
+          "Feel free to reach out to me if you have any more questions or need further recommendations. I'm always happy to help newcomers settle into the village."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Adam! I truly appreciate your welcoming attitude and the thoughtful recommendations. I will make sure to explore Johnson Park, visit the art gallery, and attend the poetry reading at the library. It's reassuring to know that I can turn to you for more advice as I settle into the village. I look forward to seeing you at the poetry reading next week!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 09:25:20"
+  }
+}

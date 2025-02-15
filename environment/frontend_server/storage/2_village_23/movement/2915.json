@@ -1,0 +1,195 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        60,
+        30
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "getting ready to open Hobbs Cafe (eating breakfast) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending a creative writing workshop (preparing his writing materials) @ the Ville:Carlos Gomez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        118,
+        49
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f\ud83d\udc65",
+      "description": "waking up and completing his morning routine (conversing about Klaus Mueller and Wolfgang Schulz discussing exploring the village, with Klaus inviting Wolfgang to join him and Ayesha on a tour the following day.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        41,
+        35
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "having breakfast at Hobbs Cafe (walking to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        30
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "attending classes at Oak Hill College (walking to the bus stop) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        117,
+        49
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "having breakfast (conversing about Klaus Mueller and Wolfgang Schulz discussing exploring the village, with Klaus inviting Wolfgang to join him and Ayesha on a tour the following day.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        87,
+        57
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Eddy and Tom, catching up on their day, discussing Eddy's music theory classes, and planning to meet for a coffee chat next Wednesday @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Tom, how's your day going so far?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Eddy, my day is going great. Just managing the store as usual. How about you?"
+        ],
+        [
+          "Eddy Lin",
+          "I'm on my way to Oak Hill College for classes. Just wanted to say hi before heading in."
+        ],
+        [
+          "Tom Moreno",
+          "It's always nice to see a familiar face around here. How are your classes going at Oak Hill College?"
+        ],
+        [
+          "Eddy Lin",
+          "Classes are going well, thanks for asking. I'm really enjoying my music theory course."
+        ],
+        [
+          "Tom Moreno",
+          "That's great to hear, Eddy. Music theory sounds interesting. Let me know if you need any help with your studies."
+        ],
+        [
+          "Eddy Lin",
+          "Thanks, Tom. I appreciate that offer. I might take you up on it sometime!"
+        ],
+        [
+          "Tom Moreno",
+          "It's always nice to catch up with you, Eddy. Let's grab a coffee sometime and chat more about music theory."
+        ],
+        [
+          "Eddy Lin",
+          "I would love to grab a coffee with you sometime and talk more about music theory. How about we plan for next week?"
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a plan, Eddy. Let's aim for next Wednesday at the caf\u00e9 down the street. How does that sound?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds great, Tom! I'm looking forward to our coffee chat next Wednesday."
+        ],
+        [
+          "Tom Moreno",
+          "It's been nice catching up with you, Eddy. Have a great day at class!"
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        89,
+        56
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Eddy and Tom, catching up on their day, discussing Eddy's music theory classes, and planning to meet for a coffee chat next Wednesday @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Tom, how's your day going so far?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Eddy, my day is going great. Just managing the store as usual. How about you?"
+        ],
+        [
+          "Eddy Lin",
+          "I'm on my way to Oak Hill College for classes. Just wanted to say hi before heading in."
+        ],
+        [
+          "Tom Moreno",
+          "It's always nice to see a familiar face around here. How are your classes going at Oak Hill College?"
+        ],
+        [
+          "Eddy Lin",
+          "Classes are going well, thanks for asking. I'm really enjoying my music theory course."
+        ],
+        [
+          "Tom Moreno",
+          "That's great to hear, Eddy. Music theory sounds interesting. Let me know if you need any help with your studies."
+        ],
+        [
+          "Eddy Lin",
+          "Thanks, Tom. I appreciate that offer. I might take you up on it sometime!"
+        ],
+        [
+          "Tom Moreno",
+          "It's always nice to catch up with you, Eddy. Let's grab a coffee sometime and chat more about music theory."
+        ],
+        [
+          "Eddy Lin",
+          "I would love to grab a coffee with you sometime and talk more about music theory. How about we plan for next week?"
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a plan, Eddy. Let's aim for next Wednesday at the caf\u00e9 down the street. How does that sound?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds great, Tom! I'm looking forward to our coffee chat next Wednesday."
+        ],
+        [
+          "Tom Moreno",
+          "It's been nice catching up with you, Eddy. Have a great day at class!"
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        74
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "working on her new children's book series (reviewing her notes and ideas for the new book series) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "having breakfast and reading the news (making a list of potential topics for his book) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:05:50"
+  }
+}

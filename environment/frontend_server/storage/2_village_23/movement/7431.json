@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        25
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "getting ready for bed (walking home) @ the Ville:Isabella Rodriguez's apartment:main room:closet",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        57,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Adam Smith are discussing various recommendations for Carlos to explore the village, including attending a poetry reading event, visiting Johnson Park, the local art gallery, the old town square, and village museum, as well as attending a music event, writing workshop, and community workshop in order to immerse himself in the community and share his passion for poetry. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Adam, I was thinking about our last conversation at Hobbs Cafe and I wanted to get your thoughts on the upcoming poetry reading event happening in the village. Do you think it would be a good opportunity to showcase my work?"
+        ],
+        [
+          "Adam Smith",
+          "Hey Carlos, I think the poetry reading event would definitely be a great opportunity for you to showcase your work. It's a fantastic way to connect with the community and share your creativity. I can even introduce you to some other residents who might be interested in your project. Let me know if you need any help with preparations!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for the offer, Adam. I would appreciate any introductions to residents who share an interest in poetry. I'll definitely consider showcasing my work at the poetry reading event."
+        ],
+        [
+          "Adam Smith",
+          "Hey Carlos, welcome to the village! I'm excited to have you here and share all the wonderful things this community has to offer. If you need any recommendations on places to explore or events to attend, feel free to ask. I'm here to help make your transition easier."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you so much, Adam! I appreciate your warm welcome and guidance. I will definitely take you up on your offer for recommendations and introductions to other residents. I am looking forward to immersing myself in the community and sharing my passion for poetry."
+        ],
+        [
+          "Adam Smith",
+          "I'm glad you're excited to be part of the community, Carlos. I suggest we grab coffee at Hobbs Cafe sometime this week to further discuss your poetry and how you can get involved in upcoming community events."
+        ],
+        [
+          "Carlos Gomez",
+          "Adam, I would love to take you up on that offer for coffee at Hobbs Cafe. Let's plan to meet there this Friday at 10 am to discuss my poetry further. Thank you for your support and guidance!"
+        ],
+        [
+          "Adam Smith",
+          "Carlos, I'm glad you're settling in well. Have you had a chance to explore Johnson Park yet? It's a beautiful spot in our village that I think you would appreciate."
+        ],
+        [
+          "Carlos Gomez",
+          "Adam, thank you for the recommendation! I will definitely make time to explore Johnson Park soon. I appreciate your support and guidance as I settle into the village."
+        ],
+        [
+          "Adam Smith",
+          "Carlos, since you're new to the village, I recommend checking out the local art gallery in addition to Johnson Park. It's a wonderful place to immerse yourself in the art and culture of our community."
+        ],
+        [
+          "Carlos Gomez",
+          "Adam, I appreciate all your recommendations for exploring the village. I'll definitely make time to visit the local art gallery soon. Thank you for welcoming me and sharing your insights."
+        ],
+        [
+          "Adam Smith",
+          "Carlos, I also recommend checking out the old town square and village museum as part of your exploration of the village. They offer a unique insight into the history and heritage of our community."
+        ],
+        [
+          "Carlos Gomez",
+          "Adam, thank you for all the insightful recommendations. I'm really looking forward to exploring Johnson Park, the local art gallery, and the old town square and village museum. Your suggestions have been invaluable in helping me settle into the community and enrich my experience here. I truly appreciate your welcoming attitude and support."
+        ],
+        [
+          "Adam Smith",
+          "Carlos, I also recommend attending the local music event and the upcoming writing workshop as part of your village exploration. They are great opportunities to engage with the community and immerse yourself in the creative spirit of our village."
+        ],
+        [
+          "Carlos Gomez",
+          "Adam, I truly appreciate all the recommendations you've given me to explore the village. Your insights have been invaluable in helping me settle in and enrich my experience here. I'm looking forward to immersing myself in the community and sharing my passion for poetry."
+        ],
+        [
+          "Adam Smith",
+          "Carlos, I also recommend attending the community workshop happening next weekend. It's a great opportunity to connect with other residents and engage in creative activities."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "at the library at Oak Hill College (writing the introduction and background information for his paper) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        42,
+        32
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "heading home from The Rose and Crown Pub (saying goodbye to the pub staff and wishing them a good night) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        93,
+        32
+      ],
+      "pronunciatio": "\u2615",
+      "description": "studying at the library (taking a short break) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        39,
+        28
+      ],
+      "pronunciatio": "\ud83d\udcda\ud83d\udcaa",
+      "description": "exercising and studying at his room @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        89,
+        65
+      ],
+      "pronunciatio": "\ud83c\udfb5",
+      "description": "practicing music and studying (listening to recordings of different musical styles for inspiration) @ the Ville:Lin family's house:common room:shelf",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        73,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "discussing the upcoming local mayor election with his wife (discussing potential candidates for the upcoming election) @ the Ville:Moreno family's house:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\u270f\ufe0f",
+      "description": "working on her comic book series for adults (writing the script for the first issue) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        58,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Adam Smith are discussing various recommendations for Carlos to explore the village, including attending a poetry reading event, visiting Johnson Park, the local art gallery, the old town square, and village museum, as well as attending a music event, writing workshop, and community workshop in order to immerse himself in the community and share his passion for poetry. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Adam, I was thinking about our last conversation at Hobbs Cafe and I wanted to get your thoughts on the upcoming poetry reading event happening in the village. Do you think it would be a good opportunity to showcase my work?"
+        ],
+        [
+          "Adam Smith",
+          "Hey Carlos, I think the poetry reading event would definitely be a great opportunity for you to showcase your work. It's a fantastic way to connect with the community and share your creativity. I can even introduce you to some other residents who might be interested in your project. Let me know if you need any help with preparations!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for the offer, Adam. I would appreciate any introductions to residents who share an interest in poetry. I'll definitely consider showcasing my work at the poetry reading event."
+        ],
+        [
+          "Adam Smith",
+          "Hey Carlos, welcome to the village! I'm excited to have you here and share all the wonderful things this community has to offer. If you need any recommendations on places to explore or events to attend, feel free to ask. I'm here to help make your transition easier."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you so much, Adam! I appreciate your warm welcome and guidance. I will definitely take you up on your offer for recommendations and introductions to other residents. I am looking forward to immersing myself in the community and sharing my passion for poetry."
+        ],
+        [
+          "Adam Smith",
+          "I'm glad you're excited to be part of the community, Carlos. I suggest we grab coffee at Hobbs Cafe sometime this week to further discuss your poetry and how you can get involved in upcoming community events."
+        ],
+        [
+          "Carlos Gomez",
+          "Adam, I would love to take you up on that offer for coffee at Hobbs Cafe. Let's plan to meet there this Friday at 10 am to discuss my poetry further. Thank you for your support and guidance!"
+        ],
+        [
+          "Adam Smith",
+          "Carlos, I'm glad you're settling in well. Have you had a chance to explore Johnson Park yet? It's a beautiful spot in our village that I think you would appreciate."
+        ],
+        [
+          "Carlos Gomez",
+          "Adam, thank you for the recommendation! I will definitely make time to explore Johnson Park soon. I appreciate your support and guidance as I settle into the village."
+        ],
+        [
+          "Adam Smith",
+          "Carlos, since you're new to the village, I recommend checking out the local art gallery in addition to Johnson Park. It's a wonderful place to immerse yourself in the art and culture of our community."
+        ],
+        [
+          "Carlos Gomez",
+          "Adam, I appreciate all your recommendations for exploring the village. I'll definitely make time to visit the local art gallery soon. Thank you for welcoming me and sharing your insights."
+        ],
+        [
+          "Adam Smith",
+          "Carlos, I also recommend checking out the old town square and village museum as part of your exploration of the village. They offer a unique insight into the history and heritage of our community."
+        ],
+        [
+          "Carlos Gomez",
+          "Adam, thank you for all the insightful recommendations. I'm really looking forward to exploring Johnson Park, the local art gallery, and the old town square and village museum. Your suggestions have been invaluable in helping me settle into the community and enrich my experience here. I truly appreciate your welcoming attitude and support."
+        ],
+        [
+          "Adam Smith",
+          "Carlos, I also recommend attending the local music event and the upcoming writing workshop as part of your village exploration. They are great opportunities to engage with the community and immerse yourself in the creative spirit of our village."
+        ],
+        [
+          "Carlos Gomez",
+          "Adam, I truly appreciate all the recommendations you've given me to explore the village. Your insights have been invaluable in helping me settle in and enrich my experience here. I'm looking forward to immersing myself in the community and sharing my passion for poetry."
+        ],
+        [
+          "Adam Smith",
+          "Carlos, I also recommend attending the community workshop happening next weekend. It's a great opportunity to connect with other residents and engage in creative activities."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 20:38:30"
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf73\u2615",
+      "description": "waking up and completing her morning routine (making breakfast and coffee) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        93,
+        18
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Carlos Gomez's apartment:main room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        46
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        31,
+        50
+      ],
+      "pronunciatio": "\ud83c\udf33",
+      "description": "going for a walk at Johnson Park (enjoying the scenery at the park) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        118,
+        39
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2642",
+      "description": "waking up and completing her morning routine (doing a 15-minute yoga routine) @ the Ville:Dorm for Oak Hill College:garden:dorm garden",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        30,
+        42
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about new resident Wolfgang Schulz asking Adam Smith for recommendations on exploring the village and Adam suggesting visiting the village market on Saturdays @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey, Adam! I noticed you're deep into writing your book. What's it about?"
+        ],
+        [
+          "Adam Smith",
+          "Hey Wolfgang, nice to see you enjoying a run in the park. My book is actually about the importance of creativity and how it can shape the world. Have you explored the village much since you moved here?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thanks, Adam. I've been trying to make time to explore the village more. It's been a bit hectic with exams and training, but I'm looking forward to getting to know the area better. Do you have any favorite spots you recommend checking out?"
+        ],
+        [
+          "Adam Smith",
+          "You should definitely check out the village market on Saturdays. It's a great place to meet other villagers and support local businesses. I think you'll enjoy it."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great suggestion, Adam. I'll definitely make sure to visit the village market this Saturday. Thanks for the recommendation!"
+        ],
+        [
+          "Adam Smith",
+          "If you need any help getting settled in or have any questions about the village, feel free to reach out to me. I'm always happy to assist newcomers."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Adam. I appreciate your offer to help. I might take you up on that offer as I continue to settle in. It's comforting to know there are friendly faces like you around."
+        ],
+        [
+          "Adam Smith",
+          "You're welcome, Wolfgang. Feel free to ask if you need any recommendations or have any questions about the village. Have a great run!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Adam. I will definitely take you up on that offer as I settle in more."
+        ],
+        [
+          "Adam Smith",
+          "Welcome to the village, Wolfgang! If you have any questions or need any recommendations, don't hesitate to ask. Enjoy your run!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Adam. I'm eager to learn more about the village and I'll make sure to visit the market on Saturday."
+        ],
+        [
+          "Adam Smith",
+          "Welcome to the village, Wolfgang! If you have any questions or need any recommendations, don't hesitate to ask. Enjoy your run!"
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        94,
+        74
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Lin family's house:Eddy Lin's bedroom:bed",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        72,
+        74
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Moreno family's house:Tom and Jane Moreno's bedroom:bed",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        51,
+        73
+      ],
+      "pronunciatio": "\ud83c\udf92",
+      "description": "waking up and completing her morning routine (packing her bag for her morning walk) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:closet",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        31,
+        42
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about new resident Wolfgang Schulz asking Adam Smith for recommendations on exploring the village and Adam suggesting visiting the village market on Saturdays @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey, Adam! I noticed you're deep into writing your book. What's it about?"
+        ],
+        [
+          "Adam Smith",
+          "Hey Wolfgang, nice to see you enjoying a run in the park. My book is actually about the importance of creativity and how it can shape the world. Have you explored the village much since you moved here?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thanks, Adam. I've been trying to make time to explore the village more. It's been a bit hectic with exams and training, but I'm looking forward to getting to know the area better. Do you have any favorite spots you recommend checking out?"
+        ],
+        [
+          "Adam Smith",
+          "You should definitely check out the village market on Saturdays. It's a great place to meet other villagers and support local businesses. I think you'll enjoy it."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great suggestion, Adam. I'll definitely make sure to visit the village market this Saturday. Thanks for the recommendation!"
+        ],
+        [
+          "Adam Smith",
+          "If you need any help getting settled in or have any questions about the village, feel free to reach out to me. I'm always happy to assist newcomers."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Adam. I appreciate your offer to help. I might take you up on that offer as I continue to settle in. It's comforting to know there are friendly faces like you around."
+        ],
+        [
+          "Adam Smith",
+          "You're welcome, Wolfgang. Feel free to ask if you need any recommendations or have any questions about the village. Have a great run!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Adam. I will definitely take you up on that offer as I settle in more."
+        ],
+        [
+          "Adam Smith",
+          "Welcome to the village, Wolfgang! If you have any questions or need any recommendations, don't hesitate to ask. Enjoy your run!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Adam. I'm eager to learn more about the village and I'll make sure to visit the market on Saturday."
+        ],
+        [
+          "Adam Smith",
+          "Welcome to the village, Wolfgang! If you have any questions or need any recommendations, don't hesitate to ask. Enjoy your run!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 06:42:50"
+  }
+}

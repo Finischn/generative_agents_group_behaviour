@@ -1,0 +1,187 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "preparing for Sam Moore's birthday party at The Rose and Crown Pub at 5:00 pm (conversing about Sam and Isabella are discussing plans to explore the village, attend community events, and visit the local library together to immerse themselves in the village's culture and history.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having dinner (engaging in conversation with his friends) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        30
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f\ud83c\udfde",
+      "description": "still writing at the library (conversing about Klaus Mueller and Ayesha Khan are discussing their plans to explore more of the village, including visiting the old town square, the village museum, grabbing coffee at Hobbs Cafe, and potentially exploring the local farmer's market, taking a walk in the park, and attending a local music event.) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83e\udd1d",
+      "description": "getting ready for his birthday celebration at The Rose and Crown Pub (conversing about Sam and Isabella are discussing plans to explore the village, attend community events, and visit the local library together to immerse themselves in the village's culture and history.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        73,
+        30
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "attending Isabella's birthday celebration at Hobbs Cafe (conversing about Klaus Mueller and Ayesha Khan are discussing their plans to explore more of the village, including visiting the old town square, the village museum, grabbing coffee at Hobbs Cafe, and potentially exploring the local farmer's market, taking a walk in the park, and attending a local music event.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        88,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "attending team practice (conversing about Wolfgang Schulz and Adam Smith discussing various cultural events and activities in the village, such as theater productions, poetry readings, art gallery visits, live music events, and local traditions, with Adam recommending starting with the village market to support local businesses and immerse Wolfgang in the community.) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        111,
+        30
+      ],
+      "pronunciatio": "\ud83d\udd8b\ufe0f",
+      "description": "working on his composition project at Oak Hill College (starting to compose his piece) @ the Ville:Oak Hill College:classroom:blackboard",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        39,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a friendly exchange between Tamara Taylor and Tom Moreno, discussing exploring the village, attending a community gathering, meeting other residents, and scheduling a coffee chat to learn more about the village's history and Tamara's children's book series. @ <persona> Tamara Taylor",
+      "chat": [
+        [
+          "Tamara Taylor",
+          "Hi Tom! I heard you have some great recommendations for exploring the village. I'm excited to learn more about the local events and history. Would you be interested in showing me around sometime?"
+        ],
+        [
+          "Tom Moreno",
+          "Absolutely! I would love to show you around the village. How about we start with a tour this weekend?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds wonderful, Tom! I'm really looking forward to exploring the village with you. Thank you so much for offering to show me around."
+        ],
+        [
+          "Tom Moreno",
+          "I can also introduce you to some other residents who may share similar interests with you. We have a tight-knit community here, and I'm sure you'll feel right at home."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Tom! I really appreciate your kindness and willingness to help me settle into the village. I'm excited to meet more residents and explore the community with your guidance."
+        ],
+        [
+          "Tom Moreno",
+          "I'm glad you're excited, Tamara! Let's plan to attend the gathering at the community center on Saturday evening. It will be a great opportunity for you to meet more villagers and connect with the community."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Tom! I'm really excited about attending the gathering at the community center on Saturday evening and meeting more villagers. It'll be a great way to connect with everyone."
+        ],
+        [
+          "Tom Moreno",
+          "Let's also schedule a coffee chat sometime this week to discuss more about the village and your children's book series. How does that sound?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds like a great plan, Tom! I really appreciate your offer to show me around and introduce me to other residents. I'm excited to learn more about the village's history and community."
+        ],
+        [
+          "Tom Moreno",
+          "I'm glad you're excited, Tamara! Let's plan to attend the gathering at the community center on Saturday evening. It will be a great opportunity for you to meet more villagers and connect with the community."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Tom! I really appreciate your offer to show me around and introduce me to other residents. I'm excited to learn more about the village's history and community."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        40,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a friendly exchange between Tamara Taylor and Tom Moreno, discussing exploring the village, attending a community gathering, meeting other residents, and scheduling a coffee chat to learn more about the village's history and Tamara's children's book series. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Tamara Taylor",
+          "Hi Tom! I heard you have some great recommendations for exploring the village. I'm excited to learn more about the local events and history. Would you be interested in showing me around sometime?"
+        ],
+        [
+          "Tom Moreno",
+          "Absolutely! I would love to show you around the village. How about we start with a tour this weekend?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds wonderful, Tom! I'm really looking forward to exploring the village with you. Thank you so much for offering to show me around."
+        ],
+        [
+          "Tom Moreno",
+          "I can also introduce you to some other residents who may share similar interests with you. We have a tight-knit community here, and I'm sure you'll feel right at home."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Tom! I really appreciate your kindness and willingness to help me settle into the village. I'm excited to meet more residents and explore the community with your guidance."
+        ],
+        [
+          "Tom Moreno",
+          "I'm glad you're excited, Tamara! Let's plan to attend the gathering at the community center on Saturday evening. It will be a great opportunity for you to meet more villagers and connect with the community."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Tom! I'm really excited about attending the gathering at the community center on Saturday evening and meeting more villagers. It'll be a great way to connect with everyone."
+        ],
+        [
+          "Tom Moreno",
+          "Let's also schedule a coffee chat sometime this week to discuss more about the village and your children's book series. How does that sound?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds like a great plan, Tom! I really appreciate your offer to show me around and introduce me to other residents. I'm excited to learn more about the village's history and community."
+        ],
+        [
+          "Tom Moreno",
+          "I'm glad you're excited, Tamara! Let's plan to attend the gathering at the community center on Saturday evening. It will be a great opportunity for you to meet more villagers and connect with the community."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Tom! I really appreciate your offer to show me around and introduce me to other residents. I'm excited to learn more about the village's history and community."
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        74,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "taking a break to have dinner (conversing about Wolfgang Schulz and Adam Smith discussing various cultural events and activities in the village, such as theater productions, poetry readings, art gallery visits, live music events, and local traditions, with Adam recommending starting with the village market to support local businesses and immerse Wolfgang in the community.) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 17:29:50"
+  }
+}

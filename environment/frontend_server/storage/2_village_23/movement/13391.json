@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "serving customers at Hobbs Cafe (conversing about the research project on the effects of gentrification in the village, Isabella Rodriguez and Klaus Mueller discuss planning a tour, involving the community in research efforts, reaching out to various stakeholders, conducting interviews with residents, creating a timeline, scheduling meetings with community leaders and policymakers, exploring the historical context, designing a survey, and documenting findings in a shared database.) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        43,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about building a friendship through exploring the village, attending events, and engaging in shared interests like poetry, writing, and history @ <persona> Tamara Taylor",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hi Tamara! I couldn't help but notice your enthusiasm for exploring the village. Would you like to join me for a cup of coffee at the local cafe and chat about our favorite poetry collections?"
+        ],
+        [
+          "Tamara Taylor",
+          "Hi Carlos! I would love to join you for a cup of coffee at the local cafe and discuss our favorite poetry collections. It sounds like a delightful way to spend the afternoon."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm also looking forward to attending the music event together later this week! Would you like to explore the art gallery with me beforehand?"
+        ],
+        [
+          "Tamara Taylor",
+          "I would love to explore the art gallery with you beforehand! It sounds like a wonderful idea to immerse ourselves in the local culture."
+        ],
+        [
+          "Carlos Gomez",
+          "Since we both enjoy writing, would you be interested in joining me for a writing workshop at the local library tomorrow?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds like a fantastic idea! I would love to join you for the writing workshop at the local library tomorrow. Thank you for inviting me!"
+        ],
+        [
+          "Carlos Gomez",
+          "Do you have any recommendations for must-see places or events in the village that I should add to my list?"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you for including me in your plans, Carlos! I recommend checking out the historical landmarks in the village. The architecture and stories behind them are truly fascinating."
+        ],
+        [
+          "Carlos Gomez",
+          "I am glad we share a passion for exploring and learning about the village's history. Would you be interested in joining me for a tour of the historical landmarks in the village this weekend?"
+        ],
+        [
+          "Tamara Taylor",
+          "I would love to join you for a tour of the historical landmarks in the village this weekend. It sounds like a wonderful way to dive deeper into the rich history of our new community."
+        ],
+        [
+          "Carlos Gomez",
+          "Would you like to grab lunch at the new bakery in town and continue our conversation there?"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you for the invitation, Carlos! I would love to grab lunch at the new bakery in town and continue our conversation there. It's been wonderful exploring the village with you."
+        ],
+        [
+          "Carlos Gomez",
+          "Would you like to join me in attending the poetry reading event at the local library this weekend?"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you for the invitation, Carlos! I would love to grab lunch at the new bakery in town and continue our conversation there. It's been wonderful exploring the village with you."
+        ],
+        [
+          "Carlos Gomez",
+          "Would you like to join me for a walk around the village to further explore the hidden gems and local treasures?"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you for the invitation, Carlos! I would love to join you for a walk around the village to further explore the hidden gems and local treasures. It sounds like a fantastic way to appreciate the beauty of our new home."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        79,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having lunch at Hobbs Cafe (conversing about the research project on the effects of gentrification in the village, Isabella Rodriguez and Klaus Mueller discuss planning a tour, involving the community in research efforts, reaching out to various stakeholders, conducting interviews with residents, creating a timeline, scheduling meetings with community leaders and policymakers, exploring the historical context, designing a survey, and documenting findings in a shared database.) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        39,
+        62
+      ],
+      "pronunciatio": "\ud83d\uddd1\ufe0f",
+      "description": "having lunch at home (taking out the trash) @ the Ville:Moore family's house:main room:kitchen sink",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        31
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "having lunch (choosing her food from the buffet) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        28,
+        44
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f",
+      "description": "taking a short break @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        80,
+        21
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "taking a break and grabbing lunch at Hobbs Cafe (walking to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        80,
+        65
+      ],
+      "pronunciatio": "\ud83e\uddfc\ud83d\udc55",
+      "description": "taking a lunch break (washing his hands and changing into his casual clothes) @ the Ville:Moreno family's house:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        42,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about building a friendship through exploring the village, attending events, and engaging in shared interests like poetry, writing, and history @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hi Tamara! I couldn't help but notice your enthusiasm for exploring the village. Would you like to join me for a cup of coffee at the local cafe and chat about our favorite poetry collections?"
+        ],
+        [
+          "Tamara Taylor",
+          "Hi Carlos! I would love to join you for a cup of coffee at the local cafe and discuss our favorite poetry collections. It sounds like a delightful way to spend the afternoon."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm also looking forward to attending the music event together later this week! Would you like to explore the art gallery with me beforehand?"
+        ],
+        [
+          "Tamara Taylor",
+          "I would love to explore the art gallery with you beforehand! It sounds like a wonderful idea to immerse ourselves in the local culture."
+        ],
+        [
+          "Carlos Gomez",
+          "Since we both enjoy writing, would you be interested in joining me for a writing workshop at the local library tomorrow?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds like a fantastic idea! I would love to join you for the writing workshop at the local library tomorrow. Thank you for inviting me!"
+        ],
+        [
+          "Carlos Gomez",
+          "Do you have any recommendations for must-see places or events in the village that I should add to my list?"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you for including me in your plans, Carlos! I recommend checking out the historical landmarks in the village. The architecture and stories behind them are truly fascinating."
+        ],
+        [
+          "Carlos Gomez",
+          "I am glad we share a passion for exploring and learning about the village's history. Would you be interested in joining me for a tour of the historical landmarks in the village this weekend?"
+        ],
+        [
+          "Tamara Taylor",
+          "I would love to join you for a tour of the historical landmarks in the village this weekend. It sounds like a wonderful way to dive deeper into the rich history of our new community."
+        ],
+        [
+          "Carlos Gomez",
+          "Would you like to grab lunch at the new bakery in town and continue our conversation there?"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you for the invitation, Carlos! I would love to grab lunch at the new bakery in town and continue our conversation there. It's been wonderful exploring the village with you."
+        ],
+        [
+          "Carlos Gomez",
+          "Would you like to join me in attending the poetry reading event at the local library this weekend?"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you for the invitation, Carlos! I would love to grab lunch at the new bakery in town and continue our conversation there. It's been wonderful exploring the village with you."
+        ],
+        [
+          "Carlos Gomez",
+          "Would you like to join me for a walk around the village to further explore the hidden gems and local treasures?"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you for the invitation, Carlos! I would love to join you for a walk around the village to further explore the hidden gems and local treasures. It sounds like a fantastic way to appreciate the beauty of our new home."
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        53,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcda\ud83c\udf74",
+      "description": "taking a break for lunch (eating his lunch while reading a book) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 13:11:50"
+  }
+}

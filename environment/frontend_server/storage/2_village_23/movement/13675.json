@@ -1,0 +1,97 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        65,
+        32
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "serving customers at Hobbs Cafe (taking orders and serving customers) (checking inventory and restocking supplies) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        32,
+        42
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "exploring the village and taking in nature (conversing about Carlos Gomez and Sam Moore are discussing plans to explore the village together, including attending Sam's birthday party at The Rose and Crown Pub, taking a stroll through Johnson Park, visiting the old town square, grabbing coffee at Hobbs Cafe, checking out the local art gallery and history museum, attending workshops at the community center, joining a poetry reading event at the local market, and attending a local music event next week.) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "still writing at the library (conversing about Klaus Mueller and Wolfgang Schulz are discussing exploring different local spots in the village including the old town square, village museum, local music scene, farmer's market, library, poetry reading event, local art gallery, and Sam's birthday party at The Rose and Crown Pub.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        31,
+        42
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "resting and preparing for his birthday party at home (conversing about Carlos Gomez and Sam Moore are discussing plans to explore the village together, including attending Sam's birthday party at The Rose and Crown Pub, taking a stroll through Johnson Park, visiting the old town square, grabbing coffee at Hobbs Cafe, checking out the local art gallery and history museum, attending workshops at the community center, joining a poetry reading event at the local market, and attending a local music event next week.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciatio": "\ud83e\uddfd\ud83d\uddd1\ufe0f",
+      "description": "having lunch (cleaning up her dishes and throwing away any trash) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "studying at the library (conversing about Klaus Mueller and Wolfgang Schulz are discussing exploring different local spots in the village including the old town square, village museum, local music scene, farmer's market, library, poetry reading event, local art gallery, and Sam's birthday party at The Rose and Crown Pub.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        79,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcb8",
+      "description": "taking a break and grabbing lunch at Hobbs Cafe (paying for his food and finding a table to sit at) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        90,
+        46
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f\ud83d\udcf1",
+      "description": "taking a lunch break (eating his lunch and checking his phone for any urgent messages) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        60,
+        72
+      ],
+      "pronunciatio": "\ud83e\uddd8",
+      "description": "taking a break and relaxing (doing a short meditation or breathing exercise) @ the Ville:Tamara Taylor and Carmen Ortiz's house:garden:house garden",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        41,
+        25
+      ],
+      "pronunciatio": "\ud83d\udeaa",
+      "description": "taking a break for lunch (getting ready to go out for his community meeting or event) @ the Ville:artist's co-living space:kitchen:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 13:59:10"
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Eddy Lin discussing exploring the village's historical landmarks and planning to grab lunch at Hobbs Cafe after their tour @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hello, Eddy! How are you finding your day so far in the village?"
+        ],
+        [
+          "Eddy Lin",
+          "Hello Isabella! My day has been good so far, thank you for asking. How are you finding your time settling into the village?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I've been enjoying getting to know the village and its residents. Have you lived here for long?"
+        ],
+        [
+          "Eddy Lin",
+          "I've been a resident here for quite a while now. If you ever need any tips or recommendations about the village, feel free to ask me!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Eddy! I appreciate that. I might take you up on that offer sometime."
+        ],
+        [
+          "Eddy Lin",
+          "If you're interested, I can show you around the village sometime. There are a lot of hidden gems to discover!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds wonderful, Eddy! I would love to take you up on your offer and explore the village together. When would be a good time for you?"
+        ],
+        [
+          "Eddy Lin",
+          "How about we plan to meet this Saturday afternoon for a village tour? We can explore the local library, old town square, village museum, and maybe even attend the upcoming music event. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a fantastic plan, Eddy! I can't wait to explore the village with you this Saturday."
+        ],
+        [
+          "Eddy Lin",
+          "Great, I'll make sure to plan out our tour itinerary and let you know the details. Looking forward to exploring the village with you!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Eddy! I'm really looking forward to our village tour this Saturday."
+        ],
+        [
+          "Eddy Lin",
+          "Isabella, do you have any specific areas of the village you're particularly interested in exploring during our tour?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds wonderful, Eddy! I am particularly interested in exploring the village's history, especially the landmarks with rich historical significance. Do you have any insights or stories about those areas?"
+        ],
+        [
+          "Eddy Lin",
+          "I have some fascinating stories about the historical landmarks in the village. How about I share them with you during our tour on Saturday?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds perfect, Eddy! I'm eager to hear your stories about the historical landmarks in the village during our tour on Saturday."
+        ],
+        [
+          "Eddy Lin",
+          "Isabella, would you be interested in grabbing lunch at Hobbs Cafe after our village tour on Saturday?"
+        ]
+      ]
+    },
+    "Carlos Gomez": {
+      "movement": [
+        96,
+        21
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having lunch (sitting down to eat) @ the Ville:Carlos Gomez's apartment:main room:kitchen sink",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        98,
+        39
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having lunch at Hobbs Cafe (looking at the menu and deciding what to order) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        85,
+        52
+      ],
+      "pronunciatio": "\ud83d\uded2",
+      "description": "resting and preparing for his birthday party (making a grocery list for the items he needs to buy) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc69\u200d\ud83d\udcbb",
+      "description": "attending classes at Oak Hill College (working on a group project) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending classes at Oak Hill College (reviewing his notes and preparing for his next class) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Eddy Lin discussing exploring the village's historical landmarks and planning to grab lunch at Hobbs Cafe after their tour @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hello, Eddy! How are you finding your day so far in the village?"
+        ],
+        [
+          "Eddy Lin",
+          "Hello Isabella! My day has been good so far, thank you for asking. How are you finding your time settling into the village?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I've been enjoying getting to know the village and its residents. Have you lived here for long?"
+        ],
+        [
+          "Eddy Lin",
+          "I've been a resident here for quite a while now. If you ever need any tips or recommendations about the village, feel free to ask me!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Eddy! I appreciate that. I might take you up on that offer sometime."
+        ],
+        [
+          "Eddy Lin",
+          "If you're interested, I can show you around the village sometime. There are a lot of hidden gems to discover!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds wonderful, Eddy! I would love to take you up on your offer and explore the village together. When would be a good time for you?"
+        ],
+        [
+          "Eddy Lin",
+          "How about we plan to meet this Saturday afternoon for a village tour? We can explore the local library, old town square, village museum, and maybe even attend the upcoming music event. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a fantastic plan, Eddy! I can't wait to explore the village with you this Saturday."
+        ],
+        [
+          "Eddy Lin",
+          "Great, I'll make sure to plan out our tour itinerary and let you know the details. Looking forward to exploring the village with you!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Eddy! I'm really looking forward to our village tour this Saturday."
+        ],
+        [
+          "Eddy Lin",
+          "Isabella, do you have any specific areas of the village you're particularly interested in exploring during our tour?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds wonderful, Eddy! I am particularly interested in exploring the village's history, especially the landmarks with rich historical significance. Do you have any insights or stories about those areas?"
+        ],
+        [
+          "Eddy Lin",
+          "I have some fascinating stories about the historical landmarks in the village. How about I share them with you during our tour on Saturday?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds perfect, Eddy! I'm eager to hear your stories about the historical landmarks in the village during our tour on Saturday."
+        ],
+        [
+          "Eddy Lin",
+          "Isabella, would you be interested in grabbing lunch at Hobbs Cafe after our village tour on Saturday?"
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\u260e\ufe0f",
+      "description": "managing the store at The Willow Market and Pharmacy (answering phone calls and taking orders) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\ud83d\udc8c\ud83d\udd52",
+      "description": "having lunch (checking her emails while waiting for her food to heat up) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        62
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having lunch (setting the table) @ the Ville:Adam Smith's house:main room:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:28:50"
+  }
+}

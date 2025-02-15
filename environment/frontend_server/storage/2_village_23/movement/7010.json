@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f\ud83e\uddfc",
+      "description": "closing Hobbs Cafe and heading home (washing and putting away dishes) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83c\udfad",
+      "description": "attending a community poetry reading event (mingling with other poets and attendees) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        105,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the village, discovering hidden gems, visiting the local music scene, attending a music event, exploring the local art gallery, visiting the local farmer's market, trying fresh produce, visiting the local library, exploring interesting books, attending Sam's birthday party at The Rose and Crown Pub, and attending a local poetry reading event at the library @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Wolfgang, I was thinking we could explore the village together this weekend. I can show you some of the local hidden gems and we can grab lunch at Hobbs Cafe. What do you think?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds fantastic! I'd love to explore the village with you and discover the hidden gems. Lunch at Hobbs Cafe sounds perfect. What time should we meet?"
+        ],
+        [
+          "Klaus Mueller",
+          "We can start our tour at the old town square and then head to the village museum. I'm sure you'll find it fascinating."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great plan! I'm excited to explore the old town square and village museum with you. Thank you for showing me around."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's also check out the local music scene and maybe attend a music event in the village. What do you think?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a wonderful idea, Klaus! I'm really looking forward to experiencing the local music scene and attending a music event in the village with you. It'll be a great opportunity to immerse myself in the community's culture and traditions."
+        ],
+        [
+          "Klaus Mueller",
+          "We can also visit the local art gallery and check out some unique pieces. It's always fascinating to see the creativity of local artists."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like an amazing plan, Klaus! I can't wait to explore the local art gallery and see the unique pieces created by local artists. It's always inspiring to see the creativity in our community."
+        ],
+        [
+          "Klaus Mueller",
+          "We can also visit the local farmer's market and try some fresh produce. It's a great way to support the local community and enjoy some delicious food."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for sharing these wonderful ideas, Klaus! I'm really excited to explore the village with you and experience all these amazing places and activities."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's also make time to visit the local library and explore some interesting books. It's a great way to learn more about the history and culture of our village."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for the wonderful suggestions, Klaus! I'm looking forward to exploring the village with you and experiencing all these amazing places and activities."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're excited to explore the village with me, Wolfgang. I think it would be great for us to also attend Sam's birthday party at The Rose and Crown Pub. It's a local tradition and a fun way to connect with the community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for planning such an exciting day for us, Klaus! I really appreciate your efforts in showing me around the village and introducing me to new experiences."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's also plan to attend the local poetry reading event at the library over the weekend. It's a wonderful way to connect with the community and enjoy some inspiring performances."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Klaus! I really appreciate your kindness and willingness to show me around the village. I'm looking forward to all the wonderful experiences we have planned for the weekend."
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "celebrating his birthday at The Rose and Crown Pub (conversing about Ayesha Khan and Sam Moore are chatting about exploring the village, including visiting the library, village square, local history museum, attending music events, trying out the bakery on Main Street, meeting residents, and celebrating Sam's birthday at The Rose and Crown Pub.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        105,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "studying at the library (conversing about Ayesha Khan and Sam Moore are chatting about exploring the village, including visiting the library, village square, local history museum, attending music events, trying out the bakery on Main Street, meeting residents, and celebrating Sam's birthday at The Rose and Crown Pub.) @ the Ville:Oak Hill College:library:library sofa",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        35
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the village, discovering hidden gems, visiting the local music scene, attending a music event, exploring the local art gallery, visiting the local farmer's market, trying fresh produce, visiting the local library, exploring interesting books, attending Sam's birthday party at The Rose and Crown Pub, and attending a local poetry reading event at the library @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Wolfgang, I was thinking we could explore the village together this weekend. I can show you some of the local hidden gems and we can grab lunch at Hobbs Cafe. What do you think?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds fantastic! I'd love to explore the village with you and discover the hidden gems. Lunch at Hobbs Cafe sounds perfect. What time should we meet?"
+        ],
+        [
+          "Klaus Mueller",
+          "We can start our tour at the old town square and then head to the village museum. I'm sure you'll find it fascinating."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great plan! I'm excited to explore the old town square and village museum with you. Thank you for showing me around."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's also check out the local music scene and maybe attend a music event in the village. What do you think?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a wonderful idea, Klaus! I'm really looking forward to experiencing the local music scene and attending a music event in the village with you. It'll be a great opportunity to immerse myself in the community's culture and traditions."
+        ],
+        [
+          "Klaus Mueller",
+          "We can also visit the local art gallery and check out some unique pieces. It's always fascinating to see the creativity of local artists."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like an amazing plan, Klaus! I can't wait to explore the local art gallery and see the unique pieces created by local artists. It's always inspiring to see the creativity in our community."
+        ],
+        [
+          "Klaus Mueller",
+          "We can also visit the local farmer's market and try some fresh produce. It's a great way to support the local community and enjoy some delicious food."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for sharing these wonderful ideas, Klaus! I'm really excited to explore the village with you and experience all these amazing places and activities."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's also make time to visit the local library and explore some interesting books. It's a great way to learn more about the history and culture of our village."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for the wonderful suggestions, Klaus! I'm looking forward to exploring the village with you and experiencing all these amazing places and activities."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're excited to explore the village with me, Wolfgang. I think it would be great for us to also attend Sam's birthday party at The Rose and Crown Pub. It's a local tradition and a fun way to connect with the community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for planning such an exciting day for us, Klaus! I really appreciate your efforts in showing me around the village and introducing me to new experiences."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's also plan to attend the local poetry reading event at the library over the weekend. It's a wonderful way to connect with the community and enjoy some inspiring performances."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Klaus! I really appreciate your kindness and willingness to show me around the village. I'm looking forward to all the wonderful experiences we have planned for the weekend."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        88,
+        60
+      ],
+      "pronunciatio": "\ud83c\udfb6",
+      "description": "practicing music and studying (listening to different musical styles for inspiration) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        73,
+        67
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "relaxing and watching TV with his wife (discussing the day's events with his wife) @ the Ville:Moreno family's house:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcd6\u23f0",
+      "description": "taking some time to read (reading her book for 30 minutes) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        24,
+        38
+      ],
+      "pronunciatio": "\ud83d\udc4b\ud83d\udcac",
+      "description": "attending a local community meeting about the upcoming mayor election (greeting and chatting with fellow community members) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 19:28:20"
+  }
+}

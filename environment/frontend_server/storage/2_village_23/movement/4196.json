@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        62,
+        42
+      ],
+      "pronunciatio": "\ud83d\udd2a",
+      "description": "prepping food and drinks for customers at Hobbs Cafe (prepping food items, such as chopping vegetables and marinating meat) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        79,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the village, attending Sam's birthday party at The Rose and Crown Pub, checking out the old town square and village museum, planning to explore more hidden gems together, attending a local music event, joining a writing workshop the next day, and looking forward to a poetry reading event at the local library over the weekend. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Wolfgang, I heard you're attending Sam's birthday party at The Rose and Crown Pub. Are you excited to explore more of the village before the event?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Yes, I'm looking forward to it! I've heard great things about the village and can't wait to explore more."
+        ],
+        [
+          "Carlos Gomez",
+          "Do you have any favorite spots in the village that you recommend I visit?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I highly recommend visiting the old town square and the village museum. The history and charm of those places are truly remarkable."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for the recommendations, Wolfgang. I'll definitely check out the old town square and the village museum."
+        ],
+        [
+          "Wolfgang Schulz",
+          "If you're interested in exploring more, I can show you around the village after the party. We can visit some other hidden gems together."
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a great plan, Wolfgang. I'd love to explore more of the village with you after the party."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm also planning to check out the local music event after the party. Would you like to join me?"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a wonderful plan, Wolfgang. I would love to join you at the local music event after the party."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Great! Let's explore the village together after the party and check out some hidden gems."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm also planning to attend a writing workshop in the village tomorrow. Would you be interested in joining me?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great opportunity to explore your creative side. I would love to join you at the writing workshop tomorrow!"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a fantastic plan, Wolfgang! I appreciate your suggestions and look forward to exploring the village together. See you at the writing workshop tomorrow!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm glad we have similar interests in exploring the village. Let's make sure to enjoy the writing workshop tomorrow and continue discovering more about this place."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm also planning to attend a poetry reading event at the local library this weekend. Would you like to come with me?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That poetry reading event at the local library sounds intriguing, Carlos. I would love to join you and explore the literary side of the village. Count me in for the weekend!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        59,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "at the library at Oak Hill College (conversing about Carlos Gomez and Klaus Mueller are discussing Klaus' long-term residency in the village, sharing recommendations for places to visit and activities to participate in, planning to meet up to discuss a research project on the effects of gentrification, and arranging to join a tour of the village with Ayesha Khan.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        37,
+        65
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "reading at Hobbs Cafe (finishing the last few chapters of his book) @ the Ville:Moore family's house:main room:bed",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        101,
+        30
+      ],
+      "pronunciatio": "\ud83d\udc6b\ud83c\udfde\ufe0f",
+      "description": "attending classes at Oak Hill College (conversing about two friends, Ayesha Khan and Wolfgang Schulz, making plans to explore the village, discuss Shakespeare's works at the local library, have lunch at Hobbs Cafe, go for a run in the park, attend Sam's birthday party at The Rose and Crown Pub, and stop by the local music event together.) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        82,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the village, attending Sam's birthday party at The Rose and Crown Pub, checking out the old town square and village museum, planning to explore more hidden gems together, attending a local music event, joining a writing workshop the next day, and looking forward to a poetry reading event at the local library over the weekend. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Wolfgang, I heard you're attending Sam's birthday party at The Rose and Crown Pub. Are you excited to explore more of the village before the event?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Yes, I'm looking forward to it! I've heard great things about the village and can't wait to explore more."
+        ],
+        [
+          "Carlos Gomez",
+          "Do you have any favorite spots in the village that you recommend I visit?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I highly recommend visiting the old town square and the village museum. The history and charm of those places are truly remarkable."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for the recommendations, Wolfgang. I'll definitely check out the old town square and the village museum."
+        ],
+        [
+          "Wolfgang Schulz",
+          "If you're interested in exploring more, I can show you around the village after the party. We can visit some other hidden gems together."
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a great plan, Wolfgang. I'd love to explore more of the village with you after the party."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm also planning to check out the local music event after the party. Would you like to join me?"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a wonderful plan, Wolfgang. I would love to join you at the local music event after the party."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Great! Let's explore the village together after the party and check out some hidden gems."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm also planning to attend a writing workshop in the village tomorrow. Would you be interested in joining me?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great opportunity to explore your creative side. I would love to join you at the writing workshop tomorrow!"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a fantastic plan, Wolfgang! I appreciate your suggestions and look forward to exploring the village together. See you at the writing workshop tomorrow!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm glad we have similar interests in exploring the village. Let's make sure to enjoy the writing workshop tomorrow and continue discovering more about this place."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm also planning to attend a poetry reading event at the local library this weekend. Would you like to come with me?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That poetry reading event at the local library sounds intriguing, Carlos. I would love to join you and explore the literary side of the village. Count me in for the weekend!"
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        112,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending classes at Oak Hill College (taking a lunch break) (attending his first class on music theory) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcde\ud83d\udef5",
+      "description": "managing the store at The Willow Market and Pharmacy (assisting customers with finding products) (answering the phone and taking orders for delivery) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "continuing work on her new children's book series (continuing to write the first draft) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "attending a local community meeting about the upcoming mayor election (participating in a Q&A session with the candidates) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:39:20"
+  }
+}

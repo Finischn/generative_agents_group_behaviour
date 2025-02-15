@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83e\uddf9",
+      "description": "serving customers at Hobbs Cafe (restocking supplies and cleaning tables) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        39,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring various attractions and cultural events in the village, with Adam Smith recommending places like Johnson Park, the local art gallery, old town square, and poetry reading and music events for Carlos Gomez to attend and enjoy together. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Adam Smith",
+          "Welcome to the village, Carlos! I'm glad to see you taking an interest in exploring our community. If you need any recommendations or if you want to join me for any events or activities, feel free to ask. The village has a lot to offer, and I believe you'll find it a welcoming and enriching place."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Adam. I would love to explore more of the village and attend some of the events you mentioned. Your insights have been really helpful in getting settled here."
+        ],
+        [
+          "Adam Smith",
+          "I'm glad that you're interested in exploring the village's culture and history. Have you had a chance to visit Johnson Park yet? It's a beautiful spot with a lot of local history and charm."
+        ],
+        [
+          "Carlos Gomez",
+          "I haven't visited Johnson Park yet, but I'm really looking forward to exploring it. Maybe we could go together sometime?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a great idea, Carlos! I would be happy to show you around Johnson Park and share more about the village's history. How about we plan a visit for this weekend?"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a wonderful idea, Adam. I appreciate your willingness to show me around Johnson Park and share more about the village's history. I look forward to our visit this weekend."
+        ],
+        [
+          "Adam Smith",
+          "I'm glad you're enjoying exploring the village, Carlos. Have you had a chance to check out the local art gallery yet? It's a hidden gem filled with inspiring works from local artists."
+        ],
+        [
+          "Carlos Gomez",
+          "I haven't visited the local art gallery yet, but it sounds intriguing. Would you be interested in going together sometime?"
+        ],
+        [
+          "Adam Smith",
+          "Carlos, I highly recommend checking out the old town square as well. It's a historic spot full of charm and a great place to learn more about the village's past."
+        ],
+        [
+          "Carlos Gomez",
+          "Adam, I appreciate your recommendations. I would love to visit the old town square and explore more of the village's history with you."
+        ],
+        [
+          "Adam Smith",
+          "Carlos, I also recommend attending a poetry reading event at the community center. It's a great way to immerse yourself in our village's creative community and connect with locals who share your passion for poetry. Let me know if you'd like to attend one together!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for all the wonderful recommendations, Adam. I'm excited to explore Johnson Park, the local art gallery, and the old town square with you. Attending the poetry reading event at the community center sounds like a fantastic idea, I would love to join you for that. Let's plan our visits and experiences together!"
+        ],
+        [
+          "Adam Smith",
+          "Carlos, I also recommend attending a music event in the village. It's a great way to enjoy some local talent and experience our community's vibrant music scene. Let me know if you're interested in joining me for that as well!"
+        ],
+        [
+          "Carlos Gomez",
+          "Adam, I really appreciate all your recommendations and I am looking forward to exploring the village with you. Let's definitely plan to attend the music event together as well."
+        ],
+        [
+          "Adam Smith",
+          "Carlos, I also recommend attending a writing workshop in the village. It's a great way to connect with other writers in the community and hone your craft. Let me know if you're interested in joining me for that as well!"
+        ],
+        [
+          "Carlos Gomez",
+          "Adam, I really appreciate all your recommendations and I am looking forward to exploring the village with you. Let's definitely plan to attend the music event together as well."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udc69\u200d\ud83d\udcbb",
+      "description": "still writing at the library (continuing to work on the outline) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        37,
+        61
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "gathering party materials and decorations at home (making a list of necessary party materials and decorations) @ the Ville:Moore family's house:main room:desk",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        101,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcda\ud83c\udfad",
+      "description": "studying at the local library (conversing about Wolfgang Schulz and Ayesha Khan are discussing their shared interest in literature, exploring the village's historical landmarks and cultural events, and planning to attend a poetry reading event at the local bookstore and a Shakespearean play at the local theater together.) @ the Ville:The Willows Market and Pharmacy:store:behind the grocery counter",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        122,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda\ud83c\udfad",
+      "description": "studying at the library (conversing about Wolfgang Schulz and Ayesha Khan are discussing their shared interest in literature, exploring the village's historical landmarks and cultural events, and planning to attend a poetry reading event at the local bookstore and a Shakespearean play at the local theater together.) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        77,
+        25
+      ],
+      "pronunciatio": "\ud83c\udfb6",
+      "description": "discussing the upcoming music event at the community center with Ayesha at Hobbs Cafe (showing Ayesha the flyer for the upcoming music event at the community center) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        60,
+        37
+      ],
+      "pronunciatio": "\u2615",
+      "description": "managing day to day operations at The Willow Market and Pharmacy (taking a break) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        74
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "still working on her children's book series (writing the first draft of the book) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        39,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring various attractions and cultural events in the village, with Adam Smith recommending places like Johnson Park, the local art gallery, old town square, and poetry reading and music events for Carlos Gomez to attend and enjoy together. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Adam Smith",
+          "Welcome to the village, Carlos! I'm glad to see you taking an interest in exploring our community. If you need any recommendations or if you want to join me for any events or activities, feel free to ask. The village has a lot to offer, and I believe you'll find it a welcoming and enriching place."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Adam. I would love to explore more of the village and attend some of the events you mentioned. Your insights have been really helpful in getting settled here."
+        ],
+        [
+          "Adam Smith",
+          "I'm glad that you're interested in exploring the village's culture and history. Have you had a chance to visit Johnson Park yet? It's a beautiful spot with a lot of local history and charm."
+        ],
+        [
+          "Carlos Gomez",
+          "I haven't visited Johnson Park yet, but I'm really looking forward to exploring it. Maybe we could go together sometime?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a great idea, Carlos! I would be happy to show you around Johnson Park and share more about the village's history. How about we plan a visit for this weekend?"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a wonderful idea, Adam. I appreciate your willingness to show me around Johnson Park and share more about the village's history. I look forward to our visit this weekend."
+        ],
+        [
+          "Adam Smith",
+          "I'm glad you're enjoying exploring the village, Carlos. Have you had a chance to check out the local art gallery yet? It's a hidden gem filled with inspiring works from local artists."
+        ],
+        [
+          "Carlos Gomez",
+          "I haven't visited the local art gallery yet, but it sounds intriguing. Would you be interested in going together sometime?"
+        ],
+        [
+          "Adam Smith",
+          "Carlos, I highly recommend checking out the old town square as well. It's a historic spot full of charm and a great place to learn more about the village's past."
+        ],
+        [
+          "Carlos Gomez",
+          "Adam, I appreciate your recommendations. I would love to visit the old town square and explore more of the village's history with you."
+        ],
+        [
+          "Adam Smith",
+          "Carlos, I also recommend attending a poetry reading event at the community center. It's a great way to immerse yourself in our village's creative community and connect with locals who share your passion for poetry. Let me know if you'd like to attend one together!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for all the wonderful recommendations, Adam. I'm excited to explore Johnson Park, the local art gallery, and the old town square with you. Attending the poetry reading event at the community center sounds like a fantastic idea, I would love to join you for that. Let's plan our visits and experiences together!"
+        ],
+        [
+          "Adam Smith",
+          "Carlos, I also recommend attending a music event in the village. It's a great way to enjoy some local talent and experience our community's vibrant music scene. Let me know if you're interested in joining me for that as well!"
+        ],
+        [
+          "Carlos Gomez",
+          "Adam, I really appreciate all your recommendations and I am looking forward to exploring the village with you. Let's definitely plan to attend the music event together as well."
+        ],
+        [
+          "Adam Smith",
+          "Carlos, I also recommend attending a writing workshop in the village. It's a great way to connect with other writers in the community and hone your craft. Let me know if you're interested in joining me for that as well!"
+        ],
+        [
+          "Carlos Gomez",
+          "Adam, I really appreciate all your recommendations and I am looking forward to exploring the village with you. Let's definitely plan to attend the music event together as well."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 15:26:20"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc55",
+      "description": "waking up and completing her morning routine (getting dressed in her cafe uniform) @ the Ville:Isabella Rodriguez's apartment:main room:closet",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        93,
+        18
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Carlos Gomez's apartment:main room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        46
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        34,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Sam Moore and Wolfgang Schulz are chatting about Wolfgang's experience in the new village, with Sam offering help and inviting Wolfgang to his birthday party at The Rose and Crown Pub to meet more villagers and be part of the community. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hello, Wolfgang! I noticed you're new to the village. Welcome! How are you finding your new surroundings so far?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam! I'm enjoying the village and getting to know the area. It's been a great experience so far."
+        ],
+        [
+          "Sam Moore",
+          "If you ever need any recommendations or help navigating the village, feel free to ask me. I'd be happy to assist!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam! I might take you up on that offer soon. I appreciate your kindness and willingness to help."
+        ],
+        [
+          "Sam Moore",
+          "If you're free tomorrow evening, I'm actually having my birthday party at The Rose and Crown Pub. It would be a great way for you to meet some more villagers and see the community in action."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for the invitation, Sam! I would love to attend your birthday party at The Rose and Crown Pub tomorrow evening. It sounds like a great opportunity to meet more villagers and be part of the community."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you'll be able to join us at the party tomorrow! It will be a great opportunity for you to meet more residents of the village and get to know everyone better."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you again, Sam, for inviting me to your birthday party at The Rose and Crown Pub tomorrow evening. I'm looking forward to meeting more villagers and being part of the community."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        114,
+        60
+      ],
+      "pronunciatio": "\ud83d\udc5f",
+      "description": "waking up and completing her morning routine (changing into her workout clothes) @ the Ville:Dorm for Oak Hill College:Ayesha Khan's room:closet",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        33,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Sam Moore and Wolfgang Schulz are chatting about Wolfgang's experience in the new village, with Sam offering help and inviting Wolfgang to his birthday party at The Rose and Crown Pub to meet more villagers and be part of the community. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hello, Wolfgang! I noticed you're new to the village. Welcome! How are you finding your new surroundings so far?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam! I'm enjoying the village and getting to know the area. It's been a great experience so far."
+        ],
+        [
+          "Sam Moore",
+          "If you ever need any recommendations or help navigating the village, feel free to ask me. I'd be happy to assist!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam! I might take you up on that offer soon. I appreciate your kindness and willingness to help."
+        ],
+        [
+          "Sam Moore",
+          "If you're free tomorrow evening, I'm actually having my birthday party at The Rose and Crown Pub. It would be a great way for you to meet some more villagers and see the community in action."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for the invitation, Sam! I would love to attend your birthday party at The Rose and Crown Pub tomorrow evening. It sounds like a great opportunity to meet more villagers and be part of the community."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you'll be able to join us at the party tomorrow! It will be a great opportunity for you to meet more residents of the village and get to know everyone better."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you again, Sam, for inviting me to your birthday party at The Rose and Crown Pub tomorrow evening. I'm looking forward to meeting more villagers and being part of the community."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        94,
+        74
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Lin family's house:Eddy Lin's bedroom:bed",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        72,
+        74
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Moreno family's house:Tom and Jane Moreno's bedroom:bed",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        57,
+        65
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "waking up and completing her morning routine (eating breakfast) @ the Ville:Tamara Taylor and Carmen Ortiz's house:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        63,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "writing and working on his book (writing the first chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 06:34:30"
+  }
+}

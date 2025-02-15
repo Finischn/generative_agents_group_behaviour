@@ -1,0 +1,868 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 21:59:50",
+  "curr_tile": [
+    55,
+    74
+  ],
+  "daily_plan_req": "1. Wake up and complete the morning routine at 6am 2. Meet Ayesha at the library at 10am 3. Explore the village with Ayesha 4. Have lunch at the local cafe at 12:30pm 5. Continue working on children's book series in the afternoon 6. Enjoy a peaceful evening at home with a good book and some tea",
+  "name": "Tamara Taylor",
+  "first_name": "Tamara",
+  "last_name": "Taylor",
+  "age": 49,
+  "innate": "imaginative, patient, kind",
+  "race": "Black",
+  "village": "newcomer to the village",
+  "gender": "Female",
+  "political_affiliation": "Conservative",
+  "race_div": "Black or African American",
+  "education": "Doctoral degree",
+  "learned": "Tamara Taylor is a children's book author who loves to create stories that capture the imaginations of young readers. She is very patient and kind when it comes to her work.",
+  "currently": "Status: Tamara Taylor is excited to meet Ayesha at the library this morning to start exploring the village together on Tuesday February 14. She is also looking forward to her dinner with Wolfgang on Thursday February 16 at the local Italian restaurant at 7 pm. Tamara had a productive day working on her children's book series and is grateful for the support of the community.",
+  "lifestyle": "Tamara Taylor goes to bed around 10pm, awakes up around 6am, eats dinner around 6pm.",
+  "living_area": "the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 48,
+  "importance_ele_n": 94,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "go for a morning walk at 7:00 am",
+    "work on her new children's book series from 8:00 am to 12:00 pm",
+    "have lunch at 12:00 pm",
+    "take a break and spend some time relaxing at 1:00 pm",
+    "resume work on her children's book series from 2:00 pm to 5:00 pm",
+    "cook and have dinner at 6:00 pm",
+    "spend some time in the evening reading from 7:00 pm to 8:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine (stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (taking a shower)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (getting dressed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (making breakfast)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (eating breakfast)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (washing the dishes)",
+      15
+    ],
+    [
+      "going for a morning walk (putting on her walking shoes)",
+      5
+    ],
+    [
+      "going for a morning walk (stretching before her walk)",
+      10
+    ],
+    [
+      "going for a morning walk (walking around the village)",
+      30
+    ],
+    [
+      "going for a morning walk (on the way to enjoying the scenery and taking photos)",
+      0
+    ],
+    [
+      "going for a morning walk (conversing about Wolfgang Schulz and Tamara Taylor are chatting about exploring the village, trying out pastries at a local cafe, and planning a picnic at the park next Saturday afternoon.)",
+      11
+    ],
+    [
+      "going for a morning walk (heading back home)",
+      4
+    ],
+    [
+      "working on her new children's book series (reviewing her notes and ideas for the new book)",
+      10
+    ],
+    [
+      "working on her new children's book series (brainstorming new plot points and characters)",
+      20
+    ],
+    [
+      "working on her new children's book series (writing the first draft of the book)",
+      20
+    ],
+    [
+      "working on her new children's book series (taking a short break)",
+      10
+    ],
+    [
+      "still working on her children's book series (reviewing her notes and ideas for the book)",
+      10
+    ],
+    [
+      "still working on her children's book series (on the way to writing the first draft of the book)",
+      0
+    ],
+    [
+      "still working on her children's book series (conversing about exploring the village, planning to visit the local cafe, park, museum, and attend a music event together)",
+      11
+    ],
+    [
+      "still working on her children's book series (writing the first draft of the book)",
+      9
+    ],
+    [
+      "still working on her children's book series (on the way to taking a short break)",
+      0
+    ],
+    [
+      "still working on her children's book series (conversing about exploring the village, where Adam Smith provides recommendations on places to visit and community events to attend as Tamara Taylor settles into her new home.)",
+      13
+    ],
+    [
+      "still working on her children's book series (revising and editing the first draft)",
+      10
+    ],
+    [
+      "still working on her children's book series (taking a short break)",
+      5
+    ],
+    [
+      "still working on her children's book series (saving the final draft of the book)",
+      2
+    ],
+    [
+      "meeting Ayesha at the library (getting dressed and ready for the day)",
+      15
+    ],
+    [
+      "meeting Ayesha at the library (packing her bag with her notebook and pen)",
+      5
+    ],
+    [
+      "meeting Ayesha at the library (checking the time and making sure she is not running late)",
+      5
+    ],
+    [
+      "meeting Ayesha at the library (walking to the library)",
+      10
+    ],
+    [
+      "meeting Ayesha at the library (on the way to greeting Ayesha and exchanging pleasantries)",
+      0
+    ],
+    [
+      "meeting Ayesha at the library (conversing about a warm welcome and offer of assistance from Sam Moore to help Tamara Taylor settle in the village, including plans to explore Johnson Park together, have breakfast at Hobbs Cafe, and learn more about the village's history)",
+      14
+    ],
+    [
+      "walking to Johnson Park with Ayesha",
+      11
+    ],
+    [
+      "exploring Johnson Park with Ayesha (taking pictures and learning about the park's history)",
+      10
+    ],
+    [
+      "walking to Hobbs Cafe with Ayesha",
+      10
+    ],
+    [
+      "having breakfast at Hobbs Cafe with Ayesha (on the way to having breakfast at Hobbs Cafe with Ayesh)",
+      0
+    ],
+    [
+      "having breakfast at Hobbs Cafe with Ayesha (conversing about Tamara Taylor and Isabella Rodriguez discussing different community engagement strategies to involve residents in their research on the social impact of gentrification in the village.)",
+      15
+    ],
+    [
+      "walking to the next location in the village with Ayesha",
+      10
+    ],
+    [
+      "exploring the village with Ayesha (talking to locals and learning about the history of the village)",
+      10
+    ],
+    [
+      "walking back to the library with Ayesha (discussing their experience and plans for the rest of the day)",
+      10
+    ],
+    [
+      "having lunch at a local cafe (on the way to walking to the local cafe)",
+      0
+    ],
+    [
+      "having lunch at a local cafe (conversing about Tamara Taylor and Tom Moreno are chatting about their recent experience at a music event with Ayesha Khan, plans to attend a gathering at the community center on Saturday evening, and being introduced to another new resident, Carlos Gomez, to connect with at the event.)",
+      15
+    ],
+    [
+      "having lunch at a local cafe (browsing the menu and deciding what to order)",
+      5
+    ],
+    [
+      "having lunch at a local cafe (placing her order with the server)",
+      5
+    ],
+    [
+      "having lunch at a local cafe (chatting with Ayesha while waiting for their food)",
+      15
+    ],
+    [
+      "having lunch at a local cafe (on the way to enjoying her meal, paying for her meal and leaving a tip)",
+      0
+    ],
+    [
+      "having lunch at a local cafe (conversing about collaborating on gentrification research in the village, Tamara Taylor expresses interest in contributing and attending community engagement meetings.)",
+      14
+    ],
+    [
+      "walking to a nearby park (on the way to enjoying the scenery and getting some fresh air)",
+      0
+    ],
+    [
+      "walking to a nearby park (conversing about two friends, Ayesha Khan and Tamara Taylor, making plans to explore the village together and attend a music event, discussing meeting time and place for the next day's adventure.)",
+      9
+    ],
+    [
+      "taking a break and relaxing (making a cup of tea)",
+      5
+    ],
+    [
+      "taking a break and relaxing (on the way to finding a comfortable spot to sit and relax)",
+      0
+    ],
+    [
+      "taking a break and relaxing (conversing about building a friendship through exploring the village, attending events, and engaging in shared interests like poetry, writing, and history)",
+      12
+    ],
+    [
+      "taking a break and relaxing (finding a comfortable spot to sit and relax)",
+      5
+    ],
+    [
+      "taking a break and relaxing (checking her phone for any important messages)",
+      10
+    ],
+    [
+      "taking a break and relaxing (reading a few pages of her current book)",
+      15
+    ],
+    [
+      "taking a break and relaxing (doing a short meditation or breathing exercise)",
+      10
+    ],
+    [
+      "taking a break and relaxing (stretching her legs and arms)",
+      5
+    ],
+    [
+      "taking a break and relaxing (enjoying her cup of tea)",
+      7
+    ],
+    [
+      "continuing to work on her children's book series",
+      51
+    ],
+    [
+      "still working on her children's book series (reviewing her notes and ideas for the book)",
+      10
+    ],
+    [
+      "still working on her children's book series (writing the first draft of the book)",
+      30
+    ],
+    [
+      "still working on her children's book series (taking a short break)",
+      5
+    ],
+    [
+      "still working on her children's book series (revising and editing the first draft)",
+      30
+    ],
+    [
+      "still working on her children's book series (taking a break to stretch and get some water)",
+      5
+    ],
+    [
+      "still working on her children's book series (on the way to working on illustrations for the book)",
+      0
+    ],
+    [
+      "still working on her children's book series (conversing about Sam Moore and Tamara Taylor are making plans to explore the village's history, attend a community picnic, have breakfast at Hobbs Cafe, join a historical tour, and visit a local art exhibition together.)",
+      11
+    ],
+    [
+      "still working on her children's book series (working on illustrations for the book)",
+      9
+    ],
+    [
+      "still working on her children's book series (on the way to taking a break to rest her eyes)",
+      0
+    ],
+    [
+      "still working on her children's book series (conversing about exploring historical landmarks, visiting the village museum, having lunch at a local bakery, attending a community art exhibition, and checking out the local music event while Adam Smith and Tamara Taylor make plans to immerse themselves in the village's history and vibrant community life.)",
+      15
+    ],
+    [
+      "still working on her children's book series (on the way to finalizing illustrations and making any necessary changes)",
+      0
+    ],
+    [
+      "still working on her children's book series (conversing about Klaus Mueller and Tamara Taylor discussing focusing on the cultural impact of gentrification in the village, planning to visit areas impacted by gentrification to gain first-hand perspective, and scheduling a meeting to collaborate further on the research project.)",
+      16
+    ],
+    [
+      "cooking and having dinner (deciding on a recipe for dinner)",
+      10
+    ],
+    [
+      "cooking and having dinner (on the way to making a grocery list)",
+      0
+    ],
+    [
+      "cooking and having dinner (conversing about a friendly exchange between Tamara Taylor and Tom Moreno, discussing exploring the village, attending a community gathering, meeting other residents, and scheduling a coffee chat to learn more about the village's history and Tamara's children's book series.)",
+      9
+    ],
+    [
+      "cooking and having dinner (making a grocery list)",
+      10
+    ],
+    [
+      "cooking and having dinner (on the way to going to the grocery store)",
+      0
+    ],
+    [
+      "cooking and having dinner (conversing about Isabella Rodriguez and Tamara Taylor are discussing their experiences settling into the village and planning to explore local attractions together, such as visiting the village museum, old town square, art gallery, local farmer's market, and attending a village music jam session.)",
+      16
+    ],
+    [
+      "cooking and having dinner (going to the grocery store)",
+      14
+    ],
+    [
+      "cooking and having dinner (unpacking and organizing groceries)",
+      10
+    ],
+    [
+      "cooking and having dinner (prepping ingredients for dinner)",
+      20
+    ],
+    [
+      "cooking and having dinner (cooking dinner and setting the table)",
+      15
+    ],
+    [
+      "cooking and having dinner (plating the food)",
+      4
+    ],
+    [
+      "spending some time reading and relaxing (making a cup of tea)",
+      5
+    ],
+    [
+      "spending some time reading and relaxing (choosing a book to read)",
+      10
+    ],
+    [
+      "spending some time reading and relaxing (settling into her favorite reading spot)",
+      5
+    ],
+    [
+      "spending some time reading and relaxing (reading for 30 minutes)",
+      30
+    ],
+    [
+      "spending some time reading and relaxing (taking a break to stretch and get a snack)",
+      10
+    ],
+    [
+      "spending some time reading and relaxing (continuing to read for 30 minutes)",
+      30
+    ],
+    [
+      "spending some time reading and relaxing (taking a break to check her phone and respond to any messages)",
+      10
+    ],
+    [
+      "spending some time reading and relaxing (reading for 20 more minutes)",
+      20
+    ],
+    [
+      "getting ready for bed (putting away any items she used during the day)",
+      5
+    ],
+    [
+      "getting ready for bed (washing her face and brushing her teeth)",
+      10
+    ],
+    [
+      "getting ready for bed (changing into her pajamas)",
+      5
+    ],
+    [
+      "getting ready for bed (setting her alarm for the next day)",
+      5
+    ],
+    [
+      "getting ready for bed (checking her schedule for the next day)",
+      10
+    ],
+    [
+      "getting ready for bed (dimming the lights and turning on some calming music)",
+      5
+    ],
+    [
+      "getting ready for bed (reading a few pages of her book)",
+      10
+    ],
+    [
+      "getting ready for bed (turning off the music and getting into bed)",
+      10
+    ],
+    [
+      "winding down and getting ready for bed (turning off all electronics)",
+      5
+    ],
+    [
+      "winding down and getting ready for bed (taking a warm shower)",
+      10
+    ],
+    [
+      "winding down and getting ready for bed (putting on her pajamas)",
+      5
+    ],
+    [
+      "winding down and getting ready for bed (brushing her teeth)",
+      5
+    ],
+    [
+      "winding down and getting ready for bed (washing her face and applying skincare products)",
+      10
+    ],
+    [
+      "winding down and getting ready for bed (setting her alarm for the next day)",
+      5
+    ],
+    [
+      "winding down and getting ready for bed (reading a few pages of her book)",
+      20
+    ],
+    [
+      "going to bed at 10:00 pm, getting a good night's rest for the next day",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -3
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      1
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "going for a morning walk",
+      60
+    ],
+    [
+      "working on her new children's book series",
+      60
+    ],
+    [
+      "still working on her children's book series",
+      60
+    ],
+    [
+      "meeting Ayesha at the library",
+      60
+    ],
+    [
+      "exploring the village with Ayesha",
+      60
+    ],
+    [
+      "having lunch at a local cafe",
+      60
+    ],
+    [
+      "taking a break and relaxing",
+      60
+    ],
+    [
+      "continuing to work on her children's book series",
+      60
+    ],
+    [
+      "still working on her children's book series",
+      120
+    ],
+    [
+      "cooking and having dinner",
+      120
+    ],
+    [
+      "spending some time reading and relaxing",
+      120
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "winding down and getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 10:00 pm, getting a good night's rest for the next day",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:bed",
+  "act_start_time": "February 14, 2023, 21:50:00",
+  "act_duration": 10,
+  "act_description": "getting ready for bed (reading a few pages of her book)",
+  "act_pronunciatio": "\ud83d\udcd6",
+  "act_event": [
+    "Tamara Taylor",
+    "read",
+    "pages"
+  ],
+  "act_obj_description": "being laid upon by Tamara Taylor",
+  "act_obj_pronunciatio": "\ud83d\udc91",
+  "act_obj_event": [
+    "bed",
+    "lay upon",
+    "Tamara Taylor"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Ayesha Khan": -2416,
+    "Wolfgang Schulz": -4408,
+    "Tom Moreno": -790,
+    "Carlos Gomez": -2314,
+    "Adam Smith": -1006,
+    "Sam Moore": -1132,
+    "Isabella Rodriguez": -670,
+    "Klaus Mueller": -898
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "known_personas": [
+    "Ayesha Khan",
+    "Wolfgang Schulz",
+    "Tom Moreno",
+    "Carlos Gomez",
+    "Adam Smith",
+    "Sam Moore",
+    "Isabella Rodriguez",
+    "Klaus Mueller"
+  ]
+}

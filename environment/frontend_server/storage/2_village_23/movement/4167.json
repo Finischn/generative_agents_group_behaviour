@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        62,
+        41
+      ],
+      "pronunciatio": "\ud83e\udd66\ud83d\udd2a",
+      "description": "prepping food and drinks for customers at Hobbs Cafe (gathering ingredients and tools needed for food and drink prep) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        89,
+        32
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "attending a creative writing workshop (conversing about Carlos Gomez and Klaus Mueller are discussing Klaus' long-term residency in the village, sharing recommendations for places to visit and activities to participate in, planning to meet up to discuss a research project on the effects of gentrification, and arranging to join a tour of the village with Ayesha Khan.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        88,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "at the library at Oak Hill College (conversing about Carlos Gomez and Klaus Mueller are discussing Klaus' long-term residency in the village, sharing recommendations for places to visit and activities to participate in, planning to meet up to discuss a research project on the effects of gentrification, and arranging to join a tour of the village with Ayesha Khan.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        37,
+        65
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "reading at Hobbs Cafe (finishing the last few chapters of his book) @ the Ville:Moore family's house:main room:bed",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        76,
+        28
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Ayesha Khan and Wolfgang Schulz, making plans to explore the village, discuss Shakespeare's works at the local library, have lunch at Hobbs Cafe, go for a run in the park, attend Sam's birthday party at The Rose and Crown Pub, and stop by the local music event together. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang! I was thinking about our plans to explore the village today. Are you still up for it?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha! I am definitely still up for exploring the village today. Let's meet at the local library first to discuss Shakespeare's works."
+        ],
+        [
+          "Ayesha Khan",
+          "Great! I'll see you at the local library at 3pm then. Looking forward to diving into Shakespeare's works with you!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "After discussing Shakespeare's works at the local library, how about we grab lunch at Hobbs Cafe?"
+        ],
+        [
+          "Ayesha Khan",
+          "Sounds like a plan! Let's meet at Hobbs Cafe after our discussion at the local library."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Looking forward to exploring the village and experiencing all it has to offer with you, Ayesha!"
+        ],
+        [
+          "Ayesha Khan",
+          "I'm excited to learn more about the village's history and culture with you, Wolfgang!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm glad we are exploring the village together, Ayesha. It's great to have someone to share this experience with."
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Wolfgang! It's exciting to explore the village with you and delve deeper into Shakespeare's works. I'm really looking forward to our time at Hobbs Cafe as well."
+        ],
+        [
+          "Wolfgang Schulz",
+          "After our time at Hobbs Cafe, would you like to join me for a run in the park to continue exploring the village?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea, Wolfgang! I would love to join you for a run in the park after our time at Hobbs Cafe."
+        ],
+        [
+          "Wolfgang Schulz",
+          "After our run in the park, would you like to attend Sam's birthday party at The Rose and Crown Pub with me?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic plan, Wolfgang! I'll definitely join you for a run in the park after our time at Hobbs Cafe."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Shall we stop by the local music event before heading to Sam's birthday party at The Rose and Crown Pub?"
+        ],
+        [
+          "Ayesha Khan",
+          "I think stopping by the local music event would be a wonderful way to immerse ourselves in the community before heading to Sam's birthday party at The Rose and Crown Pub. What do you think, Wolfgang?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Sounds like a plan, Ayesha! We can make our way to the local music event together and then head over to Sam's birthday party at The Rose and Crown Pub. I'm looking forward to experiencing the community vibe with you."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        76,
+        29
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Ayesha Khan and Wolfgang Schulz, making plans to explore the village, discuss Shakespeare's works at the local library, have lunch at Hobbs Cafe, go for a run in the park, attend Sam's birthday party at The Rose and Crown Pub, and stop by the local music event together. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang! I was thinking about our plans to explore the village today. Are you still up for it?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha! I am definitely still up for exploring the village today. Let's meet at the local library first to discuss Shakespeare's works."
+        ],
+        [
+          "Ayesha Khan",
+          "Great! I'll see you at the local library at 3pm then. Looking forward to diving into Shakespeare's works with you!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "After discussing Shakespeare's works at the local library, how about we grab lunch at Hobbs Cafe?"
+        ],
+        [
+          "Ayesha Khan",
+          "Sounds like a plan! Let's meet at Hobbs Cafe after our discussion at the local library."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Looking forward to exploring the village and experiencing all it has to offer with you, Ayesha!"
+        ],
+        [
+          "Ayesha Khan",
+          "I'm excited to learn more about the village's history and culture with you, Wolfgang!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm glad we are exploring the village together, Ayesha. It's great to have someone to share this experience with."
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Wolfgang! It's exciting to explore the village with you and delve deeper into Shakespeare's works. I'm really looking forward to our time at Hobbs Cafe as well."
+        ],
+        [
+          "Wolfgang Schulz",
+          "After our time at Hobbs Cafe, would you like to join me for a run in the park to continue exploring the village?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea, Wolfgang! I would love to join you for a run in the park after our time at Hobbs Cafe."
+        ],
+        [
+          "Wolfgang Schulz",
+          "After our run in the park, would you like to attend Sam's birthday party at The Rose and Crown Pub with me?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic plan, Wolfgang! I'll definitely join you for a run in the park after our time at Hobbs Cafe."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Shall we stop by the local music event before heading to Sam's birthday party at The Rose and Crown Pub?"
+        ],
+        [
+          "Ayesha Khan",
+          "I think stopping by the local music event would be a wonderful way to immerse ourselves in the community before heading to Sam's birthday party at The Rose and Crown Pub. What do you think, Wolfgang?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Sounds like a plan, Ayesha! We can make our way to the local music event together and then head over to Sam's birthday party at The Rose and Crown Pub. I'm looking forward to experiencing the community vibe with you."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        112,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending classes at Oak Hill College (taking a lunch break) (attending his first class on music theory) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        80,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcde\ud83d\udef5",
+      "description": "managing the store at The Willow Market and Pharmacy (assisting customers with finding products) (answering the phone and taking orders for delivery) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83d\udcaa",
+      "description": "continuing work on her new children's book series (taking a break to stretch and get some water) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "attending a local community meeting about the upcoming mayor election (participating in a Q&A session with the candidates) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:34:30"
+  }
+}

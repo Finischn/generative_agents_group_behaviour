@@ -1,0 +1,357 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddf9\ud83e\uddfd",
+      "description": "closing Hobbs Cafe and cleaning up (sweeping and mopping the floors) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        18
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "winding down for the evening (reading a book) @ the Ville:Carlos Gomez's apartment:main room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        58,
+        32
+      ],
+      "pronunciatio": "\ud83d\udc6b",
+      "description": "still at Sam's birthday party at The Rose and Crown Pub (catching up with Sam and other friends) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83e\udd14",
+      "description": "reflecting on his birthday celebration and feeling grateful for his friends and the fun evening they had. He is also looking forward to getting a good night's sleep (thinking about the highlights of the evening) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        115,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about finalizing their plans to explore the village's cultural events and historical landmarks, including a poetry reading event, a Shakespearean play, a visit to the local museum and art gallery, attending a local music event, trying out dinner at a local cafe, visiting the village park, exploring historical landmarks, joining a historical walking tour, and checking out a farmers' market together. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, I was thinking about our plans to explore the village's cultural events and historical landmarks. How about we finalize our schedule for the poetry reading event and Shakespearean play?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea! Let's finalize our plans for the poetry reading event and Shakespearean play. I'm really looking forward to exploring more of the village's rich culture and history with you."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Do you think we should also plan to visit the local museum and art gallery during our exploration of the village?"
+        ],
+        [
+          "Ayesha Khan",
+          "That's a fantastic idea, Wolfgang! I think visiting the local museum and art gallery would provide us with more insights into the village's history and artistic culture. Let's definitely include that in our itinerary."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Should we also plan to attend the local music event after visiting the museum and art gallery?"
+        ],
+        [
+          "Ayesha Khan",
+          "I agree, attending the local music event after visiting the museum and art gallery would be a perfect way to end our day of exploration. Let's make sure to include that in our plans."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I was also thinking we could grab dinner at one of the local cafes after the music event. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful plan! I'm excited to explore the local cafes and try some delicious food after the music event."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Shall we also include a visit to the village park in our exploration plans? It could be a nice way to soak in the natural beauty of the village."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful idea, Wolfgang! Including a visit to the village park in our exploration plans will definitely add to our experience. I can't wait to enjoy the natural beauty of the village with you."
+        ],
+        [
+          "Wolfgang Schulz",
+          "How about we also plan to visit the historical landmarks around the village after the art gallery and music event? It could be a nice way to learn more about the village's past and its significance."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful plan, Wolfgang! I'm excited to explore the historical landmarks around the village after the art gallery and music event. It will be a great way to learn more about the village's past and its significance."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I was also thinking about joining the upcoming historical walking tour of the village. Would you be interested in exploring the village's historical landmarks and hidden gems with me?"
+        ],
+        [
+          "Ayesha Khan",
+          "Wolfgang, I think joining the historical walking tour of the village would be an excellent idea. Exploring the historical landmarks and hidden gems together sounds like a fascinating experience."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I also heard about a farmers' market happening in the village this weekend. Would you be interested in checking it out together?"
+        ],
+        [
+          "Ayesha Khan",
+          "Wolfgang, I think visiting the farmers' market in the village this weekend would be a fantastic idea. It would give us a chance to immerse ourselves in the local community and support the local vendors. What do you think?"
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        110,
+        41
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about finalizing their plans to explore the village's cultural events and historical landmarks, including a poetry reading event, a Shakespearean play, a visit to the local museum and art gallery, attending a local music event, trying out dinner at a local cafe, visiting the village park, exploring historical landmarks, joining a historical walking tour, and checking out a farmers' market together. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, I was thinking about our plans to explore the village's cultural events and historical landmarks. How about we finalize our schedule for the poetry reading event and Shakespearean play?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea! Let's finalize our plans for the poetry reading event and Shakespearean play. I'm really looking forward to exploring more of the village's rich culture and history with you."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Do you think we should also plan to visit the local museum and art gallery during our exploration of the village?"
+        ],
+        [
+          "Ayesha Khan",
+          "That's a fantastic idea, Wolfgang! I think visiting the local museum and art gallery would provide us with more insights into the village's history and artistic culture. Let's definitely include that in our itinerary."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Should we also plan to attend the local music event after visiting the museum and art gallery?"
+        ],
+        [
+          "Ayesha Khan",
+          "I agree, attending the local music event after visiting the museum and art gallery would be a perfect way to end our day of exploration. Let's make sure to include that in our plans."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I was also thinking we could grab dinner at one of the local cafes after the music event. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful plan! I'm excited to explore the local cafes and try some delicious food after the music event."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Shall we also include a visit to the village park in our exploration plans? It could be a nice way to soak in the natural beauty of the village."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful idea, Wolfgang! Including a visit to the village park in our exploration plans will definitely add to our experience. I can't wait to enjoy the natural beauty of the village with you."
+        ],
+        [
+          "Wolfgang Schulz",
+          "How about we also plan to visit the historical landmarks around the village after the art gallery and music event? It could be a nice way to learn more about the village's past and its significance."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful plan, Wolfgang! I'm excited to explore the historical landmarks around the village after the art gallery and music event. It will be a great way to learn more about the village's past and its significance."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I was also thinking about joining the upcoming historical walking tour of the village. Would you be interested in exploring the village's historical landmarks and hidden gems with me?"
+        ],
+        [
+          "Ayesha Khan",
+          "Wolfgang, I think joining the historical walking tour of the village would be an excellent idea. Exploring the historical landmarks and hidden gems together sounds like a fascinating experience."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I also heard about a farmers' market happening in the village this weekend. Would you be interested in checking it out together?"
+        ],
+        [
+          "Ayesha Khan",
+          "Wolfgang, I think visiting the farmers' market in the village this weekend would be a fantastic idea. It would give us a chance to immerse ourselves in the local community and support the local vendors. What do you think?"
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        80,
+        43
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning their upcoming adventure to explore the local art and music scene, including visiting an art gallery, attending a music event at the community center, exploring historical landmarks, and visiting the village museum, while coordinating with friends to join them for the day of exploration. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Tom! Thanks for checking in on my music theory classes. I'm excited for our upcoming plans to explore the local music and art scene together. Do you have any new ideas for our next adventure?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Eddy! I am looking forward to our next adventure. I was thinking we could check out the art gallery that just opened up in town. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a great idea, Tom! I've heard that the new art gallery features some amazing local artists. I'm definitely up for checking it out with you."
+        ],
+        [
+          "Tom Moreno",
+          "That art exhibit sounds fascinating, Eddy. Let's set a date to visit it together. How about this Saturday afternoon?"
+        ],
+        [
+          "Eddy Lin",
+          "I'm also looking forward to the music event at the community center this weekend. It would be great if we could attend it together after exploring the art gallery."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a plan, Eddy! I'm excited for our weekend of art and music. Let's make sure to coordinate our schedules for both the art gallery visit and the music event at the community center. I'll reach out to Carlos and Tamara to see if they can join us as well."
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a great idea, Tom! We can also grab a bite to eat at the local diner after the art gallery visit. I'll check with Ayesha to see if she would like to join us as well."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a wonderful plan, Eddy! I'll also reach out to Wolfgang Schulz to see if he would like to join us for the art gallery visit and music event at the community center."
+        ],
+        [
+          "Eddy Lin",
+          "I think it would be a great idea to also explore the historical landmarks in the village after our visit to the art gallery and music event. It would be a fun way to learn more about the heritage of our community."
+        ],
+        [
+          "Tom Moreno",
+          "That's a fantastic idea, Eddy! Exploring the historical landmarks in the village sounds like a great way to deepen our connection to this community. Let's definitely plan for that after the art gallery visit and music event."
+        ],
+        [
+          "Eddy Lin",
+          "I was thinking we could also swing by the village museum during our day of exploration, Tom. It would be fascinating to learn more about the history of our community."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a comprehensive plan, Eddy! I appreciate your suggestions for our day of exploration. Let's finalize the details and coordinate with everyone. I'll make sure to reach out to Carlos, Tamara, Ayesha, and Wolfgang to confirm our plans for Saturday. Looking forward to our adventure!"
+        ],
+        [
+          "Eddy Lin",
+          "I think it would be a good idea to meet up at Hobbs Cafe before we start our day of exploration. We can grab some coffee and plan out the details for our adventure together."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a fantastic plan, Eddy! Meeting up at Hobbs Cafe for coffee before our day of exploration is a great idea. I'll check in with everyone to confirm our Saturday adventure. Looking forward to it!"
+        ],
+        [
+          "Eddy Lin",
+          "Tom, I think it would be a good idea to pick up some brochures from the village tourist center to learn more about the historical landmarks we'll be exploring. It could provide us with some fascinating insights and enrich our experience."
+        ],
+        [
+          "Tom Moreno",
+          "That's a great idea, Eddy! Picking up brochures from the village tourist center will definitely enhance our experience exploring the historical landmarks. I'll make sure to do that before we meet at Hobbs Cafe on Saturday."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        81,
+        43
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning their upcoming adventure to explore the local art and music scene, including visiting an art gallery, attending a music event at the community center, exploring historical landmarks, and visiting the village museum, while coordinating with friends to join them for the day of exploration. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Tom! Thanks for checking in on my music theory classes. I'm excited for our upcoming plans to explore the local music and art scene together. Do you have any new ideas for our next adventure?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Eddy! I am looking forward to our next adventure. I was thinking we could check out the art gallery that just opened up in town. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a great idea, Tom! I've heard that the new art gallery features some amazing local artists. I'm definitely up for checking it out with you."
+        ],
+        [
+          "Tom Moreno",
+          "That art exhibit sounds fascinating, Eddy. Let's set a date to visit it together. How about this Saturday afternoon?"
+        ],
+        [
+          "Eddy Lin",
+          "I'm also looking forward to the music event at the community center this weekend. It would be great if we could attend it together after exploring the art gallery."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a plan, Eddy! I'm excited for our weekend of art and music. Let's make sure to coordinate our schedules for both the art gallery visit and the music event at the community center. I'll reach out to Carlos and Tamara to see if they can join us as well."
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a great idea, Tom! We can also grab a bite to eat at the local diner after the art gallery visit. I'll check with Ayesha to see if she would like to join us as well."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a wonderful plan, Eddy! I'll also reach out to Wolfgang Schulz to see if he would like to join us for the art gallery visit and music event at the community center."
+        ],
+        [
+          "Eddy Lin",
+          "I think it would be a great idea to also explore the historical landmarks in the village after our visit to the art gallery and music event. It would be a fun way to learn more about the heritage of our community."
+        ],
+        [
+          "Tom Moreno",
+          "That's a fantastic idea, Eddy! Exploring the historical landmarks in the village sounds like a great way to deepen our connection to this community. Let's definitely plan for that after the art gallery visit and music event."
+        ],
+        [
+          "Eddy Lin",
+          "I was thinking we could also swing by the village museum during our day of exploration, Tom. It would be fascinating to learn more about the history of our community."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a comprehensive plan, Eddy! I appreciate your suggestions for our day of exploration. Let's finalize the details and coordinate with everyone. I'll make sure to reach out to Carlos, Tamara, Ayesha, and Wolfgang to confirm our plans for Saturday. Looking forward to our adventure!"
+        ],
+        [
+          "Eddy Lin",
+          "I think it would be a good idea to meet up at Hobbs Cafe before we start our day of exploration. We can grab some coffee and plan out the details for our adventure together."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a fantastic plan, Eddy! Meeting up at Hobbs Cafe for coffee before our day of exploration is a great idea. I'll check in with everyone to confirm our Saturday adventure. Looking forward to it!"
+        ],
+        [
+          "Eddy Lin",
+          "Tom, I think it would be a good idea to pick up some brochures from the village tourist center to learn more about the historical landmarks we'll be exploring. It could provide us with some fascinating insights and enrich our experience."
+        ],
+        [
+          "Tom Moreno",
+          "That's a great idea, Eddy! Picking up brochures from the village tourist center will definitely enhance our experience exploring the historical landmarks. I'll make sure to do that before we meet at Hobbs Cafe on Saturday."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        62,
+        65
+      ],
+      "pronunciatio": "\ud83e\uddfc\ud83e\uddb7",
+      "description": "getting ready for bed (washing her face and brushing her teeth) @ the Ville:Tamara Taylor and Carmen Ortiz's house:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        65
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "taking a break to relax and unwind before bed (reading a book) @ the Ville:Adam Smith's house:main room:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 21:18:30"
+  }
+}

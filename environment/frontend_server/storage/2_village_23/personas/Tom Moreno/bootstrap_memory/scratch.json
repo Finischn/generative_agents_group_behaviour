@@ -1,0 +1,907 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 21:59:50",
+  "curr_tile": [
+    58,
+    30
+  ],
+  "daily_plan_req": "1. Wake up at 7am and complete the morning routine 2. Open The Willow Market and Pharmacy at 8am 3. Offer recommendations and assistance to Tamara as she explores the village and attends the music event with Ayesha Khan 4. Make arrangements for a gathering at the community center in the evening to introduce Carlos to more villagers 5. Check in on Eddy Lin's music theory classes and possibly schedule a coffee chat 6. Connect with Wolfgang Schulz and Tamara Taylor over dinner at a local Italian restaurant to share experiences as newcomers.",
+  "name": "Tom Moreno",
+  "first_name": "Tom",
+  "last_name": "Moreno",
+  "age": 29,
+  "innate": "rude, aggressive, energetic",
+  "race": "White",
+  "village": "longterm resident of the village",
+  "gender": "Male",
+  "political_affiliation": "Conservative",
+  "race_div": "Hispanic",
+  "education": "Less than high school degree",
+  "learned": "Tom Moreno is a grocery shop keeper at The Willow Market and Pharmacy who loves interacting with customers. He is always willing to help out and make sure everyone is taken care of.",
+  "currently": "Status: Tom Moreno is looking forward to offering recommendations and assistance to Tamara as she explores the village and attends the music event with Ayesha Khan on Tuesday, February 14. He also plans to make arrangements for a gathering on Saturday evening at the community center to introduce Carlos to more villagers and ensure he feels welcomed in the community. In addition, Tom will check in on Eddy Lin's music theory classes and possibly schedule a coffee chat as discussed. He is excited about fostering a welcoming atmosphere for all residents, including Wolfgang Schulz and Tamara Taylor, who are meeting for dinner at a local Italian restaurant on Thursday evening to share their experiences as newcomers. Tom continues to appreciate the connections he has made in the village and looks forward to building more relationships with both long-term residents and newcomers.",
+  "lifestyle": "Tom Moreno goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Moreno family's house:Tom and Jane Moreno's bedroom",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 211,
+  "importance_ele_n": 7,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "head to work at 8:00 am",
+    "manage the day to day operations at The Willow Market and Pharmacy until 5:00 pm",
+    "close the store and head home"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine (waking up and turning off his alarm)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (stretching and getting out of bed)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (washing his face and brushing his teeth)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (getting dressed for work)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (making breakfast and eating)",
+      20
+    ],
+    [
+      "waking up and completing his morning routine (checking his schedule for the day)",
+      5
+    ],
+    [
+      "heading to work at The Willow Market and Pharmacy (getting dressed and ready for work)",
+      15
+    ],
+    [
+      "heading to work at The Willow Market and Pharmacy (having breakfast)",
+      15
+    ],
+    [
+      "heading to work at The Willow Market and Pharmacy (on the way to checking his schedule for the day)",
+      0
+    ],
+    [
+      "heading to work at The Willow Market and Pharmacy (conversing about Carlos Gomez and Tom Moreno are making plans to attend a gathering at the community center, explore music theory classes together, schedule a coffee chat with Tamara Taylor, and go for a walk around the village to meet more residents and help Carlos feel welcomed in the village.)",
+      14
+    ],
+    [
+      "heading to work at The Willow Market and Pharmacy (gathering necessary items for work (e.g. keys, phone, wallet))",
+      5
+    ],
+    [
+      "heading to work at The Willow Market and Pharmacy (commuting to work)",
+      10
+    ],
+    [
+      "heading to work at The Willow Market and Pharmacy (opening The Willow Market and Pharmacy)",
+      1
+    ],
+    [
+      "managing day to day operations at The Willow Market and Pharmacy (checking inventory levels and restocking shelves)",
+      15
+    ],
+    [
+      "managing day to day operations at The Willow Market and Pharmacy (assisting customers with their purchases)",
+      20
+    ],
+    [
+      "managing day to day operations at The Willow Market and Pharmacy (organizing and cleaning the store)",
+      10
+    ],
+    [
+      "managing day to day operations at The Willow Market and Pharmacy (checking and responding to emails and messages)",
+      10
+    ],
+    [
+      "managing day to day operations at The Willow Market and Pharmacy (taking a short break)",
+      5
+    ],
+    [
+      "offering recommendations and assistance to Tamara as she explores the village and attends the music event with Ayesha Khan (greeting Tamara and Ayesha at The Willow Market and Pharmacy)",
+      5
+    ],
+    [
+      "offering recommendations and assistance to Tamara as she explores the village and attends the music event with Ayesha Khan (asking Tamara about her interests and preferences)",
+      10
+    ],
+    [
+      "offering recommendations and assistance to Tamara as she explores the village and attends the music event with Ayesha Khan (recommending local attractions and events based on Tamara's interests)",
+      15
+    ],
+    [
+      "offering recommendations and assistance to Tamara as she explores the village and attends the music event with Ayesha Khan (providing directions and information about the village)",
+      10
+    ],
+    [
+      "offering recommendations and assistance to Tamara as she explores the village and attends the music event with Ayesha Khan (answering any questions Tamara may have)",
+      10
+    ],
+    [
+      "offering recommendations and assistance to Tamara as she explores the village and attends the music event with Ayesha Khan (offering to accompany Tamara and Ayesha to the music event)",
+      5
+    ],
+    [
+      "offering recommendations and assistance to Tamara as she explores the village and attends the music event with Ayesha Khan (finalizing plans for the gathering at the community center in the evening)",
+      5
+    ],
+    [
+      "continuing to offer recommendations and assistance to Tamara (greeting customers and asking if they need any assistance)",
+      5
+    ],
+    [
+      "continuing to offer recommendations and assistance to Tamara (on the way to recommending local attractions and events to Tamara)",
+      0
+    ],
+    [
+      "continuing to offer recommendations and assistance to Tamara (conversing about Wolfgang Schulz and Tom Moreno are chatting about exploring the local music scene, attending village events, meeting more residents, and feeling welcomed and at home in the community.)",
+      13
+    ],
+    [
+      "continuing to offer recommendations and assistance to Tamara (on the way to recommending local attractions and events to Tamara)",
+      0
+    ],
+    [
+      "continuing to offer recommendations and assistance to Tamara (conversing about Eddy Lin and Tom Moreno are discussing their plans to explore the local music and art scene together, including attending workshops, visiting art galleries, and attending a performance by local musician Isabella Rodriguez at the community center.)",
+      15
+    ],
+    [
+      "continuing to offer recommendations and assistance to Tamara (recommending local attractions and events to Tamara)",
+      12
+    ],
+    [
+      "continuing to offer recommendations and assistance to Tamara (answering any questions Tamara may have about the village)",
+      10
+    ],
+    [
+      "continuing to offer recommendations and assistance to Tamara (helping Tamara find her way to the music event with Ayesha Khan)",
+      10
+    ],
+    [
+      "continuing to offer recommendations and assistance to Tamara (on the way to checking in with other customers and making sure they have everything they need)",
+      0
+    ],
+    [
+      "continuing to offer recommendations and assistance to Tamara (conversing about Tamara Taylor and Tom Moreno are chatting about their recent experience at a music event with Ayesha Khan, plans to attend a gathering at the community center on Saturday evening, and being introduced to another new resident, Carlos Gomez, to connect with at the event.)",
+      15
+    ],
+    [
+      "managing day to day operations at The Willow Market and Pharmacy (checking inventory levels and restocking shelves)",
+      15
+    ],
+    [
+      "managing day to day operations at The Willow Market and Pharmacy (assisting customers with their purchases)",
+      15
+    ],
+    [
+      "managing day to day operations at The Willow Market and Pharmacy (organizing and cleaning the store)",
+      10
+    ],
+    [
+      "taking a lunch break (closing The Willow Market and Pharmacy for his lunch break)",
+      5
+    ],
+    [
+      "taking a lunch break (washing his hands and changing into his casual clothes)",
+      10
+    ],
+    [
+      "taking a lunch break (walking to the local sandwich shop for lunch)",
+      15
+    ],
+    [
+      "taking a lunch break (ordering his lunch and chatting with the owner of the sandwich shop)",
+      20
+    ],
+    [
+      "taking a lunch break (eating his lunch and checking his phone for any urgent messages)",
+      10
+    ],
+    [
+      "wrapping up any remaining tasks and preparing to leave for the day.",
+      5
+    ],
+    [
+      "managing day to day operations at The Willow Market and Pharmacy (checking inventory levels and restocking shelves)",
+      15
+    ],
+    [
+      "managing day to day operations at The Willow Market and Pharmacy (assisting customers with finding products and making recommendations)",
+      30
+    ],
+    [
+      "managing day to day operations at The Willow Market and Pharmacy (restocking the cash register and counting the day's earnings)",
+      15
+    ],
+    [
+      "managing day to day operations at The Willow Market and Pharmacy (checking for any expired products and removing them from the shelves)",
+      15
+    ],
+    [
+      "managing day to day operations at The Willow Market and Pharmacy (taking a break)",
+      15
+    ],
+    [
+      "managing day to day operations at The Willow Market and Pharmacy (organizing and cleaning the store)",
+      30
+    ],
+    [
+      "managing day to day operations at The Willow Market and Pharmacy (on the way to placing orders for any products that are running low)",
+      0
+    ],
+    [
+      "managing day to day operations at The Willow Market and Pharmacy (conversing about Ayesha Khan and Tom Moreno discussing exploring the village, with Tom offering to show Ayesha hidden gems and unique attractions during a tour this weekend.)",
+      12
+    ],
+    [
+      "managing day to day operations at The Willow Market and Pharmacy (placing orders for any products that are running low)",
+      18
+    ],
+    [
+      "managing day to day operations at The Willow Market and Pharmacy (checking emails and responding to any inquiries)",
+      15
+    ],
+    [
+      "managing day to day operations at The Willow Market and Pharmacy (on the way to assisting with any customer complaints or issues)",
+      0
+    ],
+    [
+      "managing day to day operations at The Willow Market and Pharmacy (conversing about organizing a community event to showcase local talents, involving local artisans, musicians, community organizations, leaders, policymakers, schools, and businesses, and incorporating interactive workshops, a community art exhibit, a local food festival, and cultural workshops to promote community engagement and highlight the diverse cultural heritage of their village.)",
+      10
+    ],
+    [
+      "closing The Willow Market and Pharmacy and heading home (counting the cash register and recording the day's sales)",
+      10
+    ],
+    [
+      "closing The Willow Market and Pharmacy and heading home (on the way to restocking any items that are running low)",
+      0
+    ],
+    [
+      "closing The Willow Market and Pharmacy and heading home (conversing about exploring the local music and art scene while making plans to visit workshops, art galleries, music events, historical landmarks, and inviting friends like Carlos Gomez, Tamara Taylor, Isabella Rodriguez, and Wolfgang Schulz to join in.)",
+      10
+    ],
+    [
+      "closing The Willow Market and Pharmacy and heading home (on the way to restocking any items that are running low)",
+      0
+    ],
+    [
+      "closing The Willow Market and Pharmacy and heading home (conversing about Adam and Tom are making plans to visit a new art exhibit together at the art gallery and discussing meeting time, grabbing coffee afterwards, and their excitement for the visit.)",
+      7
+    ],
+    [
+      "closing The Willow Market and Pharmacy and heading home (on the way to restocking any items that are running low)",
+      0
+    ],
+    [
+      "closing The Willow Market and Pharmacy and heading home (conversing about a friendly exchange between Tamara Taylor and Tom Moreno, discussing exploring the village, attending a community gathering, meeting other residents, and scheduling a coffee chat to learn more about the village's history and Tamara's children's book series.)",
+      9
+    ],
+    [
+      "closing The Willow Market and Pharmacy and heading home (restocking any items that are running low)",
+      9
+    ],
+    [
+      "closing The Willow Market and Pharmacy and heading home (cleaning and organizing the store)",
+      10
+    ],
+    [
+      "closing The Willow Market and Pharmacy and heading home (checking the inventory and making a list of items to order)",
+      5
+    ],
+    [
+      "closing The Willow Market and Pharmacy and heading home (closing the store and locking up)",
+      5
+    ],
+    [
+      "closing The Willow Market and Pharmacy and heading home (on the way to turning off all the lights and appliances)",
+      0
+    ],
+    [
+      "closing The Willow Market and Pharmacy and heading home (conversing about Isabella Rodriguez and Tom Moreno discussing preparations for Sam Moore's birthday party, with Tom offering to help bring decorations to The Rose and Crown Pub and Isabella expressing gratitude for his assistance, as well as talking about Isabella's upcoming performance at the community center and Tom offering to introduce her to other villagers to get more connected in the community.)",
+      11
+    ],
+    [
+      "closing The Willow Market and Pharmacy and heading home (turning off all the lights and appliances)",
+      4
+    ],
+    [
+      "closing The Willow Market and Pharmacy and heading home (setting the alarm system)",
+      5
+    ],
+    [
+      "making arrangements for a gathering at the community center to introduce Carlos to more villagers",
+      35
+    ],
+    [
+      "having dinner at a local Italian restaurant with Wolfgang Schulz and Tamara Taylor (greeting Wolfgang and Tamara as they arrive at the restaurant)",
+      5
+    ],
+    [
+      "having dinner at a local Italian restaurant with Wolfgang Schulz and Tamara Taylor (seating them at a table and taking their drink orders)",
+      10
+    ],
+    [
+      "having dinner at a local Italian restaurant with Wolfgang Schulz and Tamara Taylor (engaging in small talk and getting to know Wolfgang and Tamara)",
+      15
+    ],
+    [
+      "having dinner at a local Italian restaurant with Wolfgang Schulz and Tamara Taylor (recommending dishes and taking their food orders)",
+      10
+    ],
+    [
+      "having dinner at a local Italian restaurant with Wolfgang Schulz and Tamara Taylor (checking on their food and making sure everything is to their liking)",
+      5
+    ],
+    [
+      "having dinner at a local Italian restaurant with Wolfgang Schulz and Tamara Taylor (sharing his own experiences as a long-term resident in the village)",
+      15
+    ],
+    [
+      "making arrangements for a gathering at the community center to introduce Carlos to more villagers (on the way to checking the availability of the community center for the gathering)",
+      0
+    ],
+    [
+      "making arrangements for a gathering at the community center to introduce Carlos to more villagers (conversing about Tom Moreno and Sam Moore are discussing Sam's birthday celebration at The Rose and Crown Pub, potential decorations for the event, the upcoming local mayor election, the community center gathering on Saturday evening, and their mutual support for the community.)",
+      14
+    ],
+    [
+      "making arrangements for a gathering at the community center to introduce Carlos to more villagers (on the way to creating a guest list for the gathering)",
+      0
+    ],
+    [
+      "making arrangements for a gathering at the community center to introduce Carlos to more villagers (conversing about organizing a community event involving local schools, musicians, artisans, community organizations, interactive workshops, a local food festival, cultural workshops, local leaders and policymakers, creating a schedule of events, collaborating with local businesses, and creating promotional materials to spread the word and increase attendance.)",
+      15
+    ],
+    [
+      "making arrangements for a gathering at the community center to introduce Carlos to more villagers (sending out invitations to the villagers for the gathering)",
+      10
+    ],
+    [
+      "making arrangements for a gathering at the community center to introduce Carlos to more villagers (coordinating with the community center staff for any necessary arrangements)",
+      10
+    ],
+    [
+      "making arrangements for a gathering at the community center to introduce Carlos to more villagers (preparing a welcome speech for Carlos)",
+      11
+    ],
+    [
+      "checking in on Eddy Lin's music theory classes and possibly scheduling a coffee chat (walking to Eddy Lin's music theory class)",
+      5
+    ],
+    [
+      "checking in on Eddy Lin's music theory classes and possibly scheduling a coffee chat (greeting Eddy Lin and the students)",
+      5
+    ],
+    [
+      "checking in on Eddy Lin's music theory classes and possibly scheduling a coffee chat (on the way to observing the class and taking notes)",
+      0
+    ],
+    [
+      "checking in on Eddy Lin's music theory classes and possibly scheduling a coffee chat (conversing about planning their upcoming adventure to explore the local art and music scene, including visiting an art gallery, attending a music event at the community center, exploring historical landmarks, and visiting the village museum, while coordinating with friends to join them for the day of exploration.)",
+      14
+    ],
+    [
+      "checking in on Eddy Lin's music theory classes and possibly scheduling a coffee chat (observing the class and taking notes)",
+      6
+    ],
+    [
+      "checking in on Eddy Lin's music theory classes and possibly scheduling a coffee chat (discussing with Eddy Lin about scheduling a coffee chat)",
+      10
+    ],
+    [
+      "checking in on Eddy Lin's music theory classes and possibly scheduling a coffee chat (on the way to finalizing the details for the coffee chat)",
+      0
+    ],
+    [
+      "checking in on Eddy Lin's music theory classes and possibly scheduling a coffee chat (conversing about two friends, Adam Smith and Tom Moreno, planning to attend various cultural events together such as art exhibits, music events, historical landmarks tours, cooking classes, and community poetry readings in their village.)",
+      13
+    ],
+    [
+      "finalizing the details for the coffee chat (on the way to finalizing the details for the coffee cha)",
+      0
+    ],
+    [
+      "finalizing the details for the coffee chat (conversing about Isabella Rodriguez and Tom Moreno are conversing about exploring the village, getting to know more people in the community, and planning a tour for Isabella to discover hidden gems in the village.)",
+      12
+    ],
+    [
+      "getting ready for bed (closing The Willow Market and Pharmacy)",
+      5
+    ],
+    [
+      "getting ready for bed (counting the cash register and recording the day's sales)",
+      10
+    ],
+    [
+      "getting ready for bed (cleaning and organizing the store)",
+      15
+    ],
+    [
+      "getting ready for bed (checking inventory and making a list of items to restock)",
+      10
+    ],
+    [
+      "getting ready for bed (locking up the store and setting the alarm)",
+      5
+    ],
+    [
+      "getting ready for bed (preparing for the upcoming adventure and setting a reminder to meet with friends the next day)",
+      10
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "heading to work at The Willow Market and Pharmacy",
+      60
+    ],
+    [
+      "managing day to day operations at The Willow Market and Pharmacy",
+      60
+    ],
+    [
+      "offering recommendations and assistance to Tamara as she explores the village and attends the music event with Ayesha Khan",
+      60
+    ],
+    [
+      "continuing to offer recommendations and assistance to Tamara",
+      60
+    ],
+    [
+      "managing day to day operations at The Willow Market and Pharmacy",
+      60
+    ],
+    [
+      "taking a lunch break",
+      60
+    ],
+    [
+      "managing day to day operations at The Willow Market and Pharmacy",
+      180
+    ],
+    [
+      "closing The Willow Market and Pharmacy and heading home",
+      60
+    ],
+    [
+      "making arrangements for a gathering at the community center to introduce Carlos to more villagers",
+      60
+    ],
+    [
+      "having dinner at a local Italian restaurant with Wolfgang Schulz and Tamara Taylor",
+      60
+    ],
+    [
+      "making arrangements for a gathering at the community center to introduce Carlos to more villagers",
+      60
+    ],
+    [
+      "checking in on Eddy Lin's music theory classes and possibly scheduling a coffee chat",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "<persona> Isabella Rodriguez",
+  "act_start_time": "February 14, 2023, 21:49:20",
+  "act_duration": 12,
+  "act_description": "conversing about Isabella Rodriguez and Tom Moreno are conversing about exploring the village, getting to know more people in the community, and planning a tour for Isabella to discover hidden gems in the village.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Tom Moreno",
+    "chat with",
+    "Isabella Rodriguez"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Isabella Rodriguez",
+  "chat": [
+    [
+      "Isabella Rodriguez",
+      "Hi Tom! I wanted to thank you again for offering to help with the birthday party decorations and for introducing me to other villagers. It's been great getting to know more people in the community."
+    ],
+    [
+      "Tom Moreno",
+      "I'm glad I could help, Isabella. Have you had a chance to explore more of the village yet?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "I haven't had the chance to explore much yet, but I'm looking forward to it. I've really enjoyed getting to know more people in the community."
+    ],
+    [
+      "Tom Moreno",
+      "I'm happy to hear that you've been enjoying meeting new people. If you'd like, I can show you around the village and help you discover some hidden gems. There are some lovely spots that I think you would appreciate."
+    ],
+    [
+      "Isabella Rodriguez",
+      "Thank you, that would be wonderful! I would love to explore more of the village with you and discover those hidden gems."
+    ],
+    [
+      "Tom Moreno",
+      "How about we start our tour tomorrow afternoon? I can show you some beautiful spots around the village and maybe we can grab a coffee at Hobbs Cafe as well."
+    ],
+    [
+      "Isabella Rodriguez",
+      "That sounds fantastic, Tom! I appreciate you showing me around the village and I'm excited to discover those hidden gems. Let's meet tomorrow afternoon for the tour."
+    ],
+    [
+      "Tom Moreno",
+      "I'm looking forward to showing you around tomorrow! Let's meet at Hobbs Cafe in the afternoon."
+    ],
+    [
+      "Isabella Rodriguez",
+      "Thank you so much, Tom, for being so welcoming and offering to show me around the village. I appreciate your kindness and am looking forward to our tour tomorrow afternoon!"
+    ],
+    [
+      "Tom Moreno",
+      "I'm excited to show you the village tomorrow and introduce you to more of our community members. I think you'll really enjoy getting to know everyone."
+    ],
+    [
+      "Isabella Rodriguez",
+      "Thank you so much, Tom, for your kindness and welcoming gestures. I am really looking forward to exploring the village with you tomorrow afternoon!"
+    ],
+    [
+      "Tom Moreno",
+      "Isabella, I'm excited to show you some of my favorite spots in the village and introduce you to more of our community members. I think you'll really enjoy the tour tomorrow!"
+    ],
+    [
+      "Isabella Rodriguez",
+      "Thank you, Tom, for being so welcoming and offering to show me around the village. I am truly grateful for your kindness."
+    ],
+    [
+      "Tom Moreno",
+      "Isabella, I'm so glad to hear that you're enjoying getting to know more people in the community. I'm looking forward to showing you around the village tomorrow and exploring those hidden gems together."
+    ],
+    [
+      "Isabella Rodriguez",
+      "I am truly grateful for your kindness and looking forward to exploring the village with you tomorrow afternoon!"
+    ],
+    [
+      "Tom Moreno",
+      "Isabella, I'm excited to show you around the village tomorrow and introduce you to more of our community members. I think you'll really enjoy the tour!"
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Eddy Lin": 554,
+    "Carlos Gomez": -4000,
+    "Wolfgang Schulz": -3082,
+    "Tamara Taylor": -790,
+    "Ayesha Khan": -1390,
+    "Klaus Mueller": 242,
+    "Adam Smith": 722,
+    "Isabella Rodriguez": 800,
+    "Sam Moore": 134
+  },
+  "chatting_end_time": "February 14, 2023, 22:02:00",
+  "act_path_set": true,
+  "planned_path": [],
+  "known_personas": [
+    "Eddy Lin",
+    "Carlos Gomez",
+    "Wolfgang Schulz",
+    "Tamara Taylor",
+    "Ayesha Khan",
+    "Klaus Mueller",
+    "Adam Smith",
+    "Isabella Rodriguez",
+    "Sam Moore"
+  ]
+}

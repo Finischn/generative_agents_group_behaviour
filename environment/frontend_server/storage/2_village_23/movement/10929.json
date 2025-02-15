@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        81,
+        14
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83d\udc57",
+      "description": "waking up and completing her morning routine (taking a shower and getting dressed) @ the Ville:Isabella Rodriguez's apartment:bathroom:shower",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        93,
+        18
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Carlos Gomez's apartment:main room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        46
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        33,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Adam Smith and Sam Moore are making plans to visit various cultural events and workshops in their community together. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey Sam, it's great to see you here in Johnson Park! How are you doing today?"
+        ],
+        [
+          "Sam Moore",
+          "Hey Adam! I'm doing well, thanks for asking. I saw you working on your book, how's it coming along?"
+        ],
+        [
+          "Adam Smith",
+          "Adam Smith: It's coming along nicely, I've made some progress on the chapter about creativity. How about you, Sam?"
+        ],
+        [
+          "Sam Moore",
+          "I'm glad to hear that, Adam! I'm finishing up the last few chapters of my own book as well. It's been quite the journey."
+        ],
+        [
+          "Adam Smith",
+          "Have you had a chance to check out the new exhibit at the village museum? I heard it's quite fascinating."
+        ],
+        [
+          "Sam Moore",
+          "I actually haven't had the chance to check out the new exhibit yet, but I'm looking forward to it. We should definitely plan a visit together soon!"
+        ],
+        [
+          "Adam Smith",
+          "We could make a day of it and explore the village market first before heading to the museum. What do you think, Sam?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a great plan, Adam! We can start our day at the village market and then head to the museum to check out the new exhibit. I'm sure it will be a fun and enlightening experience."
+        ],
+        [
+          "Adam Smith",
+          "Hey Sam, have you checked out the local art gallery's new exhibit yet? I heard it's quite impressive."
+        ],
+        [
+          "Sam Moore",
+          "I haven't had the chance to check out the new exhibit at the local art gallery yet, but I'm intrigued by your description. Maybe we can plan a visit together soon."
+        ],
+        [
+          "Adam Smith",
+          "Sam, I also heard about a poetry reading event happening at the local library next weekend. Would you be interested in attending together?"
+        ],
+        [
+          "Sam Moore",
+          "Hey Adam, the poetry reading event at the library sounds intriguing! I would love to attend it together. Let's make sure to mark it on our calendars."
+        ],
+        [
+          "Adam Smith",
+          "Hey Sam, I was thinking of attending the upcoming community workshop at the village center. Would you be interested in joining me?"
+        ],
+        [
+          "Sam Moore",
+          "Adam, I would love to join you at the upcoming community workshop at the village center! It sounds like a great opportunity to connect with other residents and learn something new."
+        ],
+        [
+          "Adam Smith",
+          "Sam, there's also an art workshop happening next week at the local community center. Would you be interested in attending with me?"
+        ],
+        [
+          "Sam Moore",
+          "Adam, the art workshop at the local community center sounds fantastic! I would love to attend it with you. Let's plan to go together and explore our creative side."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        101,
+        47
+      ],
+      "pronunciatio": "\ud83c\udfa8",
+      "description": "waking up and completing her morning routine (conversing about Wolfgang Schulz and Ayesha Khan are planning to explore the local art gallery, grab a bite at Hobbs Cafe, attend a Shakespearean play, and take a walking tour of the village's historical landmarks together.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        100,
+        47
+      ],
+      "pronunciatio": "\ud83c\udfa8\ud83c\udfad",
+      "description": "going for a run in the park (conversing about Wolfgang Schulz and Ayesha Khan are planning to explore the local art gallery, grab a bite at Hobbs Cafe, attend a Shakespearean play, and take a walking tour of the village's historical landmarks together.) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        93,
+        74
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Lin family's house:Eddy Lin's bedroom:bed",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        72,
+        74
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Moreno family's house:Tom and Jane Moreno's bedroom:bed",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        54,
+        70
+      ],
+      "pronunciatio": "\ud83d\udc55",
+      "description": "waking up and completing her morning routine (getting dressed) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:closet",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        33,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Adam Smith and Sam Moore are making plans to visit various cultural events and workshops in their community together. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey Sam, it's great to see you here in Johnson Park! How are you doing today?"
+        ],
+        [
+          "Sam Moore",
+          "Hey Adam! I'm doing well, thanks for asking. I saw you working on your book, how's it coming along?"
+        ],
+        [
+          "Adam Smith",
+          "Adam Smith: It's coming along nicely, I've made some progress on the chapter about creativity. How about you, Sam?"
+        ],
+        [
+          "Sam Moore",
+          "I'm glad to hear that, Adam! I'm finishing up the last few chapters of my own book as well. It's been quite the journey."
+        ],
+        [
+          "Adam Smith",
+          "Have you had a chance to check out the new exhibit at the village museum? I heard it's quite fascinating."
+        ],
+        [
+          "Sam Moore",
+          "I actually haven't had the chance to check out the new exhibit yet, but I'm looking forward to it. We should definitely plan a visit together soon!"
+        ],
+        [
+          "Adam Smith",
+          "We could make a day of it and explore the village market first before heading to the museum. What do you think, Sam?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a great plan, Adam! We can start our day at the village market and then head to the museum to check out the new exhibit. I'm sure it will be a fun and enlightening experience."
+        ],
+        [
+          "Adam Smith",
+          "Hey Sam, have you checked out the local art gallery's new exhibit yet? I heard it's quite impressive."
+        ],
+        [
+          "Sam Moore",
+          "I haven't had the chance to check out the new exhibit at the local art gallery yet, but I'm intrigued by your description. Maybe we can plan a visit together soon."
+        ],
+        [
+          "Adam Smith",
+          "Sam, I also heard about a poetry reading event happening at the local library next weekend. Would you be interested in attending together?"
+        ],
+        [
+          "Sam Moore",
+          "Hey Adam, the poetry reading event at the library sounds intriguing! I would love to attend it together. Let's make sure to mark it on our calendars."
+        ],
+        [
+          "Adam Smith",
+          "Hey Sam, I was thinking of attending the upcoming community workshop at the village center. Would you be interested in joining me?"
+        ],
+        [
+          "Sam Moore",
+          "Adam, I would love to join you at the upcoming community workshop at the village center! It sounds like a great opportunity to connect with other residents and learn something new."
+        ],
+        [
+          "Adam Smith",
+          "Sam, there's also an art workshop happening next week at the local community center. Would you be interested in attending with me?"
+        ],
+        [
+          "Sam Moore",
+          "Adam, the art workshop at the local community center sounds fantastic! I would love to attend it with you. Let's plan to go together and explore our creative side."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 06:21:30"
+  }
+}

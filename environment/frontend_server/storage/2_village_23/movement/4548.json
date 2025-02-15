@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "serving lunch to customers at Hobbs Cafe (greeting customers and taking their orders) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        96,
+        21
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having lunch (sitting down to eat) @ the Ville:Carlos Gomez's apartment:main room:kitchen sink",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        77,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy Lin and Klaus Mueller are discussing plans to jam with local musicians, explore the village's history and culture, organize a music event, and visit the local art gallery after their village exploration with Ayesha Khan. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Eddy, how was your music theory class today? I heard you were really excited about it."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Klaus, my music theory class was fantastic! I learned about some new concepts that I can't wait to apply to my composition project."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Eddy! Have you thought about joining me to jam with some local musicians at the village square on Saturday afternoon?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a great idea, Klaus! I'd love to join you for the jam session on Saturday afternoon. It'll be a fun way to showcase what we've learned in our music theory classes."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds fantastic, Eddy! I'll make sure to introduce you to some of the local musicians at the village square. This will be a great opportunity for us to collaborate and showcase our musical talents."
+        ],
+        [
+          "Eddy Lin",
+          "Klaus, thank you for inviting me to jam with the local musicians. I'm looking forward to it!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're excited, Eddy. Let's make sure to plan everything out properly to make the jam session a success."
+        ],
+        [
+          "Eddy Lin",
+          "Klaus, I also wanted to discuss the upcoming village history and culture tour. Would you be interested in joining and sharing your insights about the village heritage?"
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, I would love to join the village history and culture tour with you. I believe our shared insights and experiences as longterm residents will add depth to the tour."
+        ],
+        [
+          "Eddy Lin",
+          "Klaus, I was thinking we could also explore the old town square and village museum during our tour to immerse ourselves in the village's history and culture."
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, that sounds like a wonderful plan. Let's definitely make time to visit the old town square and village museum during our tour. I believe it will provide us with a deeper understanding of the village's rich history."
+        ],
+        [
+          "Eddy Lin",
+          "Klaus, I was also thinking we could organize a music event at the village square after our jam session on Saturday. It could be a great way to showcase the talents of local musicians and bring the community together."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic idea, Eddy! Organizing a music event at the village square after our jam session on Saturday will truly bring the community together and showcase the talent of local musicians. Let's start planning for it."
+        ],
+        [
+          "Eddy Lin",
+          "Klaus, I also wanted to mention that Ayesha Khan and I are planning to explore different parts of the village tomorrow. We will be visiting the old town square, village museum, and attending a local music event. Would you like to join us?"
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, that sounds like a fantastic plan. I would love to join you and Ayesha Khan tomorrow to explore different parts of the village. Visiting the old town square, village museum, and attending the local music event sounds like a great way to experience the village's culture and history."
+        ],
+        [
+          "Eddy Lin",
+          "Klaus, I was also thinking we could plan a visit to the local art gallery after exploring the village tomorrow. It would be a great way to appreciate the artistic side of our community."
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        52,
+        56
+      ],
+      "pronunciatio": "\ud83d\udc57",
+      "description": "resting and preparing for his birthday party (getting dressed and ready to go to the store) @ the Ville:Moore family's house:main room:closet",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc69\u200d\ud83d\udcbb",
+      "description": "attending classes at Oak Hill College (working on a group project) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        45
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending classes at Oak Hill College (reviewing notes and preparing for his next class) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        77,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy Lin and Klaus Mueller are discussing plans to jam with local musicians, explore the village's history and culture, organize a music event, and visit the local art gallery after their village exploration with Ayesha Khan. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Eddy, how was your music theory class today? I heard you were really excited about it."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Klaus, my music theory class was fantastic! I learned about some new concepts that I can't wait to apply to my composition project."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Eddy! Have you thought about joining me to jam with some local musicians at the village square on Saturday afternoon?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a great idea, Klaus! I'd love to join you for the jam session on Saturday afternoon. It'll be a fun way to showcase what we've learned in our music theory classes."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds fantastic, Eddy! I'll make sure to introduce you to some of the local musicians at the village square. This will be a great opportunity for us to collaborate and showcase our musical talents."
+        ],
+        [
+          "Eddy Lin",
+          "Klaus, thank you for inviting me to jam with the local musicians. I'm looking forward to it!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're excited, Eddy. Let's make sure to plan everything out properly to make the jam session a success."
+        ],
+        [
+          "Eddy Lin",
+          "Klaus, I also wanted to discuss the upcoming village history and culture tour. Would you be interested in joining and sharing your insights about the village heritage?"
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, I would love to join the village history and culture tour with you. I believe our shared insights and experiences as longterm residents will add depth to the tour."
+        ],
+        [
+          "Eddy Lin",
+          "Klaus, I was thinking we could also explore the old town square and village museum during our tour to immerse ourselves in the village's history and culture."
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, that sounds like a wonderful plan. Let's definitely make time to visit the old town square and village museum during our tour. I believe it will provide us with a deeper understanding of the village's rich history."
+        ],
+        [
+          "Eddy Lin",
+          "Klaus, I was also thinking we could organize a music event at the village square after our jam session on Saturday. It could be a great way to showcase the talents of local musicians and bring the community together."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic idea, Eddy! Organizing a music event at the village square after our jam session on Saturday will truly bring the community together and showcase the talent of local musicians. Let's start planning for it."
+        ],
+        [
+          "Eddy Lin",
+          "Klaus, I also wanted to mention that Ayesha Khan and I are planning to explore different parts of the village tomorrow. We will be visiting the old town square, village museum, and attending a local music event. Would you like to join us?"
+        ],
+        [
+          "Klaus Mueller",
+          "Eddy, that sounds like a fantastic plan. I would love to join you and Ayesha Khan tomorrow to explore different parts of the village. Visiting the old town square, village museum, and attending the local music event sounds like a great way to experience the village's culture and history."
+        ],
+        [
+          "Eddy Lin",
+          "Klaus, I was also thinking we could plan a visit to the local art gallery after exploring the village tomorrow. It would be a great way to appreciate the artistic side of our community."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        83,
+        56
+      ],
+      "pronunciatio": "\ud83d\udce7",
+      "description": "managing the store at The Willow Market and Pharmacy (checking and responding to emails) @ the Ville:Moreno family's house:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        57,
+        65
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "having lunch (eating her lunch) @ the Ville:Tamara Taylor and Carmen Ortiz's house:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        61
+      ],
+      "pronunciatio": "\ud83d\udce7\ud83c\udf72",
+      "description": "having lunch (checking his emails while waiting for his food to heat up) @ the Ville:Adam Smith's house:main room:cooking area",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:38:00"
+  }
+}

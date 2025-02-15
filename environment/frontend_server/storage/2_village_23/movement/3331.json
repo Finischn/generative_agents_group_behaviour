@@ -1,0 +1,163 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        17
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "greeting customers and taking orders at Hobbs Cafe (checking the inventory and restocking any items that are running low) @ the Ville:Isabella Rodriguez's apartment:main room:shelf",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        76,
+        29
+      ],
+      "pronunciatio": "\ud83c\udfdb\ufe0f",
+      "description": "attending a creative writing workshop (conversing about two college students, Carlos Gomez and Ayesha Khan, making plans to explore the village, discuss Shakespeare's works, meet at Hobbs Cafe tomorrow at 4 pm, include visiting the local library, and immerse themselves in the community) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        112,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy Lin and Klaus Mueller are discussing Eddy's first music theory class, his involvement in the local music scene, and plans to jam with local musicians at the village square on Saturday afternoon. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Eddy, I heard you're attending your first class today. How's it going so far?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Klaus, yes, it's my first class today. It's been really interesting so far, learning a lot about music theory."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds fascinating, Eddy. Have you explored the local music scene in the village yet?"
+        ],
+        [
+          "Eddy Lin",
+          "Yes, I've been trying to get involved in the local music scene. I've been attending some open mic nights at The Rose and Crown Pub. Have you been to any local music events recently?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Eddy! The local music scene has a lot to offer. If you're interested, I can introduce you to some local musicians I know. They often jam together at the village square on weekends."
+        ],
+        [
+          "Eddy Lin",
+          "That would be fantastic, Klaus! I'd love to meet some local musicians and jam with them at the village square. When would be a good time for that?"
+        ],
+        [
+          "Klaus Mueller",
+          "We could plan a jam session for Saturday afternoon at the village square. How does that sound?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a fantastic idea, Klaus! I'm looking forward to it. Let's meet at the village square on Saturday afternoon for the jam session."
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        79,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "reading at Hobbs Cafe (opening his book) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        76,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcda\u2615",
+      "description": "attending classes at Oak Hill College (conversing about two college students, Carlos Gomez and Ayesha Khan, making plans to explore the village, discuss Shakespeare's works, meet at Hobbs Cafe tomorrow at 4 pm, include visiting the local library, and immerse themselves in the community) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending classes at Oak Hill College (taking notes during his first class) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        113,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy Lin and Klaus Mueller are discussing Eddy's first music theory class, his involvement in the local music scene, and plans to jam with local musicians at the village square on Saturday afternoon. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Eddy, I heard you're attending your first class today. How's it going so far?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Klaus, yes, it's my first class today. It's been really interesting so far, learning a lot about music theory."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds fascinating, Eddy. Have you explored the local music scene in the village yet?"
+        ],
+        [
+          "Eddy Lin",
+          "Yes, I've been trying to get involved in the local music scene. I've been attending some open mic nights at The Rose and Crown Pub. Have you been to any local music events recently?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Eddy! The local music scene has a lot to offer. If you're interested, I can introduce you to some local musicians I know. They often jam together at the village square on weekends."
+        ],
+        [
+          "Eddy Lin",
+          "That would be fantastic, Klaus! I'd love to meet some local musicians and jam with them at the village square. When would be a good time for that?"
+        ],
+        [
+          "Klaus Mueller",
+          "We could plan a jam session for Saturday afternoon at the village square. How does that sound?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a fantastic idea, Klaus! I'm looking forward to it. Let's meet at the village square on Saturday afternoon for the jam session."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        81,
+        49
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "helping customers with their orders (helping a customer find a specific item) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        74
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "continuing work on her new children's book series (writing the first draft of the book) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        24,
+        52
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "going for a walk around the village to clear his mind (walking around the village) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:15:10"
+  }
+}

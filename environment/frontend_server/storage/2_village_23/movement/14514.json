@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        44,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Adam discussing exploring the village, visiting the museum and art gallery, attending a community art exhibition, and joining a local music event together. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hello Isabella, I'm glad to see you settling in well. Have you had a chance to explore the village yet?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hello Adam, thank you for your warm welcome. Yes, I've started exploring the village and it's been wonderful so far!"
+        ],
+        [
+          "Adam Smith",
+          "I'm glad to hear that you've been enjoying your explorations. If you need any recommendations or company for your next adventure, feel free to let me know!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Adam! Your recommendations have been really helpful. I would love to explore more of the village with you sometime."
+        ],
+        [
+          "Adam Smith",
+          "That's great to hear! How about we plan a visit to the village museum together this weekend? It's a fascinating place to learn more about the history and culture of our village."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a wonderful idea, Adam! I would love to learn more about the village's history and culture at the museum. Thank you for suggesting it!"
+        ],
+        [
+          "Adam Smith",
+          "Isabella, I also recommend checking out the local art gallery. It's a hidden gem in our village and showcases some amazing talent."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Adam! I appreciate your suggestions. Exploring the village museum and local art gallery sounds like a perfect plan. I'm looking forward to it!"
+        ],
+        [
+          "Adam Smith",
+          "Isabella, there's also a community art exhibition happening next week that I think you would enjoy. Would you like to attend it together?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Adam, for the wonderful suggestions! I would love to attend the community art exhibition with you next week. It sounds like a fantastic event to experience the village's culture."
+        ],
+        [
+          "Adam Smith",
+          "Isabella, I'm also planning to attend the local music event at the village square this Saturday. Would you like to join me?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Adam! I would love to join you at the local music event at the village square this Saturday. It sounds like a wonderful way to experience the village's music scene."
+        ],
+        [
+          "Adam Smith",
+          "Isabella, I can also introduce you to some local residents who share similar interests as you. It would be a great way for you to meet new friends in the village."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Adam! Your recommendations have been really helpful. I would love to explore more of the village with you sometime."
+        ],
+        [
+          "Adam Smith",
+          "Isabella, there's a local writing workshop happening next month that I think you'd enjoy. Would you be interested in attending it together?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Adam! Your recommendations have been really helpful. I would love to explore more of the village with you sometime."
+        ]
+      ]
+    },
+    "Carlos Gomez": {
+      "movement": [
+        54,
+        30
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "attending a poetry open mic event at the local cafe (walking to the local cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        122,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "still writing at the library (researching and adding more information to the outline) (adding more information to the outline) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        63,
+        48
+      ],
+      "pronunciatio": "\ud83d\udcb3",
+      "description": "gathering party materials and decorations at home (checking out and paying for the materials) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2640",
+      "description": "exploring the village history and culture with Isabella (Isabella are walking around the village, discussing its history and culture) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        120,
+        21
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "studying at the library (conversing about Klaus Mueller and Wolfgang Schulz discussing their plans to explore the village, attend cultural events, meet local musicians, and participate in various activities together.) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        114,
+        26
+      ],
+      "pronunciatio": "\ud83d\udca1",
+      "description": "working on his composition project at Oak Hill College (brainstorming ideas for his composition) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        84,
+        49
+      ],
+      "pronunciatio": "\ud83e\uddf9",
+      "description": "managing day to day operations at The Willow Market and Pharmacy (organizing and cleaning the store) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "still working on her children's book series (revising and editing the first draft) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        44,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Adam discussing exploring the village, visiting the museum and art gallery, attending a community art exhibition, and joining a local music event together. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hello Isabella, I'm glad to see you settling in well. Have you had a chance to explore the village yet?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hello Adam, thank you for your warm welcome. Yes, I've started exploring the village and it's been wonderful so far!"
+        ],
+        [
+          "Adam Smith",
+          "I'm glad to hear that you've been enjoying your explorations. If you need any recommendations or company for your next adventure, feel free to let me know!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Adam! Your recommendations have been really helpful. I would love to explore more of the village with you sometime."
+        ],
+        [
+          "Adam Smith",
+          "That's great to hear! How about we plan a visit to the village museum together this weekend? It's a fascinating place to learn more about the history and culture of our village."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a wonderful idea, Adam! I would love to learn more about the village's history and culture at the museum. Thank you for suggesting it!"
+        ],
+        [
+          "Adam Smith",
+          "Isabella, I also recommend checking out the local art gallery. It's a hidden gem in our village and showcases some amazing talent."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Adam! I appreciate your suggestions. Exploring the village museum and local art gallery sounds like a perfect plan. I'm looking forward to it!"
+        ],
+        [
+          "Adam Smith",
+          "Isabella, there's also a community art exhibition happening next week that I think you would enjoy. Would you like to attend it together?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Adam, for the wonderful suggestions! I would love to attend the community art exhibition with you next week. It sounds like a fantastic event to experience the village's culture."
+        ],
+        [
+          "Adam Smith",
+          "Isabella, I'm also planning to attend the local music event at the village square this Saturday. Would you like to join me?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Adam! I would love to join you at the local music event at the village square this Saturday. It sounds like a wonderful way to experience the village's music scene."
+        ],
+        [
+          "Adam Smith",
+          "Isabella, I can also introduce you to some local residents who share similar interests as you. It would be a great way for you to meet new friends in the village."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Adam! Your recommendations have been really helpful. I would love to explore more of the village with you sometime."
+        ],
+        [
+          "Adam Smith",
+          "Isabella, there's a local writing workshop happening next month that I think you'd enjoy. Would you be interested in attending it together?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Adam! Your recommendations have been really helpful. I would love to explore more of the village with you sometime."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 16:19:00"
+  }
+}

@@ -1,0 +1,802 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 21:59:50",
+  "curr_tile": [
+    94,
+    74
+  ],
+  "daily_plan_req": "1. Wake up and complete morning routine at 7am 2. Attend music theory and composition class at Oak Hill College starting at 10am 3. Meet Ayesha at Hobbs Cafe in the afternoon to explore the village's art scene 4. Discuss the upcoming music event at the community center this weekend with Ayesha",
+  "name": "Eddy Lin",
+  "first_name": "Eddy",
+  "last_name": "Lin",
+  "age": 28,
+  "innate": "curious, analytical, musical",
+  "race": "White",
+  "village": "longterm resident of the village",
+  "gender": "Male",
+  "political_affiliation": "Liberal",
+  "race_div": "Asian",
+  "education": "Professional degree (JD, MD)",
+  "learned": "Eddy Lin is a student at Oak Hill College studying music theory and composition. He loves to explore different musical styles and is always looking for ways to expand his knowledge.",
+  "currently": "Status: Eddy Lin is excited to meet Ayesha at Hobbs Cafe this afternoon on Tuesday, February 14th. They plan to explore the village's art scene and discuss the upcoming music event at the community center this weekend. Eddy is looking forward to immersing himself in the local culture and connecting with the community through music and art.",
+  "lifestyle": "Eddy Lin goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Lin family's house:Eddy Lin's bedroom",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 89,
+  "importance_ele_n": 67,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "attend classes at Oak Hill College from 10:00 am to 2:00 pm",
+    "take a break and grab lunch at Hobbs Cafe at 2:30 pm",
+    "continue working on his composition project at the college until 5:00 pm",
+    "have dinner at 5:30 pm",
+    "spend the evening practicing his music and studying until 9:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine (stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (using the bathroom)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (getting dressed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (making breakfast)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (eating breakfast)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (washing the dishes)",
+      10
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (walking to his class)",
+      5
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (greeting his classmates and professor)",
+      5
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (taking out his notebook and pen)",
+      5
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (on the way to setting up his music theory and composition materials)",
+      0
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (conversing about exploring the village's art and music scene, with Eddy Lin and Ayesha Khan chatting and making plans to visit the art gallery, attend a music event, have lunch at Hobbs Cafe, and explore historical landmarks and the village museum.)",
+      13
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (listening to the lecture) (setting up his music theory and composition materials)",
+      22
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (on the way to taking notes during the lecture)",
+      0
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (conversing about the exploration of a village with Eddy Lin showing Isabella Rodriguez around various historical and cultural sites such as the village museum, old town square, art gallery, local music event, farmer's market, and local library.)",
+      14
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (on the way to taking notes during the lecture)",
+      0
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (conversing about exploring the village's cultural scene, visiting art galleries, attending music events, going to workshops, visiting historical landmarks, discovering hidden gems, and learning about the village's history and heritage through various activities suggested by Wolfgang Schulz and Eddy Lin.)",
+      15
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (listening to the lecture) (participating in class discussions)",
+      16
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (listening to the lecture) (practicing music theory exercises)",
+      10
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (taking notes)",
+      30
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (working on a music composition assignment) (reviewing the assignment instructions)",
+      5
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (working on a music composition assignment) (brainstorming ideas for his composition)",
+      15
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (working on a music composition assignment) (researching different musical styles for inspiration)",
+      20
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (on the way to composing his music piece)",
+      0
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (conversing about collaborating on incorporating local traditional elements into Eddy's music composition and planning an upcoming music event while involving local musicians, artisans, community organizations, and schools for support and reaching out to secure a suitable venue.)",
+      15
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (working on a music composition assignment) (taking a break and stretching)",
+      5
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (taking a short break)",
+      10
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (on the way to reviewing his notes)",
+      0
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (conversing about Eddy Lin and Tom Moreno are discussing their plans to explore the local music and art scene together, including attending workshops, visiting art galleries, and attending a performance by local musician Isabella Rodriguez at the community center.)",
+      15
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (on the way to reviewing the assignment instructions)",
+      0
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (conversing about exploring historical landmarks in the village, visiting an art gallery showcasing the village's history, attending a local music event, meeting local musicians, joining a workshop on the village's history, and exploring the farmer's market with Isabella Rodriguez and Eddy Lin.)",
+      11
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (on the way to reviewing the assignment instructions)",
+      0
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (conversing about exploring historical landmarks in the village, starting with a visit to the village museum, old town square, local music event, and local art gallery, with Wolfgang Schulz and Eddy Lin)",
+      6
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (completing his music composition assignment) (reviewing the assignment instructions)",
+      3
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (completing his music composition assignment) (brainstorming ideas for his composition)",
+      10
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (completing his music composition assignment) (researching different musical styles for inspiration)",
+      15
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (completing his music composition assignment) (composing his music piece)",
+      20
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (on the way to taking a break and stretching)",
+      0
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (conversing about exploring the village's history, culture, art, and music scene together, with Eddy Lin excitedly showing Ayesha Khan around various cultural events and landmarks)",
+      14
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College (packing up his belongings and walking back to his dorm)",
+      1
+    ],
+    [
+      "taking a break and grabbing lunch at Hobbs Cafe (walking to Hobbs Cafe)",
+      10
+    ],
+    [
+      "taking a break and grabbing lunch at Hobbs Cafe (browsing the menu and deciding what to order)",
+      10
+    ],
+    [
+      "taking a break and grabbing lunch at Hobbs Cafe (on the way to placing his order with the cashier)",
+      0
+    ],
+    [
+      "taking a break and grabbing lunch at Hobbs Cafe (conversing about two friends, Eddy and Adam, discussing their lunch plans, sharing their experiences at Hobbs Cafe, and making plans to attend an upcoming music event together.)",
+      11
+    ],
+    [
+      "taking a break and grabbing lunch at Hobbs Cafe (placing his order with the cashier)",
+      4
+    ],
+    [
+      "taking a break and grabbing lunch at Hobbs Cafe (waiting for his food to be prepared)",
+      15
+    ],
+    [
+      "taking a break and grabbing lunch at Hobbs Cafe (paying for his food and finding a table to sit at)",
+      20
+    ],
+    [
+      "exploring the village's art scene with Ayesha (meeting Ayesha at Hobbs Cafe)",
+      5
+    ],
+    [
+      "exploring the village's art scene with Ayesha (on the way to Ayesha are walking to the first art gallery)",
+      0
+    ],
+    [
+      "exploring the village's art scene with Ayesha (conversing about exploring the village's history, landmarks, local musicians, artists, art gallery, village museum, local music event at the community center, and connecting with the village's music scene.)",
+      5
+    ],
+    [
+      "exploring the village's art scene with Ayesha (Ayesha are browsing the art pieces at the first gallery)",
+      15
+    ],
+    [
+      "exploring the village's art scene with Ayesha (on the way to Ayesha are discussing their favorite pieces)",
+      0
+    ],
+    [
+      "exploring the village's art scene with Ayesha (conversing about Carlos Gomez expressing gratitude to Eddy Lin for introducing him to local musicians and artists, and making plans to explore more spots in the village and learn about its history and culture with Eddy's guidance.)",
+      10
+    ],
+    [
+      "exploring the village's art scene with Ayesha (Ayesha are walking to the second art gallery)",
+      10
+    ],
+    [
+      "discussing the upcoming music event at the community center with Ayesha at Hobbs Cafe (meeting Ayesha at Hobbs Cafe)",
+      5
+    ],
+    [
+      "discussing the upcoming music event at the community center with Ayesha at Hobbs Cafe (ordering drinks for himself and Ayesha)",
+      10
+    ],
+    [
+      "discussing the upcoming music event at the community center with Ayesha at Hobbs Cafe (catching up with Ayesha and discussing their plans for the day)",
+      15
+    ],
+    [
+      "discussing the upcoming music event at the community center with Ayesha at Hobbs Cafe (showing Ayesha the flyer for the upcoming music event at the community center)",
+      5
+    ],
+    [
+      "discussing the upcoming music event at the community center with Ayesha at Hobbs Cafe (on the way to Ayesha are discussing the details of the event, such as the performers and schedule)",
+      0
+    ],
+    [
+      "discussing the upcoming music event at the community center with Ayesha at Hobbs Cafe (conversing about Ayesha Khan and Eddy Lin are discussing exploring the local music hotspots, historical landmarks, art gallery, village museum, and attending the upcoming music event at the community center together.)",
+      12
+    ],
+    [
+      "finalizing the plans for the event with Ayesha at Hobbs Cafe.",
+      3
+    ],
+    [
+      "wrapping up the conversation and saying goodbye to Ayesha at Hobbs Cafe.",
+      15
+    ],
+    [
+      "working on his composition project at Oak Hill College (setting up his workspace and gathering necessary materials)",
+      5
+    ],
+    [
+      "working on his composition project at Oak Hill College (reviewing his composition project guidelines)",
+      10
+    ],
+    [
+      "working on his composition project at Oak Hill College (brainstorming ideas for his composition)",
+      20
+    ],
+    [
+      "working on his composition project at Oak Hill College (on the way to researching different musical styles and techniques)",
+      0
+    ],
+    [
+      "working on his composition project at Oak Hill College (conversing about collaborating on incorporating traditional elements into Eddy's composition project, reaching out to local musicians and artisans, securing a venue, planning promotional ideas, involving community organizations and schools, establishing a timeline, and seeking sponsorships to showcase the village's cultural heritage through music.)",
+      15
+    ],
+    [
+      "working on his composition project at Oak Hill College (on the way to researching different musical styles and techniques)",
+      0
+    ],
+    [
+      "working on his composition project at Oak Hill College (conversing about two friends, Wolfgang Schulz and Eddy Lin, making plans to explore the village's cultural scene together by visiting art galleries, attending music events, learning about historical landmarks, joining jam sessions with local musicians, and meeting local artisans at the village market.)",
+      14
+    ],
+    [
+      "working on his composition project at Oak Hill College (on the way to on the way to taking a short break)",
+      0
+    ],
+    [
+      "working on his composition project at Oak Hill College (conversing about exploring the local music and art scene while making plans to visit workshops, art galleries, music events, historical landmarks, and inviting friends like Carlos Gomez, Tamara Taylor, Isabella Rodriguez, and Wolfgang Schulz to join in.)",
+      10
+    ],
+    [
+      "working on his composition project at Oak Hill College (starting to compose his piece)",
+      21
+    ],
+    [
+      "working on his composition project at Oak Hill College (reviewing and making changes to his composition)",
+      25
+    ],
+    [
+      "practicing his music and studying at Oak Hill College (setting up his music composition software)",
+      5
+    ],
+    [
+      "practicing his music and studying at Oak Hill College (reviewing his composition project)",
+      10
+    ],
+    [
+      "practicing his music and studying at Oak Hill College (making changes and edits to his composition)",
+      15
+    ],
+    [
+      "practicing his music and studying at Oak Hill College (practicing his music pieces)",
+      20
+    ],
+    [
+      "practicing his music and studying at Oak Hill College (taking a short break)",
+      10
+    ],
+    [
+      "having dinner at home (preparing ingredients for dinner)",
+      10
+    ],
+    [
+      "having dinner at home (cooking dinner)",
+      30
+    ],
+    [
+      "having dinner at home (on the way to setting the table)",
+      0
+    ],
+    [
+      "having dinner at home (conversing about exploring the village's attractions together and planning various activities such as visiting the museum, having lunch at Hobbs Cafe, going to the art gallery, taking a walk in the park, attending local theater productions, and joining the village music jam session.)",
+      13
+    ],
+    [
+      "having dinner at home (setting the table)",
+      7
+    ],
+    [
+      "practicing his music and studying at Oak Hill College (setting up his music theory and composition materials)",
+      5
+    ],
+    [
+      "practicing his music and studying at Oak Hill College (reviewing his notes from the previous class)",
+      10
+    ],
+    [
+      "practicing his music and studying at Oak Hill College (practicing his piano skills)",
+      20
+    ],
+    [
+      "practicing his music and studying at Oak Hill College (studying music theory concepts)",
+      15
+    ],
+    [
+      "practicing his music and studying at Oak Hill College (taking a short break)",
+      10
+    ],
+    [
+      "winding down for the night and getting ready for bed (turning off all electronics and dimming the lights in his room)",
+      5
+    ],
+    [
+      "winding down for the night and getting ready for bed (taking a shower and getting changed into his pajamas)",
+      15
+    ],
+    [
+      "winding down for the night and getting ready for bed (on the way to making a cup of tea to help him relax)",
+      0
+    ],
+    [
+      "winding down for the night and getting ready for bed (conversing about planning their upcoming adventure to explore the local art and music scene, including visiting an art gallery, attending a music event at the community center, exploring historical landmarks, and visiting the village museum, while coordinating with friends to join them for the day of exploration.)",
+      14
+    ],
+    [
+      "winding down for the night and getting ready for bed (making a cup of tea to help him relax)",
+      6
+    ],
+    [
+      "winding down for the night and getting ready for bed (doing some light stretching or yoga to unwind)",
+      10
+    ],
+    [
+      "winding down for the night and getting ready for bed (listening to some calming music or reading a book)",
+      15
+    ],
+    [
+      "winding down for the night and getting ready for bed (brushing his teeth and washing his face)",
+      5
+    ],
+    [
+      "going to bed and will be asleep by 11:00 pm",
+      50
+    ],
+    [
+      "asleep",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -10
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      10
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "attending his music theory and composition class at Oak Hill College",
+      300
+    ],
+    [
+      "taking a break and grabbing lunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "exploring the village's art scene with Ayesha",
+      60
+    ],
+    [
+      "discussing the upcoming music event at the community center with Ayesha at Hobbs Cafe",
+      60
+    ],
+    [
+      "working on his composition project at Oak Hill College",
+      120
+    ],
+    [
+      "practicing his music and studying at Oak Hill College",
+      60
+    ],
+    [
+      "having dinner at home",
+      60
+    ],
+    [
+      "practicing his music and studying at Oak Hill College",
+      60
+    ],
+    [
+      "winding down for the night and getting ready for bed",
+      60
+    ],
+    [
+      "going to bed and will be asleep by 11:00 pm",
+      60
+    ],
+    [
+      "asleep",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Lin family's house:Eddy Lin's bedroom:bed",
+  "act_start_time": "February 14, 2023, 21:50:00",
+  "act_duration": 15,
+  "act_description": "winding down for the night and getting ready for bed (listening to some calming music or reading a book)",
+  "act_pronunciatio": "\ud83c\udfb5\ud83d\udcd6",
+  "act_event": [
+    "Eddy Lin",
+    "Eddy Lin",
+    "is"
+  ],
+  "act_obj_description": "being prepared for a good night's sleep",
+  "act_obj_pronunciatio": "\ud83d\udecf\ufe0f",
+  "act_obj_event": [
+    "bed",
+    "prepare",
+    "good night's sleep"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Tom Moreno": 554,
+    "Ayesha Khan": -136,
+    "Wolfgang Schulz": -1042,
+    "Klaus Mueller": -1144,
+    "Carlos Gomez": -994,
+    "Isabella Rodriguez": -1978,
+    "Sam Moore": -9478,
+    "Adam Smith": -2272
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "known_personas": [
+    "Tom Moreno",
+    "Ayesha Khan",
+    "Wolfgang Schulz",
+    "Klaus Mueller",
+    "Carlos Gomez",
+    "Isabella Rodriguez",
+    "Sam Moore",
+    "Adam Smith"
+  ]
+}

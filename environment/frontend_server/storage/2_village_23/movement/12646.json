@@ -1,0 +1,203 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\u2615",
+      "description": "serving customers at Hobbs Cafe (taking orders and serving customers) (setting up the cafe for the day) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcd6\ud83d\udd0d",
+      "description": "working on editing his poetry collection (proofreading his poems for grammar and spelling errors) @ the Ville:Carlos Gomez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udca1",
+      "description": "still meeting with Isabella at Oak Hill College library (brainstorming ideas for a tour of impacted areas) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        35,
+        32
+      ],
+      "pronunciatio": "\ud83c\udfa8\ud83d\udcda",
+      "description": "still reading at Hobbs Cafe (conversing about Sam Moore and Adam Smith are making plans to attend various cultural and community events together, such as art exhibits, poetry readings, workshops, music events, historical tours, a community picnic, a theater play, and a cooking class.) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        109,
+        31
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "attending classes at Oak Hill College (working on an assignment) (conducting research for the assignment) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        72,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Tom Moreno are chatting about exploring the local music scene, attending village events, meeting more residents, and feeling welcomed and at home in the community. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Thank you so much for all your recommendations and assistance. I truly appreciate the warm welcome and guidance you've provided me with in exploring the village. I'm looking forward to delving into the local culture and history with your help."
+        ],
+        [
+          "Tom Moreno",
+          "You're very welcome, Wolfgang! I'm glad I could assist you in settling in. If you have any more questions or need further recommendations during your exploration of the village, feel free to ask me anytime."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I was thinking of checking out the local music scene and attending some events. Do you have any recommendations for where to go?"
+        ],
+        [
+          "Tom Moreno",
+          "I'm pleased to hear that you're interested in exploring the local music scene. One event you might enjoy attending is the music night at the village square every Saturday. It's a great way to connect with other residents and experience the talents of our community members."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds fantastic! I'll definitely check out the music night at the village square this Saturday. Thank you once again for your help and recommendations, Tom. I truly appreciate it."
+        ],
+        [
+          "Tom Moreno",
+          "I'm happy to hear you're enjoying the village events. There's also a local farmer's market on Sundays that you might find interesting. It's a great way to support our community and discover some fresh produce."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for all your helpful recommendations, Tom! I'm excited to explore the local music scene at the village square this Saturday. I'll definitely check out the farmer's market on Sundays as well. Your guidance has been invaluable in getting to know the community better."
+        ],
+        [
+          "Tom Moreno",
+          "I'm glad you're finding your way around the village and enjoying the local events. If you'd like, I can introduce you to some more residents who share similar interests. It's always nice to make new connections in our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much, Tom, your willingness to introduce me to more residents with similar interests is greatly appreciated. I'd love to expand my social circle and learn more about the community. I'm grateful for your support in helping me feel at home here."
+        ],
+        [
+          "Tom Moreno",
+          "I'm delighted to hear that you're eager to explore more of our community. How about we plan to attend the next village gathering together? It would be a great opportunity for you to meet even more residents and feel even more welcomed."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic idea, Tom! I would love to attend the next village gathering with you. Thank you for being so welcoming and helpful."
+        ],
+        [
+          "Tom Moreno",
+          "I'm glad you're settling in well, Wolfgang. If you need any more recommendations or assistance, don't hesitate to reach out. I'm here to help."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much, Tom. Your warm welcome and assistance have truly made me feel at home in the village. I'm excited to explore more events and meet new residents with your guidance. I will definitely take you up on the offer to attend the next village gathering together."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        90,
+        32
+      ],
+      "pronunciatio": "\ud83c\udfb6",
+      "description": "attending his music theory and composition class at Oak Hill College (conversing about collaborating on incorporating local traditional elements into Eddy's music composition and planning an upcoming music event while involving local musicians, artisans, community organizations, and schools for support and reaching out to secure a suitable venue.) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        73,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Tom Moreno are chatting about exploring the local music scene, attending village events, meeting more residents, and feeling welcomed and at home in the community. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Thank you so much for all your recommendations and assistance. I truly appreciate the warm welcome and guidance you've provided me with in exploring the village. I'm looking forward to delving into the local culture and history with your help."
+        ],
+        [
+          "Tom Moreno",
+          "You're very welcome, Wolfgang! I'm glad I could assist you in settling in. If you have any more questions or need further recommendations during your exploration of the village, feel free to ask me anytime."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I was thinking of checking out the local music scene and attending some events. Do you have any recommendations for where to go?"
+        ],
+        [
+          "Tom Moreno",
+          "I'm pleased to hear that you're interested in exploring the local music scene. One event you might enjoy attending is the music night at the village square every Saturday. It's a great way to connect with other residents and experience the talents of our community members."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds fantastic! I'll definitely check out the music night at the village square this Saturday. Thank you once again for your help and recommendations, Tom. I truly appreciate it."
+        ],
+        [
+          "Tom Moreno",
+          "I'm happy to hear you're enjoying the village events. There's also a local farmer's market on Sundays that you might find interesting. It's a great way to support our community and discover some fresh produce."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for all your helpful recommendations, Tom! I'm excited to explore the local music scene at the village square this Saturday. I'll definitely check out the farmer's market on Sundays as well. Your guidance has been invaluable in getting to know the community better."
+        ],
+        [
+          "Tom Moreno",
+          "I'm glad you're finding your way around the village and enjoying the local events. If you'd like, I can introduce you to some more residents who share similar interests. It's always nice to make new connections in our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much, Tom, your willingness to introduce me to more residents with similar interests is greatly appreciated. I'd love to expand my social circle and learn more about the community. I'm grateful for your support in helping me feel at home here."
+        ],
+        [
+          "Tom Moreno",
+          "I'm delighted to hear that you're eager to explore more of our community. How about we plan to attend the next village gathering together? It would be a great opportunity for you to meet even more residents and feel even more welcomed."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic idea, Tom! I would love to attend the next village gathering with you. Thank you for being so welcoming and helpful."
+        ],
+        [
+          "Tom Moreno",
+          "I'm glad you're settling in well, Wolfgang. If you need any more recommendations or assistance, don't hesitate to reach out. I'm here to help."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much, Tom. Your warm welcome and assistance have truly made me feel at home in the village. I'm excited to explore more events and meet new residents with your guidance. I will definitely take you up on the offer to attend the next village gathering together."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        34,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcf8\ud83d\udcda",
+      "description": "exploring Johnson Park with Ayesha (taking pictures and learning about the park's history) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        35,
+        32
+      ],
+      "pronunciatio": "\ud83c\udfa8",
+      "description": "writing and working on his book (conversing about Sam Moore and Adam Smith are making plans to attend various cultural and community events together, such as art exhibits, poetry readings, workshops, music events, historical tours, a community picnic, a theater play, and a cooking class.) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 11:07:40"
+  }
+}

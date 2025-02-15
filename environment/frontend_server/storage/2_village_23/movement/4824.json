@@ -1,0 +1,155 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        24
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "taking a break and having lunch at Hobbs Cafe (taking a break and having lunch herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        82,
+        30
+      ],
+      "pronunciatio": "\ud83c\udfdb\ufe0f",
+      "description": "exploring the village and taking in nature (conversing about Carlos Gomez and Ayesha Khan are discussing their plans to explore the local village, visit the library to research Shakespeare's works, try pastries at a local bakery, visit the old town square, explore the village museum, attend a local music event, have a walking tour of the village, and attend Sam's birthday party at The Rose and Crown Pub.) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        82,
+        30
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "at the library at Oak Hill College (conversing about Klaus Mueller and Wolfgang Schulz make plans to explore the history of the village's landmarks together, with Klaus offering to give Wolfgang a tour and share interesting stories starting from Oak Hill College at 9am the next morning.) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        37,
+        61
+      ],
+      "pronunciatio": "\ud83d\uded2",
+      "description": "gathering party materials and decorations at home (making a shopping list for the party materials) @ the Ville:Moore family's house:main room:desk",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        77,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the village's history, culture, Shakespeare's works, local library, music event, art gallery, and getting introduced to the community @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Eddy! I really appreciate your offer to show me around the village. I'm excited to learn more about its history and culture."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Ayesha! I'm glad you're interested in exploring the village's history and culture. I can't wait to show you around and share some of the hidden gems of this place with you."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm really looking forward to delving deeper into Shakespeare's works and exploring the local library with you."
+        ],
+        [
+          "Eddy Lin",
+          "I'm sure you'll find the village's rich history and culture fascinating. Let's make a plan to visit the local library and explore Shakespeare's works together."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm also excited to attend the upcoming local music event and visit the art gallery with you. It'll be a great way to immerse ourselves in the culture of this village."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, since you're new to the village, I also recommend checking out the local art gallery. It's a great place to get a sense of the creativity and talent within our community."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Eddy, for showing me around and introducing me to the village's history and culture. I really appreciate it."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        72,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "having lunch (eating his lunch) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        71,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the village's history, culture, Shakespeare's works, local library, music event, art gallery, and getting introduced to the community @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Eddy! I really appreciate your offer to show me around the village. I'm excited to learn more about its history and culture."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Ayesha! I'm glad you're interested in exploring the village's history and culture. I can't wait to show you around and share some of the hidden gems of this place with you."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm really looking forward to delving deeper into Shakespeare's works and exploring the local library with you."
+        ],
+        [
+          "Eddy Lin",
+          "I'm sure you'll find the village's rich history and culture fascinating. Let's make a plan to visit the local library and explore Shakespeare's works together."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm also excited to attend the upcoming local music event and visit the art gallery with you. It'll be a great way to immerse ourselves in the culture of this village."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, since you're new to the village, I also recommend checking out the local art gallery. It's a great place to get a sense of the creativity and talent within our community."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Eddy, for showing me around and introducing me to the village's history and culture. I really appreciate it."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        64,
+        52
+      ],
+      "pronunciatio": "\ud83e\udd66",
+      "description": "managing the store at The Willow Market and Pharmacy (restocking perishable items) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\ud83c\udfb6",
+      "description": "taking a break and spending some time relaxing (listening to some calming music) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "continuing to work on his book (reviewing his notes and research materials) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:24:00"
+  }
+}

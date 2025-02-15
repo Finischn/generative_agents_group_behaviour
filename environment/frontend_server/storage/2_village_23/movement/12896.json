@@ -1,0 +1,97 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        25
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "serving customers at Hobbs Cafe (greeting and seating customers) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "working on editing his poetry collection (formatting his collection for submission) @ the Ville:Carlos Gomez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        87,
+        32
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "still meeting with Isabella at Oak Hill College library (conversing about how two long-term residents, Klaus Mueller and Sam Moore, plan to incorporate their unique perspectives into researching the effects of gentrification in their village, including interviewing other long-term residents, newcomers, local businesses, community leaders, policymakers, exploring housing affordability, cultural impact, demographic changes, emotional impact, public space accessibility, environmental impact, educational institutions, healthcare services, and social cohesion.) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        39,
+        31
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "still reading at Hobbs Cafe (conversing about how two long-term residents, Klaus Mueller and Sam Moore, plan to incorporate their unique perspectives into researching the effects of gentrification in their village, including interviewing other long-term residents, newcomers, local businesses, community leaders, policymakers, exploring housing affordability, cultural impact, demographic changes, emotional impact, public space accessibility, environmental impact, educational institutions, healthcare services, and social cohesion.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending classes at Oak Hill College (working on an assignment) (writing the first draft of the assignment) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        75,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying at the library (finding a quiet study space) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        76,
+        27
+      ],
+      "pronunciatio": "\ud83d\uddfa\ufe0f",
+      "description": "attending his music theory and composition class at Oak Hill College (conversing about exploring historical landmarks in the village, visiting an art gallery showcasing the village's history, attending a local music event, meeting local musicians, joining a workshop on the village's history, and exploring the farmer's market with Isabella Rodriguez and Eddy Lin.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        78,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "continuing to offer recommendations and assistance to Tamara (answering any questions Tamara may have about the village) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        41,
+        31
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "exploring the village with Ayesha (talking to locals and learning about the history of the village) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        33,
+        36
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2642",
+      "description": "writing and working on his book (taking a short break to stretch and clear his mind) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 11:49:20"
+  }
+}

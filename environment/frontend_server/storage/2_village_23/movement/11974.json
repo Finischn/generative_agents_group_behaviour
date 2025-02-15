@@ -1,0 +1,187 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        14
+      ],
+      "pronunciatio": "\ud83d\udebf",
+      "description": "meeting Klaus at Oak Hill College library to discuss research on gentrification (getting ready for the day) @ the Ville:Isabella Rodriguez's apartment:main room:closet",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        54,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Sam Moore discussing exploring the village, attending a birthday party at The Rose and Crown Pub, visiting the local art gallery, market, Johnson Park, old town square, and Hobbs Cafe, as well as appreciating the guidance and recommendations shared. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Sam, I really appreciated your invitation to explore the village with you. I'm looking forward to attending your birthday party at The Rose and Crown Pub. By the way, have you been to the art gallery in town? I heard they have a new exhibition featuring local artists that might interest you."
+        ],
+        [
+          "Sam Moore",
+          "Hey Carlos, I'm glad you're excited to explore the village with me. I haven't been to the art gallery yet, but that exhibition sounds interesting. Let's make plans to check it out together after my birthday celebration. I think you'll really enjoy it."
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a great plan, Sam! I would love to explore the art gallery with you after your birthday party. It will be a fantastic way to immerse ourselves in the local art scene."
+        ],
+        [
+          "Sam Moore",
+          "Since you're new to the village, I'd recommend checking out the local market next. It's a great way to experience the vibrant community here."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for the recommendation, Sam. I'll definitely make sure to visit the local market and experience the vibrant community. I appreciate all your help in showing me around!"
+        ],
+        [
+          "Sam Moore",
+          "Carlos, after visiting the local market, we can also explore Johnson Park together. It's a beautiful place to enjoy nature and take a leisurely stroll. I think you'll love it."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam. I truly appreciate your guidance and support in exploring the village with me. I'm looking forward to our upcoming adventures together!"
+        ],
+        [
+          "Sam Moore",
+          "Carlos, I also recommend checking out the old town square. It's a historic part of the village with charming buildings and a great atmosphere. Let's plan to visit it after Johnson Park."
+        ],
+        [
+          "Carlos Gomez",
+          "Sam, thank you so much for your guidance and recommendations. I'm really enjoying exploring the village with you. Would you like to grab a cup of coffee at Hobbs Cafe to continue our conversation?"
+        ],
+        [
+          "Sam Moore",
+          "Carlos, I also suggest visiting the local library. It's a great place to learn more about the village's history and connect with other residents. Let's plan to check it out after the old town square."
+        ],
+        [
+          "Carlos Gomez",
+          "Sam, I truly value your friendship and all the wonderful recommendations you've shared with me. I'm grateful for your kindness and guidance in helping me feel at home in this village. I look forward to our continued explorations together."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcca",
+      "description": "still meeting with Isabella at Oak Hill College library (discussing their research findings on gentrification) (discussing their research findings on gentrification with Isabella) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        55,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Sam Moore discussing exploring the village, attending a birthday party at The Rose and Crown Pub, visiting the local art gallery, market, Johnson Park, old town square, and Hobbs Cafe, as well as appreciating the guidance and recommendations shared. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Sam, I really appreciated your invitation to explore the village with you. I'm looking forward to attending your birthday party at The Rose and Crown Pub. By the way, have you been to the art gallery in town? I heard they have a new exhibition featuring local artists that might interest you."
+        ],
+        [
+          "Sam Moore",
+          "Hey Carlos, I'm glad you're excited to explore the village with me. I haven't been to the art gallery yet, but that exhibition sounds interesting. Let's make plans to check it out together after my birthday celebration. I think you'll really enjoy it."
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a great plan, Sam! I would love to explore the art gallery with you after your birthday party. It will be a fantastic way to immerse ourselves in the local art scene."
+        ],
+        [
+          "Sam Moore",
+          "Since you're new to the village, I'd recommend checking out the local market next. It's a great way to experience the vibrant community here."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for the recommendation, Sam. I'll definitely make sure to visit the local market and experience the vibrant community. I appreciate all your help in showing me around!"
+        ],
+        [
+          "Sam Moore",
+          "Carlos, after visiting the local market, we can also explore Johnson Park together. It's a beautiful place to enjoy nature and take a leisurely stroll. I think you'll love it."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam. I truly appreciate your guidance and support in exploring the village with me. I'm looking forward to our upcoming adventures together!"
+        ],
+        [
+          "Sam Moore",
+          "Carlos, I also recommend checking out the old town square. It's a historic part of the village with charming buildings and a great atmosphere. Let's plan to visit it after Johnson Park."
+        ],
+        [
+          "Carlos Gomez",
+          "Sam, thank you so much for your guidance and recommendations. I'm really enjoying exploring the village with you. Would you like to grab a cup of coffee at Hobbs Cafe to continue our conversation?"
+        ],
+        [
+          "Sam Moore",
+          "Carlos, I also suggest visiting the local library. It's a great place to learn more about the village's history and connect with other residents. Let's plan to check it out after the old town square."
+        ],
+        [
+          "Carlos Gomez",
+          "Sam, I truly value your friendship and all the wonderful recommendations you've shared with me. I'm grateful for your kindness and guidance in helping me feel at home in this village. I look forward to our continued explorations together."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending classes at Oak Hill College (taking notes during the class) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        92,
+        32
+      ],
+      "pronunciatio": "\ud83c\udfa8",
+      "description": "getting ready for his next class (conversing about exploring the village's cultural scene, visiting art galleries, attending music events, going to workshops, visiting historical landmarks, discovering hidden gems, and learning about the village's history and heritage through various activities suggested by Wolfgang Schulz and Eddy Lin.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        93,
+        32
+      ],
+      "pronunciatio": "\ud83c\udfa8",
+      "description": "attending his music theory and composition class at Oak Hill College (conversing about exploring the village's cultural scene, visiting art galleries, attending music events, going to workshops, visiting historical landmarks, discovering hidden gems, and learning about the village's history and heritage through various activities suggested by Wolfgang Schulz and Eddy Lin.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        82,
+        49
+      ],
+      "pronunciatio": "\ud83d\uded2",
+      "description": "managing day to day operations at The Willow Market and Pharmacy (checking inventory levels and restocking shelves) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        36,
+        30
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "still working on her children's book series (conversing about exploring the village, planning to visit the local cafe, park, museum, and attend a music event together) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        76,
+        56
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "taking a walk around the village (walking towards the village square) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 09:15:40"
+  }
+}

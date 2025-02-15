@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        14
+      ],
+      "pronunciatio": "\ud83d\udecc",
+      "description": "getting ready for bed @ the Ville:Isabella Rodriguez's apartment:main room:bed",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        56,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcd6\ud83d\udde3\ufe0f",
+      "description": "attending a community poetry reading event (practicing reading his poems out loud) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83c\udf92",
+      "description": "at the library at Oak Hill College (finishing up his work and packing up his materials before leaving for dinner at Hobbs Cafe) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        51,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Sam Moore and Wolfgang Schulz, discussing Wolfgang's interest in sports and Sam offering to show him around the village and introduce him to the local sports community. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Wolfgang, I'm glad you could make it to my birthday party. Have you had a chance to explore more of the village since you arrived?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for the invitation, Sam. Yes, I've had the chance to explore a bit. The village is charming and I've enjoyed meeting some of the villagers so far."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're finding the village charming. If you need any recommendations or help settling in, feel free to reach out to me anytime."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam. I appreciate your offer to help. I was actually hoping to learn more about the local sports scene. Do you know of any places where I could continue my training?"
+        ],
+        [
+          "Sam Moore",
+          "I'm glad to hear you're interested in sports, Wolfgang. There's a community sports center nearby where you can continue your training. I can take you there tomorrow morning if you'd like."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds great, Sam. I'd really appreciate your help in finding the community sports center. Could we meet at the village square tomorrow morning before heading there?"
+        ],
+        [
+          "Sam Moore",
+          "Great, let's meet at the village square tomorrow morning around 8 am. I'll show you the way to the community sports center."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much for offering to show me around the village and helping me find the community sports center, Sam. I really appreciate your kindness and welcoming nature."
+        ],
+        [
+          "Sam Moore",
+          "You're welcome, Wolfgang! I'm glad to help you settle in. How about we grab a coffee at Hobbs Cafe after your training tomorrow?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much for showing me around the village and helping me find the community sports center, Sam. I really appreciate your kindness and hospitality."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're interested in sports, Wolfgang. I can introduce you to some of the locals who are part of the sports community here. They can give you more insights and recommendations for training opportunities in the village."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam. I truly appreciate your willingness to show me around the village and introduce me to the local sports community. I look forward to exploring the sports center tomorrow and meeting other athletes."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're interested in sports, Wolfgang. I can introduce you to some of the locals who are part of the sports community here. They can give you more insights and recommendations for training opportunities in the village."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam. I appreciate your offer to introduce me to the local sports community. I look forward to meeting other athletes and getting more insights into training opportunities in the village."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're interested in sports, Wolfgang. I can introduce you to some of the locals who are part of the sports community here. They can give you more insights and recommendations for training opportunities in the village."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much for offering to show me around the village and helping me find the community sports center, Sam. I really appreciate your kindness and welcoming nature."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        109,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying at the library (gathering her research materials) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        56,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Sam Moore and Wolfgang Schulz, discussing Wolfgang's interest in sports and Sam offering to show him around the village and introduce him to the local sports community. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Wolfgang, I'm glad you could make it to my birthday party. Have you had a chance to explore more of the village since you arrived?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for the invitation, Sam. Yes, I've had the chance to explore a bit. The village is charming and I've enjoyed meeting some of the villagers so far."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're finding the village charming. If you need any recommendations or help settling in, feel free to reach out to me anytime."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam. I appreciate your offer to help. I was actually hoping to learn more about the local sports scene. Do you know of any places where I could continue my training?"
+        ],
+        [
+          "Sam Moore",
+          "I'm glad to hear you're interested in sports, Wolfgang. There's a community sports center nearby where you can continue your training. I can take you there tomorrow morning if you'd like."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds great, Sam. I'd really appreciate your help in finding the community sports center. Could we meet at the village square tomorrow morning before heading there?"
+        ],
+        [
+          "Sam Moore",
+          "Great, let's meet at the village square tomorrow morning around 8 am. I'll show you the way to the community sports center."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much for offering to show me around the village and helping me find the community sports center, Sam. I really appreciate your kindness and welcoming nature."
+        ],
+        [
+          "Sam Moore",
+          "You're welcome, Wolfgang! I'm glad to help you settle in. How about we grab a coffee at Hobbs Cafe after your training tomorrow?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much for showing me around the village and helping me find the community sports center, Sam. I really appreciate your kindness and hospitality."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're interested in sports, Wolfgang. I can introduce you to some of the locals who are part of the sports community here. They can give you more insights and recommendations for training opportunities in the village."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam. I truly appreciate your willingness to show me around the village and introduce me to the local sports community. I look forward to exploring the sports center tomorrow and meeting other athletes."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're interested in sports, Wolfgang. I can introduce you to some of the locals who are part of the sports community here. They can give you more insights and recommendations for training opportunities in the village."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam. I appreciate your offer to introduce me to the local sports community. I look forward to meeting other athletes and getting more insights into training opportunities in the village."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're interested in sports, Wolfgang. I can introduce you to some of the locals who are part of the sports community here. They can give you more insights and recommendations for training opportunities in the village."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much for offering to show me around the village and helping me find the community sports center, Sam. I really appreciate your kindness and welcoming nature."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        118,
+        30
+      ],
+      "pronunciatio": "\ud83c\udfb5",
+      "description": "practicing music and studying (practicing scales on his instrument) @ the Ville:Lin family's house:Eddy Lin's bedroom:desk",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        73,
+        67
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having dinner with his wife, Jane Moreno (Jane are sitting down to eat dinner) @ the Ville:Moreno family's house:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        57,
+        66
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "cooking and having dinner (preparing ingredients) @ the Ville:Tamara Taylor and Carmen Ortiz's house:kitchen:cooking area",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        62
+      ],
+      "pronunciatio": "\ud83e\udd63",
+      "description": "taking a break to have dinner (sitting down to eat) @ the Ville:Adam Smith's house:main room:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 18:40:00"
+  }
+}

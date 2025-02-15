@@ -1,0 +1,97 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc5a",
+      "description": "getting ready to open Hobbs Cafe (getting dressed in her cafe uniform) @ the Ville:Isabella Rodriguez's apartment:main room:closet",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        13
+      ],
+      "pronunciatio": "\ud83d\udebf",
+      "description": "waking up and completing his morning routine (taking a shower) @ the Ville:Carlos Gomez's apartment:bathroom:shower",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        116,
+        43
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83d\udc57",
+      "description": "waking up and completing his morning routine (taking a shower and getting dressed) @ the Ville:Dorm for Oak Hill College:man's bathroom:shower",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        49,
+        31
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "going for a walk at Johnson Park (continuing his walk) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        117,
+        61
+      ],
+      "pronunciatio": "\u2615",
+      "description": "having breakfast (making coffee or tea) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        31,
+        37
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast (eating his breakfast) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        97,
+        70
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83d\udc57",
+      "description": "waking up and completing his morning routine (taking a shower and getting dressed) @ the Ville:Lin family's house:bathroom:shower",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        80,
+        65
+      ],
+      "pronunciatio": "\ud83e\uddb7",
+      "description": "waking up and completing his morning routine (brushing his teeth) @ the Ville:Moreno family's house:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        60,
+        78
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "going for a morning walk (walking around the neighborhood) @ the Ville:Tamara Taylor and Carmen Ortiz's house:garden:house garden",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "writing and working on his book (on the way to writing the first chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:16:00"
+  }
+}

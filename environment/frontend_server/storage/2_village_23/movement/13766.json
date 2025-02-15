@@ -1,0 +1,147 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the village's history, landmarks, local musicians, artists, art gallery, village museum, local music event at the community center, and connecting with the village's music scene. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Isabella! I've been enjoying exploring the village's history and landmarks. Would you like to join me on a tour later to learn more about our heritage together?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a fantastic idea, Eddy! I would love to join you on the tour to learn more about the village's heritage."
+        ],
+        [
+          "Eddy Lin",
+          "I'm excited to show you around the village and introduce you to local musicians and artists. Let's start our tour at the village museum and then visit the art gallery together. I think you'll really enjoy it!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for inviting me, Eddy! I can't wait to explore the village's history and landmarks with you. I've been looking forward to learning more about our heritage."
+        ],
+        [
+          "Eddy Lin",
+          "Let's also make sure to visit the local music event happening this weekend at the community center. It's a great way to connect with the village's music scene and meet local musicians."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Eddy! I appreciate your efforts to show me around and share the village's history with me. It's been a wonderful experience exploring with you."
+        ]
+      ]
+    },
+    "Carlos Gomez": {
+      "movement": [
+        30,
+        42
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "exploring the village and taking in nature (conversing about Carlos Gomez and Sam Moore are discussing plans to explore the village together, including attending Sam's birthday party at The Rose and Crown Pub, taking a stroll through Johnson Park, visiting the old town square, grabbing coffee at Hobbs Cafe, checking out the local art gallery and history museum, attending workshops at the community center, joining a poetry reading event at the local market, and attending a local music event next week.) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcdd\ud83d\uddfa\ufe0f",
+      "description": "still writing at the library (organizing their notes and creating an outline for the tour) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "resting and preparing for his birthday party at home (conversing about Carlos Gomez and Sam Moore are discussing plans to explore the village together, including attending Sam's birthday party at The Rose and Crown Pub, taking a stroll through Johnson Park, visiting the old town square, grabbing coffee at Hobbs Cafe, checking out the local art gallery and history museum, attending workshops at the community center, joining a poetry reading event at the local market, and attending a local music event next week.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        117,
+        52
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying at the local library (organizing her study materials) @ the Ville:Dorm for Oak Hill College:Ayesha Khan's room:desk",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "studying at the library (reading assigned chapters from his textbook) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        78,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the village's history, landmarks, local musicians, artists, art gallery, village museum, local music event at the community center, and connecting with the village's music scene. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Isabella! I've been enjoying exploring the village's history and landmarks. Would you like to join me on a tour later to learn more about our heritage together?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a fantastic idea, Eddy! I would love to join you on the tour to learn more about the village's heritage."
+        ],
+        [
+          "Eddy Lin",
+          "I'm excited to show you around the village and introduce you to local musicians and artists. Let's start our tour at the village museum and then visit the art gallery together. I think you'll really enjoy it!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for inviting me, Eddy! I can't wait to explore the village's history and landmarks with you. I've been looking forward to learning more about our heritage."
+        ],
+        [
+          "Eddy Lin",
+          "Let's also make sure to visit the local music event happening this weekend at the community center. It's a great way to connect with the village's music scene and meet local musicians."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Eddy! I appreciate your efforts to show me around and share the village's history with me. It's been a wonderful experience exploring with you."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        89,
+        49
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "managing day to day operations at The Willow Market and Pharmacy (checking inventory levels and restocking shelves) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\u2615",
+      "description": "taking a break and relaxing (enjoying her cup of tea) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        39,
+        28
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "writing and working on his book (reviewing his notes and research for his book) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 14:14:20"
+  }
+}

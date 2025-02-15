@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcb0",
+      "description": "opening Hobbs Cafe and standing at the counter (checking the cash register and making sure there is enough change) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        110,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two college students, Carlos Gomez and Ayesha Khan, making plans to explore the village, discuss Shakespeare's works, meet at Hobbs Cafe tomorrow at 4 pm, include visiting the local library, and immerse themselves in the community @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Ayesha, it's nice to see you here at Oak Hill College. How was the creative writing workshop for you?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Carlos, the creative writing workshop was really insightful. I enjoyed exploring different writing techniques and ideas."
+        ],
+        [
+          "Carlos Gomez",
+          "I heard you and Wolfgang are planning to explore the village. How about we join forces and make it a group outing?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea, Carlos! The more, the merrier. It would be wonderful to explore the village together and get to know more about our new community."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm excited to immerse ourselves in the community and share our love for literature. How about we plan to discuss Shakespeare's works in more detail during our outing?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic plan, Carlos! I'm looking forward to exploring the village with you and discussing Shakespeare's works. Let's set a date and time for our outing."
+        ],
+        [
+          "Carlos Gomez",
+          "Let's meet at Hobbs Cafe tomorrow at 4 pm to further our conversation and discuss our plans for exploring the village."
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Carlos! Meeting at Hobbs Cafe tomorrow at 4 pm sounds perfect. I'm excited to explore the village with you and discuss Shakespeare's works. Looking forward to our outing!"
+        ],
+        [
+          "Carlos Gomez",
+          "I'm glad we have the opportunity to bond over our love for literature and explore the village together. It's refreshing to meet someone who shares similar interests."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much, Carlos! I'm really looking forward to our outing tomorrow at Hobbs Cafe. It's great to have the opportunity to explore the village with someone who shares the same passion for literature."
+        ],
+        [
+          "Carlos Gomez",
+          "It's been a pleasure getting to know you, Ayesha. I'm looking forward to our outing tomorrow at Hobbs Cafe."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Carlos! I appreciate your enthusiasm for exploring the village and discussing literature. I'm looking forward to our outing at Hobbs Cafe tomorrow."
+        ],
+        [
+          "Carlos Gomez",
+          "Hey Ayesha, since we'll be meeting at Hobbs Cafe tomorrow at 4 pm, do you have any specific places in the village you're excited to explore?"
+        ],
+        [
+          "Ayesha Khan",
+          "I'm particularly looking forward to exploring the local library and delving into the history of the village. How about we include that in our outing tomorrow?"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a fantastic idea, Ayesha! Exploring the local library and uncovering the history of the village together would be a wonderful addition to our outing. I can't wait to discuss Shakespeare's works and spend time immersing ourselves in the community tomorrow at Hobbs Cafe."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm also excited to meet more residents and learn about the culture of the village. It's going to be a great adventure exploring together!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "at the library at Oak Hill College (conducting online research on gentrification) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        72,
+        23
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "reading at Hobbs Cafe (walking to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        111,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two college students, Carlos Gomez and Ayesha Khan, making plans to explore the village, discuss Shakespeare's works, meet at Hobbs Cafe tomorrow at 4 pm, include visiting the local library, and immerse themselves in the community @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Ayesha, it's nice to see you here at Oak Hill College. How was the creative writing workshop for you?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Carlos, the creative writing workshop was really insightful. I enjoyed exploring different writing techniques and ideas."
+        ],
+        [
+          "Carlos Gomez",
+          "I heard you and Wolfgang are planning to explore the village. How about we join forces and make it a group outing?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea, Carlos! The more, the merrier. It would be wonderful to explore the village together and get to know more about our new community."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm excited to immerse ourselves in the community and share our love for literature. How about we plan to discuss Shakespeare's works in more detail during our outing?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic plan, Carlos! I'm looking forward to exploring the village with you and discussing Shakespeare's works. Let's set a date and time for our outing."
+        ],
+        [
+          "Carlos Gomez",
+          "Let's meet at Hobbs Cafe tomorrow at 4 pm to further our conversation and discuss our plans for exploring the village."
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Carlos! Meeting at Hobbs Cafe tomorrow at 4 pm sounds perfect. I'm excited to explore the village with you and discuss Shakespeare's works. Looking forward to our outing!"
+        ],
+        [
+          "Carlos Gomez",
+          "I'm glad we have the opportunity to bond over our love for literature and explore the village together. It's refreshing to meet someone who shares similar interests."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much, Carlos! I'm really looking forward to our outing tomorrow at Hobbs Cafe. It's great to have the opportunity to explore the village with someone who shares the same passion for literature."
+        ],
+        [
+          "Carlos Gomez",
+          "It's been a pleasure getting to know you, Ayesha. I'm looking forward to our outing tomorrow at Hobbs Cafe."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Carlos! I appreciate your enthusiasm for exploring the village and discussing literature. I'm looking forward to our outing at Hobbs Cafe tomorrow."
+        ],
+        [
+          "Carlos Gomez",
+          "Hey Ayesha, since we'll be meeting at Hobbs Cafe tomorrow at 4 pm, do you have any specific places in the village you're excited to explore?"
+        ],
+        [
+          "Ayesha Khan",
+          "I'm particularly looking forward to exploring the local library and delving into the history of the village. How about we include that in our outing tomorrow?"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a fantastic idea, Ayesha! Exploring the local library and uncovering the history of the village together would be a wonderful addition to our outing. I can't wait to discuss Shakespeare's works and spend time immersing ourselves in the community tomorrow at Hobbs Cafe."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm also excited to meet more residents and learn about the culture of the village. It's going to be a great adventure exploring together!"
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending classes at Oak Hill College (taking notes during his first class) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        119,
+        39
+      ],
+      "pronunciatio": "\ud83d\ude8c",
+      "description": "attending classes at Oak Hill College (riding the bus to Oak Hill College) @ the Ville:Dorm for Oak Hill College:garden:dorm garden",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        80,
+        43
+      ],
+      "pronunciatio": "\u2615",
+      "description": "managing the store at The Willow Market and Pharmacy (taking a quick break to grab a cup of coffee) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        74
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "continuing work on her new children's book series (reviewing her notes and ideas for the book) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        29,
+        42
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "going for a walk around the village (walking around the village) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:01:20"
+  }
+}

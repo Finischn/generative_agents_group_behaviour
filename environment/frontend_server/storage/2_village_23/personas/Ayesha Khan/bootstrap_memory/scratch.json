@@ -1,0 +1,861 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 21:59:50",
+  "curr_tile": [
+    118,
+    57
+  ],
+  "daily_plan_req": "1. Wake up and complete morning routine at 6:00 am 2. Attend classes at Oak Hill College from 10:00 am to 2:00 pm 3. Explore the village history and culture with Isabella at 9:00 am 4. Attend Isabella's birthday celebration at Hobbs Cafe at 5:00 pm",
+  "name": "Ayesha Khan",
+  "first_name": "Ayesha",
+  "last_name": "Khan",
+  "age": 22,
+  "innate": "curious, determined, independent",
+  "race": "Black",
+  "village": "newcomer to the village",
+  "gender": "Female",
+  "political_affiliation": "Independent",
+  "race_div": "American Indian or Alaska Native",
+  "education": "Professional degree (JD, MD)",
+  "learned": "Ayesha Khan is a college student who loves to explore literature. She is curious and determined to understand the nuances of each work.",
+  "currently": "Status: Ayesha Khan spent Tuesday February 14 immersing herself in the village's history and culture. She met Isabella at Hobbs Cafe at 9 am for their village exploration and attended Isabella's birthday celebration at Hobbs Cafe at 5 pm. She also visited the local library, attended the music event, and explored the art gallery with Eddy. Ayesha enjoyed learning more about the community and looks forward to continuing her adventures and connections in the village.",
+  "lifestyle": "Ayesha Khan goes to bed around 10pm, awakes up around 6am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Ayesha Khan's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 250,
+  "importance_ele_n": 0,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "have breakfast at 7:00 am",
+    "attend classes at Oak Hill College from 10:00 am to 2:00 pm",
+    "have lunch at 2:00 pm",
+    "spend the afternoon studying at the library until 5:00 pm",
+    "have dinner at 5:00 pm",
+    "continue studying or writing from 6:00 pm to 9:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine (stretching and getting out of bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face and brushing her teeth)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (on the way to changing into her workout clothes)",
+      0
+    ],
+    [
+      "waking up and completing her morning routine (conversing about Wolfgang Schulz and Ayesha Khan are planning to explore the local art gallery, grab a bite at Hobbs Cafe, attend a Shakespearean play, and take a walking tour of the village's historical landmarks together.)",
+      9
+    ],
+    [
+      "waking up and completing her morning routine (changing into her workout clothes)",
+      11
+    ],
+    [
+      "waking up and completing her morning routine (doing a 15-minute yoga session)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine (taking a shower)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (getting dressed for the day)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (making her bed)",
+      5
+    ],
+    [
+      "having breakfast (preparing ingredients for breakfast)",
+      10
+    ],
+    [
+      "having breakfast (cooking breakfast)",
+      20
+    ],
+    [
+      "having breakfast (on the way to setting the table)",
+      0
+    ],
+    [
+      "having breakfast (conversing about Klaus Mueller and Ayesha Khan discuss their excitement for exploring the village, planning to visit the old town square, Hobbs Cafe for coffee, the village museum, and attending a local music event together.)",
+      9
+    ],
+    [
+      "having breakfast (eating breakfast and cleaning up)",
+      6
+    ],
+    [
+      "attending classes at Oak Hill College (walking to Oak Hill College)",
+      10
+    ],
+    [
+      "attending classes at Oak Hill College (attending her first class)",
+      50
+    ],
+    [
+      "attending classes at Oak Hill College (on the way to taking notes during the class)",
+      0
+    ],
+    [
+      "attending classes at Oak Hill College (conversing about exploring the village's art and music scene, with Eddy Lin and Ayesha Khan chatting and making plans to visit the art gallery, attend a music event, have lunch at Hobbs Cafe, and explore historical landmarks and the village museum.)",
+      13
+    ],
+    [
+      "attending classes at Oak Hill College (taking notes during the class)",
+      17
+    ],
+    [
+      "attending classes at Oak Hill College (participating in a group discussion)",
+      20
+    ],
+    [
+      "attending classes at Oak Hill College (on the way to taking a short break)",
+      0
+    ],
+    [
+      "attending classes at Oak Hill College (conversing about Ayesha Khan and Wolfgang Schulz are discussing their plans to explore the village, attend a poetry reading event, watch a local play, visit the art gallery, and join a historical walking tour together.)",
+      11
+    ],
+    [
+      "attending classes at Oak Hill College (attending her second class)",
+      49
+    ],
+    [
+      "attending classes at Oak Hill College (working on an assignment) (reviewing the assignment instructions)",
+      5
+    ],
+    [
+      "attending classes at Oak Hill College (working on an assignment) (brainstorming ideas for the assignment)",
+      10
+    ],
+    [
+      "attending classes at Oak Hill College (working on an assignment) (conducting research for the assignment)",
+      15
+    ],
+    [
+      "attending classes at Oak Hill College (working on an assignment) (taking a short break)",
+      5
+    ],
+    [
+      "attending classes at Oak Hill College (working on an assignment) (organizing her research and notes)",
+      10
+    ],
+    [
+      "attending classes at Oak Hill College (working on an assignment) (writing the first draft of the assignment)",
+      15
+    ],
+    [
+      "attending classes at Oak Hill College (taking a lunch break) (walking to her first class)",
+      5
+    ],
+    [
+      "attending classes at Oak Hill College (on the way to taking notes during the lecture)",
+      0
+    ],
+    [
+      "attending classes at Oak Hill College (conversing about exploring the village, delving into its rich history and culture, visiting local landmarks, having coffee at Hobbs Cafe, exploring the farmer's market, visiting the local library, attending community events, enjoying a walk in the park, attending Sam's birthday party, learning about local traditions and festivals, attending a poetry reading event at the library, and going on a tour of the village.)",
+      15
+    ],
+    [
+      "attending classes at Oak Hill College (taking notes during the lecture)",
+      15
+    ],
+    [
+      "attending classes at Oak Hill College (on the way to participating in a group discussion)",
+      0
+    ],
+    [
+      "attending classes at Oak Hill College (conversing about two friends, Ayesha Khan and Carlos Gomez, planning to explore an art gallery, grab lunch, and visit the village square and museum together while discussing their excitement for exploring the local culture)",
+      10
+    ],
+    [
+      "attending classes at Oak Hill College (on the way to participating in a group discussion)",
+      0
+    ],
+    [
+      "attending classes at Oak Hill College (conversing about Wolfgang Schulz and Ayesha Khan are discussing their plans to explore various cultural events in the village together, including historical landmarks, poetry reading, art gallery, local theater, and a writing workshop at the local bookstore.)",
+      10
+    ],
+    [
+      "attending classes at Oak Hill College (on the way to participating in a group discussion and reviewing her notes)",
+      0
+    ],
+    [
+      "attending classes at Oak Hill College (conversing about exploring the village's history, culture, art, and music scene together, with Eddy Lin excitedly showing Ayesha Khan around various cultural events and landmarks)",
+      14
+    ],
+    [
+      "attending classes at Oak Hill College (on the way to reviewing her notes and preparing to leave for her next activity)",
+      0
+    ],
+    [
+      "attending classes at Oak Hill College (conversing about two friends, Ayesha Khan and Tamara Taylor, making plans to explore the village together and attend a music event, discussing meeting time and place for the next day's adventure.)",
+      1
+    ],
+    [
+      "having lunch (walking to the dining hall)",
+      5
+    ],
+    [
+      "having lunch (choosing her food from the buffet)",
+      10
+    ],
+    [
+      "having lunch (finding a seat and sitting down)",
+      5
+    ],
+    [
+      "having lunch (eating her lunch)",
+      30
+    ],
+    [
+      "having lunch (cleaning up her dishes and throwing away any trash)",
+      10
+    ],
+    [
+      "studying at the local library (finding a quiet study space)",
+      5
+    ],
+    [
+      "studying at the local library (organizing her study materials)",
+      10
+    ],
+    [
+      "studying at the local library (reviewing her notes from class)",
+      20
+    ],
+    [
+      "studying at the local library (on the way to reading assigned readings for her literature class)",
+      0
+    ],
+    [
+      "studying at the local library (conversing about Klaus Mueller and Ayesha Khan are discussing exploring the village's history and culture, planning to visit the old town square and uncover hidden gems together.)",
+      10
+    ],
+    [
+      "studying at the local library (reading assigned readings for her literature class)",
+      20
+    ],
+    [
+      "studying at the local library (on the way to taking a short break)",
+      0
+    ],
+    [
+      "studying at the local library (conversing about exploring the village's history through literature, planning to incorporate their findings into creative writing exercises, visiting the local museum for inspiration, continuing their exploration of the village, attending a creative writing workshop together, joining a poetry reading event at the local library, and exploring a local music event happening in the village this weekend.)",
+      12
+    ],
+    [
+      "studying at the local library (on the way to taking a short break)",
+      0
+    ],
+    [
+      "studying at the local library (conversing about Wolfgang Schulz and Ayesha Khan are discussing their shared interest in literature, exploring the village's historical landmarks and cultural events, and planning to attend a poetry reading event at the local bookstore and a Shakespearean play at the local theater together.)",
+      12
+    ],
+    [
+      "studying at the local library (taking a short break)",
+      5
+    ],
+    [
+      "studying at the local library (on the way to writing a reflection on the readings)",
+      0
+    ],
+    [
+      "studying at the local library (conversing about Ayesha Khan and Eddy Lin are discussing exploring the local music hotspots, historical landmarks, art gallery, village museum, and attending the upcoming music event at the community center together.)",
+      12
+    ],
+    [
+      "studying at the local library (on the way to writing a reflection on the readings)",
+      0
+    ],
+    [
+      "studying at the local library (conversing about Ayesha Khan and Tom Moreno discussing exploring the village, with Tom offering to show Ayesha hidden gems and unique attractions during a tour this weekend.)",
+      12
+    ],
+    [
+      "studying at the local library (on the way to writing a reflection on the readings, reviewing her reflection and making edits, organizing her study materials for the next class and packing up her things)",
+      0
+    ],
+    [
+      "studying at the local library (conversing about a new resident, Ayesha Khan, receiving recommendations from local resident Adam Smith on hidden gems to explore in the village, including Johnson Park, the local art gallery, and the old town square, as well as suggestions to visit the village museum, community art exhibition, and attend local music events, with an offer to introduce Ayesha to other residents sharing similar interests.)",
+      2
+    ],
+    [
+      "exploring the village history and culture with Isabella (meeting Isabella at Hobbs Cafe)",
+      5
+    ],
+    [
+      "exploring the village history and culture with Isabella (Isabella are walking around the village, discussing its history and culture)",
+      30
+    ],
+    [
+      "exploring the village history and culture with Isabella (taking notes on her phone about the information Isabella is sharing)",
+      10
+    ],
+    [
+      "exploring the village history and culture with Isabella (on the way to Isabella are stopping at a local bakery to try some traditional treats)",
+      0
+    ],
+    [
+      "exploring the village history and culture with Isabella (conversing about Sam Moore and Ayesha Khan are discussing exploring the village's history, planning a walk around Johnson Park, and sharing stories about the community's culture and events.)",
+      13
+    ],
+    [
+      "walking to Hobbs Cafe (on the way to walking to Hobbs Caf)",
+      0
+    ],
+    [
+      "walking to Hobbs Cafe (conversing about exploring the village, visiting the art gallery, planning to attend a local music event together, trying pastries at the bakery, and joining Sam Moore's birthday party at The Rose and Crown Pub)",
+      10
+    ],
+    [
+      "arriving at Hobbs Cafe",
+      2
+    ],
+    [
+      "attending Isabella's birthday celebration at Hobbs Cafe (greeting Isabella and other guests)",
+      5
+    ],
+    [
+      "attending Isabella's birthday celebration at Hobbs Cafe (getting a drink and some food)",
+      10
+    ],
+    [
+      "attending Isabella's birthday celebration at Hobbs Cafe (on the way to socializing and getting to know other guests)",
+      0
+    ],
+    [
+      "attending Isabella's birthday celebration at Hobbs Cafe (conversing about Klaus Mueller and Ayesha Khan are discussing their plans to explore more of the village, including visiting the old town square, the village museum, grabbing coffee at Hobbs Cafe, and potentially exploring the local farmer's market, taking a walk in the park, and attending a local music event.)",
+      9
+    ],
+    [
+      "attending Isabella's birthday celebration at Hobbs Cafe (on the way to singing happy birthday to Isabella)",
+      0
+    ],
+    [
+      "attending Isabella's birthday celebration at Hobbs Cafe (conversing about Carlos Gomez and Ayesha Khan are chatting about their shared interests in exploring the village, planning to visit the local farmer's market, old town square, village museum, music event, creative writing workshop, village park, and art gallery together.)",
+      11
+    ],
+    [
+      "studying or writing (reviewing her notes from class)",
+      10
+    ],
+    [
+      "studying or writing (on the way to reading a chapter from her literature textbook)",
+      0
+    ],
+    [
+      "studying or writing (conversing about Wolfgang Schulz and Ayesha Khan are discussing their plans to explore the village's cultural events, historical landmarks, poetry reading event, Shakespearean play, village square, museum, writing workshop, music event, farmers' market, local cafes and restaurants, village park, and local theaters together.)",
+      12
+    ],
+    [
+      "studying or writing (reading a chapter from her literature textbook)",
+      15
+    ],
+    [
+      "studying or writing (taking notes on the chapter)",
+      20
+    ],
+    [
+      "studying or writing (taking a short break)",
+      15
+    ],
+    [
+      "attending the local farmer's market (exploring and trying out different foods)",
+      11
+    ],
+    [
+      "taking a walk in the park (enjoying the scenery and conversation with Carlos)",
+      8
+    ],
+    [
+      "attending a local music event (on the way to listening to the music and enjoying the atmosphere)",
+      0
+    ],
+    [
+      "attending a local music event (conversing about exploring the village's attractions together and planning various activities such as visiting the museum, having lunch at Hobbs Cafe, going to the art gallery, taking a walk in the park, attending local theater productions, and joining the village music jam session.)",
+      13
+    ],
+    [
+      "having dinner (setting the table)",
+      5
+    ],
+    [
+      "having dinner (on the way to heating up leftovers from lunch)",
+      0
+    ],
+    [
+      "having dinner (conversing about Ayesha Khan and Adam Smith are planning to explore the village museum, have lunch at Hobbs Cafe, attend a community art exhibition, visit the local theater production, explore the village market, and attend a music jam session together.)",
+      15
+    ],
+    [
+      "having dinner (heating up leftovers from lunch)",
+      20
+    ],
+    [
+      "having dinner (on the way to checking her phone for any important messages)",
+      0
+    ],
+    [
+      "having dinner (conversing about two friends, Ayesha and Carlos, making plans to explore the local village together and visit the village square, art gallery, farmer's market, and local bakery to experience the culture and cuisine.)",
+      8
+    ],
+    [
+      "having dinner (eating her dinner)",
+      20
+    ],
+    [
+      "having dinner (washing the dishes)",
+      10
+    ],
+    [
+      "having dinner (making a cup of tea)",
+      10
+    ],
+    [
+      "studying or writing (on the way to studying or writin)",
+      0
+    ],
+    [
+      "studying or writing (conversing about exploring the village, learning about its history, and making plans to visit hidden gems, the farmer's market, art gallery, old town square, Hobbs Cafe, village museum, and a local music event, with Klaus Mueller offering to show Ayesha Khan around and share his knowledge.)",
+      10
+    ],
+    [
+      "getting ready for bed (changing into her pajamas)",
+      5
+    ],
+    [
+      "getting ready for bed (washing her face and brushing her teeth)",
+      10
+    ],
+    [
+      "getting ready for bed (on the way to setting her alarm for the next day)",
+      0
+    ],
+    [
+      "getting ready for bed (conversing about finalizing their plans to explore the village's cultural events and historical landmarks, including a poetry reading event, a Shakespearean play, a visit to the local museum and art gallery, attending a local music event, trying out dinner at a local cafe, visiting the village park, exploring historical landmarks, joining a historical walking tour, and checking out a farmers' market together.)",
+      13
+    ],
+    [
+      "getting ready for bed (setting her alarm for the next day)",
+      2
+    ],
+    [
+      "getting ready for bed (checking her schedule for the next day)",
+      10
+    ],
+    [
+      "getting ready for bed (reading a book or writing in her journal)",
+      20
+    ],
+    [
+      "getting ready for bed (turning off the lights and getting into bed)",
+      2
+    ],
+    [
+      "getting ready for bed (relaxing and winding down before falling asleep)",
+      3
+    ],
+    [
+      "checking her phone for any important messages before going to sleep.",
+      5
+    ],
+    [
+      "going to bed",
+      50
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -8
+    ],
+    [
+      "sleeping",
+      -4
+    ],
+    [
+      "sleeping",
+      -8
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      12
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -1
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -3
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "attending classes at Oak Hill College",
+      300
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "studying at the local library",
+      120
+    ],
+    [
+      "exploring the village history and culture with Isabella",
+      60
+    ],
+    [
+      "attending Isabella's birthday celebration at Hobbs Cafe",
+      60
+    ],
+    [
+      "studying or writing",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "studying or writing",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "going to bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:Ayesha Khan's room:desk",
+  "act_start_time": "February 14, 2023, 21:47:00",
+  "act_duration": 20,
+  "act_description": "getting ready for bed (reading a book or writing in her journal)",
+  "act_pronunciatio": "\ud83d\udcd6",
+  "act_event": [
+    "Ayesha Khan",
+    "read/write",
+    "book/journal"
+  ],
+  "act_obj_description": "being used by Ayesha Khan for reading a book or writing in her journal",
+  "act_obj_pronunciatio": "\ud83d\udcda",
+  "act_obj_event": [
+    "desk",
+    "use",
+    "Ayesha Khan"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Wolfgang Schulz": 584,
+    "Klaus Mueller": 434,
+    "Isabella Rodriguez": -958,
+    "Eddy Lin": -136,
+    "Carlos Gomez": 134,
+    "Sam Moore": -1024,
+    "Tamara Taylor": -2416,
+    "Tom Moreno": -1390,
+    "Adam Smith": 8
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "known_personas": [
+    "Wolfgang Schulz",
+    "Klaus Mueller",
+    "Isabella Rodriguez",
+    "Eddy Lin",
+    "Carlos Gomez",
+    "Sam Moore",
+    "Tamara Taylor",
+    "Tom Moreno",
+    "Adam Smith"
+  ]
+}

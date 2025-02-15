@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "taking orders from customers at Hobbs Cafe (chatting with customers and making them feel welcome) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "attending a creative writing workshop (participating in a group discussion) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Wolfgang Schulz are chatting about exploring the village together, visiting the old town square and village museum, experiencing the local music scene, having lunch at Hobbs Cafe, and Wolfgang's gratitude for Klaus's hospitality and efforts in planning the tour. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey, Wolfgang! I'm glad you decided to join us on the village tour tomorrow. I'm looking forward to showing you around and exploring together."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thanks for inviting me, Klaus! I'm really excited to explore the village with you and Ayesha tomorrow. It'll be a great way to get to know the area better."
+        ],
+        [
+          "Klaus Mueller",
+          "I can't wait to introduce you to some of the locals and share more about the village's history with you."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds fantastic, Klaus! I'm really looking forward to learning more about the village's history and meeting the locals. I appreciate you taking the time to show me around."
+        ],
+        [
+          "Klaus Mueller",
+          "Since you're new to the village, I thought maybe we could also visit the old town square and the village museum. It'll give you a good sense of the village's history and culture."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great idea, Klaus! I'd love to explore the old town square and visit the village museum. It'll be a great way to immerse myself in the village's history and culture."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also planning to introduce you to some local musicians and have a jam session at the village square on Saturday afternoon. It'll be a fun way to experience the local music scene."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic plan, Klaus! I can't wait to experience the local music scene with you. Thank you for being so welcoming and showing me around."
+        ],
+        [
+          "Klaus Mueller",
+          "Before we head out on the tour tomorrow, I wanted to invite you to join us for lunch at Hobbs Cafe after exploring the village. It's a local favorite, and I think you'll enjoy the food and atmosphere."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for planning such a wonderful tour, Klaus! I really appreciate all the effort you've put into showing me around and introducing me to the village. I'm looking forward to tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're excited to explore the village with us, Wolfgang. I think you'll really enjoy learning about the history and meeting the locals."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much, Klaus, for taking the time to show me around and introducing me to the village. I'm really grateful for your hospitality and I'm looking forward to tomorrow's tour."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm really glad you're interested in exploring the village with us, Wolfgang. It's always exciting to share the community with newcomers and learn from each other's perspectives."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much, Klaus, for planning such a thoughtful tour for me. I'm excited to learn more about the village's history and culture."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're excited to explore with us, Wolfgang. I think you'll really enjoy learning about the history and culture of the village."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you Klaus for being so welcoming and showing me around. I appreciate all the effort you've put into planning this tour for me. I'm really looking forward to exploring the village with you and Ayesha tomorrow."
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcd6\ud83c\udf7f",
+      "description": "reading at Hobbs Cafe (reading while enjoying his snack) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending classes at Oak Hill College (attending her second class) (listening to the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        121,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Wolfgang Schulz are chatting about exploring the village together, visiting the old town square and village museum, experiencing the local music scene, having lunch at Hobbs Cafe, and Wolfgang's gratitude for Klaus's hospitality and efforts in planning the tour. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey, Wolfgang! I'm glad you decided to join us on the village tour tomorrow. I'm looking forward to showing you around and exploring together."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thanks for inviting me, Klaus! I'm really excited to explore the village with you and Ayesha tomorrow. It'll be a great way to get to know the area better."
+        ],
+        [
+          "Klaus Mueller",
+          "I can't wait to introduce you to some of the locals and share more about the village's history with you."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds fantastic, Klaus! I'm really looking forward to learning more about the village's history and meeting the locals. I appreciate you taking the time to show me around."
+        ],
+        [
+          "Klaus Mueller",
+          "Since you're new to the village, I thought maybe we could also visit the old town square and the village museum. It'll give you a good sense of the village's history and culture."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great idea, Klaus! I'd love to explore the old town square and visit the village museum. It'll be a great way to immerse myself in the village's history and culture."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also planning to introduce you to some local musicians and have a jam session at the village square on Saturday afternoon. It'll be a fun way to experience the local music scene."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic plan, Klaus! I can't wait to experience the local music scene with you. Thank you for being so welcoming and showing me around."
+        ],
+        [
+          "Klaus Mueller",
+          "Before we head out on the tour tomorrow, I wanted to invite you to join us for lunch at Hobbs Cafe after exploring the village. It's a local favorite, and I think you'll enjoy the food and atmosphere."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for planning such a wonderful tour, Klaus! I really appreciate all the effort you've put into showing me around and introducing me to the village. I'm looking forward to tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're excited to explore the village with us, Wolfgang. I think you'll really enjoy learning about the history and meeting the locals."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much, Klaus, for taking the time to show me around and introducing me to the village. I'm really grateful for your hospitality and I'm looking forward to tomorrow's tour."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm really glad you're interested in exploring the village with us, Wolfgang. It's always exciting to share the community with newcomers and learn from each other's perspectives."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much, Klaus, for planning such a thoughtful tour for me. I'm excited to learn more about the village's history and culture."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're excited to explore with us, Wolfgang. I think you'll really enjoy learning about the history and culture of the village."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you Klaus for being so welcoming and showing me around. I appreciate all the effort you've put into planning this tour for me. I'm really looking forward to exploring the village with you and Ayesha tomorrow."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending classes at Oak Hill College (attending his second class) (listening to the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        88,
+        49
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "managing the store at The Willow Market and Pharmacy (checking inventory levels and restocking shelves) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        69
+      ],
+      "pronunciatio": "\ud83e\uddd8",
+      "description": "taking a break and spending some time relaxing (doing some light stretching) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        30,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcba",
+      "description": "attending a local community meeting about the upcoming mayor election (finding a seat and getting settled) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:33:30"
+  }
+}

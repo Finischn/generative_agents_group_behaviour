@@ -1,0 +1,97 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "closing Hobbs Cafe and cleaning up (washing dishes and putting them away) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        18
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "winding down for the evening (reading a book) @ the Ville:Carlos Gomez's apartment:main room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        103,
+        30
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "still at Sam's birthday party at The Rose and Crown Pub (conversing about exploring the village, learning about its history, and making plans to visit hidden gems, the farmer's market, art gallery, old town square, Hobbs Cafe, village museum, and a local music event, with Klaus Mueller offering to show Ayesha Khan around and share his knowledge.) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        55,
+        23
+      ],
+      "pronunciatio": "\ud83d\ude97",
+      "description": "saying goodbye to his friends and heading home from The Rose and Crown Pub (getting into his car and starting the engine) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        102,
+        30
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "studying or writing (conversing about exploring the village, learning about its history, and making plans to visit hidden gems, the farmer's market, art gallery, old town square, Hobbs Cafe, village museum, and a local music event, with Klaus Mueller offering to show Ayesha Khan around and share his knowledge.) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        116,
+        47
+      ],
+      "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+      "description": "exercising in his room (doing a warm-up routine) @ the Ville:Dorm for Oak Hill College:garden:dorm garden",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        83,
+        34
+      ],
+      "pronunciatio": "\ud83d\udca1\ud83d\udd0c",
+      "description": "winding down for the night and getting ready for bed (turning off all electronics and dimming the lights in his room) @ the Ville:Lin family's house:Eddy Lin's bedroom:bed",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        76,
+        50
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "checking in on Eddy Lin's music theory classes and possibly scheduling a coffee chat (walking to Eddy Lin's music theory class) @ the Ville:Ryan Park's apartment:main room:bed",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "spending some time reading and relaxing (reading for 20 more minutes) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        48,
+        31
+      ],
+      "pronunciatio": "\u2615",
+      "description": "taking a break to relax and unwind before bed (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 21:03:20"
+  }
+}

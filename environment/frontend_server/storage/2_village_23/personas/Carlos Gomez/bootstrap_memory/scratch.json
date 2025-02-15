@@ -1,0 +1,841 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 21:59:50",
+  "curr_tile": [
+    94,
+    21
+  ],
+  "daily_plan_req": "1. Wake up at 7am and complete the morning routine 2. Have breakfast at 8am 3. Work on editing his poetry collection from 10am to 12pm 4. Have lunch at 1pm 5. Attend a poetry open mic event at the local cafe from 4pm to 6pm 6. Have dinner at 7pm and wind down for the evening",
+  "name": "Carlos Gomez",
+  "first_name": "Carlos",
+  "last_name": "Gomez",
+  "age": 30,
+  "innate": "loud, rude, toxic",
+  "race": "Black",
+  "village": "newcomer to the village",
+  "gender": "Male",
+  "political_affiliation": "Liberal",
+  "race_div": "White",
+  "education": "Associate degree in college (2-year)",
+  "learned": "Carlos Gomez is a poet who loves to explore his inner thoughts and feelings. He is always looking for new ways to express himself.",
+  "currently": "Status: Carlos Gomez had a productive day on Monday, engaging in discussions about poetry and creative writing with new friends in the village. He is looking forward to meeting Isabella Rodriguez at Hobbs Cafe at 4 pm to discuss his poetry collection and share his experiences. Additionally, Carlos is excited to attend the writing workshop with Wolfgang Schulz and the poetry reading event at the local library over the weekend. He plans to continue building relationships and sharing his passion for literature with the community.",
+  "lifestyle": "Carlos Gomez goes to bed around 10pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Carlos Gomez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 223,
+  "importance_ele_n": 14,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "attend a creative writing workshop from 9:00 am to 12:00 pm",
+    "have lunch at 12:30 pm",
+    "spend some time exploring the village and taking in nature from 1:30 pm to 3:00 pm",
+    "work on his poetry collection from 3:00 pm to 5:30 pm",
+    "have dinner at 6:00 pm",
+    "attend a community poetry reading event at 7:30 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing his morning routine (waking up and stretching)",
+      5
+    ],
+    [
+      "completing his morning routine (getting dressed)",
+      5
+    ],
+    [
+      "completing his morning routine (checking his phone for any important messages)",
+      5
+    ],
+    [
+      "completing his morning routine (meditating for 10 minutes)",
+      10
+    ],
+    [
+      "completing his morning routine (writing in his journal for 10 minutes)",
+      10
+    ],
+    [
+      "completing his morning routine (making his breakfast)",
+      10
+    ],
+    [
+      "completing his morning routine (eating his breakfast)",
+      15
+    ],
+    [
+      "attending a creative writing workshop (checking his email for any updates or reminders about the workshop)",
+      5
+    ],
+    [
+      "attending a creative writing workshop (getting dressed and ready for the workshop)",
+      15
+    ],
+    [
+      "attending a creative writing workshop (walking to the workshop location)",
+      10
+    ],
+    [
+      "attending a creative writing workshop (on the way to arriving at the workshop and signing in)",
+      0
+    ],
+    [
+      "attending a creative writing workshop (conversing about Carlos Gomez and Tom Moreno are making plans to attend a gathering at the community center, explore music theory classes together, schedule a coffee chat with Tamara Taylor, and go for a walk around the village to meet more residents and help Carlos feel welcomed in the village.)",
+      14
+    ],
+    [
+      "attending a creative writing workshop (finding a seat and getting settled)",
+      10
+    ],
+    [
+      "attending a creative writing workshop (listening to the workshop instructor's introduction)",
+      10
+    ],
+    [
+      "attending a creative writing workshop (on the way to participating in a writing exercise)",
+      0
+    ],
+    [
+      "attending a creative writing workshop (conversing about exploring the village, planning to visit the local cafe, park, museum, and attend a music event together)",
+      11
+    ],
+    [
+      "attending a creative writing workshop (participating in a writing exercise)",
+      9
+    ],
+    [
+      "attending a creative writing workshop (on the way to taking a short break)",
+      0
+    ],
+    [
+      "attending a creative writing workshop (conversing about Carlos Gomez and Sam Moore discussing exploring the village, attending a birthday party at The Rose and Crown Pub, visiting the local art gallery, market, Johnson Park, old town square, and Hobbs Cafe, as well as appreciating the guidance and recommendations shared.)",
+      10
+    ],
+    [
+      "attending a creative writing workshop (sharing his writing with the group)",
+      10
+    ],
+    [
+      "attending a creative writing workshop (listening to feedback and taking notes)",
+      15
+    ],
+    [
+      "attending a creative writing workshop (wrapping up the workshop and thanking the instructor)",
+      1
+    ],
+    [
+      "working on editing his poetry collection (reviewing his poetry collection)",
+      15
+    ],
+    [
+      "working on editing his poetry collection (making edits and revisions to his poems)",
+      30
+    ],
+    [
+      "working on editing his poetry collection (taking a short break)",
+      10
+    ],
+    [
+      "working on editing his poetry collection (proofreading his poems for grammar and spelling errors)",
+      20
+    ],
+    [
+      "working on editing his poetry collection (taking a break to stretch and get some water)",
+      5
+    ],
+    [
+      "working on editing his poetry collection (making final changes to his poetry collection)",
+      25
+    ],
+    [
+      "working on editing his poetry collection (formatting his collection for submission)",
+      15
+    ],
+    [
+      "attending a creative writing workshop (checking the location and time of the workshop)",
+      5
+    ],
+    [
+      "attending a creative writing workshop (on the way to gathering his writing materials)",
+      0
+    ],
+    [
+      "attending a creative writing workshop (conversing about Carlos Gomez and Wolfgang Schulz are discussing their plans to explore the village's cultural scene, starting with a visit to the local art gallery, followed by a historical landmarks tour and lunch at Hobbs Cafe, as well as attending a local music event and poetry reading, and checking out a farmers' market happening over the weekend.)",
+      11
+    ],
+    [
+      "attending a creative writing workshop (on the way to reviewing his poetry collection)",
+      0
+    ],
+    [
+      "attending a creative writing workshop (conversing about two friends, Ayesha Khan and Carlos Gomez, planning to explore an art gallery, grab lunch, and visit the village square and museum together while discussing their excitement for exploring the local culture)",
+      10
+    ],
+    [
+      "attending a creative writing workshop (reviewing his poetry collection)",
+      4
+    ],
+    [
+      "attending a creative writing workshop (on the way to taking a break)",
+      0
+    ],
+    [
+      "attending a creative writing workshop (conversing about Isabella Rodriguez and Carlos Gomez are making plans to discuss poetry, explore the village, enjoy pastries at the bakery, visit the local library, explore the village square and museum, attend a local music event, join a writing workshop, and celebrate Isabella's birthday at Hobbs Cafe.)",
+      8
+    ],
+    [
+      "attending a creative writing workshop (taking a break)",
+      2
+    ],
+    [
+      "attending a creative writing workshop (engaging in discussions with other writers)",
+      20
+    ],
+    [
+      "exploring the village and taking in nature (on the way to walking around the village and taking in the scenery)",
+      0
+    ],
+    [
+      "exploring the village and taking in nature (conversing about the different cultural events and community activities in the village, with Adam recommending various places and events for Carlos to explore, such as poetry readings, art galleries, music events, writing workshops, the farmer's market, the local library, and a community art exhibition.)",
+      17
+    ],
+    [
+      "exploring the village and taking in nature (on the way to stopping to admire the flowers in the village garden)",
+      0
+    ],
+    [
+      "exploring the village and taking in nature (conversing about building a friendship through exploring the village, attending events, and engaging in shared interests like poetry, writing, and history)",
+      12
+    ],
+    [
+      "exploring the village and taking in nature (stopping to admire the flowers in the village garden)",
+      6
+    ],
+    [
+      "exploring the village and taking in nature (sitting on a bench and observing the villagers going about their day)",
+      10
+    ],
+    [
+      "exploring the village and taking in nature (on the way to taking a short hike on a nearby trail)",
+      0
+    ],
+    [
+      "exploring the village and taking in nature (conversing about Carlos Gomez and Sam Moore are discussing plans to explore the village together, including attending Sam's birthday party at The Rose and Crown Pub, taking a stroll through Johnson Park, visiting the old town square, grabbing coffee at Hobbs Cafe, checking out the local art gallery and history museum, attending workshops at the community center, joining a poetry reading event at the local market, and attending a local music event next week.)",
+      16
+    ],
+    [
+      "exploring the village and taking in nature (finding a quiet spot to sit and write in his journal, reflecting on his thoughts and feelings)",
+      9
+    ],
+    [
+      "working on editing his poetry collection (reviewing his poetry collection)",
+      10
+    ],
+    [
+      "working on editing his poetry collection (making edits and revisions to his poems)",
+      20
+    ],
+    [
+      "working on editing his poetry collection (on the way to taking a break to clear his mind)",
+      0
+    ],
+    [
+      "working on editing his poetry collection (conversing about Carlos Gomez expressing gratitude to Eddy Lin for introducing him to local musicians and artists, and making plans to explore more spots in the village and learn about its history and culture with Eddy's guidance.)",
+      10
+    ],
+    [
+      "exploring the village and taking in nature (putting on his walking shoes and grabbing his notebook and pen)",
+      10
+    ],
+    [
+      "exploring the village and taking in nature (on the way to walking around the village, taking in the sights and sounds)",
+      0
+    ],
+    [
+      "exploring the village and taking in nature (conversing about exploring the village's history through literature, planning to incorporate their findings into creative writing exercises, visiting the local museum for inspiration, continuing their exploration of the village, attending a creative writing workshop together, joining a poetry reading event at the local library, and exploring a local music event happening in the village this weekend.)",
+      12
+    ],
+    [
+      "attending a creative writing workshop (learning new techniques and exercises to improve his writing)",
+      10
+    ],
+    [
+      "exploring the village and taking in nature (continuing to explore and learn about the village with Eddy's guidance)",
+      10
+    ],
+    [
+      "attending a poetry reading event (on the way to listening to local poets and sharing his own work)",
+      0
+    ],
+    [
+      "attending a poetry reading event (conversing about exploring various attractions and cultural events in the village, with Adam Smith recommending places like Johnson Park, the local art gallery, old town square, and poetry reading and music events for Carlos Gomez to attend and enjoy together.)",
+      14
+    ],
+    [
+      "attending a poetry reading event (listening to the other poets and sharing his own work)",
+      10
+    ],
+    [
+      "exploring the village and taking in nature (on the way to visiting the local museum for inspiration)",
+      0
+    ],
+    [
+      "exploring the village and taking in nature (conversing about Isabella Rodriguez and Carlos Gomez are planning to explore various cultural events in the village such as a walk, a writing workshop, trying pastries at the bakery, attending a music event, and visiting an art gallery and museum together.)",
+      12
+    ],
+    [
+      "attending a poetry open mic event at the local cafe (walking to the local cafe)",
+      10
+    ],
+    [
+      "attending a poetry open mic event at the local cafe (greeting the other poets and attendees)",
+      10
+    ],
+    [
+      "attending a poetry open mic event at the local cafe (signing up to perform at the open mic event)",
+      5
+    ],
+    [
+      "attending a poetry open mic event at the local cafe (finding a seat and getting settled)",
+      5
+    ],
+    [
+      "attending a poetry open mic event at the local cafe (listening to the other poets perform and performing his own poetry)",
+      15
+    ],
+    [
+      "wrapping up the day and heading back to his accommodation.",
+      7
+    ],
+    [
+      "having dinner (on the way to walking to the local cafe)",
+      0
+    ],
+    [
+      "having dinner (conversing about Carlos Gomez expressing gratitude to Eddy Lin for introducing him to the local music scene and artists, while making plans to explore the village square, grab coffee at Hobbs Cafe, and attend a local music event together.)",
+      5
+    ],
+    [
+      "having dinner (greeting his friends at the cafe)",
+      5
+    ],
+    [
+      "having dinner (ordering his food)",
+      10
+    ],
+    [
+      "having dinner (engaging in conversation with his friends)",
+      20
+    ],
+    [
+      "having dinner (on the way to eating his dinner)",
+      0
+    ],
+    [
+      "having dinner (conversing about Carlos Gomez and Ayesha Khan are chatting about their shared interests in exploring the village, planning to visit the local farmer's market, old town square, village museum, music event, creative writing workshop, village park, and art gallery together.)",
+      11
+    ],
+    [
+      "having dinner (paying for his meal)",
+      5
+    ],
+    [
+      "walking to the village square and exploring the area with Eddy Lin.",
+      8
+    ],
+    [
+      "attending a community poetry reading event (on the way to getting dressed in his best outfit for the event)",
+      0
+    ],
+    [
+      "attending a community poetry reading event (conversing about engaging the community in a research project on gentrification by conducting surveys, organizing dialogue sessions, involving local organizations, reaching out to community leaders and policymakers, and considering the perspectives of residents, artists, musicians, youth, local businesses, and entrepreneurs.)",
+      17
+    ],
+    [
+      "attending a community poetry reading event (on the way to getting dressed in his best outfit for the event)",
+      0
+    ],
+    [
+      "attending a community poetry reading event (conversing about Carlos Gomez and Wolfgang Schulz discuss joining workshops, attending music events, exploring art galleries, visiting historical landmarks, engaging in community research projects, and immersing themselves in the cultural events of the village.)",
+      13
+    ],
+    [
+      "getting dressed in his best outfit for the event",
+      10
+    ],
+    [
+      "checking his poetry collection to make sure he has copies to share with others",
+      10
+    ],
+    [
+      "walking to the local cafe where the event is being held",
+      15
+    ],
+    [
+      "greeting and chatting with other poets and attendees",
+      20
+    ],
+    [
+      "finding a seat and getting settled in (on the way to finding a seat and getting settled i)",
+      0
+    ],
+    [
+      "finding a seat and getting settled in (conversing about Isabella Rodriguez and Carlos Gomez are planning to explore the village square and museum together, attend a poetry reading event at the local library, join a writing workshop, and grab coffee to discuss poetry and creative writing.)",
+      12
+    ],
+    [
+      "getting up to read his poetry when his name is called",
+      3
+    ],
+    [
+      "reading his poetry to the audience and listening to other poets and providing feedback.",
+      15
+    ],
+    [
+      "saying goodbye to fellow poets and attendees and leaving the event.",
+      5
+    ],
+    [
+      "winding down for the evening (on the way to making a cup of tea)",
+      0
+    ],
+    [
+      "winding down for the evening (conversing about two friends, Ayesha and Carlos, making plans to explore the local village together and visit the village square, art gallery, farmer's market, and local bakery to experience the culture and cuisine.)",
+      8
+    ],
+    [
+      "winding down for the evening (changing into comfortable clothes)",
+      5
+    ],
+    [
+      "winding down for the evening (checking his phone for any important messages)",
+      10
+    ],
+    [
+      "winding down for the evening (listening to some calming music)",
+      15
+    ],
+    [
+      "winding down for the evening (journaling about his day)",
+      20
+    ],
+    [
+      "winding down for the evening (reading a book)",
+      30
+    ],
+    [
+      "winding down for the evening (taking a warm shower)",
+      15
+    ],
+    [
+      "winding down for the evening (getting into bed)",
+      5
+    ],
+    [
+      "winding down for the evening (reflecting on his goals and plans for the next day)",
+      12
+    ],
+    [
+      "winding down for bed",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -1
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -1
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      2
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -8
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      4
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      4
+    ],
+    [
+      "sleeping",
+      -4
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing his morning routine",
+      60
+    ],
+    [
+      "attending a creative writing workshop",
+      120
+    ],
+    [
+      "working on editing his poetry collection",
+      120
+    ],
+    [
+      "attending a creative writing workshop",
+      60
+    ],
+    [
+      "exploring the village and taking in nature",
+      60
+    ],
+    [
+      "working on editing his poetry collection",
+      60
+    ],
+    [
+      "exploring the village and taking in nature",
+      60
+    ],
+    [
+      "attending a poetry open mic event at the local cafe",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "attending a community poetry reading event",
+      120
+    ],
+    [
+      "winding down for the evening",
+      120
+    ],
+    [
+      "winding down for bed",
+      120
+    ]
+  ],
+  "act_address": "the Ville:Carlos Gomez's apartment:main room:desk",
+  "act_start_time": "February 14, 2023, 21:52:00",
+  "act_duration": 12,
+  "act_description": "winding down for the evening (reflecting on his goals and plans for the next day)",
+  "act_pronunciatio": "\ud83e\udd14",
+  "act_event": [
+    "Carlos Gomez",
+    "reflect",
+    "goals and plans"
+  ],
+  "act_obj_description": "neat and organized",
+  "act_obj_pronunciatio": "\ud83e\uddf9",
+  "act_obj_event": [
+    "desk",
+    "is",
+    "neat and organized"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Sam Moore": -2087,
+    "Isabella Rodriguez": -83,
+    "Ayesha Khan": 134,
+    "Eddy Lin": -995,
+    "Adam Smith": -1475,
+    "Klaus Mueller": -545,
+    "Wolfgang Schulz": -461,
+    "Tom Moreno": -4001,
+    "Tamara Taylor": -2315
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "known_personas": [
+    "Sam Moore",
+    "Isabella Rodriguez",
+    "Ayesha Khan",
+    "Eddy Lin",
+    "Adam Smith",
+    "Klaus Mueller",
+    "Wolfgang Schulz",
+    "Tom Moreno",
+    "Tamara Taylor"
+  ]
+}

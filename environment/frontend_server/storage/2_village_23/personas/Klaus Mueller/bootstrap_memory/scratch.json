@@ -1,0 +1,850 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 21:59:50",
+  "curr_tile": [
+    59,
+    23
+  ],
+  "daily_plan_req": "1. 7:00 am - Wake up and complete morning routine 2. 8:00 am - Meeting with Isabella at Oak Hill College library to discuss research findings on gentrification 3. 12:00 pm - Lunch at Hobbs Cafe 4. 6:00 pm - Attend Sam's birthday party at The Rose and Crown Pub",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 78,
+  "innate": "kind, inquisitive, passionate",
+  "race": "White",
+  "village": "longterm resident of the village",
+  "gender": "Male",
+  "political_affiliation": "Liberal",
+  "race_div": "Native Hawaiian or Pacific Islander",
+  "education": "Professional degree (JD, MD)",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.",
+  "currently": "Status: Klaus Mueller is looking forward to a busy and exciting day on Tuesday February 14. They have a meeting with Isabella at Oak Hill College library in the morning to discuss research findings on gentrification and plan a tour of impacted areas. Later in the evening, Klaus will attend Sam's birthday party at The Rose and Crown Pub. Additionally, they are eager to participate in the local poetry reading event at the library during the weekend exploration of the village. Klaus is feeling engaged and enthusiastic about the activities and interactions planned for the day.",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 10,
+  "importance_ele_n": 64,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "go to the library at Oak Hill College from 8:00 am to 12:00 pm",
+    "have lunch at Hobbs Cafe at 12:00 pm",
+    "continue writing at the library from 1:00 pm to 5:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing their morning routine (stretching and getting out of bed)",
+      5
+    ],
+    [
+      "waking up and completing their morning routine (using the bathroom)",
+      5
+    ],
+    [
+      "waking up and completing their morning routine (washing their face and brushing their teeth)",
+      10
+    ],
+    [
+      "waking up and completing their morning routine (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing their morning routine (making breakfast)",
+      15
+    ],
+    [
+      "waking up and completing their morning routine (on the way to eating breakfast)",
+      0
+    ],
+    [
+      "waking up and completing their morning routine (conversing about Klaus Mueller and Ayesha Khan discuss their excitement for exploring the village, planning to visit the old town square, Hobbs Cafe for coffee, the village museum, and attending a local music event together.)",
+      9
+    ],
+    [
+      "waking up and completing their morning routine (eating breakfast)",
+      1
+    ],
+    [
+      "waking up and completing their morning routine (checking their schedule for the day)",
+      5
+    ],
+    [
+      "meeting with Isabella at Oak Hill College library to discuss research findings on gentrification (reviewing their research findings on gentrification)",
+      15
+    ],
+    [
+      "meeting with Isabella at Oak Hill College library to discuss research findings on gentrification (organizing their notes and materials for the meeting)",
+      10
+    ],
+    [
+      "meeting with Isabella at Oak Hill College library to discuss research findings on gentrification (preparing questions to ask Isabella)",
+      10
+    ],
+    [
+      "meeting with Isabella at Oak Hill College library to discuss research findings on gentrification (traveling to Oak Hill College library)",
+      10
+    ],
+    [
+      "meeting with Isabella at Oak Hill College library to discuss research findings on gentrification (greeting Isabella and starting the meeting)",
+      15
+    ],
+    [
+      "still meeting with Isabella at Oak Hill College library (greeting Isabella and exchanging pleasantries)",
+      5
+    ],
+    [
+      "still meeting with Isabella at Oak Hill College library (discussing their research findings on gentrification) (greeting Isabella and exchanging pleasantries)",
+      5
+    ],
+    [
+      "still meeting with Isabella at Oak Hill College library (discussing their research findings on gentrification) (discussing their research findings on gentrification with Isabella)",
+      30
+    ],
+    [
+      "still meeting with Isabella at Oak Hill College library (discussing their research findings on gentrification) (taking notes on their discussion)",
+      10
+    ],
+    [
+      "still meeting with Isabella at Oak Hill College library (discussing their research findings on gentrification) (sharing their own perspectives on the topic)",
+      10
+    ],
+    [
+      "still meeting with Isabella at Oak Hill College library (discussing their research findings on gentrification) (wrapping up the meeting and making plans for a tour of impacted areas)",
+      5
+    ],
+    [
+      "still meeting with Isabella at Oak Hill College library (taking notes on the discussion)",
+      30
+    ],
+    [
+      "still meeting with Isabella at Oak Hill College library (on the way to brainstorming ideas for a tour of impacted areas)",
+      0
+    ],
+    [
+      "still meeting with Isabella at Oak Hill College library (conversing about two friends, Klaus Mueller and Wolfgang Schulz, discussing their excitement for exploring the village's history, culture, music scene, local landmarks, art gallery, theater productions, library, farmer's market, local traditions, and festivals together)",
+      12
+    ],
+    [
+      "still meeting with Isabella at Oak Hill College library (brainstorming ideas for a tour of impacted areas)",
+      18
+    ],
+    [
+      "still meeting with Isabella at Oak Hill College library (on the way to finalizing plans for the tour)",
+      0
+    ],
+    [
+      "still meeting with Isabella at Oak Hill College library (conversing about collaborating on incorporating local traditional elements into Eddy's music composition and planning an upcoming music event while involving local musicians, artisans, community organizations, and schools for support and reaching out to secure a suitable venue.)",
+      15
+    ],
+    [
+      "still meeting with Isabella at Oak Hill College library (finalizing plans for the tour)",
+      15
+    ],
+    [
+      "still meeting with Isabella at Oak Hill College library (on the way to taking a break)",
+      0
+    ],
+    [
+      "still meeting with Isabella at Oak Hill College library (conversing about how two long-term residents, Klaus Mueller and Sam Moore, plan to incorporate their unique perspectives into researching the effects of gentrification in their village, including interviewing other long-term residents, newcomers, local businesses, community leaders, policymakers, exploring housing affordability, cultural impact, demographic changes, emotional impact, public space accessibility, environmental impact, educational institutions, healthcare services, and social cohesion.)",
+      15
+    ],
+    [
+      "still meeting with Isabella at Oak Hill College library (on the way to taking a break and wrapping up the meeting)",
+      10
+    ],
+    [
+      "still meeting with Isabella at Oak Hill College library (conversing about exploring the village, delving into its rich history and culture, visiting local landmarks, having coffee at Hobbs Cafe, exploring the farmer's market, visiting the local library, attending community events, enjoying a walk in the park, attending Sam's birthday party, learning about local traditions and festivals, attending a poetry reading event at the library, and going on a tour of the village.)",
+      15
+    ],
+    [
+      "having lunch at Hobbs Cafe (walking to Hobbs Cafe)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (looking at the menu and deciding what to order)",
+      10
+    ],
+    [
+      "having lunch at Hobbs Cafe (placing the order with the server)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (waiting for the food to be prepared)",
+      15
+    ],
+    [
+      "having lunch at Hobbs Cafe (on the way to checking their phone for any messages or notifications)",
+      0
+    ],
+    [
+      "having lunch at Hobbs Cafe (conversing about collaborating on gentrification research in the village, Tamara Taylor expresses interest in contributing and attending community engagement meetings.)",
+      14
+    ],
+    [
+      "having lunch at Hobbs Cafe (on the way to paying for the meal)",
+      0
+    ],
+    [
+      "having lunch at Hobbs Cafe (conversing about the research project on the effects of gentrification in the village, Isabella Rodriguez and Klaus Mueller discuss planning a tour, involving the community in research efforts, reaching out to various stakeholders, conducting interviews with residents, creating a timeline, scheduling meetings with community leaders and policymakers, exploring the historical context, designing a survey, and documenting findings in a shared database.)",
+      16
+    ],
+    [
+      "having lunch at Hobbs Cafe (paying for the meal)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (finding a table and sitting down)",
+      15
+    ],
+    [
+      "still writing at the library (on the way to reviewing their research findings on gentrification)",
+      0
+    ],
+    [
+      "still writing at the library (conversing about Klaus Mueller and Wolfgang Schulz are discussing exploring different local spots in the village including the old town square, village museum, local music scene, farmer's market, library, poetry reading event, local art gallery, and Sam's birthday party at The Rose and Crown Pub.)",
+      16
+    ],
+    [
+      "still writing at the library (organizing their notes and creating an outline for the tour)",
+      45
+    ],
+    [
+      "still writing at the library (on the way to taking a break)",
+      0
+    ],
+    [
+      "still writing at the library (conversing about Klaus Mueller and Ayesha Khan are discussing exploring the village's history and culture, planning to visit the old town square and uncover hidden gems together.)",
+      10
+    ],
+    [
+      "still writing at the library (continuing to work on the outline)",
+      50
+    ],
+    [
+      "still writing at the library (researching and adding more information to the outline) (reviewing their research findings on gentrification)",
+      10
+    ],
+    [
+      "still writing at the library (researching and adding more information to the outline) (adding more information to the outline)",
+      30
+    ],
+    [
+      "still writing at the library (on the way to taking a short break)",
+      0
+    ],
+    [
+      "still writing at the library (conversing about Klaus Mueller and Wolfgang Schulz discussing their plans to explore the village, attend cultural events, meet local musicians, and participate in various activities together.)",
+      15
+    ],
+    [
+      "still writing at the library (on the way to continuing to work on the outline)",
+      0
+    ],
+    [
+      "still writing at the library (conversing about collaborating on incorporating traditional elements into Eddy's composition project, reaching out to local musicians and artisans, securing a venue, planning promotional ideas, involving community organizations and schools, establishing a timeline, and seeking sponsorships to showcase the village's cultural heritage through music.)",
+      15
+    ],
+    [
+      "still writing at the library (on the way to continuing to work on the outline)",
+      0
+    ],
+    [
+      "still writing at the library (conversing about organizing a community event to showcase local talents, involving local artisans, musicians, community organizations, leaders, policymakers, schools, and businesses, and incorporating interactive workshops, a community art exhibit, a local food festival, and cultural workshops to promote community engagement and highlight the diverse cultural heritage of their village.)",
+      14
+    ],
+    [
+      "still writing at the library (on the way to continuing to work on the outline)",
+      0
+    ],
+    [
+      "still writing at the library (conversing about Klaus Mueller and Tamara Taylor discussing focusing on the cultural impact of gentrification in the village, planning to visit areas impacted by gentrification to gain first-hand perspective, and scheduling a meeting to collaborate further on the research project.)",
+      16
+    ],
+    [
+      "still writing at the library (on the way to continuing to work on the outline)",
+      0
+    ],
+    [
+      "still writing at the library (conversing about Klaus Mueller and Ayesha Khan are discussing their plans to explore more of the village, including visiting the old town square, the village museum, grabbing coffee at Hobbs Cafe, and potentially exploring the local farmer's market, taking a walk in the park, and attending a local music event.)",
+      9
+    ],
+    [
+      "still writing at the library (continuing to work on the outline)",
+      11
+    ],
+    [
+      "still writing at the library (researching and adding more information to the outline) (taking a short break)",
+      10
+    ],
+    [
+      "still writing at the library (continuing to work on the outline)",
+      5
+    ],
+    [
+      "still writing at the library (on the way to packing up their materials and heading to the meeting with Isabella)",
+      8
+    ],
+    [
+      "still writing at the library (conversing about engaging the community in a research project on gentrification by conducting surveys, organizing dialogue sessions, involving local organizations, reaching out to community leaders and policymakers, and considering the perspectives of residents, artists, musicians, youth, local businesses, and entrepreneurs.)",
+      17
+    ],
+    [
+      "getting ready for Sam's birthday party at The Rose and Crown Pub (taking a shower and getting dressed)",
+      20
+    ],
+    [
+      "getting ready for Sam's birthday party at The Rose and Crown Pub (on the way to choosing an outfit for the party)",
+      0
+    ],
+    [
+      "getting ready for Sam's birthday party at The Rose and Crown Pub (conversing about Klaus Mueller and Wolfgang Schulz are discussing exploring the village's music scene, attending Sam's birthday party at The Rose and Crown Pub, checking out the local art gallery, attending a theater production, visiting the farmer's market, exploring historical landmarks, attending a poetry reading event at the library, and trying fresh produce at the local farmer's market to immerse themselves in the community's culture.)",
+      13
+    ],
+    [
+      "getting ready for Sam's birthday party at The Rose and Crown Pub (doing their hair and makeup)",
+      15
+    ],
+    [
+      "getting ready for Sam's birthday party at The Rose and Crown Pub (on the way to checking the time and making sure they are not running late)",
+      0
+    ],
+    [
+      "getting ready for Sam's birthday party at The Rose and Crown Pub (conversing about their research findings, scheduling a community meeting, reaching out to stakeholders, conducting resident interviews, planning a tour of impacted areas, engaging with community leaders and policymakers, exploring historical context, designing a survey, and involving the community in interactive workshops and activities to gather diverse perspectives on gentrification.)",
+      17
+    ],
+    [
+      "getting ready for Sam's birthday party at The Rose and Crown Pub (putting on their shoes and grabbing their bag)",
+      5
+    ],
+    [
+      "getting ready for Sam's birthday party at The Rose and Crown Pub (locking their apartment and heading to The Rose and Crown Pub)",
+      5
+    ],
+    [
+      "attending Sam's birthday party at The Rose and Crown Pub (arriving at The Rose and Crown Pub)",
+      5
+    ],
+    [
+      "attending Sam's birthday party at The Rose and Crown Pub (greeting Sam and other guests)",
+      10
+    ],
+    [
+      "attending Sam's birthday party at The Rose and Crown Pub (on the way to ordering a drink)",
+      0
+    ],
+    [
+      "attending Sam's birthday party at The Rose and Crown Pub (conversing about Klaus Mueller and Adam Smith are discussing their exploration of the village's cultural scene, including visits to the old town square, museum, poetry reading, art gallery, theater productions, music event, farmer's market, writing workshop, and plans to attend a community art exhibit.)",
+      14
+    ],
+    [
+      "attending Sam's birthday party at The Rose and Crown Pub (engaging in conversation with other guests and wishing Sam a happy birthday)",
+      8
+    ],
+    [
+      "attending Sam's birthday party at The Rose and Crown Pub (on the way to enjoying the food and drinks)",
+      0
+    ],
+    [
+      "attending Sam's birthday party at The Rose and Crown Pub (conversing about organizing a community event involving local schools, musicians, artisans, community organizations, interactive workshops, a local food festival, cultural workshops, local leaders and policymakers, creating a schedule of events, collaborating with local businesses, and creating promotional materials to spread the word and increase attendance.)",
+      15
+    ],
+    [
+      "still at Sam's birthday party at The Rose and Crown Pub (socializing with other guests at the party)",
+      30
+    ],
+    [
+      "still at Sam's birthday party at The Rose and Crown Pub (on the way to enjoying food and drinks at the party)",
+      0
+    ],
+    [
+      "still at Sam's birthday party at The Rose and Crown Pub (conversing about exploring the village, learning about its history, and making plans to visit hidden gems, the farmer's market, art gallery, old town square, Hobbs Cafe, village museum, and a local music event, with Klaus Mueller offering to show Ayesha Khan around and share his knowledge.)",
+      10
+    ],
+    [
+      "still at Sam's birthday party at The Rose and Crown Pub (catching up with Sam and other friends)",
+      30
+    ],
+    [
+      "still at Sam's birthday party at The Rose and Crown Pub (on the way to playing party games with other guests)",
+      0
+    ],
+    [
+      "still at Sam's birthday party at The Rose and Crown Pub (conversing about their collaborative research project on gentrification and how it has the potential to bring about positive change in their village, emphasizing their dedication, insights, and gratitude towards each other.)",
+      17
+    ],
+    [
+      "still at Sam's birthday party at The Rose and Crown Pub (taking a break and resting)",
+      15
+    ],
+    [
+      "still at Sam's birthday party at The Rose and Crown Pub (dancing and having fun)",
+      30
+    ],
+    [
+      "still at Sam's birthday party at The Rose and Crown Pub (taking photos with friends)",
+      15
+    ],
+    [
+      "still at Sam's birthday party at The Rose and Crown Pub (enjoying the live music at the pub)",
+      30
+    ],
+    [
+      "still at Sam's birthday party at The Rose and Crown Pub (saying goodbye to Sam and other guests)",
+      6
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -3
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      5
+    ],
+    [
+      "still at Sam's birthday party at The Rose and Crown Pub (getting ready to leave the pub)",
+      15
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      15
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -17
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -3
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      18
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -15
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      15
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -4
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -17
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -3
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      18
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -5
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing their morning routine",
+      60
+    ],
+    [
+      "meeting with Isabella at Oak Hill College library to discuss research findings on gentrification",
+      60
+    ],
+    [
+      "still meeting with Isabella at Oak Hill College library",
+      180
+    ],
+    [
+      "having lunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "still writing at the library",
+      300
+    ],
+    [
+      "getting ready for Sam's birthday party at The Rose and Crown Pub",
+      60
+    ],
+    [
+      "attending Sam's birthday party at The Rose and Crown Pub",
+      60
+    ],
+    [
+      "still at Sam's birthday party at The Rose and Crown Pub",
+      240
+    ]
+  ],
+  "act_address": "the Ville:The Rose and Crown Pub:pub:bar customer seating",
+  "act_start_time": "February 14, 2023, 21:37:00",
+  "act_duration": 30,
+  "act_description": "still at Sam's birthday party at The Rose and Crown Pub (catching up with Sam and other friends)",
+  "act_pronunciatio": "\ud83d\udc6b",
+  "act_event": [
+    "Klaus Mueller",
+    "catch up",
+    "Sam and other friends"
+  ],
+  "act_obj_description": "occupied by Klaus Mueller at The Rose and Crown Pub",
+  "act_obj_pronunciatio": "\ud83c\udf7a",
+  "act_obj_event": [
+    "bar customer seating",
+    "occupy",
+    "Klaus Mueller"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Ayesha Khan": 434,
+    "Wolfgang Schulz": -347,
+    "Eddy Lin": -1145,
+    "Carlos Gomez": -545,
+    "Isabella Rodriguez": -185,
+    "Sam Moore": 662,
+    "Tamara Taylor": -899,
+    "Tom Moreno": 242,
+    "Adam Smith": 92
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "known_personas": [
+    "Ayesha Khan",
+    "Wolfgang Schulz",
+    "Eddy Lin",
+    "Carlos Gomez",
+    "Isabella Rodriguez",
+    "Sam Moore",
+    "Tamara Taylor",
+    "Tom Moreno",
+    "Adam Smith"
+  ]
+}

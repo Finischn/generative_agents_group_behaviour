@@ -1,0 +1,357 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Isabella Rodriguez are planning to explore the old town square, visit the village museum, attend a local music event, have lunch at Hobbs Cafe, and visit the local art gallery together. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Isabella, I was thinking we could start our village exploration by checking out the old town square. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea! I've heard there's a lot of history there. Should we meet at the cafe tomorrow morning before we head out?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a plan! Let's meet at 9am tomorrow at Hobbs Cafe to start off our adventure."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Do you have any recommendations on what we should check out in the old town square?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "We could visit the village museum next to learn more about the history of the area. I've heard it's quite fascinating!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a wonderful plan! I can't wait to explore the village with you and learn more about its history."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I also heard about a local music event happening this weekend. Would you be interested in attending it together?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I would love to attend the local music event with you this weekend! It sounds like a great opportunity to experience more of what the village has to offer."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We can also plan to have lunch at Hobbs Cafe after visiting the village museum. It would be a great way to relax and discuss what we've learned."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm really looking forward to attending the local music event with you! It's going to be a fun experience."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm glad we met and are able to explore the village together. This will definitely make our experience here more memorable!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for suggesting all these wonderful plans, Wolfgang! I can't wait to explore the old town square with you and learn more about the village. Meeting at 9am tomorrow at Hobbs Cafe sounds perfect. I'm excited for our adventure!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Should we also make plans to visit the local art gallery after the music event? I've heard they have some amazing pieces on display."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's a fantastic idea! Let's definitely plan to visit the local art gallery after the music event. I've always enjoyed exploring different forms of art."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm glad we have such similar interests and can explore the village together. This is going to be an unforgettable experience!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It would be great to explore the local art gallery after the music event. I can't wait to see the amazing pieces on display!"
+        ]
+      ]
+    },
+    "Carlos Gomez": {
+      "movement": [
+        33,
+        50
+      ],
+      "pronunciatio": "\ud83c\udf33\ud83c\udfb6",
+      "description": "exploring the village and taking in nature (taking in the sights and sounds of the park) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        105,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Ayesha Khan are chatting about their plans to explore the village tomorrow, including visits to the old town square, village museum, local library, and going for coffee at Hobbs Cafe followed by a walk in the park and a visit to the local art gallery. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Ayesha! I'm glad you decided to have lunch here. How's your day going so far?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Klaus! My day is going well, thank you. I'm really looking forward to exploring the village with you tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited to show you around the village and share some of its hidden gems with you!"
+        ],
+        [
+          "Ayesha Khan",
+          "I can't wait to learn more about the village's history and culture from you. It sounds like it's going to be a great day tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "Would you like some recommendations for places to visit in the village before our tour tomorrow?"
+        ],
+        [
+          "Ayesha Khan",
+          "That would be wonderful, Klaus! I would appreciate any recommendations you have for places to visit in the village."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're excited to explore the village! One place you should definitely visit is the old town square. It's full of history and charm, and I think you'd really enjoy it."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds lovely, Klaus! I can't wait to visit the old town square tomorrow. Thank you for the recommendation!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also planning to take you to the village museum, Ayesha. It's a treasure trove of information about the village's past and heritage. I think you'll find it fascinating."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much for being willing to show me around and sharing your knowledge of the village, Klaus. I truly appreciate it!"
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, since you're new to the village, I also recommend checking out the local library. It's a great place to learn more about the village's history, and they often have events and resources that can help you settle in."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much for all the recommendations, Klaus. I really appreciate your kindness and willingness to show me around the village."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, would you like to join me for a coffee at Hobbs Cafe this afternoon? It's a great spot to relax and chat more about the village."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds wonderful, Klaus! I would love to join you for a coffee at Hobbs Cafe this afternoon and continue our conversation about the village."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, after our coffee at Hobbs Cafe, would you like to go for a walk in the park and maybe visit the local art gallery? It could be a nice way to explore more of the village."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, that sounds like a wonderful plan! I would love to go for a walk in the park and visit the local art gallery with you."
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        60,
+        43
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "gathering party materials and decorations at home (browsing and selecting party decorations) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        35
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Ayesha Khan are chatting about their plans to explore the village tomorrow, including visits to the old town square, village museum, local library, and going for coffee at Hobbs Cafe followed by a walk in the park and a visit to the local art gallery. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Ayesha! I'm glad you decided to have lunch here. How's your day going so far?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Klaus! My day is going well, thank you. I'm really looking forward to exploring the village with you tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited to show you around the village and share some of its hidden gems with you!"
+        ],
+        [
+          "Ayesha Khan",
+          "I can't wait to learn more about the village's history and culture from you. It sounds like it's going to be a great day tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "Would you like some recommendations for places to visit in the village before our tour tomorrow?"
+        ],
+        [
+          "Ayesha Khan",
+          "That would be wonderful, Klaus! I would appreciate any recommendations you have for places to visit in the village."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're excited to explore the village! One place you should definitely visit is the old town square. It's full of history and charm, and I think you'd really enjoy it."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds lovely, Klaus! I can't wait to visit the old town square tomorrow. Thank you for the recommendation!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also planning to take you to the village museum, Ayesha. It's a treasure trove of information about the village's past and heritage. I think you'll find it fascinating."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much for being willing to show me around and sharing your knowledge of the village, Klaus. I truly appreciate it!"
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, since you're new to the village, I also recommend checking out the local library. It's a great place to learn more about the village's history, and they often have events and resources that can help you settle in."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much for all the recommendations, Klaus. I really appreciate your kindness and willingness to show me around the village."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, would you like to join me for a coffee at Hobbs Cafe this afternoon? It's a great spot to relax and chat more about the village."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds wonderful, Klaus! I would love to join you for a coffee at Hobbs Cafe this afternoon and continue our conversation about the village."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, after our coffee at Hobbs Cafe, would you like to go for a walk in the park and maybe visit the local art gallery? It could be a nice way to explore more of the village."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, that sounds like a wonderful plan! I would love to go for a walk in the park and visit the local art gallery with you."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        72,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Isabella Rodriguez are planning to explore the old town square, visit the village museum, attend a local music event, have lunch at Hobbs Cafe, and visit the local art gallery together. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Isabella, I was thinking we could start our village exploration by checking out the old town square. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea! I've heard there's a lot of history there. Should we meet at the cafe tomorrow morning before we head out?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a plan! Let's meet at 9am tomorrow at Hobbs Cafe to start off our adventure."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Do you have any recommendations on what we should check out in the old town square?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "We could visit the village museum next to learn more about the history of the area. I've heard it's quite fascinating!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a wonderful plan! I can't wait to explore the village with you and learn more about its history."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I also heard about a local music event happening this weekend. Would you be interested in attending it together?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I would love to attend the local music event with you this weekend! It sounds like a great opportunity to experience more of what the village has to offer."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We can also plan to have lunch at Hobbs Cafe after visiting the village museum. It would be a great way to relax and discuss what we've learned."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm really looking forward to attending the local music event with you! It's going to be a fun experience."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm glad we met and are able to explore the village together. This will definitely make our experience here more memorable!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for suggesting all these wonderful plans, Wolfgang! I can't wait to explore the old town square with you and learn more about the village. Meeting at 9am tomorrow at Hobbs Cafe sounds perfect. I'm excited for our adventure!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Should we also make plans to visit the local art gallery after the music event? I've heard they have some amazing pieces on display."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's a fantastic idea! Let's definitely plan to visit the local art gallery after the music event. I've always enjoyed exploring different forms of art."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm glad we have such similar interests and can explore the village together. This is going to be an unforgettable experience!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It would be great to explore the local art gallery after the music event. I can't wait to see the amazing pieces on display!"
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        72,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcb3",
+      "description": "taking a break and having lunch at Hobbs Cafe (placing his order with the cashier) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        64,
+        52
+      ],
+      "pronunciatio": "\ud83e\udd66",
+      "description": "managing the store at The Willow Market and Pharmacy (restocking perishable items) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        69
+      ],
+      "pronunciatio": "\ud83e\udd38\u200d\u2640",
+      "description": "taking a break and spending some time relaxing (stretching her body) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83e\udde0",
+      "description": "continuing to work on his book (organizing his thoughts and ideas for the next chapter) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:47:50"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "meeting Klaus at Oak Hill College library to discuss research on gentrification (greeting Klaus and finding a place to sit) @ the Ville:Isabella Rodriguez's apartment:main room:bed",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        39,
+        28
+      ],
+      "pronunciatio": "\ud83d\udc42\ud83d\udcdd",
+      "description": "attending a creative writing workshop (listening to feedback and taking notes) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        49
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "still meeting with Isabella at Oak Hill College library (discussing their research findings on gentrification) (sharing their own perspectives on the topic) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "still reading at Hobbs Cafe (reading the first chapter) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        106,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "attending classes at Oak Hill College (conversing about Ayesha Khan and Wolfgang Schulz are discussing their plans to explore the village, attend a poetry reading event, watch a local play, visit the art gallery, and join a historical walking tour together.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        121,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "attending the writing workshop at Oak Hill College (conversing about Ayesha Khan and Wolfgang Schulz are discussing their plans to explore the village, attend a poetry reading event, watch a local play, visit the art gallery, and join a historical walking tour together.) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending his music theory and composition class at Oak Hill College (taking notes) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        56
+      ],
+      "pronunciatio": "\ud83d\udce7",
+      "description": "managing day to day operations at The Willow Market and Pharmacy (checking and responding to emails and messages) @ the Ville:Moreno family's house:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        46,
+        32
+      ],
+      "pronunciatio": "\ud83d\udd04",
+      "description": "still working on her children's book series (revising and editing the first draft) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        27,
+        49
+      ],
+      "pronunciatio": "\ud83c\udfe0",
+      "description": "taking a walk around the village (heading back to his condo) @ the Ville:Adam Smith's house:main room:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 09:52:20"
+  }
+}

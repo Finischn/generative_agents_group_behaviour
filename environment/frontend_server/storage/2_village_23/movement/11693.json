@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83e\ude91",
+      "description": "opening Hobbs Cafe and standing at the counter (setting up the tables and chairs for customers) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        65,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Tom Moreno are making plans to attend a gathering at the community center, explore music theory classes together, schedule a coffee chat with Tamara Taylor, and go for a walk around the village to meet more residents and help Carlos feel welcomed in the village. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Tom, I really appreciate all the tips and recommendations you've given me about the village. I was thinking of attending the gathering at the community center on Saturday evening. Would you be interested in joining me?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Carlos, I'd love to join you at the gathering on Saturday evening! It'll be a great opportunity for you to meet more villagers and feel even more welcomed. Looking forward to seeing you there!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Tom! I appreciate your willingness to join me at the gathering. It means a lot to have your company as I continue to explore and connect with the village community."
+        ],
+        [
+          "Tom Moreno",
+          "Carlos, I'm glad to hear you're interested in attending the gathering at the community center! I'll make sure to introduce you to some of the other residents and help you feel more at home in the village."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Tom! I'm really looking forward to the gathering and meeting more villagers. Your kindness and support have made my transition to the village so much smoother."
+        ],
+        [
+          "Tom Moreno",
+          "Carlos, I'm also planning to check in on Eddy Lin's music theory classes later today. Would you be interested in joining me? It's a great way to meet more people in the village and learn something new."
+        ],
+        [
+          "Carlos Gomez",
+          "Tom, I appreciate your offer to join Eddy Lin's music theory classes. I would love to meet more people in the village and learn something new. Count me in!"
+        ],
+        [
+          "Tom Moreno",
+          "Carlos, I'm glad you're interested in attending the gathering at the community center! I'll make sure to introduce you to some of the other residents and help you feel more at home in the village."
+        ],
+        [
+          "Carlos Gomez",
+          "Tom, I really appreciate your willingness to introduce me to other residents and help me feel more at home in the village. Your support has been invaluable."
+        ],
+        [
+          "Tom Moreno",
+          "Carlos, I'm also planning to schedule a coffee chat with Tamara Taylor. Would you be interested in joining us? It's a great opportunity to get to know more residents and share experiences as newcomers."
+        ],
+        [
+          "Carlos Gomez",
+          "Tom, I would love to join you for Eddy Lin's music theory classes later today. It sounds like a fantastic opportunity to meet new people and learn something new."
+        ],
+        [
+          "Tom Moreno",
+          "Carlos, I'm glad you're interested in joining Eddy Lin's music theory classes and scheduling a coffee chat with Tamara Taylor. It's a great way to continue meeting new people and expanding your connections in the village."
+        ],
+        [
+          "Carlos Gomez",
+          "Tom, I really appreciate your generosity in introducing me to various activities and helping me feel welcomed in the village. I'm excited to explore Eddy Lin's music theory classes with you and possibly join the coffee chat with Tamara Taylor."
+        ],
+        [
+          "Tom Moreno",
+          "Carlos, since you're new to the village, I wanted to offer to show you around and introduce you to more of the residents. Would you be interested in joining me for a walk around the village after the gathering at the community center?"
+        ],
+        [
+          "Carlos Gomez",
+          "Tom, I really appreciate your offer to show me around the village and introduce me to more residents. I would love to join you for a walk after the gathering at the community center."
+        ],
+        [
+          "Tom Moreno",
+          "Carlos, I'm glad you're interested in joining the gathering at the community center and meeting more villagers. I'll make sure to introduce you to everyone and help you feel at home in the village."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcad",
+      "description": "meeting with Isabella at Oak Hill College library to discuss research findings on gentrification (preparing questions to ask Isabella) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        33,
+        45
+      ],
+      "pronunciatio": "\ud83d\udcf8",
+      "description": "walking in Johnson Park (enjoying the scenery and taking photos) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        115,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending classes at Oak Hill College (attending her first class) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83e\uddea",
+      "description": "attending classes at Oak Hill College (attending his chemistry lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        91,
+        32
+      ],
+      "pronunciatio": "\ud83c\udfa8\ud83c\udfb5",
+      "description": "attending his music theory and composition class at Oak Hill College (conversing about exploring the village's art and music scene, with Eddy Lin and Ayesha Khan chatting and making plans to visit the art gallery, attend a music event, have lunch at Hobbs Cafe, and explore historical landmarks and the village museum.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        65,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Tom Moreno are making plans to attend a gathering at the community center, explore music theory classes together, schedule a coffee chat with Tamara Taylor, and go for a walk around the village to meet more residents and help Carlos feel welcomed in the village. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Tom, I really appreciate all the tips and recommendations you've given me about the village. I was thinking of attending the gathering at the community center on Saturday evening. Would you be interested in joining me?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Carlos, I'd love to join you at the gathering on Saturday evening! It'll be a great opportunity for you to meet more villagers and feel even more welcomed. Looking forward to seeing you there!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Tom! I appreciate your willingness to join me at the gathering. It means a lot to have your company as I continue to explore and connect with the village community."
+        ],
+        [
+          "Tom Moreno",
+          "Carlos, I'm glad to hear you're interested in attending the gathering at the community center! I'll make sure to introduce you to some of the other residents and help you feel more at home in the village."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Tom! I'm really looking forward to the gathering and meeting more villagers. Your kindness and support have made my transition to the village so much smoother."
+        ],
+        [
+          "Tom Moreno",
+          "Carlos, I'm also planning to check in on Eddy Lin's music theory classes later today. Would you be interested in joining me? It's a great way to meet more people in the village and learn something new."
+        ],
+        [
+          "Carlos Gomez",
+          "Tom, I appreciate your offer to join Eddy Lin's music theory classes. I would love to meet more people in the village and learn something new. Count me in!"
+        ],
+        [
+          "Tom Moreno",
+          "Carlos, I'm glad you're interested in attending the gathering at the community center! I'll make sure to introduce you to some of the other residents and help you feel more at home in the village."
+        ],
+        [
+          "Carlos Gomez",
+          "Tom, I really appreciate your willingness to introduce me to other residents and help me feel more at home in the village. Your support has been invaluable."
+        ],
+        [
+          "Tom Moreno",
+          "Carlos, I'm also planning to schedule a coffee chat with Tamara Taylor. Would you be interested in joining us? It's a great opportunity to get to know more residents and share experiences as newcomers."
+        ],
+        [
+          "Carlos Gomez",
+          "Tom, I would love to join you for Eddy Lin's music theory classes later today. It sounds like a fantastic opportunity to meet new people and learn something new."
+        ],
+        [
+          "Tom Moreno",
+          "Carlos, I'm glad you're interested in joining Eddy Lin's music theory classes and scheduling a coffee chat with Tamara Taylor. It's a great way to continue meeting new people and expanding your connections in the village."
+        ],
+        [
+          "Carlos Gomez",
+          "Tom, I really appreciate your generosity in introducing me to various activities and helping me feel welcomed in the village. I'm excited to explore Eddy Lin's music theory classes with you and possibly join the coffee chat with Tamara Taylor."
+        ],
+        [
+          "Tom Moreno",
+          "Carlos, since you're new to the village, I wanted to offer to show you around and introduce you to more of the residents. Would you be interested in joining me for a walk around the village after the gathering at the community center?"
+        ],
+        [
+          "Carlos Gomez",
+          "Tom, I really appreciate your offer to show me around the village and introduce me to more residents. I would love to join you for a walk after the gathering at the community center."
+        ],
+        [
+          "Tom Moreno",
+          "Carlos, I'm glad you're interested in joining the gathering at the community center and meeting more villagers. I'll make sure to introduce you to everyone and help you feel at home in the village."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        39,
+        30
+      ],
+      "pronunciatio": "\ud83d\udca1",
+      "description": "working on her new children's book series (brainstorming new plot points and characters) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        62
+      ],
+      "pronunciatio": "\ud83e\udd5e",
+      "description": "having breakfast and reading the news (eating breakfast) @ the Ville:Adam Smith's house:main room:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 08:28:50"
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\ude97",
+      "description": "meeting Klaus at Oak Hill College library to discuss research on gentrification (driving to Oak Hill College library) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        49,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending a creative writing workshop (sharing his writing with the group) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "still meeting with Isabella at Oak Hill College library (discussing their research findings on gentrification) (taking notes on their discussion) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "still reading at Hobbs Cafe (reading the first chapter) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        111,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Ayesha Khan and Wolfgang Schulz are discussing their plans to explore the village, attend a poetry reading event, watch a local play, visit the art gallery, and join a historical walking tour together. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang! It's great to see you here at the writing workshop. How are you finding it so far?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha! I'm enjoying the writing workshop, learning a lot. How are your classes going?"
+        ],
+        [
+          "Ayesha Khan",
+          "I really enjoyed exploring the village's history and culture with you yesterday. It was so fascinating to learn more about our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I agree, it was a truly enriching experience. I believe we should continue exploring the village together and maybe delve deeper into Shakespeare's works at the local library."
+        ],
+        [
+          "Ayesha Khan",
+          "I was thinking we could also check out the local bookstore for some Shakespeare-related books. What do you think?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic idea! I'm excited to explore more of Shakespeare's works with you and dive into the local bookstore for some valuable resources."
+        ],
+        [
+          "Ayesha Khan",
+          "I heard there's a poetry reading event at the local library over the weekend. Would you be interested in attending it together?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That poetry reading event at the local library sounds fantastic! I would love to attend it with you and immerse ourselves in some beautiful poetry."
+        ],
+        [
+          "Ayesha Khan",
+          "I also heard about a local play happening this weekend. Would you be interested in checking it out together?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That play sounds interesting! I'd love to go watch it with you. We can further discuss Shakespeare's influence on the local theater scene."
+        ],
+        [
+          "Ayesha Khan",
+          "I also heard about a local play happening this weekend. Would you be interested in checking it out together?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Absolutely, Ayesha! Let's make plans to attend the local play this weekend. It'll be a great opportunity to immerse ourselves in the local theater scene and further explore Shakespeare's influence."
+        ],
+        [
+          "Ayesha Khan",
+          "Since we have been exploring the village together and discussing Shakespeare's works, I was thinking we could also visit the local art gallery to appreciate some local talent. What do you think?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That's a brilliant idea, Ayesha! I've heard great things about the local art gallery. Let's definitely plan a visit there together."
+        ],
+        [
+          "Ayesha Khan",
+          "I also heard about a historical walking tour happening this weekend. Would you be interested in joining me to explore more of the village's hidden gems and landmarks?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That historical walking tour sounds fascinating, Ayesha! I'd love to join you and explore more of the village's hidden gems and landmarks. It would be a great way to deepen our understanding of the community and its rich history."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        109,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Ayesha Khan and Wolfgang Schulz are discussing their plans to explore the village, attend a poetry reading event, watch a local play, visit the art gallery, and join a historical walking tour together. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang! It's great to see you here at the writing workshop. How are you finding it so far?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha! I'm enjoying the writing workshop, learning a lot. How are your classes going?"
+        ],
+        [
+          "Ayesha Khan",
+          "I really enjoyed exploring the village's history and culture with you yesterday. It was so fascinating to learn more about our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I agree, it was a truly enriching experience. I believe we should continue exploring the village together and maybe delve deeper into Shakespeare's works at the local library."
+        ],
+        [
+          "Ayesha Khan",
+          "I was thinking we could also check out the local bookstore for some Shakespeare-related books. What do you think?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic idea! I'm excited to explore more of Shakespeare's works with you and dive into the local bookstore for some valuable resources."
+        ],
+        [
+          "Ayesha Khan",
+          "I heard there's a poetry reading event at the local library over the weekend. Would you be interested in attending it together?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That poetry reading event at the local library sounds fantastic! I would love to attend it with you and immerse ourselves in some beautiful poetry."
+        ],
+        [
+          "Ayesha Khan",
+          "I also heard about a local play happening this weekend. Would you be interested in checking it out together?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That play sounds interesting! I'd love to go watch it with you. We can further discuss Shakespeare's influence on the local theater scene."
+        ],
+        [
+          "Ayesha Khan",
+          "I also heard about a local play happening this weekend. Would you be interested in checking it out together?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Absolutely, Ayesha! Let's make plans to attend the local play this weekend. It'll be a great opportunity to immerse ourselves in the local theater scene and further explore Shakespeare's influence."
+        ],
+        [
+          "Ayesha Khan",
+          "Since we have been exploring the village together and discussing Shakespeare's works, I was thinking we could also visit the local art gallery to appreciate some local talent. What do you think?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That's a brilliant idea, Ayesha! I've heard great things about the local art gallery. Let's definitely plan a visit there together."
+        ],
+        [
+          "Ayesha Khan",
+          "I also heard about a historical walking tour happening this weekend. Would you be interested in joining me to explore more of the village's hidden gems and landmarks?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That historical walking tour sounds fascinating, Ayesha! I'd love to join you and explore more of the village's hidden gems and landmarks. It would be a great way to deepen our understanding of the community and its rich history."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "attending his music theory and composition class at Oak Hill College (listening to the lecture) (participating in class discussions) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        89,
+        49
+      ],
+      "pronunciatio": "\ud83e\uddf9",
+      "description": "managing day to day operations at The Willow Market and Pharmacy (organizing and cleaning the store) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        39,
+        30
+      ],
+      "pronunciatio": "\ud83d\uddfa\ufe0f",
+      "description": "still working on her children's book series (conversing about exploring the village, where Adam Smith provides recommendations on places to visit and community events to attend as Tamara Taylor settles into her new home.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        35,
+        45
+      ],
+      "pronunciatio": "\ud83d\uddfa\ufe0f",
+      "description": "taking a walk around the village (conversing about exploring the village, where Adam Smith provides recommendations on places to visit and community events to attend as Tamara Taylor settles into her new home.) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 09:40:40"
+  }
+}

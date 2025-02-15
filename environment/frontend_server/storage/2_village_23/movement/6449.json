@@ -1,0 +1,325 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddfc",
+      "description": "heading home (cleaning and wiping down the counters) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        96,
+        24
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "attending a community poetry reading event (getting dressed in his best outfit) @ the Ville:Carlos Gomez's apartment:main room:closet",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "at the library at Oak Hill College (researching statistics and data to support his argument) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        60,
+        20
+      ],
+      "pronunciatio": "\ud83c\udf82",
+      "description": "celebrating his birthday at The Rose and Crown Pub (cutting and serving the birthday cake) @ the Ville:The Rose and Crown Pub:pub:kitchen sink",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        86,
+        43
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two new residents of the village, Ayesha Khan and Tamara Taylor, making plans to explore the village together, learn about its history and culture, and attend a local music event. @ <persona> Tamara Taylor",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hi Tamara! I noticed you're also new to the village. Have you had a chance to explore around yet?"
+        ],
+        [
+          "Tamara Taylor",
+          "Hi Ayesha! Yes, I've been taking morning walks around the village and exploring the surroundings. It's been quite lovely getting to know the area. Have you had a chance to check out the village yet?"
+        ],
+        [
+          "Ayesha Khan",
+          "I've been researching the history and culture of the village for my senior thesis. Would you be interested in exploring together sometime?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds fascinating! I'd love to learn more about the village's history and culture with you. Let's plan a day to explore together."
+        ],
+        [
+          "Ayesha Khan",
+          "Great! How about we meet at the library tomorrow morning to start our exploration?"
+        ],
+        [
+          "Tamara Taylor",
+          "I think that's a fantastic idea! I'm looking forward to learning more about the village with you. See you at the library tomorrow morning!"
+        ],
+        [
+          "Ayesha Khan",
+          "Great! I'll prepare a list of places in the village for us to visit tomorrow."
+        ],
+        [
+          "Tamara Taylor",
+          "I'm really excited to explore the village with you tomorrow and learn more about its history and culture."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm glad we can explore the village together. It's always more fun to learn about a place with someone new."
+        ],
+        [
+          "Tamara Taylor",
+          "I'm really looking forward to our exploration tomorrow. It's been great getting to know more about the village and its residents through our conversations."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm glad we connected and are exploring the village together. It's always nice to have someone to share the experience with."
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds wonderful, I can't wait to see the places you've researched. Thank you for taking the time to share your knowledge with me."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm glad we connected and are exploring the village together. It's always nice to have someone to share the experience with."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you for inviting me to explore the village with you. I look forward to our adventure tomorrow!"
+        ],
+        [
+          "Ayesha Khan",
+          "Shall we also plan to attend the local music event together after our exploration tomorrow?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds like a fantastic idea! I love music events. Count me in for attending the local music event after our exploration tomorrow."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        86,
+        56
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Tom Moreno and Wolfgang Schulz are chatting about Wolfgang's experience in the village, getting recommendations for a local cafe, being invited to a community gathering, and expressing gratitude for the warm welcome received. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Tom Moreno",
+          "Hey Wolfgang, I noticed you at team practice! How are you finding the village so far?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Tom, I'm really enjoying the village so far. It's been a great experience getting to know everyone and exploring the area."
+        ],
+        [
+          "Tom Moreno",
+          "I'm glad to hear that you're enjoying your time here. If you ever need any recommendations or have any questions, feel free to ask!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thanks, Tom! I appreciate the offer. I was actually thinking of checking out a local cafe, do you have any recommendations?"
+        ],
+        [
+          "Tom Moreno",
+          "There's a lovely cafe called 'The Village Perk' just down the street. They have great coffee and a cozy atmosphere, I'm sure you'll enjoy it!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds perfect, I'll definitely check out 'The Village Perk'! Thanks for the recommendation, Tom."
+        ],
+        [
+          "Tom Moreno",
+          "I'm also planning a gathering at the community center this Saturday evening to introduce you to more villagers and make you feel welcomed in the community. Would you be interested in joining?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds wonderful, Tom! I would love to join the gathering at the community center this Saturday evening. Thank you for inviting me!"
+        ],
+        [
+          "Tom Moreno",
+          "That's great to hear, Wolfgang! I look forward to seeing you at the gathering on Saturday. If you have any questions or need anything, feel free to reach out to me."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm really looking forward to the gathering at the community center on Saturday. Thank you for organizing such a welcoming event!"
+        ],
+        [
+          "Tom Moreno",
+          "It's been a pleasure chatting with you, Wolfgang. If you have any questions or need any help settling in, don't hesitate to ask. Welcome to the village!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much, Tom! I really appreciate your help and the warm welcome I've received from everyone in the village."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        66,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "waiting for his food to be prepared (reviewing his notes from his music theory class) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        87,
+        56
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Tom Moreno and Wolfgang Schulz are chatting about Wolfgang's experience in the village, getting recommendations for a local cafe, being invited to a community gathering, and expressing gratitude for the warm welcome received. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Tom Moreno",
+          "Hey Wolfgang, I noticed you at team practice! How are you finding the village so far?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Tom, I'm really enjoying the village so far. It's been a great experience getting to know everyone and exploring the area."
+        ],
+        [
+          "Tom Moreno",
+          "I'm glad to hear that you're enjoying your time here. If you ever need any recommendations or have any questions, feel free to ask!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thanks, Tom! I appreciate the offer. I was actually thinking of checking out a local cafe, do you have any recommendations?"
+        ],
+        [
+          "Tom Moreno",
+          "There's a lovely cafe called 'The Village Perk' just down the street. They have great coffee and a cozy atmosphere, I'm sure you'll enjoy it!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds perfect, I'll definitely check out 'The Village Perk'! Thanks for the recommendation, Tom."
+        ],
+        [
+          "Tom Moreno",
+          "I'm also planning a gathering at the community center this Saturday evening to introduce you to more villagers and make you feel welcomed in the community. Would you be interested in joining?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds wonderful, Tom! I would love to join the gathering at the community center this Saturday evening. Thank you for inviting me!"
+        ],
+        [
+          "Tom Moreno",
+          "That's great to hear, Wolfgang! I look forward to seeing you at the gathering on Saturday. If you have any questions or need anything, feel free to reach out to me."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm really looking forward to the gathering at the community center on Saturday. Thank you for organizing such a welcoming event!"
+        ],
+        [
+          "Tom Moreno",
+          "It's been a pleasure chatting with you, Wolfgang. If you have any questions or need any help settling in, don't hesitate to ask. Welcome to the village!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much, Tom! I really appreciate your help and the warm welcome I've received from everyone in the village."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        82,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two new residents of the village, Ayesha Khan and Tamara Taylor, making plans to explore the village together, learn about its history and culture, and attend a local music event. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hi Tamara! I noticed you're also new to the village. Have you had a chance to explore around yet?"
+        ],
+        [
+          "Tamara Taylor",
+          "Hi Ayesha! Yes, I've been taking morning walks around the village and exploring the surroundings. It's been quite lovely getting to know the area. Have you had a chance to check out the village yet?"
+        ],
+        [
+          "Ayesha Khan",
+          "I've been researching the history and culture of the village for my senior thesis. Would you be interested in exploring together sometime?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds fascinating! I'd love to learn more about the village's history and culture with you. Let's plan a day to explore together."
+        ],
+        [
+          "Ayesha Khan",
+          "Great! How about we meet at the library tomorrow morning to start our exploration?"
+        ],
+        [
+          "Tamara Taylor",
+          "I think that's a fantastic idea! I'm looking forward to learning more about the village with you. See you at the library tomorrow morning!"
+        ],
+        [
+          "Ayesha Khan",
+          "Great! I'll prepare a list of places in the village for us to visit tomorrow."
+        ],
+        [
+          "Tamara Taylor",
+          "I'm really excited to explore the village with you tomorrow and learn more about its history and culture."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm glad we can explore the village together. It's always more fun to learn about a place with someone new."
+        ],
+        [
+          "Tamara Taylor",
+          "I'm really looking forward to our exploration tomorrow. It's been great getting to know more about the village and its residents through our conversations."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm glad we connected and are exploring the village together. It's always nice to have someone to share the experience with."
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds wonderful, I can't wait to see the places you've researched. Thank you for taking the time to share your knowledge with me."
+        ],
+        [
+          "Ayesha Khan",
+          "I'm glad we connected and are exploring the village together. It's always nice to have someone to share the experience with."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you for inviting me to explore the village with you. I look forward to our adventure tomorrow!"
+        ],
+        [
+          "Ayesha Khan",
+          "Shall we also plan to attend the local music event together after our exploration tomorrow?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds like a fantastic idea! I love music events. Count me in for attending the local music event after our exploration tomorrow."
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        61
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "taking a break to have dinner (cooking dinner) @ the Ville:Adam Smith's house:main room:cooking area",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 17:54:50"
+  }
+}
