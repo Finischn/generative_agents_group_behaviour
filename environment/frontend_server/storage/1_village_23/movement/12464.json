@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcb0",
+      "description": "managing operations at Hobbs Cafe (taking orders and managing the cash register) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending the creative writing workshop (listening to the workshop instructor's introduction) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Ayesha Khan discussing upcoming village events and activities such as joining a book club, attending a community event, exploring the farmers' market, relaxing in the park, visiting an art exhibition, and joining a guided tour of the historical museum. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hello Ayesha, it's great to see you here at the library. How's your assignment going?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hello Klaus, my assignment is coming along well. I've been researching information for it here at the library. How about you, how's your day going?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Ayesha. If you have some free time, would you like to join me at the book club on Thursday and maybe attend a community event next weekend? I think you'll enjoy meeting other villagers who share our interests in Shakespearean literature and local culture."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you for the invitation, Klaus. I would love to join the book club on Thursday and attend the community event next weekend."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad to hear that you're interested in joining the book club and attending the community event. It will be a great opportunity for you to meet more people in the village who share our interests. I'll make sure to introduce you to some local artists and musicians who are involved in these activities as well."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Klaus. I appreciate your warm welcome and the opportunity to join these events. I look forward to exploring more of the village's cultural treasures with you and meeting the local artists and musicians."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're interested in exploring more of the village's cultural offerings. Let's plan to visit the farmers' market this Saturday and maybe relax in the park afterwards. It'll be a great way to enjoy the community and get a taste of the local flavor."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Klaus. I would love to explore the farmers' market this Saturday and relax in the park afterwards. It sounds like a perfect way to immerse myself in the village community."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's also plan to visit the local art exhibition next week. It's a great way to experience the creative side of our village and meet some talented artists."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much, Klaus, for making me feel welcomed and introducing me to all these wonderful activities and events. I'm really looking forward to exploring more of the village with you and meeting the local artists and musicians. Your suggestions have been fantastic!"
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I'm also planning to introduce you to a local historian who can share more insights about the village's rich cultural heritage. Would you be interested in joining a guided tour of the historical museum next week?"
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much, Klaus, for being so welcoming and introducing me to all these amazing activities and events. I'm excited to explore more of the village with you and meet the local artists, musicians, and historian. Your suggestions have been truly inspiring!"
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I'm glad you're interested in exploring more of the village's cultural offerings. Let's plan to visit the farmers' market this Saturday and maybe relax in the park afterwards. It'll be a great way to enjoy the community and get a taste of the local flavor."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Klaus. I would love to join the book club on Thursday and attend the community event next weekend. It will be a great opportunity to meet other villagers who share our interests in Shakespearean literature and local culture."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I'm glad you're interested in exploring more of the village's cultural offerings. Let's plan to visit the farmers' market this Saturday and maybe relax in the park afterwards. It'll be a great way to enjoy the community and get a taste of the local flavor."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Klaus. I appreciate your warm welcome and the opportunity to join these events. I look forward to exploring more of the village's cultural treasures with you and meeting the local artists and musicians."
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        83,
+        49
+      ],
+      "pronunciatio": "\ud83d\uded2",
+      "description": "running errands and gathering party material (going to the local grocery store to buy snacks and drinks for the party) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Ayesha Khan discussing upcoming village events and activities such as joining a book club, attending a community event, exploring the farmers' market, relaxing in the park, visiting an art exhibition, and joining a guided tour of the historical museum. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hello Ayesha, it's great to see you here at the library. How's your assignment going?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hello Klaus, my assignment is coming along well. I've been researching information for it here at the library. How about you, how's your day going?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Ayesha. If you have some free time, would you like to join me at the book club on Thursday and maybe attend a community event next weekend? I think you'll enjoy meeting other villagers who share our interests in Shakespearean literature and local culture."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you for the invitation, Klaus. I would love to join the book club on Thursday and attend the community event next weekend."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad to hear that you're interested in joining the book club and attending the community event. It will be a great opportunity for you to meet more people in the village who share our interests. I'll make sure to introduce you to some local artists and musicians who are involved in these activities as well."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Klaus. I appreciate your warm welcome and the opportunity to join these events. I look forward to exploring more of the village's cultural treasures with you and meeting the local artists and musicians."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're interested in exploring more of the village's cultural offerings. Let's plan to visit the farmers' market this Saturday and maybe relax in the park afterwards. It'll be a great way to enjoy the community and get a taste of the local flavor."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Klaus. I would love to explore the farmers' market this Saturday and relax in the park afterwards. It sounds like a perfect way to immerse myself in the village community."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's also plan to visit the local art exhibition next week. It's a great way to experience the creative side of our village and meet some talented artists."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much, Klaus, for making me feel welcomed and introducing me to all these wonderful activities and events. I'm really looking forward to exploring more of the village with you and meeting the local artists and musicians. Your suggestions have been fantastic!"
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I'm also planning to introduce you to a local historian who can share more insights about the village's rich cultural heritage. Would you be interested in joining a guided tour of the historical museum next week?"
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much, Klaus, for being so welcoming and introducing me to all these amazing activities and events. I'm excited to explore more of the village with you and meet the local artists, musicians, and historian. Your suggestions have been truly inspiring!"
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I'm glad you're interested in exploring more of the village's cultural offerings. Let's plan to visit the farmers' market this Saturday and maybe relax in the park afterwards. It'll be a great way to enjoy the community and get a taste of the local flavor."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Klaus. I would love to join the book club on Thursday and attend the community event next weekend. It will be a great opportunity to meet other villagers who share our interests in Shakespearean literature and local culture."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I'm glad you're interested in exploring more of the village's cultural offerings. Let's plan to visit the farmers' market this Saturday and maybe relax in the park afterwards. It'll be a great way to enjoy the community and get a taste of the local flavor."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Klaus. I appreciate your warm welcome and the opportunity to join these events. I look forward to exploring more of the village's cultural treasures with you and meeting the local artists and musicians."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending afternoon classes at Oak Hill College (listening to the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending classes at Oak Hill College (taking notes during the class) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        77,
+        56
+      ],
+      "pronunciatio": "\ud83d\udcde\ud83d\udecd\ufe0f",
+      "description": "attending to customers and working at The Willow Market and Pharmacy (answering phone calls, taking orders, and assisting customers) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        41,
+        53
+      ],
+      "pronunciatio": "\ud83c\udfa8",
+      "description": "still working on her new children's book series (working on illustrations for the book) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        39,
+        28
+      ],
+      "pronunciatio": "\ud83d\udcbc",
+      "description": "meeting with Klaus Mueller to discuss the town square project (preparing questions and talking points for the meeting) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 10:37:20"
+  }
+}

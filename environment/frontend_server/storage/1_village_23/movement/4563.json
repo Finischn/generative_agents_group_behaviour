@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83d\udd75\ufe0f\u200d",
+      "description": "managing operations at Hobbs Cafe and interacting with customers (checking in with her staff and delegating tasks) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having lunch (conversing about Sam and Carlos are chatting about exploring the village together, attending an art exhibition, hiking trail, local music scene, concert at the park, art gallery, historical museum, community center, and a community picnic at Johnson Park.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\u270d\ufe0f",
+      "description": "writing his research paper at the library (writing the second body paragraph) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        72,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the local art gallery and historical museum, making plans for dinner at the local diner, attending a book club meeting, visiting Johnson Park and seeing military memorabilia, stopping by The Rose and Crown Pub to finalize birthday party arrangements, and discussing inviting friends from the village community to a poetry and music event. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Eddy, it's great to see you here at Hobbs Cafe. Have you had a chance to visit the local art gallery and historical museum recently?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, I actually haven't had the chance to visit the art gallery and historical museum yet. Would you be interested in exploring them together sometime?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a great idea! Why don't we plan a visit to the art gallery and historical museum this Saturday afternoon?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds perfect! I'll make sure to check my schedule and confirm the details with you soon. I'm looking forward to exploring the art gallery and historical museum with you."
+        ],
+        [
+          "Sam Moore",
+          "We can also plan to grab dinner at the local diner after visiting the art gallery and museum. How about we meet at 6pm on Saturday?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a plan, Sam! I'll double-check my schedule and let you know if there are any changes. I can't wait for our Saturday adventure."
+        ],
+        [
+          "Sam Moore",
+          "Great! Let's also make plans to attend the upcoming book club meeting together. It's always a fun time discussing different books with the group."
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a great plan, Sam! I'm excited to visit the art gallery, historical museum, and grab dinner at the local diner with you on Saturday. Let's also make sure to attend the book club meeting together, I always enjoy our discussions with the group."
+        ],
+        [
+          "Sam Moore",
+          "Let's also plan to explore Johnson Park and see the military memorabilia after our visit to the art gallery and museum. How about we meet at the park at 3pm on Saturday?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a wonderful plan, Sam! I'm looking forward to exploring Johnson Park and seeing the military memorabilia with you on Saturday afternoon."
+        ],
+        [
+          "Sam Moore",
+          "Let's also make sure to stop by The Rose and Crown Pub after our visit to Johnson Park. We can finalize the details for my birthday party happening there tomorrow. How about we meet at the pub at 5pm to go over the arrangements?"
+        ],
+        [
+          "Eddy Lin",
+          "Sam, I think it would be a great idea to invite our friends from the village community to the poetry and music event that Klaus, Ayesha, Carlos, Isabella, and I have been planning. We could showcase our work, engage with the local artists and musicians, and involve the historians and school children as well. What do you think?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a fantastic idea, Eddy! Let's definitely plan to include our friends from the village community in the poetry and music event. It will be a great opportunity to showcase our talents and bring the community together. We can discuss the details and logistics further when we meet at The Rose and Crown Pub tomorrow for my birthday party. I'm really excited about this joint event!"
+        ],
+        [
+          "Eddy Lin",
+          "Sam, I think it would be a fantastic idea to involve the local school children in our poetry and music event as well. We could organize a storytelling and music workshop with them to showcase their creativity and engage the younger generation. What do you think?"
+        ],
+        [
+          "Sam Moore",
+          "It's a brilliant idea to involve the local school children in our poetry and music event. We can create a workshop where they can showcase their storytelling and musical talents. Let's plan a meeting to discuss the details further."
+        ],
+        [
+          "Eddy Lin",
+          "Sam, let's also plan to reach out to local artists and musicians to collaborate on our poetry and music event. Their expertise and creativity would add a unique touch to our project. I'll work on contacting them and updating you on our progress."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending her fifth class at Oak Hill College and discussing her senior thesis topic with her professor @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        60,
+        30
+      ],
+      "pronunciatio": "\ud83d\udde8\ufe0f",
+      "description": "having lunch (conversing about Wolfgang Schulz and Eddy Lin discussing various places to explore and activities to try out in the village, including the local art gallery, historical museum, local diner, Johnson Park, farmers' market, book club, The Rose and Crown Pub, and the community center.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        72,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the local art gallery and historical museum, making plans for dinner at the local diner, attending a book club meeting, visiting Johnson Park and seeing military memorabilia, stopping by The Rose and Crown Pub to finalize birthday party arrangements, and discussing inviting friends from the village community to a poetry and music event. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Eddy, it's great to see you here at Hobbs Cafe. Have you had a chance to visit the local art gallery and historical museum recently?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, I actually haven't had the chance to visit the art gallery and historical museum yet. Would you be interested in exploring them together sometime?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a great idea! Why don't we plan a visit to the art gallery and historical museum this Saturday afternoon?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds perfect! I'll make sure to check my schedule and confirm the details with you soon. I'm looking forward to exploring the art gallery and historical museum with you."
+        ],
+        [
+          "Sam Moore",
+          "We can also plan to grab dinner at the local diner after visiting the art gallery and museum. How about we meet at 6pm on Saturday?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a plan, Sam! I'll double-check my schedule and let you know if there are any changes. I can't wait for our Saturday adventure."
+        ],
+        [
+          "Sam Moore",
+          "Great! Let's also make plans to attend the upcoming book club meeting together. It's always a fun time discussing different books with the group."
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a great plan, Sam! I'm excited to visit the art gallery, historical museum, and grab dinner at the local diner with you on Saturday. Let's also make sure to attend the book club meeting together, I always enjoy our discussions with the group."
+        ],
+        [
+          "Sam Moore",
+          "Let's also plan to explore Johnson Park and see the military memorabilia after our visit to the art gallery and museum. How about we meet at the park at 3pm on Saturday?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a wonderful plan, Sam! I'm looking forward to exploring Johnson Park and seeing the military memorabilia with you on Saturday afternoon."
+        ],
+        [
+          "Sam Moore",
+          "Let's also make sure to stop by The Rose and Crown Pub after our visit to Johnson Park. We can finalize the details for my birthday party happening there tomorrow. How about we meet at the pub at 5pm to go over the arrangements?"
+        ],
+        [
+          "Eddy Lin",
+          "Sam, I think it would be a great idea to invite our friends from the village community to the poetry and music event that Klaus, Ayesha, Carlos, Isabella, and I have been planning. We could showcase our work, engage with the local artists and musicians, and involve the historians and school children as well. What do you think?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a fantastic idea, Eddy! Let's definitely plan to include our friends from the village community in the poetry and music event. It will be a great opportunity to showcase our talents and bring the community together. We can discuss the details and logistics further when we meet at The Rose and Crown Pub tomorrow for my birthday party. I'm really excited about this joint event!"
+        ],
+        [
+          "Eddy Lin",
+          "Sam, I think it would be a fantastic idea to involve the local school children in our poetry and music event as well. We could organize a storytelling and music workshop with them to showcase their creativity and engage the younger generation. What do you think?"
+        ],
+        [
+          "Sam Moore",
+          "It's a brilliant idea to involve the local school children in our poetry and music event. We can create a workshop where they can showcase their storytelling and musical talents. Let's plan a meeting to discuss the details further."
+        ],
+        [
+          "Eddy Lin",
+          "Sam, let's also plan to reach out to local artists and musicians to collaborate on our poetry and music event. Their expertise and creativity would add a unique touch to our project. I'll work on contacting them and updating you on our progress."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        90,
+        52
+      ],
+      "pronunciatio": "\ud83e\uddf9",
+      "description": "still managing the store and helping customers with their orders (restocking shelves and organizing products) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        57,
+        65
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having lunch (eating her lunch) @ the Ville:Tamara Taylor and Carmen Ortiz's house:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        48
+      ],
+      "pronunciatio": "\u23f3",
+      "description": "having lunch and taking a break to go for a walk (taking a 10-minute break to relax and stretch) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:40:30"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        57,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "managing operations at Hobbs Cafe (conversing about Isabella Rodriguez and Adam Smith discussing various upcoming community events and activities, including an art exhibition, book club meeting, community clean-up event, park event, and farmers' market visit.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        34,
+        44
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "going for a walk in nature (writing in his journal) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        109,
+        30
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "still studying at the library (conversing about Klaus Mueller and Tom Moreno are planning a series of cultural and community activities for Isabella to immerse her in the local art scene, history, music, literature, nature, community events, and sustainability efforts, including a community picnic, volunteer opportunities, visits to local artists, a cultural festival, community center events, and a local community theater production.) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        67,
+        46
+      ],
+      "pronunciatio": "\ud83c\udf54",
+      "description": "preparing for the party and possibly making a trip to the store (preparing food and drinks for the party) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having dinner (chatting with Isabella while waiting for their food) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        110,
+        58
+      ],
+      "pronunciatio": "\ud83d\udcaa",
+      "description": "exercising in his room (doing strength training exercises) @ the Ville:Dorm for Oak Hill College:Wolfgang Schulz's room:lifting weight",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        80,
+        36
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about collaborating with local musicians, artists, and historians to incorporate traditional folk music elements into their project composition. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Tom Moreno",
+          "Hey Eddy, I was thinking about our project and how we can incorporate traditional folk music elements. What do you think about reaching out to local musicians for collaboration?"
+        ],
+        [
+          "Eddy Lin",
+          "That's a great idea, Tom. I know a few talented musicians in the village who would be perfect for this project. Let's reach out to them and discuss how we can blend traditional folk music into our composition."
+        ],
+        [
+          "Tom Moreno",
+          "I agree, let's schedule a meeting with the local musicians this weekend to discuss the collaboration further."
+        ],
+        [
+          "Eddy Lin",
+          "I think we should also consider involving local artists in our project to add more creativity and depth. Do you have any suggestions for artists we can reach out to?"
+        ],
+        [
+          "Tom Moreno",
+          "I completely agree with you, Eddy. Involving local artists would definitely enhance our project's creativity and depth. I'll reach out to some of the artists I know and see if they're interested in collaborating with us."
+        ],
+        [
+          "Eddy Lin",
+          "We should also consider reaching out to local historians to gather stories and perspectives that we can incorporate into our project. Their insights could add a unique and enriching aspect to our composition."
+        ],
+        [
+          "Tom Moreno",
+          "That's a fantastic idea, Eddy. We can definitely reach out to local historians to gather stories and perspectives for our project. It will truly add a unique and enriching aspect to our composition."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        80,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about collaborating with local musicians, artists, and historians to incorporate traditional folk music elements into their project composition. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Tom Moreno",
+          "Hey Eddy, I was thinking about our project and how we can incorporate traditional folk music elements. What do you think about reaching out to local musicians for collaboration?"
+        ],
+        [
+          "Eddy Lin",
+          "That's a great idea, Tom. I know a few talented musicians in the village who would be perfect for this project. Let's reach out to them and discuss how we can blend traditional folk music into our composition."
+        ],
+        [
+          "Tom Moreno",
+          "I agree, let's schedule a meeting with the local musicians this weekend to discuss the collaboration further."
+        ],
+        [
+          "Eddy Lin",
+          "I think we should also consider involving local artists in our project to add more creativity and depth. Do you have any suggestions for artists we can reach out to?"
+        ],
+        [
+          "Tom Moreno",
+          "I completely agree with you, Eddy. Involving local artists would definitely enhance our project's creativity and depth. I'll reach out to some of the artists I know and see if they're interested in collaborating with us."
+        ],
+        [
+          "Eddy Lin",
+          "We should also consider reaching out to local historians to gather stories and perspectives that we can incorporate into our project. Their insights could add a unique and enriching aspect to our composition."
+        ],
+        [
+          "Tom Moreno",
+          "That's a fantastic idea, Eddy. We can definitely reach out to local historians to gather stories and perspectives for our project. It will truly add a unique and enriching aspect to our composition."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        54
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "finishing up her work on her comic book series (reviewing her progress on the comic book series) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        56,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "continuing to work on his book about creativity (conversing about Isabella Rodriguez and Adam Smith discussing various upcoming community events and activities, including an art exhibition, book club meeting, community clean-up event, park event, and farmers' market visit.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 16:53:00"
+  }
+}

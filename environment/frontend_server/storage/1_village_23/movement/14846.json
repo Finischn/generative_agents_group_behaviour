@@ -1,0 +1,155 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf33\ud83c\udfa8",
+      "description": "managing operations at Hobbs Cafe (conversing about exploring the village together, visiting the farmers' market, art gallery, Johnson Park, and The Rose and Crown Pub, as well as participating in community clean-up events, park events, book club meetings, art exhibitions, and a local music event, with Eddy Lin inviting Isabella Rodriguez to join and experience the village community together.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        29,
+        49
+      ],
+      "pronunciatio": "\ud83e\udd14",
+      "description": "going for a walk in nature (reflecting on his thoughts and feelings) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        112,
+        30
+      ],
+      "pronunciatio": "\ud83d\ude97",
+      "description": "heading to Johnson Park to meet Isabella with flowers as a welcome gift (driving to Johnson Park) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        82,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Sam Moore and Tom Moreno discussing plans for Sam's birthday party at The Rose and Crown Pub, with Tom offering to bring homemade cookies and wine for the celebration. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Tom, it's great to see you here at The Willows Market and Pharmacy. How's everything going with closing up shop?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Sam, everything went smoothly today. The sales were good, and I'm excited for your birthday bash at The Rose and Crown Pub later. How are you feeling about it?"
+        ],
+        [
+          "Sam Moore",
+          "Thanks, Tom! I'm feeling really excited about the party. I'm glad everything went well here. Have you thought about what you'll bring to the party?"
+        ],
+        [
+          "Tom Moreno",
+          "I was thinking of bringing some homemade cookies and a bottle of your favorite wine. Does that sound good to you?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds perfect, Tom! I really appreciate you helping out with the snacks and drinks. It means a lot to me."
+        ],
+        [
+          "Tom Moreno",
+          "I'm also excited to catch up with everyone at the party and celebrate another year of great memories with you, Sam."
+        ],
+        [
+          "Sam Moore",
+          "I'm looking forward to seeing you at The Rose and Crown Pub later. Thanks again for all your help, Tom!"
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "having dinner (eating her dinner) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciatio": "\ud83d\udca7",
+      "description": "exercising in his room (taking a water break) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf33\ud83c\udfa8",
+      "description": "studying and working on his composition project at Hobbs Cafe (conversing about exploring the village together, visiting the farmers' market, art gallery, Johnson Park, and The Rose and Crown Pub, as well as participating in community clean-up events, park events, book club meetings, art exhibitions, and a local music event, with Eddy Lin inviting Isabella Rodriguez to join and experience the village community together.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        86,
+        43
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Sam Moore and Tom Moreno discussing plans for Sam's birthday party at The Rose and Crown Pub, with Tom offering to bring homemade cookies and wine for the celebration. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Tom, it's great to see you here at The Willows Market and Pharmacy. How's everything going with closing up shop?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Sam, everything went smoothly today. The sales were good, and I'm excited for your birthday bash at The Rose and Crown Pub later. How are you feeling about it?"
+        ],
+        [
+          "Sam Moore",
+          "Thanks, Tom! I'm feeling really excited about the party. I'm glad everything went well here. Have you thought about what you'll bring to the party?"
+        ],
+        [
+          "Tom Moreno",
+          "I was thinking of bringing some homemade cookies and a bottle of your favorite wine. Does that sound good to you?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds perfect, Tom! I really appreciate you helping out with the snacks and drinks. It means a lot to me."
+        ],
+        [
+          "Tom Moreno",
+          "I'm also excited to catch up with everyone at the party and celebrate another year of great memories with you, Sam."
+        ],
+        [
+          "Sam Moore",
+          "I'm looking forward to seeing you at The Rose and Crown Pub later. Thanks again for all your help, Tom!"
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        50,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "finishing up her work on her comic book series (adding dialogue to the comic book) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        68,
+        30
+      ],
+      "pronunciatio": "\ud83c\udf7f",
+      "description": "continuing to work on his book about creativity (taking a break to grab a snack) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 17:14:20"
+  }
+}

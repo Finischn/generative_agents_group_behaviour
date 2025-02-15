@@ -1,0 +1,2081 @@
+[
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": false,
+        "init_name": "Ayesha",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 13, 2023, 06:07:00"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Sam",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 13, 2023, 06:17:40"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Adam",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 13, 2023, 06:17:40"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": false,
+        "init_name": "Sam",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 13, 2023, 06:36:00"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 13, 2023, 07:08:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Isabella",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 13, 2023, 07:39:20"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 13, 2023, 07:39:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Carlos",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 13, 2023, 08:07:40"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Isabella",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 13, 2023, 08:12:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": false,
+        "init_name": "Ayesha",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 13, 2023, 08:19:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Isabella",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 13, 2023, 08:23:20"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 13, 2023, 08:24:00"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": false,
+        "init_name": "Carlos",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 13, 2023, 08:36:50"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Wolfgang",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 13, 2023, 08:42:50"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Carlos",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 13, 2023, 08:47:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Ayesha",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 13, 2023, 08:56:50"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 13, 2023, 09:03:50"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Carlos",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 13, 2023, 09:16:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": false,
+        "init_name": "Isabella",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 13, 2023, 09:26:20"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Sam",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 13, 2023, 09:27:40"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Sam",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 13, 2023, 09:42:20"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 13, 2023, 09:55:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Wolfgang",
+        "output": "no",
+        "time": "February 13, 2023, 10:29:50"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Ayesha",
+        "output": "no",
+        "time": "February 13, 2023, 10:29:50"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 13, 2023, 11:09:40"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 13, 2023, 11:28:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 13, 2023, 11:41:50"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 11:49:50"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 13, 2023, 11:49:50"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 13, 2023, 12:03:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 13, 2023, 12:04:00"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 13, 2023, 12:21:40"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 13, 2023, 12:22:40"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 13, 2023, 12:38:00"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": false,
+        "init_name": "Carlos",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 13, 2023, 12:41:50"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 13, 2023, 12:54:20"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 13, 2023, 12:54:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": false,
+        "init_name": "Isabella",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 13, 2023, 13:05:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 13, 2023, 13:11:40"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 13, 2023, 13:12:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 13:16:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": false,
+        "init_name": "Carlos",
+        "target_name": "Tamara",
+        "output": "yes",
+        "time": "February 13, 2023, 13:17:30"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Isabella",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 13, 2023, 13:20:40"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": false,
+        "init_name": "Wolfgang",
+        "target_name": "Tamara",
+        "output": "yes",
+        "time": "February 13, 2023, 13:29:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 13:33:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 13:33:30"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 13, 2023, 13:34:20"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 13, 2023, 13:38:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 13, 2023, 13:46:50"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Tamara",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 13, 2023, 13:52:00"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "no",
+        "time": "February 13, 2023, 13:52:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Isabella",
+        "output": "no",
+        "time": "February 13, 2023, 13:52:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 13, 2023, 13:52:30"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Carlos",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 13, 2023, 14:06:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 13, 2023, 14:07:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 13, 2023, 14:08:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": false,
+        "init_name": "Sam",
+        "target_name": "Tamara",
+        "output": "yes",
+        "time": "February 13, 2023, 14:25:30"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 14:40:30"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 13, 2023, 14:40:30"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 13, 2023, 15:18:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 13, 2023, 15:18:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 13, 2023, 15:22:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 13, 2023, 15:23:20"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 13, 2023, 15:23:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 13, 2023, 15:26:00"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 13, 2023, 15:26:00"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Carlos",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 13, 2023, 15:42:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 13, 2023, 15:42:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Ayesha",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 13, 2023, 15:47:00"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Ayesha",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 13, 2023, 15:49:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Eddy",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 13, 2023, 15:51:00"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Tom",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 13, 2023, 15:51:00"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 13, 2023, 16:08:30"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 13, 2023, 16:13:30"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 13, 2023, 16:13:30"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Ayesha",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 13, 2023, 16:17:40"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 16:44:00"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Isabella",
+        "output": "no",
+        "time": "February 13, 2023, 16:44:00"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 13, 2023, 16:44:30"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 13, 2023, 16:56:40"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 17:07:50"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 13, 2023, 17:07:50"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 13, 2023, 17:21:50"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 13, 2023, 17:21:50"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Sam",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 13, 2023, 17:36:30"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Adam",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 13, 2023, 17:36:30"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Sam",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 13, 2023, 17:36:50"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Sam",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 13, 2023, 17:40:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Adam",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 13, 2023, 17:40:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Adam",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 13, 2023, 17:41:00"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Adam",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 13, 2023, 17:45:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 13, 2023, 17:51:00"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 13, 2023, 18:07:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 13, 2023, 18:09:00"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 13, 2023, 18:19:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 13, 2023, 18:20:40"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 13, 2023, 18:22:00"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 13, 2023, 18:33:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 13, 2023, 18:36:30"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 13, 2023, 18:42:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 13, 2023, 18:56:40"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 13, 2023, 19:12:50"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Carlos",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 13, 2023, 19:43:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 13, 2023, 20:11:00"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 13, 2023, 20:36:30"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 13, 2023, 20:51:50"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 13, 2023, 21:04:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 13, 2023, 21:08:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 13, 2023, 21:17:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Wolfgang",
+        "output": "no",
+        "time": "February 14, 2023, 06:08:30"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 06:08:30"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 14, 2023, 06:35:30"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 07:02:50"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": false,
+        "init_name": "Adam",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 14, 2023, 07:16:50"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 14, 2023, 07:55:20"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 14, 2023, 08:09:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 14, 2023, 08:24:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 14, 2023, 08:31:20"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 14, 2023, 08:31:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 14, 2023, 08:38:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 08:55:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 09:06:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 14, 2023, 09:23:40"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 14, 2023, 09:42:00"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 09:57:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Isabella",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 14, 2023, 09:57:40"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 14, 2023, 10:16:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 10:22:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 14, 2023, 10:39:50"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 14, 2023, 10:39:50"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Tamara",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 10:40:50"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 14, 2023, 10:42:40"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 14, 2023, 11:09:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 14, 2023, 11:09:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 11:24:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Tom",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 14, 2023, 11:28:40"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Adam",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 14, 2023, 11:28:40"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 11:35:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 14, 2023, 11:35:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Adam",
+        "output": "no",
+        "time": "February 14, 2023, 11:46:00"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": false,
+        "init_name": "Tom",
+        "target_name": "Tamara",
+        "output": "yes",
+        "time": "February 14, 2023, 11:46:00"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Adam",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 14, 2023, 11:46:00"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 14, 2023, 11:52:40"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 11:55:20"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 14, 2023, 12:09:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 14, 2023, 12:15:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 14, 2023, 12:18:30"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 12:32:20"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 14, 2023, 12:33:00"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Wolfgang",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 14, 2023, 12:33:00"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": false,
+        "init_name": "Tom",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 14, 2023, 12:33:00"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 14, 2023, 12:33:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 14, 2023, 12:39:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 14, 2023, 12:39:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Klaus",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 14, 2023, 12:48:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 14, 2023, 12:54:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 14, 2023, 13:00:40"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 14, 2023, 13:06:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 14, 2023, 13:13:20"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 14, 2023, 13:13:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 14, 2023, 13:16:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 14, 2023, 13:18:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 14, 2023, 13:32:00"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Tamara",
+        "output": "yes",
+        "time": "February 14, 2023, 13:39:50"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Wolfgang",
+        "output": "no",
+        "time": "February 14, 2023, 13:51:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Ayesha",
+        "output": "no",
+        "time": "February 14, 2023, 13:51:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 14, 2023, 13:53:30"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 14:05:00"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 14:09:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Tamara",
+        "output": "no",
+        "time": "February 14, 2023, 14:17:30"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Tamara",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 14, 2023, 14:17:30"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 14, 2023, 14:21:50"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Tamara",
+        "output": "yes",
+        "time": "February 14, 2023, 14:33:30"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Ayesha",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 14:37:00"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Tamara",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 14:55:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": false,
+        "init_name": "Ayesha",
+        "target_name": "Tamara",
+        "output": "yes",
+        "time": "February 14, 2023, 15:07:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 15:20:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 15:37:30"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 14, 2023, 15:56:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 14, 2023, 16:04:40"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 16:11:30"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 14, 2023, 16:21:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 14, 2023, 16:27:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 16:34:50"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Tom",
+        "output": "no",
+        "time": "February 14, 2023, 16:49:00"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 14, 2023, 16:49:00"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 14, 2023, 16:55:20"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 14, 2023, 16:57:00"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 14, 2023, 17:11:00"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": false,
+        "init_name": "Eddy",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 17:16:30"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Wolfgang",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 14, 2023, 17:26:40"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 14, 2023, 17:43:30"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 14, 2023, 17:51:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 17:58:40"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Tamara",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 14, 2023, 18:02:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 14, 2023, 18:02:40"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 18:11:20"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 14, 2023, 18:15:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 18:22:00"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": false,
+        "init_name": "Isabella",
+        "target_name": "Tamara",
+        "output": "yes",
+        "time": "February 14, 2023, 18:22:40"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 18:34:00"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": false,
+        "init_name": "Eddy",
+        "target_name": "Tamara",
+        "output": "yes",
+        "time": "February 14, 2023, 18:40:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Adam",
+        "target_name": "Klaus",
+        "output": "no",
+        "time": "February 14, 2023, 18:43:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 18:43:30"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Tamara",
+        "output": "yes",
+        "time": "February 14, 2023, 18:52:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Eddy",
+        "output": "yes",
+        "time": "February 14, 2023, 18:56:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 14, 2023, 19:00:50"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 19:01:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 14, 2023, 19:16:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Tamara",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 19:18:10"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Carlos",
+        "output": "yes",
+        "time": "February 14, 2023, 19:34:50"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 19:35:00"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Sam",
+        "output": "no",
+        "time": "February 14, 2023, 19:48:30"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Isabella",
+        "output": "yes",
+        "time": "February 14, 2023, 19:48:30"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 20:02:00"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Isabella",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 14, 2023, 20:13:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 14, 2023, 20:17:20"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 14, 2023, 20:30:50"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Sam",
+        "output": "yes",
+        "time": "February 14, 2023, 20:40:30"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Tom",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 14, 2023, 20:47:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 14, 2023, 20:53:00"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 14, 2023, 21:04:20"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 14, 2023, 21:19:00"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Klaus",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 21:19:40"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 14, 2023, 21:26:00"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Klaus",
+        "output": "yes",
+        "time": "February 14, 2023, 21:35:30"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Adam",
+        "target_name": "Wolfgang",
+        "output": "yes",
+        "time": "February 14, 2023, 21:35:50"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Ayesha",
+        "target_name": "Eddy",
+        "output": "no",
+        "time": "February 14, 2023, 21:44:40"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "newcomer to the village",
+        "know_each_other": true,
+        "init_name": "Eddy",
+        "target_name": "Ayesha",
+        "output": "yes",
+        "time": "February 14, 2023, 21:44:40"
+    },
+    {
+        "init_group": "longterm resident of the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Sam",
+        "target_name": "Tom",
+        "output": "yes",
+        "time": "February 14, 2023, 21:48:10"
+    },
+    {
+        "init_group": "newcomer to the village",
+        "target_group": "longterm resident of the village",
+        "know_each_other": true,
+        "init_name": "Carlos",
+        "target_name": "Adam",
+        "output": "yes",
+        "time": "February 14, 2023, 21:52:10"
+    }
+]

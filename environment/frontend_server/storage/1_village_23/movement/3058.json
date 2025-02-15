@@ -1,0 +1,357 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Eddy are planning to explore the village together, starting with a visit to the farmers' market, attending a book club, grabbing dinner at a local diner, taking a walk in Johnson Park to see military memorabilia, and ending the day with a meal at The Rose and Crown Pub. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Eddy! I heard you and Carlos are collaborating on a poetry and music project. That sounds fascinating! I would love to hear more about it."
+        ],
+        [
+          "Eddy Lin",
+          "Hi Isabella! Yes, Carlos and I are working on a project that combines poetry and music. I'd be happy to tell you more about it! Would you like to join us at Hobbs Cafe tomorrow afternoon to learn more?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds wonderful, Eddy! I would love to join you and Carlos at Hobbs Cafe tomorrow afternoon. I look forward to hearing more about your poetry and music project."
+        ],
+        [
+          "Eddy Lin",
+          "Great! Let's meet at Hobbs Cafe tomorrow at 2 pm. I'll introduce you to Carlos and we can discuss our project further."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Eddy! I will see you at Hobbs Cafe tomorrow at 2 pm to learn more about your poetry and music project. I appreciate the invitation."
+        ],
+        [
+          "Eddy Lin",
+          "Isabella, since you're new to the village, would you like some recommendations on places to visit or activities to do around here?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That would be fantastic, Eddy! I would greatly appreciate any recommendations you have for places to visit or activities to do around the village. I'm always looking to explore and discover new things."
+        ],
+        [
+          "Eddy Lin",
+          "Great! I can recommend some local gems for you to explore. How about we start by visiting the farmers' market and then maybe check out the book club together?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I would love to visit the farmers' market and explore the book club with you, Eddy. Thank you for the recommendations!"
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad you're interested in exploring more of the village, Isabella. We can start with the farmers' market tomorrow and then see where the day takes us!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for the recommendations, Eddy! I'm excited to explore the farmers' market and the book club with you tomorrow. It's great to have someone to show me around the village."
+        ],
+        [
+          "Eddy Lin",
+          "Isabella, after visiting the farmers' market and book club, would you like to grab dinner at the local diner? It's a great spot in the village!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a lovely plan, Eddy! I look forward to exploring the farmers' market, attending the book club, and grabbing dinner at the local diner with you tomorrow."
+        ],
+        [
+          "Eddy Lin",
+          "Isabella, after dinner, we could take a walk around Johnson Park and maybe see some military memorabilia. It's a great way to learn more about the village's history and enjoy the outdoors."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for the recommendations, Eddy! I'm excited to explore the farmers' market and the book club with you tomorrow. It's great to have someone to show me around the village."
+        ],
+        [
+          "Eddy Lin",
+          "Isabella, after our visit to Johnson Park, would you like to grab a bite to eat at The Rose and Crown Pub? It's a popular spot in the village where you can enjoy good food and drinks."
+        ]
+      ]
+    },
+    "Carlos Gomez": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "attending a creative writing workshop (conversing about Eddy and Carlos are discussing collaborating on a poetry and music project while exploring the village community together and planning to meet at Hobbs Cafe tomorrow afternoon.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        122,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Wolfgang Schulz discussing ways for Wolfgang to settle into the village community and explore events, such as farmers' market, book club, meeting local artists and musicians, visiting the local park, learning about the village's history and heritage, and dining options. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Wolfgang, I noticed you've been studying hard for your exams. If you ever need any help or guidance settling into the village, feel free to ask me. I've been a resident here for a long time and know my way around. Exploring the community and meeting new people can be a great way to take a break from studying."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Klaus. I appreciate your offer and will definitely keep that in mind. I would love to learn more about the village and the community here."
+        ],
+        [
+          "Klaus Mueller",
+          "Would you be interested in attending the upcoming farmers' market or joining the local book club? It's a great way to meet new people and get to know the community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great idea, Klaus. I would love to attend the farmers' market and join the book club. It seems like a fantastic way to immerse myself in the community."
+        ],
+        [
+          "Klaus Mueller",
+          "I can also introduce you to some of the local artists and musicians in the village if you're interested. They often gather at Hobbs Cafe for open mic nights."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds wonderful, Klaus. I would be interested in meeting local artists and musicians at Hobbs Cafe for open mic nights. It would be a great way for me to experience the vibrant community here."
+        ],
+        [
+          "Klaus Mueller",
+          "I can also show you around the local park, it's a peaceful spot to relax and connect with nature. Would you be interested in that?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for your kind offer, Klaus. I would love to visit the local park with you. It sounds like a relaxing way to connect with nature and unwind from my studies."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're interested in exploring the village and connecting with the community. Let me know if you have any questions or need any recommendations. I'm here to help!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much, Klaus. I really appreciate your help and guidance in getting settled in the village. I look forward to exploring the farmers' market, joining the book club, meeting local artists and musicians at Hobbs Cafe, and visiting the local park. Your support means a lot to me."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're settling in well, Wolfgang. If you ever have any questions or need further assistance, don't hesitate to reach out. Enjoy exploring the village!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Klaus. I am excited to explore the farmers' market, join the book club, meet local artists and musicians at Hobbs Cafe, and visit the local park. Your help and guidance mean a lot to me as I settle into the village."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad to hear that, Wolfgang. If you need any more information or have any questions about the community events or places to explore, feel free to ask me. I'm always happy to help newcomers settle in."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you again, Klaus, for all your help and guidance. I'm looking forward to attending the farmers' market, joining the book club, meeting local artists and musicians at Hobbs Cafe, and visiting the local park. I'll be sure to reach out if I have any questions or need further assistance as I settle into the village."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad to hear that you're settling in well, Wolfgang. If you need any recommendations for dining options in the village or want to explore more local attractions, feel free to ask me. I can also introduce you to some of the village's history and heritage spots. "
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Klaus, for all your suggestions and offers to explore the village. I would love to learn more about the history and heritage spots, as well as the dining options in the village. Your help is greatly appreciated!"
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83c\udfde\ufe0f\ud83e\udd50",
+      "description": "reading at Hobbs Cafe (conversing about exploring the village, trying out new pastries, receiving recommendations for local activities and places to visit, and being invited to a birthday party at The Rose and Crown Pub, followed by an offer to see military memorabilia, a walk around Johnson Park, and grabbing a bite to eat at the local diner.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        121,
+        34
+      ],
+      "pronunciatio": "\ud83d\ude8c",
+      "description": "attending her first class at Oak Hill College (riding the bus to Oak Hill College) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        123,
+        48
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Wolfgang Schulz discussing ways for Wolfgang to settle into the village community and explore events, such as farmers' market, book club, meeting local artists and musicians, visiting the local park, learning about the village's history and heritage, and dining options. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Wolfgang, I noticed you've been studying hard for your exams. If you ever need any help or guidance settling into the village, feel free to ask me. I've been a resident here for a long time and know my way around. Exploring the community and meeting new people can be a great way to take a break from studying."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Klaus. I appreciate your offer and will definitely keep that in mind. I would love to learn more about the village and the community here."
+        ],
+        [
+          "Klaus Mueller",
+          "Would you be interested in attending the upcoming farmers' market or joining the local book club? It's a great way to meet new people and get to know the community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great idea, Klaus. I would love to attend the farmers' market and join the book club. It seems like a fantastic way to immerse myself in the community."
+        ],
+        [
+          "Klaus Mueller",
+          "I can also introduce you to some of the local artists and musicians in the village if you're interested. They often gather at Hobbs Cafe for open mic nights."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds wonderful, Klaus. I would be interested in meeting local artists and musicians at Hobbs Cafe for open mic nights. It would be a great way for me to experience the vibrant community here."
+        ],
+        [
+          "Klaus Mueller",
+          "I can also show you around the local park, it's a peaceful spot to relax and connect with nature. Would you be interested in that?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for your kind offer, Klaus. I would love to visit the local park with you. It sounds like a relaxing way to connect with nature and unwind from my studies."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're interested in exploring the village and connecting with the community. Let me know if you have any questions or need any recommendations. I'm here to help!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much, Klaus. I really appreciate your help and guidance in getting settled in the village. I look forward to exploring the farmers' market, joining the book club, meeting local artists and musicians at Hobbs Cafe, and visiting the local park. Your support means a lot to me."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're settling in well, Wolfgang. If you ever have any questions or need further assistance, don't hesitate to reach out. Enjoy exploring the village!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Klaus. I am excited to explore the farmers' market, join the book club, meet local artists and musicians at Hobbs Cafe, and visit the local park. Your help and guidance mean a lot to me as I settle into the village."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad to hear that, Wolfgang. If you need any more information or have any questions about the community events or places to explore, feel free to ask me. I'm always happy to help newcomers settle in."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you again, Klaus, for all your help and guidance. I'm looking forward to attending the farmers' market, joining the book club, meeting local artists and musicians at Hobbs Cafe, and visiting the local park. I'll be sure to reach out if I have any questions or need further assistance as I settle into the village."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad to hear that you're settling in well, Wolfgang. If you need any recommendations for dining options in the village or want to explore more local attractions, feel free to ask me. I can also introduce you to some of the village's history and heritage spots. "
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Klaus, for all your suggestions and offers to explore the village. I would love to learn more about the history and heritage spots, as well as the dining options in the village. Your help is greatly appreciated!"
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Eddy are planning to explore the village together, starting with a visit to the farmers' market, attending a book club, grabbing dinner at a local diner, taking a walk in Johnson Park to see military memorabilia, and ending the day with a meal at The Rose and Crown Pub. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Eddy! I heard you and Carlos are collaborating on a poetry and music project. That sounds fascinating! I would love to hear more about it."
+        ],
+        [
+          "Eddy Lin",
+          "Hi Isabella! Yes, Carlos and I are working on a project that combines poetry and music. I'd be happy to tell you more about it! Would you like to join us at Hobbs Cafe tomorrow afternoon to learn more?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds wonderful, Eddy! I would love to join you and Carlos at Hobbs Cafe tomorrow afternoon. I look forward to hearing more about your poetry and music project."
+        ],
+        [
+          "Eddy Lin",
+          "Great! Let's meet at Hobbs Cafe tomorrow at 2 pm. I'll introduce you to Carlos and we can discuss our project further."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Eddy! I will see you at Hobbs Cafe tomorrow at 2 pm to learn more about your poetry and music project. I appreciate the invitation."
+        ],
+        [
+          "Eddy Lin",
+          "Isabella, since you're new to the village, would you like some recommendations on places to visit or activities to do around here?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That would be fantastic, Eddy! I would greatly appreciate any recommendations you have for places to visit or activities to do around the village. I'm always looking to explore and discover new things."
+        ],
+        [
+          "Eddy Lin",
+          "Great! I can recommend some local gems for you to explore. How about we start by visiting the farmers' market and then maybe check out the book club together?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I would love to visit the farmers' market and explore the book club with you, Eddy. Thank you for the recommendations!"
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad you're interested in exploring more of the village, Isabella. We can start with the farmers' market tomorrow and then see where the day takes us!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for the recommendations, Eddy! I'm excited to explore the farmers' market and the book club with you tomorrow. It's great to have someone to show me around the village."
+        ],
+        [
+          "Eddy Lin",
+          "Isabella, after visiting the farmers' market and book club, would you like to grab dinner at the local diner? It's a great spot in the village!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a lovely plan, Eddy! I look forward to exploring the farmers' market, attending the book club, and grabbing dinner at the local diner with you tomorrow."
+        ],
+        [
+          "Eddy Lin",
+          "Isabella, after dinner, we could take a walk around Johnson Park and maybe see some military memorabilia. It's a great way to learn more about the village's history and enjoy the outdoors."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for the recommendations, Eddy! I'm excited to explore the farmers' market and the book club with you tomorrow. It's great to have someone to show me around the village."
+        ],
+        [
+          "Eddy Lin",
+          "Isabella, after our visit to Johnson Park, would you like to grab a bite to eat at The Rose and Crown Pub? It's a popular spot in the village where you can enjoy good food and drinks."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        73,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having breakfast with his wife Jane (having a conversation with Jane about their plans for the day) @ the Ville:Moreno family's house:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83e\udde0\ud83d\udcad",
+      "description": "working on her new children's book series (brainstorming new characters and plot points) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "continuing to work on his book (organizing his thoughts and ideas for the book) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:29:40"
+  }
+}

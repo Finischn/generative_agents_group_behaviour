@@ -1,0 +1,163 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        57,
+        23
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "managing operations at Hobbs Cafe and interacting with customers (conversing about exploring the village, attending events, and visiting local spots while Isabella Rodriguez and Ayesha Khan chat and make plans to socialize together) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        93,
+        29
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "working on his poetry collection (writing a new poem) @ the Ville:Carlos Gomez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        28
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "at the library at Oak Hill College working on his research paper (conducting online research on gentrification) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        86,
+        44
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about arranging plans for Sam's birthday bash at The Rose and Crown Pub, with Sam inviting Tom to attend and Tom expressing his intention to try and make it to the party @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Tom, how's everything going at The Willows Market and Pharmacy today?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Sam, everything is running smoothly at the store today. How are your errands going?"
+        ],
+        [
+          "Sam Moore",
+          "I'm just running some errands and picking up party supplies for my birthday bash tomorrow at The Rose and Crown Pub. You should swing by if you can!"
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a great plan, Sam. I'll try to make it tomorrow night!"
+        ],
+        [
+          "Sam Moore",
+          "I appreciate your support, Tom. Hope to see you there!"
+        ],
+        [
+          "Tom Moreno",
+          "I'll definitely try my best to make it to your birthday bash at The Rose and Crown Pub tomorrow night, Sam!"
+        ],
+        [
+          "Sam Moore",
+          "Thanks, Tom! I'll make sure to save you a seat at the party. Looking forward to catching up with you there!"
+        ],
+        [
+          "Tom Moreno",
+          "Looking forward to celebrating with you at The Rose and Crown Pub tomorrow, Sam!"
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        57,
+        23
+      ],
+      "pronunciatio": "\ud83d\uddfa\ufe0f",
+      "description": "attending her second class at Oak Hill College (conversing about exploring the village, attending events, and visiting local spots while Isabella Rodriguez and Ayesha Khan chat and make plans to socialize together) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying for exams (practicing problems from his textbook) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        109,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending classes at Oak Hill College (taking notes during the class) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        80,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about arranging plans for Sam's birthday bash at The Rose and Crown Pub, with Sam inviting Tom to attend and Tom expressing his intention to try and make it to the party @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Tom, how's everything going at The Willows Market and Pharmacy today?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Sam, everything is running smoothly at the store today. How are your errands going?"
+        ],
+        [
+          "Sam Moore",
+          "I'm just running some errands and picking up party supplies for my birthday bash tomorrow at The Rose and Crown Pub. You should swing by if you can!"
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a great plan, Sam. I'll try to make it tomorrow night!"
+        ],
+        [
+          "Sam Moore",
+          "I appreciate your support, Tom. Hope to see you there!"
+        ],
+        [
+          "Tom Moreno",
+          "I'll definitely try my best to make it to your birthday bash at The Rose and Crown Pub tomorrow night, Sam!"
+        ],
+        [
+          "Sam Moore",
+          "Thanks, Tom! I'll make sure to save you a seat at the party. Looking forward to catching up with you there!"
+        ],
+        [
+          "Tom Moreno",
+          "Looking forward to celebrating with you at The Rose and Crown Pub tomorrow, Sam!"
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        74
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "working on her new children's book series (writing the first chapter of the book) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "continuing to work on his book (writing the first chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:45:30"
+  }
+}

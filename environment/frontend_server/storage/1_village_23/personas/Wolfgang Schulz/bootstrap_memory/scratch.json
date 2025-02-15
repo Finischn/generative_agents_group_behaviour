@@ -1,0 +1,906 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 21:59:50",
+  "curr_tile": [
+    35,
+    32
+  ],
+  "daily_plan_req": "1. Wake up and go for a morning run at the park at 5:30am 2. Attend morning classes at Oak Hill College from 8am to 12pm 3. Study at the library from 1pm to 4pm 4. Exercise in my room before dinner at 7pm.",
+  "name": "Wolfgang Schulz",
+  "first_name": "Wolfgang",
+  "last_name": "Schulz",
+  "age": 54,
+  "innate": "Hardworking, passionate, dedicated",
+  "race": "Black",
+  "village": "newcomer to the village",
+  "gender": "Male",
+  "political_affiliation": "Conservative",
+  "race_div": "White",
+  "education": "Associate degree in college (2-year)",
+  "learned": "Wolfgang Schulz is a student at Oak Hill College studying chemistry and a student athlete. He is very dedicated to both his academics and his sport.",
+  "currently": "Status: Wolfgang Schulz is excited to continue exploring the village with his new friends and engage in community activities. He is looking forward to meeting Tamara at the farmers' market on Saturday morning and participating in various events such as music jam sessions at the village hall. Wolfgang is eager to immerse himself in the community and learn more about the village's history and culture.",
+  "lifestyle": "Wolfgang Schulz goes to bed around 9pm, awakes up around 5am, eats dinner around 6pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Wolfgang Schulz's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 68,
+  "importance_ele_n": 31,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 5:00 am",
+    "go for a run at the park at 6:00 am",
+    "have breakfast and study for exams from 7:00 am to 12:00 pm",
+    "have lunch at 12:00 pm",
+    "continue studying until 4:00 pm",
+    "exercise in his room or at the gym from 4:00 pm to 5:00 pm",
+    "have dinner at 6:00 pm",
+    "review notes and study for a couple more hours until 9:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      300
+    ],
+    [
+      "waking up and completing his morning routine (stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (using the bathroom)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (getting dressed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (packing his bag for school)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (eating breakfast)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (checking his schedule for the day)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (gathering his materials for class)",
+      15
+    ],
+    [
+      "going for a morning run at the park (changing into his running clothes)",
+      5
+    ],
+    [
+      "going for a morning run at the park (stretching and warming up)",
+      10
+    ],
+    [
+      "going for a morning run at the park (on the way to running at a moderate pace)",
+      0
+    ],
+    [
+      "going for a morning run at the park (conversing about Wolfgang Schulz and Ayesha Khan are planning their day exploring the village, including visiting the farmers' market, bakery stall, historical museum, local cafe, art gallery, and attending the book club meeting at the village library.)",
+      9
+    ],
+    [
+      "going for a morning run at the park (running at a moderate pace)",
+      21
+    ],
+    [
+      "going for a morning run at the park (on the way to cooling down and stretching)",
+      0
+    ],
+    [
+      "going for a morning run at the park (conversing about Wolfgang Schulz and Sam Moore are chatting about exploring the village, attending a poetry and music event with Eddy, grabbing coffee at Hobbs Cafe, visiting the local art gallery, and joining a book club meeting at the local library.)",
+      15
+    ],
+    [
+      "going for a morning run at the park (cooling down and stretching)",
+      10
+    ],
+    [
+      "going for a morning run at the park (walking back home)",
+      5
+    ],
+    [
+      "having breakfast and studying for exams (making breakfast)",
+      15
+    ],
+    [
+      "having breakfast and studying for exams (on the way to eating breakfast)",
+      0
+    ],
+    [
+      "having breakfast and studying for exams (conversing about Adam Smith and Wolfgang Schulz are discussing participating in various community events and projects together, including visiting the farmers' market, historical museum, art exhibition, music event, book club meeting, and a community clean-up event, while also planning to grab lunch at the local cafe to chat more about the community and Wolfgang's interests.)",
+      16
+    ],
+    [
+      "having breakfast and studying for exams (eating breakfast)",
+      14
+    ],
+    [
+      "having breakfast and studying for exams (on the way to reviewing notes for upcoming exams)",
+      0
+    ],
+    [
+      "having breakfast and studying for exams (conversing about exploring various community events and activities in the village, including the farmers' market, book club, art exhibition, music events in the park, and a food truck adventure)",
+      11
+    ],
+    [
+      "having breakfast and studying for exams (reviewing notes for upcoming exams)",
+      9
+    ],
+    [
+      "attending morning classes at Oak Hill College (walking to the college campus)",
+      10
+    ],
+    [
+      "attending morning classes at Oak Hill College (checking his schedule for the day)",
+      30
+    ],
+    [
+      "studying at the library (on the way to on the way to finding a quiet study space)",
+      0
+    ],
+    [
+      "studying at the library (conversing about exploring the village, visiting the farmers' market, bakery stall, historical museum, local cafe, art gallery, village library book club meeting, local park, music event at village hall, and dining at the local diner.)",
+      10
+    ],
+    [
+      "studying at the library (organizing his study materials)",
+      10
+    ],
+    [
+      "studying at the library (reviewing his notes from morning classes)",
+      15
+    ],
+    [
+      "studying at the library (working on practice problems)",
+      15
+    ],
+    [
+      "studying at the library (taking a short break)",
+      10
+    ],
+    [
+      "attending afternoon classes at Oak Hill College (walking to his classroom)",
+      5
+    ],
+    [
+      "attending afternoon classes at Oak Hill College (greeting his classmates and professor)",
+      5
+    ],
+    [
+      "attending afternoon classes at Oak Hill College (taking out his notebook and pen)",
+      5
+    ],
+    [
+      "attending afternoon classes at Oak Hill College (listening to the lecture)",
+      45
+    ],
+    [
+      "attending afternoon classes at Oak Hill College (on the way to participating in class discussions)",
+      0
+    ],
+    [
+      "attending afternoon classes at Oak Hill College (conversing about exploring various local activities and events in the village, Carlos Gomez and Wolfgang Schulz discuss attending art galleries, concerts, book clubs, historical museums, music jam sessions, farmers' markets, diners, community garden projects, clean-up events, hiking trails, and community center events.)",
+      12
+    ],
+    [
+      "attending afternoon classes at Oak Hill College (participating in class discussions)",
+      15
+    ],
+    [
+      "attending afternoon classes at Oak Hill College (on the way to taking notes)",
+      0
+    ],
+    [
+      "attending afternoon classes at Oak Hill College (conversing about Wolfgang Schulz and Ayesha Khan are planning a weekend filled with cultural activities such as visiting an art gallery, attending a music event, exploring hiking trails, and engaging in community events in the village.)",
+      10
+    ],
+    [
+      "attending afternoon classes at Oak Hill College (on the way to taking notes)",
+      0
+    ],
+    [
+      "attending afternoon classes at Oak Hill College (conversing about collaborating on involving local artists and musicians in their project by meeting at Hobbs Cafe, visiting local spots, historical museum, Johnson Park, introducing local historians, and planning to involve the community center, school children, attending music event at the village hall, community picnic, local art gallery, and book club meeting to immerse in the village's cultural scene.)",
+      16
+    ],
+    [
+      "attending afternoon classes at Oak Hill College (asking questions and packing up his belongings)",
+      7
+    ],
+    [
+      "having lunch (walking to the campus cafeteria)",
+      5
+    ],
+    [
+      "having lunch (waiting in line to get his food)",
+      10
+    ],
+    [
+      "having lunch (choosing his food and paying for it)",
+      10
+    ],
+    [
+      "having lunch (on the way to finding a seat and sitting down to eat)",
+      0
+    ],
+    [
+      "having lunch (conversing about Wolfgang and Klaus are discussing exploring community events like the farmers' market, art exhibition, music events, book club, and community garden project together in the village.)",
+      14
+    ],
+    [
+      "having lunch (on the way to finding a seat and sitting down to eat)",
+      0
+    ],
+    [
+      "having lunch (conversing about immersing themselves in the village's culture and community, Tom Moreno and Wolfgang Schulz discuss exploring the farmers' market, attending an art exhibition, joining a book club meeting, checking out music events, exploring the local music scene, and visiting the historical museum.)",
+      15
+    ],
+    [
+      "having lunch (finding a seat and sitting down to eat)",
+      10
+    ],
+    [
+      "studying at the library (finding a quiet study space)",
+      15
+    ],
+    [
+      "studying at the library (on the way to organizing his study materials)",
+      0
+    ],
+    [
+      "studying at the library (conversing about two new acquaintances, Sam Moore and Wolfgang Schulz, discussing various local attractions and events in the village and making plans to explore the art gallery, have coffee, visit the historical museum, attend a poetry and music event, and explore the farmers' market together.)",
+      12
+    ],
+    [
+      "studying at the library (organizing his study materials)",
+      13
+    ],
+    [
+      "studying at the library (reviewing his notes from morning classes)",
+      15
+    ],
+    [
+      "studying at the library (working on a chemistry assignment)",
+      15
+    ],
+    [
+      "studying at the library (taking a short break)",
+      1
+    ],
+    [
+      "attending afternoon classes at Oak Hill College (walking to his classroom)",
+      5
+    ],
+    [
+      "attending afternoon classes at Oak Hill College (greeting his classmates and professor)",
+      5
+    ],
+    [
+      "attending afternoon classes at Oak Hill College (on the way to taking out his notebook and pen)",
+      0
+    ],
+    [
+      "attending afternoon classes at Oak Hill College (conversing about Wolfgang Schulz and Eddy Lin are discussing involving local artists, musicians, and historians in their project at Hobbs Cafe, exploring local spots together, attending a music event at the village hall, and immersing themselves in the village's culture, history, and natural beauty.)",
+      8
+    ],
+    [
+      "attending afternoon classes at Oak Hill College (listening to the lecture)",
+      45
+    ],
+    [
+      "attending afternoon classes at Oak Hill College (participating in class discussions)",
+      30
+    ],
+    [
+      "attending afternoon classes at Oak Hill College (taking notes)",
+      15
+    ],
+    [
+      "attending afternoon classes at Oak Hill College (packing up his belongings)",
+      1
+    ],
+    [
+      "walking back to his dormitory and getting ready for his evening study session.",
+      10
+    ],
+    [
+      "attending afternoon classes at Oak Hill College (asking questions and packing up his belongings)",
+      4
+    ],
+    [
+      "exercising in his room (changing into his workout clothes)",
+      5
+    ],
+    [
+      "exercising in his room (setting up his workout equipment)",
+      10
+    ],
+    [
+      "exercising in his room (doing a warm-up routine)",
+      10
+    ],
+    [
+      "exercising in his room (doing strength training exercises)",
+      20
+    ],
+    [
+      "exercising in his room (taking a water break)",
+      15
+    ],
+    [
+      "having dinner (preparing ingredients for dinner)",
+      10
+    ],
+    [
+      "having dinner (on the way to cooking dinner)",
+      0
+    ],
+    [
+      "having dinner (conversing about exploring the local music scene and other cultural activities in the village, such as visiting the farmers' market, attending an art exhibition, and joining a book club meeting at the library.)",
+      15
+    ],
+    [
+      "having dinner (cooking dinner)",
+      20
+    ],
+    [
+      "having dinner (on the way to setting the table)",
+      0
+    ],
+    [
+      "having dinner (conversing about Wolfgang Schulz and Klaus Mueller are discussing settling into the village, exploring local events and activities, meeting local artists and musicians, visiting the local park and art gallery, attending a live music event, joining a community picnic, and exploring the historical museum together.)",
+      12
+    ],
+    [
+      "having dinner (eating dinner)",
+      8
+    ],
+    [
+      "reviewing notes and studying for exams (organizing his notes by subject)",
+      10
+    ],
+    [
+      "reviewing notes and studying for exams (reviewing his notes from his morning classes)",
+      30
+    ],
+    [
+      "reviewing notes and studying for exams (taking a short break to stretch and get a snack)",
+      5
+    ],
+    [
+      "reviewing notes and studying for exams (reviewing his notes from his afternoon classes)",
+      30
+    ],
+    [
+      "reviewing notes and studying for exams (creating flashcards for key terms and concepts)",
+      20
+    ],
+    [
+      "reviewing notes and studying for exams (taking a break to eat dinner)",
+      30
+    ],
+    [
+      "reviewing notes and studying for exams (on the way to quizzing himself using the flashcards)",
+      0
+    ],
+    [
+      "reviewing notes and studying for exams (conversing about Wolfgang and Ayesha are planning to explore the art gallery together, attend a music event at the village hall, visit the farmers' market, and go on a hike, while also considering grabbing lunch at the local cafe.)",
+      9
+    ],
+    [
+      "reviewing notes and studying for exams (quizzing himself using the flashcards)",
+      21
+    ],
+    [
+      "reviewing notes and studying for exams (on the way to reviewing any difficult concepts or topics)",
+      0
+    ],
+    [
+      "reviewing notes and studying for exams (conversing about Tom Moreno and Wolfgang Schulz are excitedly making plans to explore the village's culture and community together, including visiting the farmers' market, art exhibition, local music scene, book club meetings, live music events in the park, historical museum, and meeting local artists, musicians, and historians.)",
+      5
+    ],
+    [
+      "reviewing notes and studying for exams (taking a break to stretch and get some water)",
+      5
+    ],
+    [
+      "taking a break and watching a movie (on the way to making popcorn and getting a drink)",
+      0
+    ],
+    [
+      "taking a break and watching a movie (conversing about Carlos Gomez and Wolfgang Schulz are discussing their weekend plans, including visiting the local art gallery, attending a music event at the park, having dinner at the local diner, exploring the farmers' market and historical museum, attending a book club meeting at the library, volunteering in a community garden project, and participating in a clean-up event.)",
+      10
+    ],
+    [
+      "taking a break and watching a movie (setting up the movie on his laptop)",
+      10
+    ],
+    [
+      "taking a break and watching a movie (on the way to checking his phone for any important messages)",
+      0
+    ],
+    [
+      "taking a break and watching a movie (conversing about Sam Moore and Wolfgang Schulz planning to explore the art gallery, grab coffee at Hobbs Cafe, visit the historical museum, attend a poetry and music event, explore the farmers' market, enjoy a live music event at the park, have dinner at the local diner, and attend a book club meeting at the library in the village.)",
+      12
+    ],
+    [
+      "taking a break and watching a movie (on the way to getting comfortable on the couch)",
+      0
+    ],
+    [
+      "taking a break and watching a movie (conversing about Adam Smith and Wolfgang Schulz are discussing exploring local community events and projects such as the farmers' market, art exhibition, music event in the park, historical museum, and book club meeting, in addition to visiting the community garden project together.)",
+      16
+    ],
+    [
+      "taking a break and watching a movie (starting the movie)",
+      5
+    ],
+    [
+      "taking a break and watching a movie (taking a break to stretch and get a snack)",
+      10
+    ],
+    [
+      "taking a break and watching a movie (continuing to watch the movie)",
+      10
+    ],
+    [
+      "taking a break and watching a movie (checking his notes during a break in the movie)",
+      10
+    ],
+    [
+      "going to bed and getting ready for another day at Oak Hill College",
+      102
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -4
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -14
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      10
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -10
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      300
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "going for a morning run at the park",
+      60
+    ],
+    [
+      "having breakfast and studying for exams",
+      60
+    ],
+    [
+      "attending morning classes at Oak Hill College",
+      60
+    ],
+    [
+      "studying at the library",
+      60
+    ],
+    [
+      "attending afternoon classes at Oak Hill College",
+      120
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "studying at the library",
+      60
+    ],
+    [
+      "attending afternoon classes at Oak Hill College",
+      120
+    ],
+    [
+      "exercising in his room",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "reviewing notes and studying for exams",
+      180
+    ],
+    [
+      "taking a break and watching a movie",
+      60
+    ],
+    [
+      "going to bed and getting ready for another day at Oak Hill College",
+      120
+    ]
+  ],
+  "act_address": "the Ville:artist's co-living space:common room:common room sofa",
+  "act_start_time": "February 14, 2023, 21:52:00",
+  "act_duration": 16,
+  "act_description": "taking a break and watching a movie (conversing about Adam Smith and Wolfgang Schulz are discussing exploring local community events and projects such as the farmers' market, art exhibition, music event in the park, historical museum, and book club meeting, in addition to visiting the community garden project together.)",
+  "act_pronunciatio": "\ud83d\udde3\ufe0f",
+  "act_event": [
+    "Wolfgang Schulz",
+    "Wolfgang Schulz",
+    "is"
+  ],
+  "act_obj_description": "being used and in good condition",
+  "act_obj_pronunciatio": "\ud83d\udee0\ufe0f",
+  "act_obj_event": [
+    "common room sofa",
+    "use",
+    "good condition"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Ayesha Khan": 242,
+    "Sam Moore": 626,
+    "Klaus Mueller": -664,
+    "Eddy Lin": -1900,
+    "Carlos Gomez": 530,
+    "Isabella Rodriguez": -10984,
+    "Tamara Taylor": -10840,
+    "Adam Smith": 752,
+    "Tom Moreno": 464
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "known_personas": [
+    "Ayesha Khan",
+    "Sam Moore",
+    "Klaus Mueller",
+    "Eddy Lin",
+    "Carlos Gomez",
+    "Isabella Rodriguez",
+    "Tamara Taylor",
+    "Adam Smith",
+    "Tom Moreno"
+  ]
+}

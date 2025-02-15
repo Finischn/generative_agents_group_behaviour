@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "finishing up preparations for her birthday party at Hobbs Cafe @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having lunch (looking at the menu and deciding what to order) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        29
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "still studying at the library (reviewing his notes from his sociology class) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        41,
+        35
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about an invitation from Sam Moore to Tamara Taylor to explore local spots in the village before attending Sam's birthday party at The Rose and Crown Pub, including a visit to Johnson Park, the art gallery, historical museum, Hobbs Cafe, and the local diner, as well as mentioning a stop at The Willows Market and Pharmacy and plans to attend an upcoming art exhibition at the village community center. @ <persona> Tamara Taylor",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Tamara, I see you're working on your comic book series. How's it coming along?"
+        ],
+        [
+          "Tamara Taylor",
+          "Hey Sam, it's coming along well. Thank you for asking. Are you getting everything ready for your party at The Rose and Crown Pub tomorrow?"
+        ],
+        [
+          "Sam Moore",
+          "Hey Tamara, since you're new to the village, would you like me to show you around some local spots before my birthday party tomorrow?"
+        ],
+        [
+          "Tamara Taylor",
+          "That would be wonderful, Sam! I would love to explore some local spots with you before the party tomorrow."
+        ],
+        [
+          "Sam Moore",
+          "Great! Let's start by visiting Johnson Park and then we can head to the local art gallery and historical museum. It'll give you a good sense of the village's history and culture."
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds like a great plan, Sam! I'm really looking forward to exploring the village with you and learning more about its history and culture."
+        ],
+        [
+          "Sam Moore",
+          "After exploring the village, we can grab coffee at Hobbs Cafe before heading to The Rose and Crown Pub for the party. It'll be a fun day filled with new experiences and friends. What do you think?"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much for the invitation, Sam. I'm really excited to explore the village with you and learn more about its history and culture."
+        ],
+        [
+          "Sam Moore",
+          "Let's make sure to also check out the local diner for a bite to eat after the party. They have great food and it'll be a nice way to end the day."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam. I really appreciate your hospitality and willingness to show me around. I'm excited for our day of exploring the village together."
+        ],
+        [
+          "Sam Moore",
+          "Let's also make time to visit the new local produce section at The Willows Market and Pharmacy. They have a great selection of fresh produce and it's worth checking out."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam. I appreciate your offer to show me around the village. I would love to explore the local spots with you before the party tomorrow."
+        ],
+        [
+          "Sam Moore",
+          "Let's also plan to attend the upcoming art exhibition at the village community center. It's a great opportunity to see local artists' work and immerse ourselves in the creativity of the community."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam. I really appreciate your kindness and willingness to show me around the village. I'm looking forward to exploring Johnson Park, the art gallery, and historical museum with you before the party tomorrow."
+        ],
+        [
+          "Sam Moore",
+          "Let's also plan to attend the upcoming art exhibition at the village community center. It's a great opportunity to see local artists' work and immerse ourselves in the creativity of the community."
+        ],
+        [
+          "Tamara Taylor",
+          "Sam, I would love to attend the upcoming art exhibition at the village community center with you. It sounds like a wonderful opportunity to experience the creativity of the local artists."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        32,
+        43
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "visiting Johnson Park with Isabella (walking to Johnson Park with Isabella) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        89,
+        32
+      ],
+      "pronunciatio": "\ud83c\udfa8\ud83c\udfb6",
+      "description": "attending afternoon classes at Oak Hill College (conversing about Wolfgang Schulz and Eddy Lin are discussing involving local artists, musicians, and historians in their project at Hobbs Cafe, exploring local spots together, attending a music event at the village hall, and immersing themselves in the village's culture, history, and natural beauty.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        88,
+        32
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "meeting Isabella at Hobbs Cafe to discuss their poetry and music project (conversing about Wolfgang Schulz and Eddy Lin are discussing involving local artists, musicians, and historians in their project at Hobbs Cafe, exploring local spots together, attending a music event at the village hall, and immersing themselves in the village's culture, history, and natural beauty.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\u260e\ufe0f",
+      "description": "attending to customers and working at The Willow Market and Pharmacy (greeting and assisting customers with their purchases) (answering the phone and taking orders for delivery) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        41,
+        34
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about an invitation from Sam Moore to Tamara Taylor to explore local spots in the village before attending Sam's birthday party at The Rose and Crown Pub, including a visit to Johnson Park, the art gallery, historical museum, Hobbs Cafe, and the local diner, as well as mentioning a stop at The Willows Market and Pharmacy and plans to attend an upcoming art exhibition at the village community center. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Tamara, I see you're working on your comic book series. How's it coming along?"
+        ],
+        [
+          "Tamara Taylor",
+          "Hey Sam, it's coming along well. Thank you for asking. Are you getting everything ready for your party at The Rose and Crown Pub tomorrow?"
+        ],
+        [
+          "Sam Moore",
+          "Hey Tamara, since you're new to the village, would you like me to show you around some local spots before my birthday party tomorrow?"
+        ],
+        [
+          "Tamara Taylor",
+          "That would be wonderful, Sam! I would love to explore some local spots with you before the party tomorrow."
+        ],
+        [
+          "Sam Moore",
+          "Great! Let's start by visiting Johnson Park and then we can head to the local art gallery and historical museum. It'll give you a good sense of the village's history and culture."
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds like a great plan, Sam! I'm really looking forward to exploring the village with you and learning more about its history and culture."
+        ],
+        [
+          "Sam Moore",
+          "After exploring the village, we can grab coffee at Hobbs Cafe before heading to The Rose and Crown Pub for the party. It'll be a fun day filled with new experiences and friends. What do you think?"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much for the invitation, Sam. I'm really excited to explore the village with you and learn more about its history and culture."
+        ],
+        [
+          "Sam Moore",
+          "Let's make sure to also check out the local diner for a bite to eat after the party. They have great food and it'll be a nice way to end the day."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam. I really appreciate your hospitality and willingness to show me around. I'm excited for our day of exploring the village together."
+        ],
+        [
+          "Sam Moore",
+          "Let's also make time to visit the new local produce section at The Willows Market and Pharmacy. They have a great selection of fresh produce and it's worth checking out."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam. I appreciate your offer to show me around the village. I would love to explore the local spots with you before the party tomorrow."
+        ],
+        [
+          "Sam Moore",
+          "Let's also plan to attend the upcoming art exhibition at the village community center. It's a great opportunity to see local artists' work and immerse ourselves in the creativity of the community."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam. I really appreciate your kindness and willingness to show me around the village. I'm looking forward to exploring Johnson Park, the art gallery, and historical museum with you before the party tomorrow."
+        ],
+        [
+          "Sam Moore",
+          "Let's also plan to attend the upcoming art exhibition at the village community center. It's a great opportunity to see local artists' work and immerse ourselves in the creativity of the community."
+        ],
+        [
+          "Tamara Taylor",
+          "Sam, I would love to attend the upcoming art exhibition at the village community center with you. It sounds like a wonderful opportunity to experience the creativity of the local artists."
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        34,
+        36
+      ],
+      "pronunciatio": "\u270d\ufe0f",
+      "description": "continuing to work on his book about creativity (writing the introduction for the book) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 14:35:20"
+  }
+}

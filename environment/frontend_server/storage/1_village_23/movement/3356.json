@@ -1,0 +1,203 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc69\u200d\ud83c\udf73",
+      "description": "putting on her apron and standing at the counter to greet customers @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a conversation between Carlos Gomez and Sam Moore about exploring the village, including visits to the farmers' market, local parks, a book club meeting, and a diner, with Sam offering to show Carlos around and introduce him to the community @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Sam, I couldn't help but overhear your discussion about exploring the village with Isabella and Klaus. It sounds like you all have some exciting plans. Have you ever been to the farmers' market here? I heard they have the freshest produce in town."
+        ],
+        [
+          "Sam Moore",
+          "Hey Carlos, I've been to the farmers' market many times! It's a great place to get fresh produce and support local farmers. Would you like to join me this Saturday when I go? We can grab some ingredients for Isabella's birthday party."
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a fantastic idea, Sam. I would love to join you at the farmers' market this Saturday. It would be a great opportunity for me to get to know the local community better."
+        ],
+        [
+          "Sam Moore",
+          "Since you're new to the village, why don't I show you around some of the local spots after we visit the farmers' market? We can check out Johnson Park and maybe even swing by The Rose and Crown Pub."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you so much for offering to show me around the village, Sam. I would really appreciate your guidance in discovering all the local gems."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad to hear you're excited to explore the village, Carlos. How about we also check out the book club meeting next week? It's a great way to meet more villagers and immerse ourselves in the community."
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a fantastic plan, Sam. I'm looking forward to exploring the farmers' market and getting to know more about the village community. It's great to have you as a guide!"
+        ],
+        [
+          "Sam Moore",
+          "How about we also visit the local park to see some military memorabilia after the farmers' market? It's a unique part of our village's history that you might find interesting."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for recommending all these wonderful places to explore in the village, Sam. I truly appreciate your guidance and hospitality."
+        ],
+        [
+          "Sam Moore",
+          "How about we also grab dinner at the local diner after visiting the park? It's a cozy spot to relax and chat over a meal."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you so much, Sam. I really appreciate your kindness and willingness to show me around the village. I'm excited to explore all these places with you."
+        ],
+        [
+          "Sam Moore",
+          "How about we also visit the local park to see some military memorabilia after the farmers' market? It's a unique part of our village's history that you might find interesting."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam, for being such a welcoming guide and sharing all these wonderful insights about the village. I'm truly grateful for your hospitality and look forward to exploring more of the community with you."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        61,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "at the library at Oak Hill College working on his research paper (conversing about Sam Moore and Klaus Mueller are chatting about exploring the village with Isabella, starting at Johnson Park in the morning and then heading to Sam's birthday party at The Rose and Crown Pub in the afternoon.) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        75,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a conversation between Carlos Gomez and Sam Moore about exploring the village, including visits to the farmers' market, local parks, a book club meeting, and a diner, with Sam offering to show Carlos around and introduce him to the community @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Sam, I couldn't help but overhear your discussion about exploring the village with Isabella and Klaus. It sounds like you all have some exciting plans. Have you ever been to the farmers' market here? I heard they have the freshest produce in town."
+        ],
+        [
+          "Sam Moore",
+          "Hey Carlos, I've been to the farmers' market many times! It's a great place to get fresh produce and support local farmers. Would you like to join me this Saturday when I go? We can grab some ingredients for Isabella's birthday party."
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a fantastic idea, Sam. I would love to join you at the farmers' market this Saturday. It would be a great opportunity for me to get to know the local community better."
+        ],
+        [
+          "Sam Moore",
+          "Since you're new to the village, why don't I show you around some of the local spots after we visit the farmers' market? We can check out Johnson Park and maybe even swing by The Rose and Crown Pub."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you so much for offering to show me around the village, Sam. I would really appreciate your guidance in discovering all the local gems."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad to hear you're excited to explore the village, Carlos. How about we also check out the book club meeting next week? It's a great way to meet more villagers and immerse ourselves in the community."
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a fantastic plan, Sam. I'm looking forward to exploring the farmers' market and getting to know more about the village community. It's great to have you as a guide!"
+        ],
+        [
+          "Sam Moore",
+          "How about we also visit the local park to see some military memorabilia after the farmers' market? It's a unique part of our village's history that you might find interesting."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for recommending all these wonderful places to explore in the village, Sam. I truly appreciate your guidance and hospitality."
+        ],
+        [
+          "Sam Moore",
+          "How about we also grab dinner at the local diner after visiting the park? It's a cozy spot to relax and chat over a meal."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you so much, Sam. I really appreciate your kindness and willingness to show me around the village. I'm excited to explore all these places with you."
+        ],
+        [
+          "Sam Moore",
+          "How about we also visit the local park to see some military memorabilia after the farmers' market? It's a unique part of our village's history that you might find interesting."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Sam, for being such a welcoming guide and sharing all these wonderful insights about the village. I'm truly grateful for your hospitality and look forward to exploring more of the community with you."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        70,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "attending her second class at Oak Hill College (conversing about exploring a poetry and music project, welcoming Ayesha Khan to the village community, discussing meeting at Hobbs Cafe, and planning to visit the farmers' market and local spots in the village.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying for exams (practicing problems from his textbook) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        76,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending classes at Oak Hill College (conversing about exploring a poetry and music project, welcoming Ayesha Khan to the village community, discussing meeting at Hobbs Cafe, and planning to visit the farmers' market and local spots in the village.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        90,
+        49
+      ],
+      "pronunciatio": "\ud83e\uddf9",
+      "description": "managing the day to day operations at The Willow Market and Pharmacy (organizing the store displays) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f",
+      "description": "working on her new children's book series (taking a break) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        22,
+        47
+      ],
+      "pronunciatio": "\u23f8\ufe0f",
+      "description": "continuing to work on his book (taking a short break) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:19:20"
+  }
+}

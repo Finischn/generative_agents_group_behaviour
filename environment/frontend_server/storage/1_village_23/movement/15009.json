@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcb0",
+      "description": "closing Hobbs Cafe and getting ready for her birthday party (counting the day's earnings) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        36,
+        33
+      ],
+      "pronunciatio": "\ud83c\udfa8",
+      "description": "getting ready for his next activity (attending the art exhibition). @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        72,
+        37
+      ],
+      "pronunciatio": "\ud83d\udc90",
+      "description": "heading to Johnson Park to meet Isabella with flowers as a welcome gift (picking out flowers) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        37,
+        60
+      ],
+      "pronunciatio": "\ud83c\udf24\ufe0f\ud83d\udc57",
+      "description": "getting ready for his birthday party (checking the weather and deciding on an outfit) @ the Ville:Moore family's house:main room:closet",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "having dinner (helping Isabella with some party preparations) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        79,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the local music scene and other cultural activities in the village, such as visiting the farmers' market, attending an art exhibition, and joining a book club meeting at the library. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Tom, I was thinking about exploring the local music scene this weekend. Would you be interested in checking out some live performances with me?"
+        ],
+        [
+          "Tom Moreno",
+          "Absolutely, Wolfgang! I know a fantastic spot where local musicians often perform. I'd love to show you around and introduce you to some talented artists. Let's make a plan for this weekend!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds fantastic, Tom! I can't wait to explore the local music scene with you. Let's finalize the details and plan our weekend adventure."
+        ],
+        [
+          "Tom Moreno",
+          "Hey Wolfgang, since you're new to the village, I thought it would be great for us to also check out the local farmers' market this weekend. It's a wonderful way to experience the community and support local vendors. What do you think?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a wonderful idea, Tom! I'm excited to experience the local farmers' market and support the community. Let's definitely plan to visit it together this weekend."
+        ],
+        [
+          "Tom Moreno",
+          "Hey Wolfgang, while we're exploring the village's cultural scene, I also recommend checking out the upcoming art exhibition at the community center. It's a great opportunity to appreciate local artists' work and immerse ourselves in the creative atmosphere."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for the great recommendations, Tom! I look forward to exploring the local music scene, checking out the farmers' market, and attending the art exhibition. It's fantastic to have someone knowledgeable like you to show me around."
+        ],
+        [
+          "Tom Moreno",
+          "Hey Wolfgang, since you're new to the village, I also recommend joining a book club meeting at the library. It's a great way to meet other locals, discuss interesting books, and delve into the literary side of our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for all the wonderful suggestions, Tom. I really appreciate your guidance and look forward to immersing myself in the village's culture and community with your help."
+        ],
+        [
+          "Tom Moreno",
+          "Hey Wolfgang, since you're new to the village, I suggest we also explore the local music events happening this weekend. It's a great way to experience the vibrant music scene here and connect with the community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Tom, I really appreciate all your recommendations and guidance on exploring the village's culture and community. I would love to join the book club meeting at the library and delve into the literary side of our community. When is the next meeting scheduled?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Wolfgang, since you're new to the village, I suggest we also explore the local music events happening this weekend. It's a great way to experience the vibrant music scene here and connect with the community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Tom, I'd love to join the book club meeting at the library and immerse myself in the literary side of the community. When is the next meeting scheduled?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Wolfgang, since you're new to the village, I suggest we also explore the local music events happening this weekend. It's a great way to experience the vibrant music scene here and connect with the community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Tom, I appreciate all your suggestions for exploring the village's culture and community. I'm looking forward to immersing myself in the local music scene, checking out the farmers' market, attending the art exhibition, and joining the book club meeting at the library. Thank you for your guidance!"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Wolfgang, since you're new to the village, I suggest we also explore the local music events happening this weekend. It's a great way to experience the vibrant music scene here and connect with the community."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "taking a break and having dinner at Hobbs Cafe (conversing about Eddy Lin and Adam Smith are making plans to attend an art exhibition, invite Isabella Rodriguez, join a book club meeting, visit a historical museum, have a casual chat at The Rose and Crown Pub, participate in a community clean-up event, reach out to local musicians, and attend a local music event at the village hall next month.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        80,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the local music scene and other cultural activities in the village, such as visiting the farmers' market, attending an art exhibition, and joining a book club meeting at the library. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Tom, I was thinking about exploring the local music scene this weekend. Would you be interested in checking out some live performances with me?"
+        ],
+        [
+          "Tom Moreno",
+          "Absolutely, Wolfgang! I know a fantastic spot where local musicians often perform. I'd love to show you around and introduce you to some talented artists. Let's make a plan for this weekend!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds fantastic, Tom! I can't wait to explore the local music scene with you. Let's finalize the details and plan our weekend adventure."
+        ],
+        [
+          "Tom Moreno",
+          "Hey Wolfgang, since you're new to the village, I thought it would be great for us to also check out the local farmers' market this weekend. It's a wonderful way to experience the community and support local vendors. What do you think?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a wonderful idea, Tom! I'm excited to experience the local farmers' market and support the community. Let's definitely plan to visit it together this weekend."
+        ],
+        [
+          "Tom Moreno",
+          "Hey Wolfgang, while we're exploring the village's cultural scene, I also recommend checking out the upcoming art exhibition at the community center. It's a great opportunity to appreciate local artists' work and immerse ourselves in the creative atmosphere."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for the great recommendations, Tom! I look forward to exploring the local music scene, checking out the farmers' market, and attending the art exhibition. It's fantastic to have someone knowledgeable like you to show me around."
+        ],
+        [
+          "Tom Moreno",
+          "Hey Wolfgang, since you're new to the village, I also recommend joining a book club meeting at the library. It's a great way to meet other locals, discuss interesting books, and delve into the literary side of our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for all the wonderful suggestions, Tom. I really appreciate your guidance and look forward to immersing myself in the village's culture and community with your help."
+        ],
+        [
+          "Tom Moreno",
+          "Hey Wolfgang, since you're new to the village, I suggest we also explore the local music events happening this weekend. It's a great way to experience the vibrant music scene here and connect with the community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Tom, I really appreciate all your recommendations and guidance on exploring the village's culture and community. I would love to join the book club meeting at the library and delve into the literary side of our community. When is the next meeting scheduled?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Wolfgang, since you're new to the village, I suggest we also explore the local music events happening this weekend. It's a great way to experience the vibrant music scene here and connect with the community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Tom, I'd love to join the book club meeting at the library and immerse myself in the literary side of the community. When is the next meeting scheduled?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Wolfgang, since you're new to the village, I suggest we also explore the local music events happening this weekend. It's a great way to experience the vibrant music scene here and connect with the community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Tom, I appreciate all your suggestions for exploring the village's culture and community. I'm looking forward to immersing myself in the local music scene, checking out the farmers' market, attending the art exhibition, and joining the book club meeting at the library. Thank you for your guidance!"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Wolfgang, since you're new to the village, I suggest we also explore the local music events happening this weekend. It's a great way to experience the vibrant music scene here and connect with the community."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "finishing up her work on her comic book series (proofreading the comic book) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83c\udfa8",
+      "description": "attending a local mayoral candidate debate (conversing about Eddy Lin and Adam Smith are making plans to attend an art exhibition, invite Isabella Rodriguez, join a book club meeting, visit a historical museum, have a casual chat at The Rose and Crown Pub, participate in a community clean-up event, reach out to local musicians, and attend a local music event at the village hall next month.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 17:41:30"
+  }
+}

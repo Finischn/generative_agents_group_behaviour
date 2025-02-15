@@ -1,0 +1,357 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        60,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the village, attending events, and visiting local spots while Isabella Rodriguez and Ayesha Khan chat and make plans to socialize together @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hello Ayesha, it's great to see you here at Oak Hill College. How are you finding the classes so far?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hello Isabella, I'm really enjoying the classes so far. Have you been exploring the village since you arrived?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, I have been exploring the village and getting to know the community. Would you like to join me sometime?"
+        ],
+        [
+          "Ayesha Khan",
+          "I would love to join you in exploring the village and getting to know the community better. When are you planning to go next?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "How about we plan to visit the farmers' market this Saturday morning? We can explore the local produce and interact with other villagers."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea! I'm looking forward to exploring the farmers' market with you on Saturday morning."
+        ],
+        [
+          "Isabella Rodriguez",
+          "We can also check out some local spots in the village after the farmers' market. There are some hidden gems that we might discover."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful plan. I can't wait to discover the hidden gems in the village with you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "We can also plan to attend the book club next Thursday evening. It's a great way to meet other villagers and discuss interesting books."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic plan! I can't wait to explore the village and attend the book club with you. Thank you for inviting me."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm also planning to have my birthday party at Hobbs Cafe tomorrow evening. You're welcome to join us!"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds wonderful! Thank you for inviting me to your birthday party at Hobbs Cafe tomorrow evening. I'll definitely be there."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you'll be joining me for the birthday party at Hobbs Cafe tomorrow evening! It'll be a great way to meet more villagers and celebrate together."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you for the invitation to your birthday party at Hobbs Cafe tomorrow evening, Isabella. I look forward to meeting more villagers and celebrating with you!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We can also plan to visit Johnson Park this afternoon to see some military memorabilia and grab a bite to eat at the local diner. Would you like to join me?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a perfect plan, Isabella. I would love to join you in visiting Johnson Park this afternoon and grabbing a bite to eat at the local diner."
+        ]
+      ]
+    },
+    "Carlos Gomez": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "working on his poetry collection (conversing about a conversation between Carlos Gomez and Sam Moore about exploring the village, including visits to the farmers' market, local parks, a book club meeting, and a diner, with Sam offering to show Carlos around and introduce him to the community) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        56,
+        32
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "at the library at Oak Hill College working on his research paper (conducting online research on gentrification) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        79,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning to meet at Hobbs Cafe, celebrating Sam's birthday at The Rose and Crown Pub, and scheduling future outings to explore the village, visit the local art gallery and historical museum, explore local parks, and attend a book club meeting. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Eddy, how are your classes going at Oak Hill College?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, classes are going well, thanks for asking. I was planning to visit Hobbs Cafe tomorrow afternoon to work on my composition project. Would you like to join me?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a great idea, Eddy! I actually have plans to meet Wolfgang at Hobbs Cafe tomorrow morning at 8 am. Why don't you join us? And also, don't forget about my birthday party at The Rose and Crown Pub at 5 pm!"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a fantastic plan, Sam! I'll definitely join you and Wolfgang at Hobbs Cafe in the morning. And I'll make sure to swing by The Rose and Crown Pub in the evening for your birthday party."
+        ],
+        [
+          "Sam Moore",
+          "Great, looking forward to seeing you at Hobbs Cafe in the morning and at The Rose and Crown Pub in the evening. Have a good rest of your classes!"
+        ],
+        [
+          "Eddy Lin",
+          "Thanks for the invite, Sam! I'll definitely be at Hobbs Cafe in the morning with both you and Wolfgang. Looking forward to celebrating your birthday at The Rose and Crown Pub in the evening!"
+        ],
+        [
+          "Sam Moore",
+          "It was great catching up, Eddy! Let's make sure to finalize our plans for exploring the village together soon."
+        ],
+        [
+          "Eddy Lin",
+          "Sam, I'm really excited to work on our creative projects together and explore more of the village. Let's make sure to plan a time to visit the local art gallery and historical museum as well."
+        ],
+        [
+          "Sam Moore",
+          "Sam Moore: It's been a pleasure chatting with you, Eddy. How about we plan to visit the local art gallery and historical museum together next week?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, that sounds like a wonderful plan! I would be thrilled to visit the local art gallery and historical museum with you next week as well. Let's make sure to finalize our schedule for the visit soon. Thanks for the great idea!"
+        ],
+        [
+          "Sam Moore",
+          "Sam Moore: It's been a pleasure chatting with you, Eddy. How about we plan to visit the local art gallery and historical museum together next week?"
+        ],
+        [
+          "Eddy Lin",
+          "Sam, I think it would be great if we could also explore the local parks and maybe attend a book club meeting together. What do you think?"
+        ],
+        [
+          "Sam Moore",
+          "Sam Moore: Eddy, exploring the local parks and attending a book club meeting sounds like a fantastic idea! Let's definitely plan to do that together as well. How about we schedule it for next weekend?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, I agree that exploring the local parks and attending a book club meeting would be a great idea. Let's plan for that next weekend as well."
+        ],
+        [
+          "Sam Moore",
+          "Eddy, I think exploring the local parks and attending a book club meeting next weekend is a fantastic idea. Let's finalize our plans for that soon."
+        ],
+        [
+          "Eddy Lin",
+          "Sam, I'm looking forward to exploring the local parks and attending the book club meeting with you next weekend. Let's finalize the details soon!"
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        61,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the village, attending events, and visiting local spots while Isabella Rodriguez and Ayesha Khan chat and make plans to socialize together @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hello Ayesha, it's great to see you here at Oak Hill College. How are you finding the classes so far?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hello Isabella, I'm really enjoying the classes so far. Have you been exploring the village since you arrived?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, I have been exploring the village and getting to know the community. Would you like to join me sometime?"
+        ],
+        [
+          "Ayesha Khan",
+          "I would love to join you in exploring the village and getting to know the community better. When are you planning to go next?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "How about we plan to visit the farmers' market this Saturday morning? We can explore the local produce and interact with other villagers."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea! I'm looking forward to exploring the farmers' market with you on Saturday morning."
+        ],
+        [
+          "Isabella Rodriguez",
+          "We can also check out some local spots in the village after the farmers' market. There are some hidden gems that we might discover."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful plan. I can't wait to discover the hidden gems in the village with you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "We can also plan to attend the book club next Thursday evening. It's a great way to meet other villagers and discuss interesting books."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic plan! I can't wait to explore the village and attend the book club with you. Thank you for inviting me."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm also planning to have my birthday party at Hobbs Cafe tomorrow evening. You're welcome to join us!"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds wonderful! Thank you for inviting me to your birthday party at Hobbs Cafe tomorrow evening. I'll definitely be there."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you'll be joining me for the birthday party at Hobbs Cafe tomorrow evening! It'll be a great way to meet more villagers and celebrate together."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you for the invitation to your birthday party at Hobbs Cafe tomorrow evening, Isabella. I look forward to meeting more villagers and celebrating with you!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We can also plan to visit Johnson Park this afternoon to see some military memorabilia and grab a bite to eat at the local diner. Would you like to join me?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a perfect plan, Isabella. I would love to join you in visiting Johnson Park this afternoon and grabbing a bite to eat at the local diner."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying for exams (practicing problems from his textbook) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        79,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning to meet at Hobbs Cafe, celebrating Sam's birthday at The Rose and Crown Pub, and scheduling future outings to explore the village, visit the local art gallery and historical museum, explore local parks, and attend a book club meeting. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Eddy, how are your classes going at Oak Hill College?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, classes are going well, thanks for asking. I was planning to visit Hobbs Cafe tomorrow afternoon to work on my composition project. Would you like to join me?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a great idea, Eddy! I actually have plans to meet Wolfgang at Hobbs Cafe tomorrow morning at 8 am. Why don't you join us? And also, don't forget about my birthday party at The Rose and Crown Pub at 5 pm!"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a fantastic plan, Sam! I'll definitely join you and Wolfgang at Hobbs Cafe in the morning. And I'll make sure to swing by The Rose and Crown Pub in the evening for your birthday party."
+        ],
+        [
+          "Sam Moore",
+          "Great, looking forward to seeing you at Hobbs Cafe in the morning and at The Rose and Crown Pub in the evening. Have a good rest of your classes!"
+        ],
+        [
+          "Eddy Lin",
+          "Thanks for the invite, Sam! I'll definitely be at Hobbs Cafe in the morning with both you and Wolfgang. Looking forward to celebrating your birthday at The Rose and Crown Pub in the evening!"
+        ],
+        [
+          "Sam Moore",
+          "It was great catching up, Eddy! Let's make sure to finalize our plans for exploring the village together soon."
+        ],
+        [
+          "Eddy Lin",
+          "Sam, I'm really excited to work on our creative projects together and explore more of the village. Let's make sure to plan a time to visit the local art gallery and historical museum as well."
+        ],
+        [
+          "Sam Moore",
+          "Sam Moore: It's been a pleasure chatting with you, Eddy. How about we plan to visit the local art gallery and historical museum together next week?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, that sounds like a wonderful plan! I would be thrilled to visit the local art gallery and historical museum with you next week as well. Let's make sure to finalize our schedule for the visit soon. Thanks for the great idea!"
+        ],
+        [
+          "Sam Moore",
+          "Sam Moore: It's been a pleasure chatting with you, Eddy. How about we plan to visit the local art gallery and historical museum together next week?"
+        ],
+        [
+          "Eddy Lin",
+          "Sam, I think it would be great if we could also explore the local parks and maybe attend a book club meeting together. What do you think?"
+        ],
+        [
+          "Sam Moore",
+          "Sam Moore: Eddy, exploring the local parks and attending a book club meeting sounds like a fantastic idea! Let's definitely plan to do that together as well. How about we schedule it for next weekend?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, I agree that exploring the local parks and attending a book club meeting would be a great idea. Let's plan for that next weekend as well."
+        ],
+        [
+          "Sam Moore",
+          "Eddy, I think exploring the local parks and attending a book club meeting next weekend is a fantastic idea. Let's finalize our plans for that soon."
+        ],
+        [
+          "Eddy Lin",
+          "Sam, I'm looking forward to exploring the local parks and attending the book club meeting with you next weekend. Let's finalize the details soon!"
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcb0",
+      "description": "managing the day to day operations at The Willow Market and Pharmacy (checking the cash register and making sure there is enough change for the day) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        74
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "working on her new children's book series (writing the first chapter of the book) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "continuing to work on his book (writing the first chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:34:20"
+  }
+}

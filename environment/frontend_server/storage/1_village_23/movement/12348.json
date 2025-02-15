@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "managing operations at Hobbs Cafe (conversing about exploring the village, receiving recommendations from Tom Moreno on places to visit, including the farmers' market, art gallery, local community projects, upcoming art exhibition, and book club meeting at the library, all while expressing gratitude and excitement for immersing herself in the culture of the village) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        109,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring various local activities and events in the village, Carlos Gomez and Wolfgang Schulz discuss attending art galleries, concerts, book clubs, historical museums, music jam sessions, farmers' markets, diners, community garden projects, clean-up events, hiking trails, and community center events. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Wolfgang, I was thinking we could check out the local art gallery together later this week. What do you think?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great idea, Carlos! I'm looking forward to exploring the local art scene with you."
+        ],
+        [
+          "Carlos Gomez",
+          "We could also plan to attend the concert at the park this weekend. It would be a fun experience for both of us."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic idea, Carlos! I'm really excited to attend the concert at the park with you. It'll be a great way to experience the local music scene."
+        ],
+        [
+          "Carlos Gomez",
+          "We should also consider joining the book club at the local library. It's a great way to meet new people and discuss our favorite books."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic idea, Carlos! I'm really looking forward to joining the book club at the local library with you. It's a great opportunity to connect with the community."
+        ],
+        [
+          "Carlos Gomez",
+          "We should also consider exploring the historical museum and military memorabilia at Johnson Park. It would be interesting to learn about the village's history and heritage."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That's a fantastic idea, Carlos! I would love to explore the historical museum and military memorabilia at Johnson Park with you. I think it would be a fascinating way to learn more about the village's history and culture."
+        ],
+        [
+          "Carlos Gomez",
+          "We could also join the weekly music jam sessions at the village hall. It would be a great way to immerse ourselves in the local music community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We could also plan to visit the farmers' market this Saturday morning. It would be a great way to experience local produce and connect with the community."
+        ],
+        [
+          "Carlos Gomez",
+          "We should also try out the local diner for dinner one evening. It would be a great way to experience the local cuisine and enjoy a meal together."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should definitely get involved in the community garden project as well. It would be a great way to give back to the community and spend time outdoors."
+        ],
+        [
+          "Carlos Gomez",
+          "We could also plan to participate in the community clean-up event next week. It would be a great way to contribute to the village and connect with other residents."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Carlos, I think it would also be great to hike the village trails together. It's a wonderful way to explore the natural beauty of the area and get some exercise."
+        ],
+        [
+          "Carlos Gomez",
+          "We could also plan to visit the community center and participate in the upcoming community events. It would be a great way to meet more residents and get involved in the village."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Carlos, I think we should also plan to visit the community center and participate in the upcoming community events. It would be a great way to meet more residents and get involved in the village."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        122,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "still studying at the library (reviewing his notes from previous lectures) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        39,
+        30
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f\ud83d\udcdd",
+      "description": "running errands and gathering party material (conversing about Sam Moore and Adam Smith discussing various ideas to make the joint poetry and music event more engaging for the community, including incorporating open mic sessions, collaborative poetry writing activities, showcasing local artists' work, involving local school children, organizing a community art project, planning interactive workshops, involving local historians, reaching out to local musicians, and hosting cultural performances.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        111,
+        20
+      ],
+      "pronunciatio": "\ud83d\udca1",
+      "description": "attending classes at Oak Hill College (working on an assignment) (brainstorming ideas for the assignment) @ the Ville:Oak Hill College:classroom:blackboard",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        111,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring various local activities and events in the village, Carlos Gomez and Wolfgang Schulz discuss attending art galleries, concerts, book clubs, historical museums, music jam sessions, farmers' markets, diners, community garden projects, clean-up events, hiking trails, and community center events. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Wolfgang, I was thinking we could check out the local art gallery together later this week. What do you think?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great idea, Carlos! I'm looking forward to exploring the local art scene with you."
+        ],
+        [
+          "Carlos Gomez",
+          "We could also plan to attend the concert at the park this weekend. It would be a fun experience for both of us."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic idea, Carlos! I'm really excited to attend the concert at the park with you. It'll be a great way to experience the local music scene."
+        ],
+        [
+          "Carlos Gomez",
+          "We should also consider joining the book club at the local library. It's a great way to meet new people and discuss our favorite books."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic idea, Carlos! I'm really looking forward to joining the book club at the local library with you. It's a great opportunity to connect with the community."
+        ],
+        [
+          "Carlos Gomez",
+          "We should also consider exploring the historical museum and military memorabilia at Johnson Park. It would be interesting to learn about the village's history and heritage."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That's a fantastic idea, Carlos! I would love to explore the historical museum and military memorabilia at Johnson Park with you. I think it would be a fascinating way to learn more about the village's history and culture."
+        ],
+        [
+          "Carlos Gomez",
+          "We could also join the weekly music jam sessions at the village hall. It would be a great way to immerse ourselves in the local music community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We could also plan to visit the farmers' market this Saturday morning. It would be a great way to experience local produce and connect with the community."
+        ],
+        [
+          "Carlos Gomez",
+          "We should also try out the local diner for dinner one evening. It would be a great way to experience the local cuisine and enjoy a meal together."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should definitely get involved in the community garden project as well. It would be a great way to give back to the community and spend time outdoors."
+        ],
+        [
+          "Carlos Gomez",
+          "We could also plan to participate in the community clean-up event next week. It would be a great way to contribute to the village and connect with other residents."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Carlos, I think it would also be great to hike the village trails together. It's a wonderful way to explore the natural beauty of the area and get some exercise."
+        ],
+        [
+          "Carlos Gomez",
+          "We could also plan to visit the community center and participate in the upcoming community events. It would be a great way to meet more residents and get involved in the village."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Carlos, I think we should also plan to visit the community center and participate in the upcoming community events. It would be a great way to meet more residents and get involved in the village."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending classes at Oak Hill College (taking notes during the class) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        79,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf0d",
+      "description": "having a meeting with Carlos at the local cafe (conversing about exploring the village, receiving recommendations from Tom Moreno on places to visit, including the farmers' market, art gallery, local community projects, upcoming art exhibition, and book club meeting at the library, all while expressing gratitude and excitement for immersing herself in the culture of the village) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        74
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "still working on her new children's book series (revising and editing the first draft) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        39,
+        30
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "meeting with Klaus Mueller to discuss the town square project (conversing about Sam Moore and Adam Smith discussing various ideas to make the joint poetry and music event more engaging for the community, including incorporating open mic sessions, collaborative poetry writing activities, showcasing local artists' work, involving local school children, organizing a community art project, planning interactive workshops, involving local historians, reaching out to local musicians, and hosting cultural performances.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 10:18:00"
+  }
+}

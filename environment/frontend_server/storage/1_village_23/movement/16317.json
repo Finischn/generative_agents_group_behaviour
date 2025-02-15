@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddf9\ud83e\uddfd",
+      "description": "closing up Hobbs Cafe and cleaning up (sweeping and mopping the floors) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        50,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "reflecting on his day and writing in his journal (conversing about Carlos Gomez and Wolfgang Schulz are discussing their weekend plans, including visiting the local art gallery, attending a music event at the park, having dinner at the local diner, exploring the farmers' market and historical museum, attending a book club meeting at the library, volunteering in a community garden project, and participating in a clean-up event.) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        49,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcb3",
+      "description": "heading home after dinner at Hobbs Cafe (paying for his meal at Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        57,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Sam Moore and Wolfgang Schulz planning to explore the art gallery, grab coffee at Hobbs Cafe, visit the historical museum, attend a poetry and music event, explore the farmers' market, enjoy a live music event at the park, have dinner at the local diner, and attend a book club meeting at the library in the village. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Wolfgang, since you're new to the village, I suggest we explore the art gallery next. It's a great way to get a sense of the local artistic talent and history."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great idea, Sam! I'm really excited to explore the art gallery and learn more about the local artistic scene."
+        ],
+        [
+          "Sam Moore",
+          "After the art gallery, we can grab some coffee at Hobbs Cafe and continue our exploration of the village. It's a great spot to relax and chat about what we've seen."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic plan, Sam. I'm looking forward to exploring the art gallery and grabbing coffee at Hobbs Cafe with you!"
+        ],
+        [
+          "Sam Moore",
+          "After coffee at Hobbs Cafe, we can head to the historical museum. It's a great place to learn about the village's past and heritage."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a wonderful plan, Sam. I'm eager to explore the historical museum and deepen my understanding of the village's rich heritage."
+        ],
+        [
+          "Sam Moore",
+          "After visiting the historical museum, we can attend a poetry and music event with Eddy at the local school. It's a wonderful opportunity to experience the village's creative community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm so grateful for your guidance and welcoming attitude, Sam. I can't wait to explore the village's cultural richness with you!"
+        ],
+        [
+          "Sam Moore",
+          "After the poetry and music event, we can explore the farmers' market together. It's a great place to support local vendors and enjoy some delicious food."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much for showing me around and introducing me to the village's cultural scene, Sam. I really appreciate your hospitality and look forward to exploring more of the village with you."
+        ],
+        [
+          "Sam Moore",
+          "After exploring the farmers' market, we can plan to visit the local park where we can enjoy a live music event. It's a great way to relax and soak in the village atmosphere."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam. I'm really grateful for your kindness and willingness to show me around. I'm looking forward to all the wonderful experiences we'll have together in the village."
+        ],
+        [
+          "Sam Moore",
+          "After the live music event at the park, we can grab dinner at the local diner and continue our conversation. It's a great way to unwind after a day of exploration."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for all your help and for showing me around, Sam. I truly appreciate your hospitality and look forward to experiencing more of the village's culture with you."
+        ],
+        [
+          "Sam Moore",
+          "After dinner at the local diner, we can attend a book club meeting at the library. It's a great way to connect with other villagers and share our love for literature."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for all your help and for showing me around, Sam. I truly appreciate your hospitality and look forward to experiencing more of the village's culture with you."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "attending Isabella's birthday party at Hobbs Cafe (socializing with other guests at the party) (introducing herself to other guests and making small talk) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        57,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Sam Moore and Wolfgang Schulz planning to explore the art gallery, grab coffee at Hobbs Cafe, visit the historical museum, attend a poetry and music event, explore the farmers' market, enjoy a live music event at the park, have dinner at the local diner, and attend a book club meeting at the library in the village. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Wolfgang, since you're new to the village, I suggest we explore the art gallery next. It's a great way to get a sense of the local artistic talent and history."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great idea, Sam! I'm really excited to explore the art gallery and learn more about the local artistic scene."
+        ],
+        [
+          "Sam Moore",
+          "After the art gallery, we can grab some coffee at Hobbs Cafe and continue our exploration of the village. It's a great spot to relax and chat about what we've seen."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic plan, Sam. I'm looking forward to exploring the art gallery and grabbing coffee at Hobbs Cafe with you!"
+        ],
+        [
+          "Sam Moore",
+          "After coffee at Hobbs Cafe, we can head to the historical museum. It's a great place to learn about the village's past and heritage."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a wonderful plan, Sam. I'm eager to explore the historical museum and deepen my understanding of the village's rich heritage."
+        ],
+        [
+          "Sam Moore",
+          "After visiting the historical museum, we can attend a poetry and music event with Eddy at the local school. It's a wonderful opportunity to experience the village's creative community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm so grateful for your guidance and welcoming attitude, Sam. I can't wait to explore the village's cultural richness with you!"
+        ],
+        [
+          "Sam Moore",
+          "After the poetry and music event, we can explore the farmers' market together. It's a great place to support local vendors and enjoy some delicious food."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much for showing me around and introducing me to the village's cultural scene, Sam. I really appreciate your hospitality and look forward to exploring more of the village with you."
+        ],
+        [
+          "Sam Moore",
+          "After exploring the farmers' market, we can plan to visit the local park where we can enjoy a live music event. It's a great way to relax and soak in the village atmosphere."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Sam. I'm really grateful for your kindness and willingness to show me around. I'm looking forward to all the wonderful experiences we'll have together in the village."
+        ],
+        [
+          "Sam Moore",
+          "After the live music event at the park, we can grab dinner at the local diner and continue our conversation. It's a great way to unwind after a day of exploration."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for all your help and for showing me around, Sam. I truly appreciate your hospitality and look forward to experiencing more of the village's culture with you."
+        ],
+        [
+          "Sam Moore",
+          "After dinner at the local diner, we can attend a book club meeting at the library. It's a great way to connect with other villagers and share our love for literature."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for all your help and for showing me around, Sam. I truly appreciate your hospitality and look forward to experiencing more of the village's culture with you."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        123,
+        26
+      ],
+      "pronunciatio": "\ud83c\udfb6",
+      "description": "reviewing class notes and working on his composition project at Hobbs Cafe (researching different musical styles for inspiration) @ the Ville:Oak Hill College:library:bookshelf",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83c\udfdb\ufe0f",
+      "description": "getting ready for his meeting with Carlos tomorrow (conversing about Tom Moreno and Wolfgang Schulz are excitedly making plans to explore the village's culture and community together, including visiting the farmers' market, art exhibition, local music scene, book club meetings, live music events in the park, historical museum, and meeting local artists, musicians, and historians.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        57,
+        65
+      ],
+      "pronunciatio": "\u2615",
+      "description": "relaxing for the evening (making a cup of tea) @ the Ville:Tamara Taylor and Carmen Ortiz's house:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        41,
+        36
+      ],
+      "pronunciatio": "\ud83d\udd0d\ud83d\udcdd",
+      "description": "reflecting on his day and making plans for tomorrow before going to bed at 8:00 pm (reflecting on his interactions with Klaus Mueller and taking notes for future reference) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 21:19:30"
+  }
+}

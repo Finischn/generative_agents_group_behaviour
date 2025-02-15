@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf33\ud83c\udfa8",
+      "description": "managing operations at Hobbs Cafe (conversing about exploring the village together, visiting the farmers' market, art gallery, Johnson Park, and The Rose and Crown Pub, as well as participating in community clean-up events, park events, book club meetings, art exhibitions, and a local music event, with Eddy Lin inviting Isabella Rodriguez to join and experience the village community together.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        27,
+        50
+      ],
+      "pronunciatio": "\ud83e\udd14",
+      "description": "going for a walk in nature (reflecting on his thoughts and feelings) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        91,
+        32
+      ],
+      "pronunciatio": "\ud83d\ude97",
+      "description": "heading to Johnson Park to meet Isabella with flowers as a welcome gift (driving to Johnson Park) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        71,
+        37
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "wrapping up preparations for the party and getting ready to welcome guests. @ the Ville:Moore family's house:main room:common room sofa",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "having dinner (eating her dinner) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        45
+      ],
+      "pronunciatio": "\ud83d\udd2a",
+      "description": "having dinner (preparing ingredients for dinner) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy Lin and Adam Smith are making plans to attend an art exhibition, invite Isabella Rodriguez, join a book club meeting, visit a historical museum, have a casual chat at The Rose and Crown Pub, participate in a community clean-up event, reach out to local musicians, and attend a local music event at the village hall next month. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Adam, have you heard about the upcoming art exhibition at the village gallery? I think it would be a great opportunity for us to check out some local artists and maybe even get inspired for our music and poetry project."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a fantastic idea, Eddy! I'm definitely interested in attending the art exhibition and exploring local talent. We could potentially find some inspiration for our poetry and music project. Maybe we can also invite Isabella Rodriguez to join us."
+        ],
+        [
+          "Eddy Lin",
+          "That's a great idea, Adam! I'll reach out to Isabella and see if she'd like to join us at the art exhibition. It would be wonderful to have her perspective on the local artists' work."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a great plan, Eddy! We can also discuss our collaboration on the poetry and music project while we are at the exhibition. It would be a fantastic opportunity to brainstorm ideas and get inspired together."
+        ],
+        [
+          "Eddy Lin",
+          "I also heard about a book club meeting happening next week. Would you be interested in joining? It could be a great opportunity to discuss more about creativity and literature."
+        ],
+        [
+          "Adam Smith",
+          "Yes, I would love to join the book club meeting next week! It sounds like a great opportunity for us to dive deeper into creativity and literature discussions."
+        ],
+        [
+          "Eddy Lin",
+          "I'm also planning to visit the historical museum this weekend. Would you be interested in joining me? It could give us more insight into the village's rich history and maybe inspire our project further."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a wonderful idea! I'd love to join you at the historical museum this weekend. It will be fascinating to learn more about our village's rich history and see how it could inspire our project further."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Adam, since we're planning to visit the historical museum this weekend, I was thinking we could also stop by The Rose and Crown Pub afterward for a casual chat and maybe even finalize some details for our project. What do you think?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a great plan, Eddy! I would be delighted to join you at The Rose and Crown Pub after our visit to the historical museum this weekend. It will be an excellent opportunity for us to continue our discussion and finalize details for our project."
+        ],
+        [
+          "Eddy Lin",
+          "Adam, I just remembered that there's a community clean-up event happening next month. Would you be interested in participating with me? It's a great way to give back to our village and connect with other community members."
+        ],
+        [
+          "Adam Smith",
+          "Absolutely, Eddy! I would be thrilled to participate in the community clean-up event with you next month. It's a fantastic opportunity to give back to our village and connect with other community members. Let's make sure we mark our calendars for that."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Adam, do you think we should reach out to some local musicians as well for our project? Their input could really add another dimension to our poetry and music collaboration."
+        ],
+        [
+          "Adam Smith",
+          "That's a fantastic idea, Eddy! We should definitely reach out to some local musicians for our project. Their input and collaboration could bring a whole new dimension to our poetry and music project."
+        ],
+        [
+          "Eddy Lin",
+          "Adam, I also heard about a local music event happening next month at the village hall. Would you be interested in attending together? It could be a great way to support our local musicians and get inspired for our project."
+        ],
+        [
+          "Adam Smith",
+          "Eddy, that sounds like a fantastic opportunity to support our local musicians and get inspired for our project. I would love to attend the local music event at the village hall with you next month."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcb5",
+      "description": "closing The Willow Market and Pharmacy (counting the cash register and recording the day's sales) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        51,
+        54
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "finishing up her work on her comic book series (adding dialogue to the comic book) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy Lin and Adam Smith are making plans to attend an art exhibition, invite Isabella Rodriguez, join a book club meeting, visit a historical museum, have a casual chat at The Rose and Crown Pub, participate in a community clean-up event, reach out to local musicians, and attend a local music event at the village hall next month. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Adam, have you heard about the upcoming art exhibition at the village gallery? I think it would be a great opportunity for us to check out some local artists and maybe even get inspired for our music and poetry project."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a fantastic idea, Eddy! I'm definitely interested in attending the art exhibition and exploring local talent. We could potentially find some inspiration for our poetry and music project. Maybe we can also invite Isabella Rodriguez to join us."
+        ],
+        [
+          "Eddy Lin",
+          "That's a great idea, Adam! I'll reach out to Isabella and see if she'd like to join us at the art exhibition. It would be wonderful to have her perspective on the local artists' work."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a great plan, Eddy! We can also discuss our collaboration on the poetry and music project while we are at the exhibition. It would be a fantastic opportunity to brainstorm ideas and get inspired together."
+        ],
+        [
+          "Eddy Lin",
+          "I also heard about a book club meeting happening next week. Would you be interested in joining? It could be a great opportunity to discuss more about creativity and literature."
+        ],
+        [
+          "Adam Smith",
+          "Yes, I would love to join the book club meeting next week! It sounds like a great opportunity for us to dive deeper into creativity and literature discussions."
+        ],
+        [
+          "Eddy Lin",
+          "I'm also planning to visit the historical museum this weekend. Would you be interested in joining me? It could give us more insight into the village's rich history and maybe inspire our project further."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a wonderful idea! I'd love to join you at the historical museum this weekend. It will be fascinating to learn more about our village's rich history and see how it could inspire our project further."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Adam, since we're planning to visit the historical museum this weekend, I was thinking we could also stop by The Rose and Crown Pub afterward for a casual chat and maybe even finalize some details for our project. What do you think?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a great plan, Eddy! I would be delighted to join you at The Rose and Crown Pub after our visit to the historical museum this weekend. It will be an excellent opportunity for us to continue our discussion and finalize details for our project."
+        ],
+        [
+          "Eddy Lin",
+          "Adam, I just remembered that there's a community clean-up event happening next month. Would you be interested in participating with me? It's a great way to give back to our village and connect with other community members."
+        ],
+        [
+          "Adam Smith",
+          "Absolutely, Eddy! I would be thrilled to participate in the community clean-up event with you next month. It's a fantastic opportunity to give back to our village and connect with other community members. Let's make sure we mark our calendars for that."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Adam, do you think we should reach out to some local musicians as well for our project? Their input could really add another dimension to our poetry and music collaboration."
+        ],
+        [
+          "Adam Smith",
+          "That's a fantastic idea, Eddy! We should definitely reach out to some local musicians for our project. Their input and collaboration could bring a whole new dimension to our poetry and music project."
+        ],
+        [
+          "Eddy Lin",
+          "Adam, I also heard about a local music event happening next month at the village hall. Would you be interested in attending together? It could be a great way to support our local musicians and get inspired for our project."
+        ],
+        [
+          "Adam Smith",
+          "Eddy, that sounds like a fantastic opportunity to support our local musicians and get inspired for our project. I would love to attend the local music event at the village hall with you next month."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 17:18:10"
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddf9\ud83d\uded2",
+      "description": "managing operations at Hobbs Cafe (cleaning and restocking the cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\u270d\ufe0f",
+      "description": "attending the creative writing workshop (participating in the second writing exercise) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still studying at the library (working on a sociology essay) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        88,
+        46
+      ],
+      "pronunciatio": "\ud83c\udf82",
+      "description": "running errands and gathering party material (picking up the birthday cake from the bakery) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Ayesha Khan are planning a weekend filled with cultural activities such as visiting an art gallery, attending a music event, exploring hiking trails, and engaging in community events in the village. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, I was thinking we should check out the local art gallery this weekend. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea, Wolfgang! I'm definitely up for exploring the art gallery this weekend."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I also heard there's a music event at the village hall this Friday. Would you be interested in going together?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic idea, Wolfgang! I would love to attend the music event at the village hall with you this Friday."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Maybe after the music event on Friday, we can grab dinner at the local diner. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful plan, Wolfgang! I'm excited to explore the village with you and experience all these cultural activities."
+        ],
+        [
+          "Wolfgang Schulz",
+          "How about we also plan to visit the historical museum on Sunday afternoon? It would be fascinating to learn more about the village's history and culture."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like an excellent plan, Wolfgang! I'm looking forward to visiting the historical museum with you on Sunday afternoon."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Do you want to join me for a morning run at the park tomorrow before our classes start?"
+        ],
+        [
+          "Ayesha Khan",
+          "Yes, I would love to join you for a morning run at the park tomorrow before our classes start. It sounds like a great way to start the day!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a plan, Ayesha! I'm glad we have a lot of exciting activities lined up for the weekend. Do you have any other suggestions for things we could explore in the village?"
+        ],
+        [
+          "Ayesha Khan",
+          "I was thinking we could also visit the local farmers' market on Saturday morning before heading to the book club meeting at the village library. What do you think, Wolfgang?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "How about we also explore the hiking trails in the village on Sunday morning before visiting the historical museum in the afternoon?"
+        ],
+        [
+          "Ayesha Khan",
+          "We could also attend the community event at the park on Saturday evening. It seems like a fun way to spend time together!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I think we should also plan to explore the community garden projects in the village next week. It would be a great opportunity for us to get involved and connect with the community."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic idea, Wolfgang! I would love to explore the hiking trails in the village on Sunday morning before visiting the historical museum in the afternoon."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Ayesha Khan are planning a weekend filled with cultural activities such as visiting an art gallery, attending a music event, exploring hiking trails, and engaging in community events in the village. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, I was thinking we should check out the local art gallery this weekend. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea, Wolfgang! I'm definitely up for exploring the art gallery this weekend."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I also heard there's a music event at the village hall this Friday. Would you be interested in going together?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic idea, Wolfgang! I would love to attend the music event at the village hall with you this Friday."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Maybe after the music event on Friday, we can grab dinner at the local diner. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful plan, Wolfgang! I'm excited to explore the village with you and experience all these cultural activities."
+        ],
+        [
+          "Wolfgang Schulz",
+          "How about we also plan to visit the historical museum on Sunday afternoon? It would be fascinating to learn more about the village's history and culture."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like an excellent plan, Wolfgang! I'm looking forward to visiting the historical museum with you on Sunday afternoon."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Do you want to join me for a morning run at the park tomorrow before our classes start?"
+        ],
+        [
+          "Ayesha Khan",
+          "Yes, I would love to join you for a morning run at the park tomorrow before our classes start. It sounds like a great way to start the day!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a plan, Ayesha! I'm glad we have a lot of exciting activities lined up for the weekend. Do you have any other suggestions for things we could explore in the village?"
+        ],
+        [
+          "Ayesha Khan",
+          "I was thinking we could also visit the local farmers' market on Saturday morning before heading to the book club meeting at the village library. What do you think, Wolfgang?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "How about we also explore the hiking trails in the village on Sunday morning before visiting the historical museum in the afternoon?"
+        ],
+        [
+          "Ayesha Khan",
+          "We could also attend the community event at the park on Saturday evening. It seems like a fun way to spend time together!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I think we should also plan to explore the community garden projects in the village next week. It would be a great opportunity for us to get involved and connect with the community."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic idea, Wolfgang! I would love to explore the hiking trails in the village on Sunday morning before visiting the historical museum in the afternoon."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending classes at Oak Hill College (attending his second class on music composition) (listening to the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        58,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two villagers, Adam and Tom, discussing local community events, including art exhibitions, music jam sessions, and a community picnic at Johnson Park @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey Tom, it's great to see you introducing Carlos to the local artists and musicians. How are you finding the community events lately?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Adam, thanks for noticing! The community events have been fantastic lately, lots of energy and creativity flowing around. Have you been able to check out the new art exhibition at the gallery?"
+        ],
+        [
+          "Adam Smith",
+          "Yes, I actually attended the art exhibition last week. It was truly inspiring to see the local talent on display. Did you have a favorite piece?"
+        ],
+        [
+          "Tom Moreno",
+          "I loved the art exhibition too! It's amazing how much talent we have in our village. Have you heard about the upcoming music jam session at the community center?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds exciting! I haven't heard about the music jam session yet, but I'll definitely make sure to attend. Thanks for sharing, Tom."
+        ],
+        [
+          "Tom Moreno",
+          "Adam, I'm glad to hear you're interested in attending the music jam session. It's always great to have fellow villagers support local talent. I'll make sure to save you a spot. Looking forward to seeing you there!"
+        ],
+        [
+          "Adam Smith",
+          "That music jam session sounds like a great way to support local talent. I appreciate the heads up, Tom."
+        ],
+        [
+          "Tom Moreno",
+          "Adam, if you're free this weekend, there's a community picnic at Johnson Park. It would be great to have you join us and enjoy some outdoor fun with the villagers."
+        ],
+        [
+          "Adam Smith",
+          "Thanks for inviting me to the community picnic at Johnson Park this weekend, Tom. I'll definitely join and enjoy some outdoor fun with everyone."
+        ],
+        [
+          "Tom Moreno",
+          "Adam, I'm looking forward to catching up with you at the community picnic this weekend. It'll be a great opportunity to connect with everyone and enjoy the outdoor activities together."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "still working on her new children's book series (taking a break to eat a snack) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        58,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two villagers, Adam and Tom, discussing local community events, including art exhibitions, music jam sessions, and a community picnic at Johnson Park @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey Tom, it's great to see you introducing Carlos to the local artists and musicians. How are you finding the community events lately?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Adam, thanks for noticing! The community events have been fantastic lately, lots of energy and creativity flowing around. Have you been able to check out the new art exhibition at the gallery?"
+        ],
+        [
+          "Adam Smith",
+          "Yes, I actually attended the art exhibition last week. It was truly inspiring to see the local talent on display. Did you have a favorite piece?"
+        ],
+        [
+          "Tom Moreno",
+          "I loved the art exhibition too! It's amazing how much talent we have in our village. Have you heard about the upcoming music jam session at the community center?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds exciting! I haven't heard about the music jam session yet, but I'll definitely make sure to attend. Thanks for sharing, Tom."
+        ],
+        [
+          "Tom Moreno",
+          "Adam, I'm glad to hear you're interested in attending the music jam session. It's always great to have fellow villagers support local talent. I'll make sure to save you a spot. Looking forward to seeing you there!"
+        ],
+        [
+          "Adam Smith",
+          "That music jam session sounds like a great way to support local talent. I appreciate the heads up, Tom."
+        ],
+        [
+          "Tom Moreno",
+          "Adam, if you're free this weekend, there's a community picnic at Johnson Park. It would be great to have you join us and enjoy some outdoor fun with the villagers."
+        ],
+        [
+          "Adam Smith",
+          "Thanks for inviting me to the community picnic at Johnson Park this weekend, Tom. I'll definitely join and enjoy some outdoor fun with everyone."
+        ],
+        [
+          "Tom Moreno",
+          "Adam, I'm looking forward to catching up with you at the community picnic this weekend. It'll be a great opportunity to connect with everyone and enjoy the outdoor activities together."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 11:33:50"
+  }
+}

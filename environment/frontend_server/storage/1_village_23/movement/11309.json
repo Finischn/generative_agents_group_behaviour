@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83d\uddd3\ufe0f",
+      "description": "preparing for the day and getting ready to open Hobbs Cafe at 8:00 am (checking the schedule and assigning tasks to her employees) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        13
+      ],
+      "pronunciatio": "\ud83d\udebf",
+      "description": "waking up and completing his morning routine (taking a shower) @ the Ville:Carlos Gomez's apartment:bathroom:shower",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        107,
+        50
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83d\udc57",
+      "description": "waking up and completing his morning routine (taking a shower and getting dressed) @ the Ville:Dorm for Oak Hill College:man's bathroom:shower",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        39,
+        30
+      ],
+      "pronunciatio": "\ud83c\udfa8",
+      "description": "having breakfast (conversing about how to incorporate community events into Adam's book and involve local historians, artists, musicians, school children, and artists in upcoming projects for creativity and community collaboration.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        115,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf93",
+      "description": "attending classes at Oak Hill College (attending her first class) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        34,
+        39
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Adam Smith and Wolfgang Schulz are discussing participating in various community events and projects together, including visiting the farmers' market, historical museum, art exhibition, music event, book club meeting, and a community clean-up event, while also planning to grab lunch at the local cafe to chat more about the community and Wolfgang's interests. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey Wolfgang, I've heard that you're interested in exploring the village and getting to know more about the community. I have some exciting events and projects coming up that I think you might enjoy being a part of. Would you like to join me in visiting the farmers' market this weekend and then maybe swing by the historical museum together?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great idea, Adam! I would love to join you in visiting the farmers' market and historical museum. It would be a fantastic way for me to learn more about the village and get involved in the community."
+        ],
+        [
+          "Adam Smith",
+          "I'm also planning to attend an upcoming art exhibition in town. Would you be interested in joining me and exploring some local artistic talent?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for inviting me to explore the local art exhibition, Adam! I am definitely interested in joining you and checking out the talented artists in the village."
+        ],
+        [
+          "Adam Smith",
+          "I'm glad you're interested in exploring the village and getting involved in the community, Wolfgang. How about we also attend a music event in the park together next week?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great plan, Adam! I'm looking forward to exploring the village and attending the music event in the park with you. Do you have any other community events or projects in mind that we could participate in together?"
+        ],
+        [
+          "Adam Smith",
+          "We can also join the book club meeting next week. It's a great way to meet more people in the community and discuss interesting topics. What do you think?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds wonderful, Adam! I'm excited to explore the village and get involved in the community. I appreciate all the event suggestions you've shared with me. Count me in for the art exhibition, music event, and book club meeting. I'm looking forward to learning more about the village's culture and history through these experiences."
+        ],
+        [
+          "Adam Smith",
+          "I'm also planning to organize a community clean-up event next month. Would you like to join me in helping to keep our village clean and beautiful?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for inviting me to join the community clean-up event next month, Adam! I would love to contribute to keeping our village clean and beautiful. Count me in for that too."
+        ],
+        [
+          "Adam Smith",
+          "I'm glad you're settling into the village, Wolfgang. How about we also grab lunch at the local cafe after our visit to the historical museum to chat more about the community and your interests?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for all the wonderful event suggestions, Adam! I appreciate your initiative in inviting me to be a part of these community activities. I'm excited to explore the village with you and learn more about its culture and history."
+        ],
+        [
+          "Adam Smith",
+          "I'm glad you're settling into the village, Wolfgang. How about we also grab lunch at the local cafe after our visit to the historical museum to chat more about the community and your interests?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for all the wonderful event suggestions, Adam! I appreciate your initiative in inviting me to be a part of these community activities. I'm excited to explore the village with you and learn more about its culture and history."
+        ],
+        [
+          "Adam Smith",
+          "I'm glad you're settling into the village, Wolfgang. How about we also grab lunch at the local cafe after our visit to the historical museum to chat more about the community and your interests?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for all the wonderful event suggestions, Adam! I appreciate your initiative in inviting me to be a part of these community activities. I'm excited to explore the village with you and learn more about its culture and history."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        97,
+        68
+      ],
+      "pronunciatio": "\ud83d\udec1\ud83d\udc57",
+      "description": "waking up and completing his morning routine (taking a shower and getting dressed) @ the Ville:Lin family's house:bathroom:shower",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        71,
+        74
+      ],
+      "pronunciatio": "\ud83d\udcf1",
+      "description": "waking up and completing his morning routine (checking his phone for any urgent messages) @ the Ville:Moreno family's house:Tom and Jane Moreno's bedroom:desk",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        57,
+        65
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having breakfast (setting the table) @ the Ville:Tamara Taylor and Carmen Ortiz's house:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        33,
+        39
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Adam Smith and Wolfgang Schulz are discussing participating in various community events and projects together, including visiting the farmers' market, historical museum, art exhibition, music event, book club meeting, and a community clean-up event, while also planning to grab lunch at the local cafe to chat more about the community and Wolfgang's interests. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey Wolfgang, I've heard that you're interested in exploring the village and getting to know more about the community. I have some exciting events and projects coming up that I think you might enjoy being a part of. Would you like to join me in visiting the farmers' market this weekend and then maybe swing by the historical museum together?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great idea, Adam! I would love to join you in visiting the farmers' market and historical museum. It would be a fantastic way for me to learn more about the village and get involved in the community."
+        ],
+        [
+          "Adam Smith",
+          "I'm also planning to attend an upcoming art exhibition in town. Would you be interested in joining me and exploring some local artistic talent?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for inviting me to explore the local art exhibition, Adam! I am definitely interested in joining you and checking out the talented artists in the village."
+        ],
+        [
+          "Adam Smith",
+          "I'm glad you're interested in exploring the village and getting involved in the community, Wolfgang. How about we also attend a music event in the park together next week?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great plan, Adam! I'm looking forward to exploring the village and attending the music event in the park with you. Do you have any other community events or projects in mind that we could participate in together?"
+        ],
+        [
+          "Adam Smith",
+          "We can also join the book club meeting next week. It's a great way to meet more people in the community and discuss interesting topics. What do you think?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds wonderful, Adam! I'm excited to explore the village and get involved in the community. I appreciate all the event suggestions you've shared with me. Count me in for the art exhibition, music event, and book club meeting. I'm looking forward to learning more about the village's culture and history through these experiences."
+        ],
+        [
+          "Adam Smith",
+          "I'm also planning to organize a community clean-up event next month. Would you like to join me in helping to keep our village clean and beautiful?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for inviting me to join the community clean-up event next month, Adam! I would love to contribute to keeping our village clean and beautiful. Count me in for that too."
+        ],
+        [
+          "Adam Smith",
+          "I'm glad you're settling into the village, Wolfgang. How about we also grab lunch at the local cafe after our visit to the historical museum to chat more about the community and your interests?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for all the wonderful event suggestions, Adam! I appreciate your initiative in inviting me to be a part of these community activities. I'm excited to explore the village with you and learn more about its culture and history."
+        ],
+        [
+          "Adam Smith",
+          "I'm glad you're settling into the village, Wolfgang. How about we also grab lunch at the local cafe after our visit to the historical museum to chat more about the community and your interests?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for all the wonderful event suggestions, Adam! I appreciate your initiative in inviting me to be a part of these community activities. I'm excited to explore the village with you and learn more about its culture and history."
+        ],
+        [
+          "Adam Smith",
+          "I'm glad you're settling into the village, Wolfgang. How about we also grab lunch at the local cafe after our visit to the historical museum to chat more about the community and your interests?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for all the wonderful event suggestions, Adam! I appreciate your initiative in inviting me to be a part of these community activities. I'm excited to explore the village with you and learn more about its culture and history."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 07:24:50"
+  }
+}

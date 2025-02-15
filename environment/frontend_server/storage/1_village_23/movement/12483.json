@@ -1,0 +1,97 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcb0",
+      "description": "managing operations at Hobbs Cafe (taking orders and managing the cash register) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending the creative writing workshop (listening to the workshop instructor's introduction) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still studying at the library (reading assigned readings for his sociology class) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        83,
+        49
+      ],
+      "pronunciatio": "\ud83d\uded2",
+      "description": "running errands and gathering party material (going to the local grocery store to buy snacks and drinks for the party) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        120,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcda\ud83c\udfa8",
+      "description": "attending classes at Oak Hill College (conversing about Klaus Mueller and Ayesha Khan discussing upcoming village events and activities such as joining a book club, attending a community event, exploring the farmers' market, relaxing in the park, visiting an art exhibition, and joining a guided tour of the historical museum.) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending afternoon classes at Oak Hill College (listening to the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "attending classes at Oak Hill College (participating in a group discussion) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        83,
+        53
+      ],
+      "pronunciatio": "\ud83d\udcde\ud83d\udecd\ufe0f",
+      "description": "attending to customers and working at The Willow Market and Pharmacy (answering phone calls, taking orders, and assisting customers) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        41,
+        34
+      ],
+      "pronunciatio": "\ud83c\udfa8",
+      "description": "still working on her new children's book series (working on illustrations for the book) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        39,
+        28
+      ],
+      "pronunciatio": "\ud83d\udcbc",
+      "description": "meeting with Klaus Mueller to discuss the town square project (preparing questions and talking points for the meeting) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 10:40:30"
+  }
+}

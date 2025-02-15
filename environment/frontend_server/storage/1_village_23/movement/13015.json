@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        28,
+        45
+      ],
+      "pronunciatio": "\u2615",
+      "description": "managing operations at Hobbs Cafe (taking a break) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        111,
+        31
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "having lunch (walking to the chosen restaurant) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        113,
+        30
+      ],
+      "pronunciatio": "\ud83c\udf75",
+      "description": "still studying at the library (taking a short break) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        82,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the village, planning art and cultural outings, and collaborating on a poetry and music event, Sam Moore and Ayesha Khan discuss their shared interests and excitement about immersing themselves in the local community. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hello Ayesha! It's great to see you at Oak Hill College. How are your classes going?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hi Sam! My classes are going well. I'm really enjoying exploring the village with you and planning all our creative projects together. I appreciate the warm welcome and the opportunity to learn more about the community. Have you checked out the new art exhibition at the local gallery?"
+        ],
+        [
+          "Sam Moore",
+          "I haven't had a chance to see the new art exhibition yet, but I would love to go check it out with you. How about we plan a visit together sometime this week?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great plan! Let's make a day of it and also visit the historical museum. I heard they have a new exhibit that we shouldn't miss."
+        ],
+        [
+          "Sam Moore",
+          "That's a fantastic idea! We can also grab lunch at The Village Cafe after our visits."
+        ],
+        [
+          "Ayesha Khan",
+          "I also heard about a local musician performing at the village hall this weekend. Would you be interested in going together?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a wonderful plan! I'm excited to explore the local music scene with you. Let's definitely check out the musician at the village hall this weekend. We can make it a fun outing together."
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Sam, there's also a community book club meeting at the library next week. Would you be interested in joining me?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds fantastic, Ayesha! I would love to join you for the community book club meeting at the library next week. It's a great way to connect with fellow book enthusiasts and learn more about the village's literary scene. Thank you for including me in your plans."
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Sam, I was thinking of organizing a poetry and music event in the village. Would you be interested in collaborating with me on this project?"
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, I'm thrilled to hear about your idea for a poetry and music event in the village. I would love to collaborate with you on this project and make it a memorable experience for everyone in the community. Let's discuss the details further and work together to bring your vision to life."
+        ],
+        [
+          "Ayesha Khan",
+          "Sam, thank you for being so supportive and willing to collaborate on our poetry and music event. I truly appreciate your enthusiasm and creative input. Let's set a meeting to discuss the details further and start planning this exciting project together."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, welcome to the village! I'm so glad you're here and excited about exploring all the wonderful things our community has to offer. Let me know if you need any recommendations or if there's anything specific you'd like to see or do. I'm happy to show you around and introduce you to local artists, historians, and musicians."
+        ],
+        [
+          "Ayesha Khan",
+          "Sam, I would love to explore the village's literary scene with you by visiting the local library and discussing our favorite books. It would be a great way to deepen our connection and exchange ideas."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, I'm delighted to have you in the village and eager to show you around Johnson Park, the art gallery, and the historical museum. Let's plan a day to explore these cultural gems together!"
+        ],
+        [
+          "Ayesha Khan",
+          "Sam, I'm really looking forward to exploring the local music scene with you this weekend. It's exciting to have someone passionate about the arts like you to share these experiences with."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        81,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the village, planning art and cultural outings, and collaborating on a poetry and music event, Sam Moore and Ayesha Khan discuss their shared interests and excitement about immersing themselves in the local community. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hello Ayesha! It's great to see you at Oak Hill College. How are your classes going?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hi Sam! My classes are going well. I'm really enjoying exploring the village with you and planning all our creative projects together. I appreciate the warm welcome and the opportunity to learn more about the community. Have you checked out the new art exhibition at the local gallery?"
+        ],
+        [
+          "Sam Moore",
+          "I haven't had a chance to see the new art exhibition yet, but I would love to go check it out with you. How about we plan a visit together sometime this week?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great plan! Let's make a day of it and also visit the historical museum. I heard they have a new exhibit that we shouldn't miss."
+        ],
+        [
+          "Sam Moore",
+          "That's a fantastic idea! We can also grab lunch at The Village Cafe after our visits."
+        ],
+        [
+          "Ayesha Khan",
+          "I also heard about a local musician performing at the village hall this weekend. Would you be interested in going together?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a wonderful plan! I'm excited to explore the local music scene with you. Let's definitely check out the musician at the village hall this weekend. We can make it a fun outing together."
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Sam, there's also a community book club meeting at the library next week. Would you be interested in joining me?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds fantastic, Ayesha! I would love to join you for the community book club meeting at the library next week. It's a great way to connect with fellow book enthusiasts and learn more about the village's literary scene. Thank you for including me in your plans."
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Sam, I was thinking of organizing a poetry and music event in the village. Would you be interested in collaborating with me on this project?"
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, I'm thrilled to hear about your idea for a poetry and music event in the village. I would love to collaborate with you on this project and make it a memorable experience for everyone in the community. Let's discuss the details further and work together to bring your vision to life."
+        ],
+        [
+          "Ayesha Khan",
+          "Sam, thank you for being so supportive and willing to collaborate on our poetry and music event. I truly appreciate your enthusiasm and creative input. Let's set a meeting to discuss the details further and start planning this exciting project together."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, welcome to the village! I'm so glad you're here and excited about exploring all the wonderful things our community has to offer. Let me know if you need any recommendations or if there's anything specific you'd like to see or do. I'm happy to show you around and introduce you to local artists, historians, and musicians."
+        ],
+        [
+          "Ayesha Khan",
+          "Sam, I would love to explore the village's literary scene with you by visiting the local library and discussing our favorite books. It would be a great way to deepen our connection and exchange ideas."
+        ],
+        [
+          "Sam Moore",
+          "Ayesha, I'm delighted to have you in the village and eager to show you around Johnson Park, the art gallery, and the historical museum. Let's plan a day to explore these cultural gems together!"
+        ],
+        [
+          "Ayesha Khan",
+          "Sam, I'm really looking forward to exploring the local music scene with you this weekend. It's exciting to have someone passionate about the arts like you to share these experiences with."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        72,
+        23
+      ],
+      "pronunciatio": "\ufe0f\ufe0f\u23f3",
+      "description": "having lunch (waiting in line to get his food) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        113,
+        30
+      ],
+      "pronunciatio": "\ud83c\udf2e",
+      "description": "taking a break and having lunch at Hobbs Cafe (ordering his lunch) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        36,
+        33
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "having lunch at The Willow Market and Pharmacy (conversing about Tom Moreno and Tamara Taylor discussing exploring the culture and heritage of the village, including meeting local historians, artists, musicians, and visiting cultural spots.) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        36,
+        33
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "still working on her new children's book series (conversing about Tom Moreno and Tamara Taylor discussing exploring the culture and heritage of the village, including meeting local historians, artists, musicians, and visiting cultural spots.) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "finishing up his meeting with Klaus Mueller and making plans to follow up with him next week (conversing about Adam Smith and Isabella Rodriguez discussing upcoming community events and activities in the village, including an art exhibition, meeting local artists and musicians, joining a book club meeting, participating in a community clean-up event, and attending a community event at Johnson Park next weekend, as well as a farmers' market to support local vendors and enjoy fresh produce.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 12:09:10"
+  }
+}

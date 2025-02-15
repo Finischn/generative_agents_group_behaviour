@@ -1,0 +1,211 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        25
+      ],
+      "pronunciatio": "\ud83d\uded1",
+      "description": "managing operations at Hobbs Cafe and interacting with customers (closing up the cafe and saying goodbye to customers) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        79,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about collaborating on a music composition project and exploring different musical styles in the village, while also making plans to visit Johnson Park and meet at Hobbs Cafe tomorrow afternoon. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Carlos, I noticed you seem to enjoy exploring the village. Have you had a chance to visit the farmers' market or check out the local art scene yet?"
+        ],
+        [
+          "Carlos Gomez",
+          "Yes, I actually have visited the farmers' market and explored some of the local art scene. I love how vibrant and welcoming the community is here."
+        ],
+        [
+          "Eddy Lin",
+          "I'm currently working on a music composition project for my college class. Would you be interested in collaborating or joining me to explore different musical styles in the village?"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for the offer, Eddy. I would love to collaborate on the music composition project with you and explore different musical styles in the village."
+        ],
+        [
+          "Eddy Lin",
+          "Welcome to the village, Carlos. Since you seem to enjoy exploring, I suggest we visit Johnson Park next. It's a beautiful spot that could inspire us for our music composition project."
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a great idea, Eddy! I would love to explore Johnson Park with you and gather inspiration for our music composition project."
+        ],
+        [
+          "Eddy Lin",
+          "Let's also plan to meet at Hobbs Cafe tomorrow afternoon to further discuss our collaboration on the music composition project."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Eddy, for welcoming me to the village and for your offer to collaborate on the music composition project. I'm excited to explore Johnson Park with you and discuss our project further at Hobbs Cafe tomorrow afternoon."
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad you're enjoying your time exploring the village. Have you had a chance to check out the book club meetings or attend any community events yet?"
+        ],
+        [
+          "Carlos Gomez",
+          "I haven't had a chance to check out the book club meetings or attend any community events yet, but I'm looking forward to exploring more of what the village has to offer. Thank you for inviting me to collaborate on the music composition project and explore different musical styles together."
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad you're enjoying your time exploring the village. Have you had a chance to check out the community picnic or engage in any storytelling events yet?"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Eddy, for sharing all these wonderful opportunities with me. I feel truly welcomed and excited to explore more of the village's history and community events. I look forward to collaborating on our music composition project and joining you at Hobbs Cafe tomorrow afternoon."
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad you're enjoying your time exploring the village. Have you had a chance to visit the historical museum or attend any local music events yet?"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Eddy, for sharing all these wonderful opportunities with me. I feel truly welcomed and excited to explore more of the village's history and community events. I look forward to collaborating on our music composition project and joining you at Hobbs Cafe tomorrow afternoon."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "writing his research paper at the library (researching and gathering evidence to support his arguments) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "having his birthday party at The Rose and Crown Pub (conversing about Eddy Lin and Sam Moore discussing plans to visit the local art gallery, explore Johnson Park, and collaborate on organizing a poetry and music event involving local artists and musicians.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        86,
+        30
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "having dinner (walking to the dining hall) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        123,
+        46
+      ],
+      "pronunciatio": "\ud83d\udc68\u200d\ud83c\udf73",
+      "description": "having dinner (cooking dinner) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        80,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about collaborating on a music composition project and exploring different musical styles in the village, while also making plans to visit Johnson Park and meet at Hobbs Cafe tomorrow afternoon. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Carlos, I noticed you seem to enjoy exploring the village. Have you had a chance to visit the farmers' market or check out the local art scene yet?"
+        ],
+        [
+          "Carlos Gomez",
+          "Yes, I actually have visited the farmers' market and explored some of the local art scene. I love how vibrant and welcoming the community is here."
+        ],
+        [
+          "Eddy Lin",
+          "I'm currently working on a music composition project for my college class. Would you be interested in collaborating or joining me to explore different musical styles in the village?"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for the offer, Eddy. I would love to collaborate on the music composition project with you and explore different musical styles in the village."
+        ],
+        [
+          "Eddy Lin",
+          "Welcome to the village, Carlos. Since you seem to enjoy exploring, I suggest we visit Johnson Park next. It's a beautiful spot that could inspire us for our music composition project."
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a great idea, Eddy! I would love to explore Johnson Park with you and gather inspiration for our music composition project."
+        ],
+        [
+          "Eddy Lin",
+          "Let's also plan to meet at Hobbs Cafe tomorrow afternoon to further discuss our collaboration on the music composition project."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Eddy, for welcoming me to the village and for your offer to collaborate on the music composition project. I'm excited to explore Johnson Park with you and discuss our project further at Hobbs Cafe tomorrow afternoon."
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad you're enjoying your time exploring the village. Have you had a chance to check out the book club meetings or attend any community events yet?"
+        ],
+        [
+          "Carlos Gomez",
+          "I haven't had a chance to check out the book club meetings or attend any community events yet, but I'm looking forward to exploring more of what the village has to offer. Thank you for inviting me to collaborate on the music composition project and explore different musical styles together."
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad you're enjoying your time exploring the village. Have you had a chance to check out the community picnic or engage in any storytelling events yet?"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Eddy, for sharing all these wonderful opportunities with me. I feel truly welcomed and excited to explore more of the village's history and community events. I look forward to collaborating on our music composition project and joining you at Hobbs Cafe tomorrow afternoon."
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad you're enjoying your time exploring the village. Have you had a chance to visit the historical museum or attend any local music events yet?"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Eddy, for sharing all these wonderful opportunities with me. I feel truly welcomed and excited to explore more of the village's history and community events. I look forward to collaborating on our music composition project and joining you at Hobbs Cafe tomorrow afternoon."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        78,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "still managing the store and helping customers with their orders (helping a customer with a question about a product) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        74
+      ],
+      "pronunciatio": "\ud83d\udd8c\ufe0f",
+      "description": "working on her comic book series (creating rough sketches for the illustrations) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        56
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "having dinner with a friend (walking to the restaurant) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 17:25:50"
+  }
+}

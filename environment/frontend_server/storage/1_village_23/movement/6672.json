@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\uddfa\ufe0f",
+      "description": "closing Hobbs Cafe and cleaning up (conversing about planning to explore various attractions and activities together in the village, such as visiting Johnson Park, checking out an art exhibition, attending a book club meeting, joining a community garden project, and attending a community picnic.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83c\udf33",
+      "description": "having dinner (conversing about planning to explore various attractions and activities together in the village, such as visiting Johnson Park, checking out an art exhibition, attending a book club meeting, joining a community garden project, and attending a community picnic.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        96,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "heading home from the library (conversing about Klaus Mueller and Eddy Lin are discussing ways to involve the local community, including the community center, school children, historians, local artists and musicians, Isabella Rodriguez, Johnson Park, Hobbs Cafe, traditional folk music, and local businesses, in their storytelling and music project.) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        35,
+        32
+      ],
+      "pronunciatio": "\ud83c\udf96\ufe0f",
+      "description": "enjoying his birthday party at The Rose and Crown Pub (sharing stories from his time in the military) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        92,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang and Ayesha are planning their day exploring the local farmers' market, library, art exhibition, book club meeting, historical museum, and ending with lunch at the local cafe. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, I was thinking we could start our exploration by visiting the local farmers' market first. What do you think?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great idea! I'm looking forward to exploring the farmers' market with you and discovering local produce."
+        ],
+        [
+          "Ayesha Khan",
+          "After the farmers' market, we can head over to the local library to check out some literature. I'd love to discuss some of Shakespeare's plays with you."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great plan! I'm excited to discuss literature with you after our visit to the farmers' market."
+        ],
+        [
+          "Ayesha Khan",
+          "After visiting the farmers' market and the local library, would you be interested in attending an art exhibition together?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I would love to attend an art exhibition with you! It sounds like a great opportunity to immerse ourselves in the local culture."
+        ],
+        [
+          "Ayesha Khan",
+          "After the art exhibition, we could attend a book club meeting together. I think it would be a great way to further explore literature and meet some like-minded individuals in the village."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I completely agree, Ayesha. Attending the book club meeting after the art exhibition sounds like a wonderful idea. It would be a great way to discuss literature further and connect with others in the community."
+        ],
+        [
+          "Ayesha Khan",
+          "After the book club meeting, we could explore the historical museum together. I think it would be fascinating to learn more about the village's heritage."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a wonderful plan, Ayesha! I would love to explore the historical museum with you and learn more about the village's heritage."
+        ],
+        [
+          "Ayesha Khan",
+          "Lastly, we could end the day at the local park. What do you think?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic plan, Ayesha! I'm looking forward to exploring all these places with you and discussing literature along the way. Let's make sure to note down any interesting findings at the historical museum for our future conversations."
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, shall we grab lunch at the local cafe after we finish exploring the historical museum?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Yes, Ayesha, lunch at the local cafe sounds like a perfect way to end our day of exploring the village together. I can't wait to continue our discussions and discoveries over a meal."
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, shall we grab lunch at the local cafe after we finish exploring the historical museum?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a wonderful idea, Ayesha! I can't wait to explore the historical museum and learn more about the village's heritage with you. Lunch at the local cafe afterwards sounds perfect!"
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        93,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang and Ayesha are planning their day exploring the local farmers' market, library, art exhibition, book club meeting, historical museum, and ending with lunch at the local cafe. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, I was thinking we could start our exploration by visiting the local farmers' market first. What do you think?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great idea! I'm looking forward to exploring the farmers' market with you and discovering local produce."
+        ],
+        [
+          "Ayesha Khan",
+          "After the farmers' market, we can head over to the local library to check out some literature. I'd love to discuss some of Shakespeare's plays with you."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great plan! I'm excited to discuss literature with you after our visit to the farmers' market."
+        ],
+        [
+          "Ayesha Khan",
+          "After visiting the farmers' market and the local library, would you be interested in attending an art exhibition together?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I would love to attend an art exhibition with you! It sounds like a great opportunity to immerse ourselves in the local culture."
+        ],
+        [
+          "Ayesha Khan",
+          "After the art exhibition, we could attend a book club meeting together. I think it would be a great way to further explore literature and meet some like-minded individuals in the village."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I completely agree, Ayesha. Attending the book club meeting after the art exhibition sounds like a wonderful idea. It would be a great way to discuss literature further and connect with others in the community."
+        ],
+        [
+          "Ayesha Khan",
+          "After the book club meeting, we could explore the historical museum together. I think it would be fascinating to learn more about the village's heritage."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a wonderful plan, Ayesha! I would love to explore the historical museum with you and learn more about the village's heritage."
+        ],
+        [
+          "Ayesha Khan",
+          "Lastly, we could end the day at the local park. What do you think?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic plan, Ayesha! I'm looking forward to exploring all these places with you and discussing literature along the way. Let's make sure to note down any interesting findings at the historical museum for our future conversations."
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, shall we grab lunch at the local cafe after we finish exploring the historical museum?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Yes, Ayesha, lunch at the local cafe sounds like a perfect way to end our day of exploring the village together. I can't wait to continue our discussions and discoveries over a meal."
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang, shall we grab lunch at the local cafe after we finish exploring the historical museum?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a wonderful idea, Ayesha! I can't wait to explore the historical museum and learn more about the village's heritage with you. Lunch at the local cafe afterwards sounds perfect!"
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "greeting his classmates and taking a seat (conversing about Klaus Mueller and Eddy Lin are discussing ways to involve the local community, including the community center, school children, historians, local artists and musicians, Isabella Rodriguez, Johnson Park, Hobbs Cafe, traditional folk music, and local businesses, in their storytelling and music project.) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        73,
+        69
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "going home and having dinner with his wife Jane (discussing their day with Jane) @ the Ville:Moreno family's house:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        67
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having dinner (sitting down to eat) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        80,
+        41
+      ],
+      "pronunciatio": "\ud83d\udd75\ufe0f\u200d",
+      "description": "attending a local mayoral candidate debate (researching the candidates and their platforms) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 18:32:00"
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        80,
+        38
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "getting ready for her birthday party at Hobbs Cafe (setting up decorations for the party) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Eddy Lin are discussing ways to involve more local artists and musicians in their poetry and music project, including reaching out to the community center, local businesses, school children, historians, and long-time village residents, as well as exploring the local art gallery, historical museum, Johnson Park, and attending the upcoming community picnic and book club meeting to further immerse themselves in the village's cultural offerings. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Eddy, I was thinking about our poetry and music project and how we can involve more local artists and musicians in the village. What do you think about reaching out to the community center and local businesses for support?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a great idea, Carlos. I think involving the community center and local businesses could really help us in expanding our project. We could also consider reaching out to the school children and historians in the village to add more depth to our collaboration. What do you think?"
+        ],
+        [
+          "Carlos Gomez",
+          "I agree, involving school children and historians would provide valuable perspectives and enrich our collaboration. We can also explore organizing a storytelling and music workshop with them to create a more interactive and engaging experience for the community. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Carlos, I also think it would be beneficial to connect with local artists and musicians who have been part of the village for a long time. Their insights and experiences could bring a unique perspective to our project. What do you think about reaching out to them?"
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I was also thinking about exploring the local art gallery and historical museum to gather inspiration for our project. What do you think about visiting those places together?"
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, as a newcomer to the village, I suggest we take a walk around Johnson Park and explore the natural beauty of our surroundings. It could inspire us for our project and help you get acquainted with the village's peaceful charm."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I also thought it would be interesting to attend the upcoming community picnic together to further immerse ourselves in the village's vibrant community spirit. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I think attending the community picnic would be a fantastic way for you to truly experience the village's community spirit and connect with the villagers. I believe it would be a great opportunity for us to further immerse ourselves in the local culture and engage with the vibrant community."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I appreciate your suggestions and am looking forward to exploring the local art gallery and historical museum with you. It will give us a chance to gather inspiration for our project and connect with the village's cultural heritage."
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I think it would be really beneficial for you to join me at the upcoming book club meeting at the village library. It's a great way to meet other villagers, engage in literary discussions, and get a sense of the community's love for books and storytelling."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I would love to hear more about the history of the village from your perspective. Do you have any recommendations on where we could learn more about the village's past and its significance?"
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I suggest we make plans to visit the historical museum and explore the village's rich past together. It will provide us with a deeper understanding of the village's history and cultural significance."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I am also interested in learning more about the village's music scene. Do you know of any local musicians or music events that we could attend to further immerse ourselves in the village's cultural offerings?"
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, since you are new to the village, I recommend we attend the upcoming music event at the village hall. It's a great way to experience the local music scene and connect with the community through music."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I really appreciate your insights and guidance on exploring the village's history, art scene, and music offerings. Your suggestions have been incredibly helpful in shaping our collaboration and immersing me in the vibrant community. I look forward to continuing our journey together and discovering more about the village's rich cultural heritage."
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, since you are new to the village, I recommend we attend the upcoming music event at the village hall. It's a great way to experience the local music scene and connect with the community through music."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        62,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "heading to The Rose and Crown Pub for Sam's birthday party (conversing about collaborating on organizing a poetry and music event for the community, involving local schools, community center, historians, artists, musicians, businesses, farmers' market, newcomers, and a community clean-up event before the event, as well as organizing a book club meeting as part of the event to promote literature and engage book lovers.) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        59,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "celebrating his birthday with friends and family at The Rose and Crown Pub @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        36,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "getting ready for Isabella's birthday party (conversing about building upon their plans for exploring the farmers' market, book club meeting, local artists, musicians, art exhibition, historical museum, community events, poetry reading, music scene, community garden project, and organizing a music showcase event in the village to enrich their poetry and music project collaboration.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "reviewing notes and studying for exams (reviewing his notes from his morning classes) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Eddy Lin are discussing ways to involve more local artists and musicians in their poetry and music project, including reaching out to the community center, local businesses, school children, historians, and long-time village residents, as well as exploring the local art gallery, historical museum, Johnson Park, and attending the upcoming community picnic and book club meeting to further immerse themselves in the village's cultural offerings. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Eddy, I was thinking about our poetry and music project and how we can involve more local artists and musicians in the village. What do you think about reaching out to the community center and local businesses for support?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a great idea, Carlos. I think involving the community center and local businesses could really help us in expanding our project. We could also consider reaching out to the school children and historians in the village to add more depth to our collaboration. What do you think?"
+        ],
+        [
+          "Carlos Gomez",
+          "I agree, involving school children and historians would provide valuable perspectives and enrich our collaboration. We can also explore organizing a storytelling and music workshop with them to create a more interactive and engaging experience for the community. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Carlos, I also think it would be beneficial to connect with local artists and musicians who have been part of the village for a long time. Their insights and experiences could bring a unique perspective to our project. What do you think about reaching out to them?"
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I was also thinking about exploring the local art gallery and historical museum to gather inspiration for our project. What do you think about visiting those places together?"
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, as a newcomer to the village, I suggest we take a walk around Johnson Park and explore the natural beauty of our surroundings. It could inspire us for our project and help you get acquainted with the village's peaceful charm."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I also thought it would be interesting to attend the upcoming community picnic together to further immerse ourselves in the village's vibrant community spirit. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I think attending the community picnic would be a fantastic way for you to truly experience the village's community spirit and connect with the villagers. I believe it would be a great opportunity for us to further immerse ourselves in the local culture and engage with the vibrant community."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I appreciate your suggestions and am looking forward to exploring the local art gallery and historical museum with you. It will give us a chance to gather inspiration for our project and connect with the village's cultural heritage."
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I think it would be really beneficial for you to join me at the upcoming book club meeting at the village library. It's a great way to meet other villagers, engage in literary discussions, and get a sense of the community's love for books and storytelling."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I would love to hear more about the history of the village from your perspective. Do you have any recommendations on where we could learn more about the village's past and its significance?"
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I suggest we make plans to visit the historical museum and explore the village's rich past together. It will provide us with a deeper understanding of the village's history and cultural significance."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I am also interested in learning more about the village's music scene. Do you know of any local musicians or music events that we could attend to further immerse ourselves in the village's cultural offerings?"
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, since you are new to the village, I recommend we attend the upcoming music event at the village hall. It's a great way to experience the local music scene and connect with the community through music."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I really appreciate your insights and guidance on exploring the village's history, art scene, and music offerings. Your suggestions have been incredibly helpful in shaping our collaboration and immersing me in the vibrant community. I look forward to continuing our journey together and discovering more about the village's rich cultural heritage."
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, since you are new to the village, I recommend we attend the upcoming music event at the village hall. It's a great way to experience the local music scene and connect with the community through music."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        67,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Tom Moreno and Tamara Taylor discussing various activities they can do together in the village, such as exploring the farmers' market, art galleries, book club meetings, Johnson Park, The Rose and Crown Pub, art exhibitions, and community garden projects, as well as visiting the historical museum to immerse themselves in the village's culture and heritage. @ <persona> Tamara Taylor",
+      "chat": [
+        [
+          "Tom Moreno",
+          "Welcome to the village, Tamara! I'm excited to show you around and introduce you to the rich culture and heritage we have here. How about we start by visiting the farmers' market this weekend?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds like a great idea, Tom! I'm looking forward to exploring the farmers' market and learning more about the local produce and vendors. I'm also excited to see what else the village has to offer in terms of cultural experiences."
+        ],
+        [
+          "Tom Moreno",
+          "How about we also check out the art galleries in the village next? I know a few local artists whose work you might enjoy."
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds wonderful, Tom! I'd love to explore the art galleries and learn more about the local artists. Thank you for being so welcoming and willing to show me around."
+        ],
+        [
+          "Tom Moreno",
+          "How about we attend the upcoming book club meeting at the library together? It's a great way to mingle with other community members and discuss interesting literature."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you for being so welcoming, Tom! I appreciate your suggestions and look forward to attending the book club meeting at the library with you. It's great to have someone familiar with the village show me around and introduce me to the community."
+        ],
+        [
+          "Tom Moreno",
+          "How about we also check out Johnson Park next? It's a lovely spot in the village where you can relax, attend community events, and maybe even have a picnic."
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds like a perfect plan, Tom! I'm excited to explore Johnson Park with you and maybe even have a nice picnic there. Thank you for introducing me to the wonderful spots in the village."
+        ],
+        [
+          "Tom Moreno",
+          "How about we also visit The Rose and Crown Pub together? It's a popular spot in the village where you can meet more locals and enjoy some live music."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you for being so welcoming, Tom! I think exploring The Rose and Crown Pub sounds like a great idea. It would be lovely to meet more locals and enjoy some live music together."
+        ],
+        [
+          "Tom Moreno",
+          "How about we also attend the upcoming art exhibition at the village community center? It's a great opportunity to see local artists' work and immerse ourselves in the artistic side of the village."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Tom! I truly appreciate all your suggestions and guidance in showing me around the village. I can't wait to explore all these wonderful places and immerse myself in the rich culture here."
+        ],
+        [
+          "Tom Moreno",
+          "How about we also participate in the community garden project together? It's a great way to get involved in the village and meet more locals."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you for all your suggestions, Tom! I'm excited to explore the village with you and get involved in the community garden project. It's wonderful to have someone like you show me around and introduce me to the vibrant culture here."
+        ],
+        [
+          "Tom Moreno",
+          "How about we also check out the historical museum next? It's a fascinating place to learn more about the village's past and heritage."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Tom, for being so welcoming and showing me around the village. I appreciate all your suggestions and look forward to exploring the historical museum with you."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        66,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Tom Moreno and Tamara Taylor discussing various activities they can do together in the village, such as exploring the farmers' market, art galleries, book club meetings, Johnson Park, The Rose and Crown Pub, art exhibitions, and community garden projects, as well as visiting the historical museum to immerse themselves in the village's culture and heritage. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Tom Moreno",
+          "Welcome to the village, Tamara! I'm excited to show you around and introduce you to the rich culture and heritage we have here. How about we start by visiting the farmers' market this weekend?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds like a great idea, Tom! I'm looking forward to exploring the farmers' market and learning more about the local produce and vendors. I'm also excited to see what else the village has to offer in terms of cultural experiences."
+        ],
+        [
+          "Tom Moreno",
+          "How about we also check out the art galleries in the village next? I know a few local artists whose work you might enjoy."
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds wonderful, Tom! I'd love to explore the art galleries and learn more about the local artists. Thank you for being so welcoming and willing to show me around."
+        ],
+        [
+          "Tom Moreno",
+          "How about we attend the upcoming book club meeting at the library together? It's a great way to mingle with other community members and discuss interesting literature."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you for being so welcoming, Tom! I appreciate your suggestions and look forward to attending the book club meeting at the library with you. It's great to have someone familiar with the village show me around and introduce me to the community."
+        ],
+        [
+          "Tom Moreno",
+          "How about we also check out Johnson Park next? It's a lovely spot in the village where you can relax, attend community events, and maybe even have a picnic."
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds like a perfect plan, Tom! I'm excited to explore Johnson Park with you and maybe even have a nice picnic there. Thank you for introducing me to the wonderful spots in the village."
+        ],
+        [
+          "Tom Moreno",
+          "How about we also visit The Rose and Crown Pub together? It's a popular spot in the village where you can meet more locals and enjoy some live music."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you for being so welcoming, Tom! I think exploring The Rose and Crown Pub sounds like a great idea. It would be lovely to meet more locals and enjoy some live music together."
+        ],
+        [
+          "Tom Moreno",
+          "How about we also attend the upcoming art exhibition at the village community center? It's a great opportunity to see local artists' work and immerse ourselves in the artistic side of the village."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Tom! I truly appreciate all your suggestions and guidance in showing me around the village. I can't wait to explore all these wonderful places and immerse myself in the rich culture here."
+        ],
+        [
+          "Tom Moreno",
+          "How about we also participate in the community garden project together? It's a great way to get involved in the village and meet more locals."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you for all your suggestions, Tom! I'm excited to explore the village with you and get involved in the community garden project. It's wonderful to have someone like you show me around and introduce me to the vibrant culture here."
+        ],
+        [
+          "Tom Moreno",
+          "How about we also check out the historical museum next? It's a fascinating place to learn more about the village's past and heritage."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Tom, for being so welcoming and showing me around the village. I appreciate all your suggestions and look forward to exploring the historical museum with you."
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        49,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having dinner with a friend (conversing about collaborating on organizing a poetry and music event for the community, involving local schools, community center, historians, artists, musicians, businesses, farmers' market, newcomers, and a community clean-up event before the event, as well as organizing a book club meeting as part of the event to promote literature and engage book lovers.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 18:59:30"
+  }
+}

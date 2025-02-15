@@ -1,0 +1,97 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        16
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "setting the table and getting her lunch ready @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        32,
+        50
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "going for a walk in nature (walking towards the nearby park) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        94,
+        30
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "writing his research paper at the library (reviewing his research notes) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        48,
+        34
+      ],
+      "pronunciatio": "\ud83c\udf89\u2615",
+      "description": "preparing for his birthday party (conversing about Sam Moore and Tamara Taylor discussing Sam's birthday party at The Rose and Crown Pub, planning to grab coffee at Hobbs Cafe before the party, and Sam offering to show Tamara around the village, including a visit to Johnson Park, the local art gallery, and historical museum.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "conducting research for her senior thesis at the library (taking notes on the use of language in the play) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying for exams (creating a study schedule for the day) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        109,
+        30
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "attending classes at Oak Hill College (packing up his belongings) @ the Ville:Lin family's house:Eddy Lin's bedroom:closet",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        78,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "taking a break and having lunch (chatting with his co-worker, Sarah, about the upcoming mayor election) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        48,
+        35
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "working on her comic book series (conversing about Sam Moore and Tamara Taylor discussing Sam's birthday party at The Rose and Crown Pub, planning to grab coffee at Hobbs Cafe before the party, and Sam offering to show Tamara around the village, including a visit to Johnson Park, the local art gallery, and historical museum.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        35,
+        32
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending a local mayoral candidate debate (listening to the candidates' opening statements) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 14:39:30"
+  }
+}

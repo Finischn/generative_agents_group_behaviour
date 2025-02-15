@@ -1,0 +1,97 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcb0",
+      "description": "managing operations at Hobbs Cafe and interacting with customers (managing the cash register and handling payments) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        85,
+        29
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "working on his poetry collection (conversing about Carlos Gomez and Klaus Mueller discussing exploring the village community, including visiting the farmers' market, local art exhibition, community center, joining the book club, trying out The Rose and Crown Pub, joining the community garden project, exploring village trails and nature reserves, attending weekly music jam sessions at the village hall, and volunteering at the local animal shelter.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        107,
+        32
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "writing his research paper at the library (conversing about Carlos Gomez and Klaus Mueller discussing exploring the village community, including visiting the farmers' market, local art exhibition, community center, joining the book club, trying out The Rose and Crown Pub, joining the community garden project, exploring village trails and nature reserves, attending weekly music jam sessions at the village hall, and volunteering at the local animal shelter.) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        91,
+        46
+      ],
+      "pronunciatio": "\ud83c\udf82",
+      "description": "running errands and gathering party material (ordering a cake for the party) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending her fourth class at Oak Hill College (listening to the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        123,
+        46
+      ],
+      "pronunciatio": "\ud83e\udd6a",
+      "description": "having lunch (preparing his lunch) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        113,
+        29
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "attending classes at Oak Hill College (conversing about Eddy Lin and Ayesha Khan are chatting about collaborating on a poetry and music project, meeting at Hobbs Cafe, exploring the village, visiting the farmers' market, having dinner at The Rose and Crown Pub, walking in Johnson Park, and attending a book club meeting.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        87,
+        46
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "still managing the store and helping customers with their orders (taking a break and having a snack) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        57,
+        66
+      ],
+      "pronunciatio": "\ud83e\udd6a",
+      "description": "having lunch (preparing her lunch) @ the Ville:Tamara Taylor and Carmen Ortiz's house:kitchen:cooking area",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        61
+      ],
+      "pronunciatio": "\ud83e\udd6a",
+      "description": "having lunch and taking a break to go for a walk (preparing his lunch) @ the Ville:Adam Smith's house:main room:cooking area",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:03:00"
+  }
+}

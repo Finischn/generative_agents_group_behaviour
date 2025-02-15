@@ -1,0 +1,357 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        28,
+        45
+      ],
+      "pronunciatio": "\u2615",
+      "description": "managing operations at Hobbs Cafe (taking a break) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83e\udd14",
+      "description": "having lunch (looking at the menu and deciding on what to order) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        77,
+        29
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang and Klaus are discussing exploring community events like the farmers' market, art exhibition, music events, book club, and community garden project together in the village. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Wolfgang, I'm glad to see you settling into the village! Have you had a chance to check out the farmers' market yet?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Klaus, not yet, but Tamara and I are planning to go this Saturday morning. I'm looking forward to experiencing the community atmosphere there."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Wolfgang! The farmers' market is a fantastic way to immerse yourself in the community and meet local vendors. You'll love the fresh produce and unique handmade goods. Let me know if you need any recommendations or if you want to explore other events together."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thanks for the suggestion, Klaus. I appreciate your insights and look forward to exploring more of the village's community events and activities. Maybe we can also check out the local art gallery or attend a music jam session together."
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Wolfgang, since you're settling in nicely, would you be interested in joining the local book club? It's a great way to meet other residents and discuss interesting reads."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a wonderful idea, Klaus! I'd love to join the local book club and meet more residents while discussing interesting reads. Thank you for inviting me."
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Wolfgang, since you're settling in nicely, how about joining us for the music event in the park this weekend? It's a great way to relax, enjoy some good music, and meet more locals."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Klaus, that sounds like a fantastic idea! I would love to join the music event in the park this weekend. It's a great way to relax and get to know more locals. Thank you for inviting me."
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Wolfgang, I'm glad to see you settling into the village! Have you had a chance to check out the farmers' market yet?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Klaus, I've been thinking about getting involved in the community garden project. Would you be interested in joining me and possibly collaborating on it together?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Wolfgang, since you're settling in nicely, how about joining us for the music event in the park this weekend? It's a great way to relax, enjoy some good music, and meet more locals."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Klaus, I appreciate your welcoming attitude and all the suggestions you've given me so far. I'm really enjoying exploring the village thanks to your guidance. I was thinking we could also attend the art exhibition together next week. What do you think?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Wolfgang, since you're settling in nicely, how about joining us for the music event in the park this weekend? It's a great way to relax, enjoy some good music, and meet more locals."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Klaus, I'm really interested in learning more about the village's history and heritage. Do you have any recommendations on where I can start exploring that aspect of the community?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Wolfgang, I'm glad to see you settling into the village! Have you had a chance to check out the farmers' market yet?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Klaus, I appreciate your welcoming attitude and all the suggestions you've given me so far. I'm really enjoying exploring the village thanks to your guidance. I was thinking we could also attend the art exhibition together next week. What do you think?"
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        46,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning to incorporate traditional folk music elements into their joint poetry and music project, reaching out to local historians, artists, and musicians, organizing a storytelling and music workshop for local school children, discussing showcasing their work at Hobbs Cafe, considering involving the community center to help organize and promote the event, scheduling a meeting with Carlos at the local cafe, and connecting with local musicians to collaborate on the project. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Tom, I wanted to thank you again for offering to help with the party decorations, snacks, and drinks. Your support means a lot to me."
+        ],
+        [
+          "Tom Moreno",
+          "Of course, Sam! I'm always happy to help out. Let me know if there's anything else I can do to make the party a success."
+        ],
+        [
+          "Sam Moore",
+          "I'm thinking of incorporating traditional folk music elements into our poetry and music project. What do you think?"
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a fantastic idea, Sam. I believe involving local historians, artists, and musicians will add depth to our project and showcase the talents and culture of our village."
+        ],
+        [
+          "Sam Moore",
+          "I agree, Tom. Let's reach out to the local historians, artists, and musicians to get them involved in the project. Their expertise and creativity will definitely enhance the community engagement."
+        ],
+        [
+          "Tom Moreno",
+          "We should also consider organizing a storytelling and music workshop for local school children to engage the community further and promote our project. What do you think, Sam?"
+        ],
+        [
+          "Sam Moore",
+          "That's a great idea, Tom. I'll start reaching out to the local artists, musicians, and historians today to involve them in the project. We can also discuss the details of the storytelling and music workshop for the local school children. Thanks for your input!"
+        ],
+        [
+          "Tom Moreno",
+          "We should also plan to showcase our work at Hobbs Cafe and involve the community in the event. It will be a great opportunity to share our project with everyone."
+        ],
+        [
+          "Sam Moore",
+          "I think it would be great to involve the local school children as well in the storytelling and music workshop. Their participation will add a unique perspective to our project."
+        ],
+        [
+          "Tom Moreno",
+          "We could also consider seeking support from the community center to help organize and promote the event. They may have resources and connections that could benefit our project."
+        ],
+        [
+          "Sam Moore",
+          "Absolutely, Tom. I'll start reaching out to the local artists, musicians, and historians today to involve them in the project. Let's also consider collaborating with the community center to help organize and promote the event. Their support could really benefit our project."
+        ],
+        [
+          "Tom Moreno",
+          "We should schedule a meeting with Carlos at the local cafe to discuss incorporating traditional folk music elements into our project. I can introduce him to the local artists, musicians, and historians as well."
+        ],
+        [
+          "Sam Moore",
+          "Let's catch up with Carlos at the local cafe to discuss incorporating traditional folk music elements into our poetry and music project and introduce him to the local artists, musicians, and historians. I think his input would be valuable."
+        ],
+        [
+          "Tom Moreno",
+          "We should also consider involving the local community center to help organize and promote the event. Their resources and connections could be beneficial for our project."
+        ],
+        [
+          "Sam Moore",
+          "Let's make sure to finalize the details for the joint poetry and music event with the local school children and artists later today. I'll text you the specific time and location."
+        ],
+        [
+          "Tom Moreno",
+          "Let's connect with some local musicians as well to see if they would be interested in collaborating on our project. Their expertise could add a unique flavor to our poetry and music event."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "having lunch and studying at the library (reviewing her notes from class) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        77,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang and Klaus are discussing exploring community events like the farmers' market, art exhibition, music events, book club, and community garden project together in the village. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Wolfgang, I'm glad to see you settling into the village! Have you had a chance to check out the farmers' market yet?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Klaus, not yet, but Tamara and I are planning to go this Saturday morning. I'm looking forward to experiencing the community atmosphere there."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Wolfgang! The farmers' market is a fantastic way to immerse yourself in the community and meet local vendors. You'll love the fresh produce and unique handmade goods. Let me know if you need any recommendations or if you want to explore other events together."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thanks for the suggestion, Klaus. I appreciate your insights and look forward to exploring more of the village's community events and activities. Maybe we can also check out the local art gallery or attend a music jam session together."
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Wolfgang, since you're settling in nicely, would you be interested in joining the local book club? It's a great way to meet other residents and discuss interesting reads."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a wonderful idea, Klaus! I'd love to join the local book club and meet more residents while discussing interesting reads. Thank you for inviting me."
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Wolfgang, since you're settling in nicely, how about joining us for the music event in the park this weekend? It's a great way to relax, enjoy some good music, and meet more locals."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Klaus, that sounds like a fantastic idea! I would love to join the music event in the park this weekend. It's a great way to relax and get to know more locals. Thank you for inviting me."
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Wolfgang, I'm glad to see you settling into the village! Have you had a chance to check out the farmers' market yet?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Klaus, I've been thinking about getting involved in the community garden project. Would you be interested in joining me and possibly collaborating on it together?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Wolfgang, since you're settling in nicely, how about joining us for the music event in the park this weekend? It's a great way to relax, enjoy some good music, and meet more locals."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Klaus, I appreciate your welcoming attitude and all the suggestions you've given me so far. I'm really enjoying exploring the village thanks to your guidance. I was thinking we could also attend the art exhibition together next week. What do you think?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Wolfgang, since you're settling in nicely, how about joining us for the music event in the park this weekend? It's a great way to relax, enjoy some good music, and meet more locals."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Klaus, I'm really interested in learning more about the village's history and heritage. Do you have any recommendations on where I can start exploring that aspect of the community?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Wolfgang, I'm glad to see you settling into the village! Have you had a chance to check out the farmers' market yet?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Klaus, I appreciate your welcoming attitude and all the suggestions you've given me so far. I'm really enjoying exploring the village thanks to your guidance. I was thinking we could also attend the art exhibition together next week. What do you think?"
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        80,
+        44
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "taking a break and having lunch at Hobbs Cafe (eating his lunch) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        47,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning to incorporate traditional folk music elements into their joint poetry and music project, reaching out to local historians, artists, and musicians, organizing a storytelling and music workshop for local school children, discussing showcasing their work at Hobbs Cafe, considering involving the community center to help organize and promote the event, scheduling a meeting with Carlos at the local cafe, and connecting with local musicians to collaborate on the project. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Tom, I wanted to thank you again for offering to help with the party decorations, snacks, and drinks. Your support means a lot to me."
+        ],
+        [
+          "Tom Moreno",
+          "Of course, Sam! I'm always happy to help out. Let me know if there's anything else I can do to make the party a success."
+        ],
+        [
+          "Sam Moore",
+          "I'm thinking of incorporating traditional folk music elements into our poetry and music project. What do you think?"
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a fantastic idea, Sam. I believe involving local historians, artists, and musicians will add depth to our project and showcase the talents and culture of our village."
+        ],
+        [
+          "Sam Moore",
+          "I agree, Tom. Let's reach out to the local historians, artists, and musicians to get them involved in the project. Their expertise and creativity will definitely enhance the community engagement."
+        ],
+        [
+          "Tom Moreno",
+          "We should also consider organizing a storytelling and music workshop for local school children to engage the community further and promote our project. What do you think, Sam?"
+        ],
+        [
+          "Sam Moore",
+          "That's a great idea, Tom. I'll start reaching out to the local artists, musicians, and historians today to involve them in the project. We can also discuss the details of the storytelling and music workshop for the local school children. Thanks for your input!"
+        ],
+        [
+          "Tom Moreno",
+          "We should also plan to showcase our work at Hobbs Cafe and involve the community in the event. It will be a great opportunity to share our project with everyone."
+        ],
+        [
+          "Sam Moore",
+          "I think it would be great to involve the local school children as well in the storytelling and music workshop. Their participation will add a unique perspective to our project."
+        ],
+        [
+          "Tom Moreno",
+          "We could also consider seeking support from the community center to help organize and promote the event. They may have resources and connections that could benefit our project."
+        ],
+        [
+          "Sam Moore",
+          "Absolutely, Tom. I'll start reaching out to the local artists, musicians, and historians today to involve them in the project. Let's also consider collaborating with the community center to help organize and promote the event. Their support could really benefit our project."
+        ],
+        [
+          "Tom Moreno",
+          "We should schedule a meeting with Carlos at the local cafe to discuss incorporating traditional folk music elements into our project. I can introduce him to the local artists, musicians, and historians as well."
+        ],
+        [
+          "Sam Moore",
+          "Let's catch up with Carlos at the local cafe to discuss incorporating traditional folk music elements into our poetry and music project and introduce him to the local artists, musicians, and historians. I think his input would be valuable."
+        ],
+        [
+          "Tom Moreno",
+          "We should also consider involving the local community center to help organize and promote the event. Their resources and connections could be beneficial for our project."
+        ],
+        [
+          "Sam Moore",
+          "Let's make sure to finalize the details for the joint poetry and music event with the local school children and artists later today. I'll text you the specific time and location."
+        ],
+        [
+          "Tom Moreno",
+          "Let's connect with some local musicians as well to see if they would be interested in collaborating on our project. Their expertise could add a unique flavor to our poetry and music event."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        57,
+        65
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having lunch (setting the table) @ the Ville:Tamara Taylor and Carmen Ortiz's house:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        41,
+        35
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having lunch and taking a break to go for a walk (eating his lunch) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 12:24:50"
+  }
+}

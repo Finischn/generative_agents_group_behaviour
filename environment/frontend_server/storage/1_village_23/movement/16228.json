@@ -1,0 +1,357 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "closing up Hobbs Cafe and cleaning up (washing dishes and putting them away) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        77,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Wolfgang Schulz are discussing their weekend plans, including visiting the local art gallery, attending a music event at the park, having dinner at the local diner, exploring the farmers' market and historical museum, attending a book club meeting at the library, volunteering in a community garden project, and participating in a clean-up event. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Wolfgang, I was thinking about checking out the local art gallery this weekend. Would you be interested in joining me?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Carlos, that sounds like a great idea! I'd love to join you at the art gallery this weekend."
+        ],
+        [
+          "Carlos Gomez",
+          "I heard there's a music event at the park on Sunday, would you be interested in attending that as well?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic plan, Carlos! Count me in for the music event at the park on Sunday as well."
+        ],
+        [
+          "Carlos Gomez",
+          "Do you want to grab dinner at the local diner after the music event on Sunday?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Sounds like a perfect Sunday plan, Carlos! Count me in for dinner at the local diner after the music event."
+        ],
+        [
+          "Carlos Gomez",
+          "Sounds like we have a full weekend planned! I'm excited to explore the music event at the park and grab dinner together. Looking forward to experiencing the local cultural scene with you, Wolfgang."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Carlos, I'm also interested in exploring the farmers' market this Saturday. Would you like to join me?"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a great idea, Wolfgang! I'd love to join you at the farmers' market this Saturday."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Carlos, since we are already planning to go to the farmers' market on Saturday, do you want to also check out the historical museum afterward?"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a fantastic idea, Wolfgang! I'd love to explore the historical museum after visiting the farmers' market on Saturday."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Carlos, I heard there's a book club meeting happening at the local library next week. Would you be interested in attending that with me?"
+        ],
+        [
+          "Carlos Gomez",
+          "Sure, Wolfgang! I would love to attend the book club meeting at the local library with you next week. It sounds like a fun way to get to know more about the community. Thanks for inviting me!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Carlos, I also heard about a community garden project happening next month. Would you want to volunteer together and get involved in that?"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a wonderful initiative, Wolfgang! I'm excited to volunteer together and get involved in the community garden project. Count me in!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Carlos, I also heard about a clean-up event happening next week. Would you be interested in participating in that together?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring different cultural and community events in the village, Ayesha Khan and Klaus Mueller plan to visit art exhibitions, historical museums, poetry readings, book club meetings, farmers' markets, music events, local parks, cafes, art galleries, and community garden projects together. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Klaus, I was thinking about exploring the local art exhibition that's coming up next week. Would you be interested in checking it out together?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Ayesha. I would love to explore the local art exhibition with you next week."
+        ],
+        [
+          "Ayesha Khan",
+          "I've also heard about a guided tour of the historical museum happening next weekend. Would you be interested in joining me for that as well?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds fantastic, Ayesha. I would be delighted to join you for the guided tour of the historical museum next weekend as well."
+        ],
+        [
+          "Ayesha Khan",
+          "I also heard about a poetry reading event happening at the village hall next month. Would you be interested in attending that together?"
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely, Ayesha. I would love to attend the poetry reading event with you at the village hall next month. It sounds like a wonderful opportunity to immerse ourselves in the local creative community."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I was also considering joining the community book club meeting at the library next week. Would you be interested in coming along with me?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds wonderful, Ayesha. I would be happy to join you for the community book club meeting at the library next week. It will be a great opportunity to connect with other book lovers in the village."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I was thinking of exploring the farmers' market this weekend. Would you like to join me?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a wonderful idea, Ayesha. I would be delighted to join you at the farmers' market this weekend. It will be a great opportunity for us to explore more of the village together."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I also heard about a music event happening at the village hall next week. Would you be interested in attending that with me?"
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I want to welcome you to the village community and offer to show you around. How about we start by exploring the local park tomorrow morning?"
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I appreciate all your suggestions and willingness to explore the village with me. I'm really excited to start our journey together and look forward to all the upcoming activities we have planned."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I'm glad you're settling into the village so well. How about we grab a cup of coffee at Hobbs Cafe this weekend and perhaps visit the art gallery after that?"
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I really appreciate your warm welcome and all the suggestions you've given me so far. I am looking forward to exploring the village with you and learning more about its rich culture and history."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I was thinking we could also visit the local community garden project next week. It's a great way to connect with nature and participate in a collaborative community initiative. Would you be interested in joining me?"
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        58,
+        30
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "wrapping up his birthday celebration and saying goodbye to his guests at The Rose and Crown Pub (saying goodbye and giving hugs to his guests) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring different cultural and community events in the village, Ayesha Khan and Klaus Mueller plan to visit art exhibitions, historical museums, poetry readings, book club meetings, farmers' markets, music events, local parks, cafes, art galleries, and community garden projects together. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Klaus, I was thinking about exploring the local art exhibition that's coming up next week. Would you be interested in checking it out together?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Ayesha. I would love to explore the local art exhibition with you next week."
+        ],
+        [
+          "Ayesha Khan",
+          "I've also heard about a guided tour of the historical museum happening next weekend. Would you be interested in joining me for that as well?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds fantastic, Ayesha. I would be delighted to join you for the guided tour of the historical museum next weekend as well."
+        ],
+        [
+          "Ayesha Khan",
+          "I also heard about a poetry reading event happening at the village hall next month. Would you be interested in attending that together?"
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely, Ayesha. I would love to attend the poetry reading event with you at the village hall next month. It sounds like a wonderful opportunity to immerse ourselves in the local creative community."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I was also considering joining the community book club meeting at the library next week. Would you be interested in coming along with me?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds wonderful, Ayesha. I would be happy to join you for the community book club meeting at the library next week. It will be a great opportunity to connect with other book lovers in the village."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I was thinking of exploring the farmers' market this weekend. Would you like to join me?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a wonderful idea, Ayesha. I would be delighted to join you at the farmers' market this weekend. It will be a great opportunity for us to explore more of the village together."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I also heard about a music event happening at the village hall next week. Would you be interested in attending that with me?"
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I want to welcome you to the village community and offer to show you around. How about we start by exploring the local park tomorrow morning?"
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I appreciate all your suggestions and willingness to explore the village with me. I'm really excited to start our journey together and look forward to all the upcoming activities we have planned."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I'm glad you're settling into the village so well. How about we grab a cup of coffee at Hobbs Cafe this weekend and perhaps visit the art gallery after that?"
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I really appreciate your warm welcome and all the suggestions you've given me so far. I am looking forward to exploring the village with you and learning more about its rich culture and history."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I was thinking we could also visit the local community garden project next week. It's a great way to connect with nature and participate in a collaborative community initiative. Would you be interested in joining me?"
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        77,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Wolfgang Schulz are discussing their weekend plans, including visiting the local art gallery, attending a music event at the park, having dinner at the local diner, exploring the farmers' market and historical museum, attending a book club meeting at the library, volunteering in a community garden project, and participating in a clean-up event. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Wolfgang, I was thinking about checking out the local art gallery this weekend. Would you be interested in joining me?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Carlos, that sounds like a great idea! I'd love to join you at the art gallery this weekend."
+        ],
+        [
+          "Carlos Gomez",
+          "I heard there's a music event at the park on Sunday, would you be interested in attending that as well?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a fantastic plan, Carlos! Count me in for the music event at the park on Sunday as well."
+        ],
+        [
+          "Carlos Gomez",
+          "Do you want to grab dinner at the local diner after the music event on Sunday?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Sounds like a perfect Sunday plan, Carlos! Count me in for dinner at the local diner after the music event."
+        ],
+        [
+          "Carlos Gomez",
+          "Sounds like we have a full weekend planned! I'm excited to explore the music event at the park and grab dinner together. Looking forward to experiencing the local cultural scene with you, Wolfgang."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Carlos, I'm also interested in exploring the farmers' market this Saturday. Would you like to join me?"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a great idea, Wolfgang! I'd love to join you at the farmers' market this Saturday."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Carlos, since we are already planning to go to the farmers' market on Saturday, do you want to also check out the historical museum afterward?"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a fantastic idea, Wolfgang! I'd love to explore the historical museum after visiting the farmers' market on Saturday."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Carlos, I heard there's a book club meeting happening at the local library next week. Would you be interested in attending that with me?"
+        ],
+        [
+          "Carlos Gomez",
+          "Sure, Wolfgang! I would love to attend the book club meeting at the local library with you next week. It sounds like a fun way to get to know more about the community. Thanks for inviting me!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Carlos, I also heard about a community garden project happening next month. Would you want to volunteer together and get involved in that?"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a wonderful initiative, Wolfgang! I'm excited to volunteer together and get involved in the community garden project. Count me in!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Carlos, I also heard about a clean-up event happening next week. Would you be interested in participating in that together?"
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "reviewing class notes and working on his composition project at Hobbs Cafe (reviewing his class notes from the morning) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83c\udfdb\ufe0f",
+      "description": "getting ready for his meeting with Carlos tomorrow (conversing about Tom Moreno and Wolfgang Schulz are excitedly making plans to explore the village's culture and community together, including visiting the farmers' market, art exhibition, local music scene, book club meetings, live music events in the park, historical museum, and meeting local artists, musicians, and historians.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "relaxing for the evening (reading a book or watching a movie) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        65
+      ],
+      "pronunciatio": "\ud83e\udd14",
+      "description": "reflecting on his day and making plans for tomorrow @ the Ville:Adam Smith's house:main room:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 21:04:40"
+  }
+}

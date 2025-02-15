@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\u2615\ud83e\udd50",
+      "description": "greeting customers and managing operations at Hobbs Cafe (brewing fresh coffee and preparing pastries for display) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        96,
+        20
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "attending the creative writing workshop (making breakfast) @ the Ville:Carlos Gomez's apartment:main room:cooking area",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        57,
+        37
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "having breakfast at home (conversing about Klaus Mueller and Eddy Lin discussing their plan to involve local historians, artists, musicians, the community center, school children, traditional folk music, Johnson Park, Isabella Rodriguez, Hobbs Cafe, local businesses, and organizing a storytelling and music workshop for their project.) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        45,
+        55
+      ],
+      "pronunciatio": "\ud83d\udc8c",
+      "description": "reading at Hobbs Cafe (checking his emails) @ the Ville:Moore family's house:main room:desk",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        111,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Ayesha Khan and Eddy Lin are discussing ways to involve local artists and musicians in their poetry and music project, considering organizing a music showcase event at the community center, exploring traditional folk music, visiting historical museums and the farmers' market, and collaborating with local historians for a deeper understanding of the village's culture and heritage. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hi Eddy! I was thinking about our poetry and music project and how we could involve local artists and musicians. Do you have any ideas on how we can make it even more engaging?"
+        ],
+        [
+          "Eddy Lin",
+          "That's a great idea, Ayesha! I think involving local artists and musicians will bring a unique touch to our project. How about we reach out to the community center and see if they can support us in organizing a music showcase event?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful idea, Eddy! I'll also look into reaching out to local artists and musicians to see if they would be interested in collaborating with us."
+        ],
+        [
+          "Eddy Lin",
+          "Welcome to the village, Ayesha! I'm excited to explore this creative journey together and introduce you to the local artists and musicians. They have such unique perspectives and talents that I think will greatly enrich our project."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Eddy! I'm so excited to work on this project with you and explore the talents of the local artists and musicians in the village. Your suggestions have been really helpful."
+        ],
+        [
+          "Eddy Lin",
+          "I also think it would be a great idea to incorporate traditional folk music into our project. It's a unique aspect of our village's culture that would add a special touch to our collaboration."
+        ],
+        [
+          "Ayesha Khan",
+          "That's a fantastic idea, Eddy! I'm looking forward to exploring traditional folk music and integrating it into our project. It will truly showcase the rich cultural heritage of the village."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, since you're new to the village, I can show you around and introduce you to some of the local artists and musicians. It would be a great way for you to get to know the community and gather inspiration for our project."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Eddy! I would love to explore the village with you and meet the local artists and musicians. Your insight and suggestions are invaluable to our project."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, let's plan a visit to the local historical museums together. It will give us a deeper understanding of the village's cultural heritage and inspire us for our project."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I appreciate your willingness to show me around and introduce me to the local artists and musicians. I'm looking forward to gaining more insight into the community and our project."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, let's also plan to visit the farmers' market together. It's a great way to immerse ourselves in the local culture and interact with the community."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I'm grateful for your guidance and support in this project. Your knowledge of the village and connections with local artists and musicians are truly invaluable. I really appreciate all your help!"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, as we continue with our project, I also have connections with local historians who can provide us with valuable insights into the village's history. Would you be interested in collaborating with them as well?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I really appreciate your offer to connect me with local historians to learn more about the village's history. I think collaborating with them would bring a deeper understanding to our project. Thank you for being so supportive and helpful!"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, since you're new to the village, I can show you around and introduce you to some of the local artists and musicians. It would be a great way for you to get to know the community and gather inspiration for our project."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        111,
+        32
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "attending morning classes at Oak Hill College (walking to the college campus) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        109,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Ayesha Khan and Eddy Lin are discussing ways to involve local artists and musicians in their poetry and music project, considering organizing a music showcase event at the community center, exploring traditional folk music, visiting historical museums and the farmers' market, and collaborating with local historians for a deeper understanding of the village's culture and heritage. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hi Eddy! I was thinking about our poetry and music project and how we could involve local artists and musicians. Do you have any ideas on how we can make it even more engaging?"
+        ],
+        [
+          "Eddy Lin",
+          "That's a great idea, Ayesha! I think involving local artists and musicians will bring a unique touch to our project. How about we reach out to the community center and see if they can support us in organizing a music showcase event?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful idea, Eddy! I'll also look into reaching out to local artists and musicians to see if they would be interested in collaborating with us."
+        ],
+        [
+          "Eddy Lin",
+          "Welcome to the village, Ayesha! I'm excited to explore this creative journey together and introduce you to the local artists and musicians. They have such unique perspectives and talents that I think will greatly enrich our project."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Eddy! I'm so excited to work on this project with you and explore the talents of the local artists and musicians in the village. Your suggestions have been really helpful."
+        ],
+        [
+          "Eddy Lin",
+          "I also think it would be a great idea to incorporate traditional folk music into our project. It's a unique aspect of our village's culture that would add a special touch to our collaboration."
+        ],
+        [
+          "Ayesha Khan",
+          "That's a fantastic idea, Eddy! I'm looking forward to exploring traditional folk music and integrating it into our project. It will truly showcase the rich cultural heritage of the village."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, since you're new to the village, I can show you around and introduce you to some of the local artists and musicians. It would be a great way for you to get to know the community and gather inspiration for our project."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Eddy! I would love to explore the village with you and meet the local artists and musicians. Your insight and suggestions are invaluable to our project."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, let's plan a visit to the local historical museums together. It will give us a deeper understanding of the village's cultural heritage and inspire us for our project."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I appreciate your willingness to show me around and introduce me to the local artists and musicians. I'm looking forward to gaining more insight into the community and our project."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, let's also plan to visit the farmers' market together. It's a great way to immerse ourselves in the local culture and interact with the community."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I'm grateful for your guidance and support in this project. Your knowledge of the village and connections with local artists and musicians are truly invaluable. I really appreciate all your help!"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, as we continue with our project, I also have connections with local historians who can provide us with valuable insights into the village's history. Would you be interested in collaborating with them as well?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I really appreciate your offer to connect me with local historians to learn more about the village's history. I think collaborating with them would bring a deeper understanding to our project. Thank you for being so supportive and helpful!"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, since you're new to the village, I can show you around and introduce you to some of the local artists and musicians. It would be a great way for you to get to know the community and gather inspiration for our project."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        70,
+        69
+      ],
+      "pronunciatio": "\ud83c\udf73\u2615",
+      "description": "having breakfast with his wife Jane (having breakfast with Jane and catching up on their day) @ the Ville:Moreno family's house:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        74
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "working on her new children's book series (writing the first draft of the book) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        39,
+        28
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "continuing to work on his book about creativity (reviewing his notes and research for the book) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 08:28:40"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83e\ude91",
+      "description": "preparing for the day and getting ready to open Hobbs Cafe at 8:00 am (setting up the tables and chairs in the cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        96,
+        20
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "waking up and completing his morning routine (making breakfast) @ the Ville:Carlos Gomez's apartment:main room:cooking area",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        123,
+        48
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "waking up and completing his morning routine (making breakfast) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        39,
+        62
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast (eating breakfast) @ the Ville:Moore family's house:main room:kitchen sink",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        115,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf93",
+      "description": "attending classes at Oak Hill College (attending her first class) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        97,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcda\ud83c\udfa8",
+      "description": "having breakfast and studying for exams (conversing about Adam Smith and Wolfgang Schulz are discussing participating in various community events and projects together, including visiting the farmers' market, historical museum, art exhibition, music event, book club meeting, and a community clean-up event, while also planning to grab lunch at the local cafe to chat more about the community and Wolfgang's interests.) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        93,
+        66
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "waking up and completing his morning routine (making breakfast and eating) @ the Ville:Lin family's house:kitchen:cooking area",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        65
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "waking up and completing his morning routine (setting the table for breakfast) @ the Ville:Moreno family's house:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        57,
+        65
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast (eating breakfast) @ the Ville:Tamara Taylor and Carmen Ortiz's house:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        39,
+        30
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f\ud83d\udc65",
+      "description": "working on writing his book about creativity (conversing about Adam Smith and Wolfgang Schulz are discussing participating in various community events and projects together, including visiting the farmers' market, historical museum, art exhibition, music event, book club meeting, and a community clean-up event, while also planning to grab lunch at the local cafe to chat more about the community and Wolfgang's interests.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 07:44:30"
+  }
+}

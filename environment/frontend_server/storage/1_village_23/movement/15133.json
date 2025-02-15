@@ -1,0 +1,292 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udd12",
+      "description": "closing Hobbs Cafe and getting ready for her birthday party (locking up the cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        37,
+        33
+      ],
+      "pronunciatio": "\ud83c\udfa8",
+      "description": "getting ready for his next activity (conversing about Carlos and Sam are discussing different community events and activities to participate in together, including exploring art exhibitions, joining a book club, attending music jam sessions, getting involved in a community garden project, visiting a historical museum, and joining a community picnic at Johnson Park.) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        47,
+        37
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "heading to Johnson Park to meet Isabella with flowers as a welcome gift (conversing about Wolfgang Schulz and Klaus Mueller are discussing settling into the village, exploring local events and activities, meeting local artists and musicians, visiting the local park and art gallery, attending a live music event, joining a community picnic, and exploring the historical museum together.) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        39,
+        32
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "getting ready for his birthday party (conversing about Carlos and Sam are discussing different community events and activities to participate in together, including exploring art exhibitions, joining a book club, attending music jam sessions, getting involved in a community garden project, visiting a historical museum, and joining a community picnic at Johnson Park.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        81,
+        14
+      ],
+      "pronunciatio": "\ud83d\udebf",
+      "description": "getting ready for Isabella's birthday party (taking a shower) @ the Ville:Isabella Rodriguez's apartment:bathroom:shower",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        114,
+        37
+      ],
+      "pronunciatio": "\ud83d\udc69\u200d\ud83c\udf73",
+      "description": "having dinner (cooking dinner) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "taking a break and having dinner at Hobbs Cafe (eating his dinner) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        66,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Two friends, Tom Moreno and Adam Smith, are discussing various community engagement and sustainability initiatives they could collaborate on to promote these values in their village. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Tom Moreno",
+          "Hey Adam, did you catch any interesting points during the mayoral candidate debate?"
+        ],
+        [
+          "Adam Smith",
+          "Yes, I found it interesting how they discussed plans for community engagement and sustainability."
+        ],
+        [
+          "Tom Moreno",
+          "I agree, those are definitely important topics. Have you thought about how we can collaborate on some community events to promote those values?"
+        ],
+        [
+          "Adam Smith",
+          "We could plan a community clean-up event to promote sustainability and community involvement. It would be a great way to engage villagers and work towards a common goal."
+        ],
+        [
+          "Tom Moreno",
+          "We could also organize an art exhibition featuring local artists to showcase the talent and creativity within our community."
+        ],
+        [
+          "Adam Smith",
+          "We could also consider organizing a music event in the park to bring the community together and showcase local musicians."
+        ],
+        [
+          "Tom Moreno",
+          "We should also look into organizing a book club meeting to promote literacy and community engagement."
+        ],
+        [
+          "Adam Smith",
+          "We could also explore organizing a storytelling and music project to engage school children and promote creativity within the community."
+        ],
+        [
+          "Tom Moreno",
+          "We should also consider organizing a cultural festival to celebrate the diversity and heritage of our village."
+        ],
+        [
+          "Adam Smith",
+          "We should also plan a nature walk to explore the beauty of our village and promote sustainability."
+        ],
+        [
+          "Tom Moreno",
+          "We should also consider reaching out to local historians and artists to collaborate on a project that highlights the rich history and culture of our village."
+        ],
+        [
+          "Adam Smith",
+          "We should also look into organizing a community garden project to promote unity and sustainability within our village."
+        ],
+        [
+          "Tom Moreno",
+          "We should also reach out to local musicians and organize a music jam session to showcase the talent and diversity in our community."
+        ],
+        [
+          "Adam Smith",
+          "We should also consider collaborating on a community theater production to engage both locals and visitors in the vibrant arts scene of our village."
+        ],
+        [
+          "Tom Moreno",
+          "We should also consider organizing a community potluck to bring everyone together and enjoy a meal while sharing stories and building connections."
+        ],
+        [
+          "Adam Smith",
+          "We should also consider collaborating on a community theater production to engage both locals and visitors in the vibrant arts scene of our village."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        36,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring various community activities and events like visiting the farmers' market, attending a book club meeting, participating in a community garden project, collaborating on a poetry and music project at Hobbs Cafe, coordinating schedules for a community clean-up event, and attending an art exhibition at the village community center. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Tamara Taylor",
+          "Hi Carlos, I just finished my yoga class. Are you ready for the next activity?"
+        ],
+        [
+          "Carlos Gomez",
+          "Hi Tamara, I'm excited for our next adventure. I think we should start with a visit to the farmers' market as we discussed. What do you think?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds like a great plan, Carlos! I'm looking forward to exploring the farmers' market with you."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm also excited about potentially attending the book club meeting next week. It could be a great way to meet more people in the village."
+        ],
+        [
+          "Tamara Taylor",
+          "I agree, Carlos. The book club meeting sounds like a wonderful opportunity to connect with more members of the community."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm also looking forward to exploring the local art exhibitions and possibly attending music jam sessions to further immerse ourselves in the creative community."
+        ],
+        [
+          "Tamara Taylor",
+          "Carlos, I heard there's a community garden project happening soon. Would you be interested in getting involved together?"
+        ],
+        [
+          "Carlos Gomez",
+          "Tamara, I think participating in the community garden project together would be a fantastic idea. It's a great opportunity to contribute to the community and meet more people. What do you think?"
+        ],
+        [
+          "Tamara Taylor",
+          "Carlos, I've also heard about a poetry and music project at Hobbs Cafe. Would you be interested in collaborating on that with me?"
+        ],
+        [
+          "Carlos Gomez",
+          "Tamara, I think collaborating on the poetry and music project at Hobbs Cafe would be a wonderful idea. It's a perfect opportunity for us to express our creativity and connect with the local community."
+        ],
+        [
+          "Tamara Taylor",
+          "Carlos, I also heard about an upcoming community clean-up event. Would you be interested in joining me to give back to the village and support the community?"
+        ],
+        [
+          "Carlos Gomez",
+          "Tamara, I'm thrilled to explore all these activities with you. Let's make a plan to attend the poetry and music project at Hobbs Cafe together and then coordinate our schedules for the community clean-up event. It's going to be a great way to connect with the village community and make a positive impact. What do you think?"
+        ],
+        [
+          "Tamara Taylor",
+          "Carlos, I also heard about the upcoming art exhibition at the village community center. Would you be interested in attending it with me?"
+        ],
+        [
+          "Carlos Gomez",
+          "Tamara, I think visiting the local park together could be a great way to connect with nature and the creative community. What do you think?"
+        ],
+        [
+          "Tamara Taylor",
+          "Carlos, I also heard about the upcoming art exhibition at the village community center. Would you be interested in attending it with me?"
+        ],
+        [
+          "Carlos Gomez",
+          "Tamara, I'm excited about all the upcoming activities we've discussed. Let's make a plan to start with a visit to the farmers' market today and then coordinate our schedules for the poetry and music project at Hobbs Cafe."
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        67,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Two friends, Tom Moreno and Adam Smith, are discussing various community engagement and sustainability initiatives they could collaborate on to promote these values in their village. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Tom Moreno",
+          "Hey Adam, did you catch any interesting points during the mayoral candidate debate?"
+        ],
+        [
+          "Adam Smith",
+          "Yes, I found it interesting how they discussed plans for community engagement and sustainability."
+        ],
+        [
+          "Tom Moreno",
+          "I agree, those are definitely important topics. Have you thought about how we can collaborate on some community events to promote those values?"
+        ],
+        [
+          "Adam Smith",
+          "We could plan a community clean-up event to promote sustainability and community involvement. It would be a great way to engage villagers and work towards a common goal."
+        ],
+        [
+          "Tom Moreno",
+          "We could also organize an art exhibition featuring local artists to showcase the talent and creativity within our community."
+        ],
+        [
+          "Adam Smith",
+          "We could also consider organizing a music event in the park to bring the community together and showcase local musicians."
+        ],
+        [
+          "Tom Moreno",
+          "We should also look into organizing a book club meeting to promote literacy and community engagement."
+        ],
+        [
+          "Adam Smith",
+          "We could also explore organizing a storytelling and music project to engage school children and promote creativity within the community."
+        ],
+        [
+          "Tom Moreno",
+          "We should also consider organizing a cultural festival to celebrate the diversity and heritage of our village."
+        ],
+        [
+          "Adam Smith",
+          "We should also plan a nature walk to explore the beauty of our village and promote sustainability."
+        ],
+        [
+          "Tom Moreno",
+          "We should also consider reaching out to local historians and artists to collaborate on a project that highlights the rich history and culture of our village."
+        ],
+        [
+          "Adam Smith",
+          "We should also look into organizing a community garden project to promote unity and sustainability within our village."
+        ],
+        [
+          "Tom Moreno",
+          "We should also reach out to local musicians and organize a music jam session to showcase the talent and diversity in our community."
+        ],
+        [
+          "Adam Smith",
+          "We should also consider collaborating on a community theater production to engage both locals and visitors in the vibrant arts scene of our village."
+        ],
+        [
+          "Tom Moreno",
+          "We should also consider organizing a community potluck to bring everyone together and enjoy a meal while sharing stories and building connections."
+        ],
+        [
+          "Adam Smith",
+          "We should also consider collaborating on a community theater production to engage both locals and visitors in the vibrant arts scene of our village."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 18:02:10"
+  }
+}

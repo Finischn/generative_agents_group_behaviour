@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "finishing up preparations for her birthday party at Hobbs Cafe @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\u23f3",
+      "description": "having lunch (waiting for his food to arrive) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "still studying at the library (reading assigned readings for his sociology class) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        39,
+        65
+      ],
+      "pronunciatio": "\ud83e\uddd0",
+      "description": "preparing for the party and possibly making a trip to the store (checking his pantry and fridge for any necessary ingredients) @ the Ville:Moore family's house:main room:refrigerator",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        40,
+        34
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "visiting Johnson Park with Isabella (conversing about collaborating on creative projects and exploring potential opportunities in the village through their shared passion for creativity and community involvement.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending afternoon classes at Oak Hill College (listening to the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending classes at Oak Hill College (taking notes during the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        73,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcb0",
+      "description": "attending to customers and working at The Willow Market and Pharmacy (greeting and assisting customers with their purchases) (restocking the cash register and counting the day's earnings) @ the Ville:Moreno family's house:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        37,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Adam and Tamara are discussing various community events and activities they can attend together, such as art exhibitions, music events, volunteering at the animal shelter, book club meetings, participating in the community garden project, community clean-up events, and a poetry and music event with traditional folk music elements, as well as exploring local history and cultural spots. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Tamara Taylor",
+          "Hi Adam! I was thinking about attending the art exhibition at the village community center. Would you like to join me?"
+        ],
+        [
+          "Adam Smith",
+          "Hi Tamara! That sounds like a wonderful idea. I'd be delighted to join you at the art exhibition."
+        ],
+        [
+          "Tamara Taylor",
+          "I heard there's a music event in the park next weekend. Would you be interested in going together?"
+        ],
+        [
+          "Adam Smith",
+          "I would love to go to the music event with you! It will be a great opportunity to enjoy the local talent and connect with other members of the community."
+        ],
+        [
+          "Tamara Taylor",
+          "Adam, I was also thinking of volunteering at the local animal shelter. Would you like to join me and help out the animals?"
+        ],
+        [
+          "Adam Smith",
+          "That's wonderful, Tamara! I have some connections at the animal shelter, and I'd be happy to introduce you to the staff and help you get started with volunteering. Let's coordinate a time to go together."
+        ],
+        [
+          "Tamara Taylor",
+          "Adam, I appreciate your willingness to introduce me to the staff at the animal shelter. It would be great to have your guidance as I start volunteering. Can we plan a day to go together?"
+        ],
+        [
+          "Adam Smith",
+          "Tamara, I'm glad you're interested in volunteering at the animal shelter. Let's plan a day this week to visit the shelter together and get you started on helping out the animals."
+        ],
+        [
+          "Tamara Taylor",
+          "Adam, I also heard about the book club meeting next week. Would you be interested in attending with me and meeting other members?"
+        ],
+        [
+          "Adam Smith",
+          "Tamara, I would be delighted to attend the book club meeting with you and introduce you to the other members. It's a fantastic way to connect with fellow villagers and discuss our love for literature."
+        ],
+        [
+          "Tamara Taylor",
+          "Adam, I was also thinking of participating in the community garden project. Would you be interested in joining me and helping out?"
+        ],
+        [
+          "Adam Smith",
+          "Tamara, I think joining the community garden project is a fantastic idea. Let's coordinate a time to go together and get involved in this meaningful project."
+        ],
+        [
+          "Tamara Taylor",
+          "Adam, I've heard about a community clean-up event happening next month. Would you be interested in joining me and helping to beautify the village?"
+        ],
+        [
+          "Adam Smith",
+          "Tamara, I think participating in the community clean-up event is a fantastic way to beautify our village and contribute to the community. I'd be more than happy to join you and make a positive impact together."
+        ],
+        [
+          "Tamara Taylor",
+          "Adam, I've also heard about a poetry and music event with traditional folk music elements that is being planned. Would you be interested in attending with me and enjoying the local talent?"
+        ],
+        [
+          "Adam Smith",
+          "Tamara, I'm thrilled to see your eagerness to get involved in the community activities. How about we also explore the local history and heritage of the village together? I can take you to some cultural spots and introduce you to local historians and artists."
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        39,
+        34
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Adam and Tamara are discussing various community events and activities they can attend together, such as art exhibitions, music events, volunteering at the animal shelter, book club meetings, participating in the community garden project, community clean-up events, and a poetry and music event with traditional folk music elements, as well as exploring local history and cultural spots. @ <persona> Tamara Taylor",
+      "chat": [
+        [
+          "Tamara Taylor",
+          "Hi Adam! I was thinking about attending the art exhibition at the village community center. Would you like to join me?"
+        ],
+        [
+          "Adam Smith",
+          "Hi Tamara! That sounds like a wonderful idea. I'd be delighted to join you at the art exhibition."
+        ],
+        [
+          "Tamara Taylor",
+          "I heard there's a music event in the park next weekend. Would you be interested in going together?"
+        ],
+        [
+          "Adam Smith",
+          "I would love to go to the music event with you! It will be a great opportunity to enjoy the local talent and connect with other members of the community."
+        ],
+        [
+          "Tamara Taylor",
+          "Adam, I was also thinking of volunteering at the local animal shelter. Would you like to join me and help out the animals?"
+        ],
+        [
+          "Adam Smith",
+          "That's wonderful, Tamara! I have some connections at the animal shelter, and I'd be happy to introduce you to the staff and help you get started with volunteering. Let's coordinate a time to go together."
+        ],
+        [
+          "Tamara Taylor",
+          "Adam, I appreciate your willingness to introduce me to the staff at the animal shelter. It would be great to have your guidance as I start volunteering. Can we plan a day to go together?"
+        ],
+        [
+          "Adam Smith",
+          "Tamara, I'm glad you're interested in volunteering at the animal shelter. Let's plan a day this week to visit the shelter together and get you started on helping out the animals."
+        ],
+        [
+          "Tamara Taylor",
+          "Adam, I also heard about the book club meeting next week. Would you be interested in attending with me and meeting other members?"
+        ],
+        [
+          "Adam Smith",
+          "Tamara, I would be delighted to attend the book club meeting with you and introduce you to the other members. It's a fantastic way to connect with fellow villagers and discuss our love for literature."
+        ],
+        [
+          "Tamara Taylor",
+          "Adam, I was also thinking of participating in the community garden project. Would you be interested in joining me and helping out?"
+        ],
+        [
+          "Adam Smith",
+          "Tamara, I think joining the community garden project is a fantastic idea. Let's coordinate a time to go together and get involved in this meaningful project."
+        ],
+        [
+          "Tamara Taylor",
+          "Adam, I've heard about a community clean-up event happening next month. Would you be interested in joining me and helping to beautify the village?"
+        ],
+        [
+          "Adam Smith",
+          "Tamara, I think participating in the community clean-up event is a fantastic way to beautify our village and contribute to the community. I'd be more than happy to join you and make a positive impact together."
+        ],
+        [
+          "Tamara Taylor",
+          "Adam, I've also heard about a poetry and music event with traditional folk music elements that is being planned. Would you be interested in attending with me and enjoying the local talent?"
+        ],
+        [
+          "Adam Smith",
+          "Tamara, I'm thrilled to see your eagerness to get involved in the community activities. How about we also explore the local history and heritage of the village together? I can take you to some cultural spots and introduce you to local historians and artists."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 14:55:10"
+  }
+}

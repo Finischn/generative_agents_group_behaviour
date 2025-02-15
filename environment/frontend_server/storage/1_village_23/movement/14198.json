@@ -1,0 +1,155 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf79",
+      "description": "managing operations at Hobbs Cafe (preparing and serving drinks and food to customers) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        56,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Adam Smith discussing upcoming events and projects in the village, including attending an art exhibition, book club meeting, and community clean-up event. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hello Adam, thank you for all the recommendations and invitations you have given me. I had a great time at the creative writing workshop and collaborating on the poetry and music project. I'm looking forward to Isabella's birthday party later today and exploring more of the village. Do you have any other events or projects you think I should get involved in?"
+        ],
+        [
+          "Adam Smith",
+          "Hey Carlos, I'm glad you enjoyed the creative writing workshop and the poetry and music project. I think you would really enjoy the upcoming art exhibition in town. It's a great way to connect with local artists and immerse yourself in the village's creative community. I can send you the details if you're interested!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Adam. I would love to attend the art exhibition in town. Please send me the details. I appreciate your suggestions!"
+        ],
+        [
+          "Adam Smith",
+          "I'm glad to hear you're interested in the art exhibition! I also recommend checking out the upcoming book club meeting and the community clean-up event. Both are great ways to meet more people in the village and get involved in different activities."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for the suggestions, Adam. I will definitely look into attending the art exhibition and the upcoming book club meeting and community clean-up event. I'm excited to continue exploring and getting involved in the village."
+        ],
+        [
+          "Adam Smith",
+          "I'm really excited about the potential collaborations we can have together on upcoming projects in the village. Let's catch up soon and discuss more ideas!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Adam, for being so welcoming and helpful. I appreciate all your recommendations and support. I am excited to explore the art exhibition, attend the book club meeting, and participate in the community clean-up event. I look forward to continuing to connect with the village community and collaborate on upcoming projects with you."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        107,
+        41
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "taking a break and going for a walk (walking to Johnson Park) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        37,
+        60
+      ],
+      "pronunciatio": "\ud83c\udfe0\ud83c\udf89",
+      "description": "preparing for the party and possibly making a trip to the store (organizing and cleaning his home in preparation for the party) @ the Ville:Moore family's house:main room:closet",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        39,
+        30
+      ],
+      "pronunciatio": "\ud83c\udfa8",
+      "description": "visiting Johnson Park with Isabella (conversing about planning an art exhibition at the village community center, involving showcasing Tamara's comic book series and Ayesha's photography work, collaborating to engage the community, reaching out to other local artists and creators, considering including local musicians and a poetry reading event, and organizing a community clean-up event to give back to the village, as well as involving local schools to showcase the creativity of the younger members of the community.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "attending afternoon classes at Oak Hill College (participating in class discussions) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "attending classes at Oak Hill College (participating in a group discussion) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        70,
+        65
+      ],
+      "pronunciatio": "\ud83d\udcde",
+      "description": "attending to customers and working at The Willow Market and Pharmacy (answering phone calls and taking orders for delivery) @ the Ville:Moreno family's house:common room:shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        39,
+        30
+      ],
+      "pronunciatio": "\ud83c\udfa8",
+      "description": "still working on her comic book series (conversing about planning an art exhibition at the village community center, involving showcasing Tamara's comic book series and Ayesha's photography work, collaborating to engage the community, reaching out to other local artists and creators, considering including local musicians and a poetry reading event, and organizing a community clean-up event to give back to the village, as well as involving local schools to showcase the creativity of the younger members of the community.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        57,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Adam Smith discussing upcoming events and projects in the village, including attending an art exhibition, book club meeting, and community clean-up event. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hello Adam, thank you for all the recommendations and invitations you have given me. I had a great time at the creative writing workshop and collaborating on the poetry and music project. I'm looking forward to Isabella's birthday party later today and exploring more of the village. Do you have any other events or projects you think I should get involved in?"
+        ],
+        [
+          "Adam Smith",
+          "Hey Carlos, I'm glad you enjoyed the creative writing workshop and the poetry and music project. I think you would really enjoy the upcoming art exhibition in town. It's a great way to connect with local artists and immerse yourself in the village's creative community. I can send you the details if you're interested!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Adam. I would love to attend the art exhibition in town. Please send me the details. I appreciate your suggestions!"
+        ],
+        [
+          "Adam Smith",
+          "I'm glad to hear you're interested in the art exhibition! I also recommend checking out the upcoming book club meeting and the community clean-up event. Both are great ways to meet more people in the village and get involved in different activities."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for the suggestions, Adam. I will definitely look into attending the art exhibition and the upcoming book club meeting and community clean-up event. I'm excited to continue exploring and getting involved in the village."
+        ],
+        [
+          "Adam Smith",
+          "I'm really excited about the potential collaborations we can have together on upcoming projects in the village. Let's catch up soon and discuss more ideas!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Adam, for being so welcoming and helpful. I appreciate all your recommendations and support. I am excited to explore the art exhibition, attend the book club meeting, and participate in the community clean-up event. I look forward to continuing to connect with the village community and collaborate on upcoming projects with you."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 15:26:20"
+  }
+}

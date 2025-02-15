@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        23
+      ],
+      "pronunciatio": "\u2615",
+      "description": "taking a break and having a cup of coffee. @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        93,
+        18
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "taking a break and having a snack (reading a few pages from a book) @ the Ville:Carlos Gomez's apartment:main room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "writing his research paper at the library (researching and gathering evidence to support his arguments) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        59,
+        35
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy Lin and Sam Moore discussing plans to visit the local art gallery, explore Johnson Park, and collaborate on organizing a poetry and music event involving local artists and musicians. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Sam, happy birthday! It's great to see you having a blast with all your friends here at The Rose and Crown Pub. How are you enjoying your party so far?"
+        ],
+        [
+          "Sam Moore",
+          "Hey Eddy! Thank you so much for coming and for the birthday wishes. I'm truly having a great time here at The Rose and Crown Pub surrounded by wonderful friends. How about you? Are you enjoying the party?"
+        ],
+        [
+          "Eddy Lin",
+          "I'm having a great time at your birthday party, Sam. It's always fun to celebrate with friends and enjoy the vibrant atmosphere here at The Rose and Crown Pub."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're enjoying the party, Eddy. Have you tried the birthday cake yet? It's delicious!"
+        ],
+        [
+          "Eddy Lin",
+          "I heard there's a new exhibit at the local art gallery. Do you want to check it out sometime?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a great idea, Eddy! We should definitely plan a visit to the local art gallery soon. It would be a fun outing for both of us."
+        ],
+        [
+          "Eddy Lin",
+          "We should also make time to explore Johnson Park together. I heard they have some interesting military memorabilia on display."
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a plan, Eddy! Let's schedule a day to visit the art gallery and explore Johnson Park together."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, since we both enjoy exploring different places, how about we plan to visit the historical museum together soon? I heard they have some fascinating exhibits that we could check out."
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a fantastic idea, Eddy! Let's plan a visit to the historical museum together. I'm sure we'll both enjoy exploring the exhibits there."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, I heard there's a book club meeting coming up soon. Do you want to attend it together?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a great idea, Eddy! Let's definitely plan a visit to the local art gallery soon. It would be a fun outing for both of us."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, I was thinking about organizing a poetry and music event in the village. Would you be interested in collaborating on it with me?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a fantastic idea, Eddy! I'm definitely interested in collaborating on the poetry and music event with you. Let's discuss the details and plan it out together."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, I was also thinking about involving local artists and musicians in the poetry and music event we're planning. Do you have any recommendations or contacts we could reach out to?"
+        ],
+        [
+          "Sam Moore",
+          "That's a brilliant idea, Eddy! I have a few contacts who are local artists and musicians that we can reach out to for the poetry and music event. Let me get in touch with them and see if they'd be interested in collaborating with us."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        109,
+        32
+      ],
+      "pronunciatio": "\ud83c\udfad",
+      "description": "taking a break and grabbing a snack at the library (conversing about exploring Shakespeare's influence in the village and being introduced to local artists, historians, a book club, a farmers' market, and community events related to Shakespearean themes.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        92,
+        56
+      ],
+      "pronunciatio": "\ud83d\udc68\u200d\ud83c\udf73",
+      "description": "having dinner (cooking dinner) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        62,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy Lin and Sam Moore discussing plans to visit the local art gallery, explore Johnson Park, and collaborate on organizing a poetry and music event involving local artists and musicians. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Sam, happy birthday! It's great to see you having a blast with all your friends here at The Rose and Crown Pub. How are you enjoying your party so far?"
+        ],
+        [
+          "Sam Moore",
+          "Hey Eddy! Thank you so much for coming and for the birthday wishes. I'm truly having a great time here at The Rose and Crown Pub surrounded by wonderful friends. How about you? Are you enjoying the party?"
+        ],
+        [
+          "Eddy Lin",
+          "I'm having a great time at your birthday party, Sam. It's always fun to celebrate with friends and enjoy the vibrant atmosphere here at The Rose and Crown Pub."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're enjoying the party, Eddy. Have you tried the birthday cake yet? It's delicious!"
+        ],
+        [
+          "Eddy Lin",
+          "I heard there's a new exhibit at the local art gallery. Do you want to check it out sometime?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a great idea, Eddy! We should definitely plan a visit to the local art gallery soon. It would be a fun outing for both of us."
+        ],
+        [
+          "Eddy Lin",
+          "We should also make time to explore Johnson Park together. I heard they have some interesting military memorabilia on display."
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a plan, Eddy! Let's schedule a day to visit the art gallery and explore Johnson Park together."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, since we both enjoy exploring different places, how about we plan to visit the historical museum together soon? I heard they have some fascinating exhibits that we could check out."
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a fantastic idea, Eddy! Let's plan a visit to the historical museum together. I'm sure we'll both enjoy exploring the exhibits there."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, I heard there's a book club meeting coming up soon. Do you want to attend it together?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a great idea, Eddy! Let's definitely plan a visit to the local art gallery soon. It would be a fun outing for both of us."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, I was thinking about organizing a poetry and music event in the village. Would you be interested in collaborating on it with me?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a fantastic idea, Eddy! I'm definitely interested in collaborating on the poetry and music event with you. Let's discuss the details and plan it out together."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, I was also thinking about involving local artists and musicians in the poetry and music event we're planning. Do you have any recommendations or contacts we could reach out to?"
+        ],
+        [
+          "Sam Moore",
+          "That's a brilliant idea, Eddy! I have a few contacts who are local artists and musicians that we can reach out to for the poetry and music event. Let me get in touch with them and see if they'd be interested in collaborating with us."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcde\ud83d\udce6",
+      "description": "still managing the store and helping customers with their orders (answering the phone and taking orders for delivery) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        74
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "working on her comic book series (reviewing and editing the script) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        22,
+        52
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having dinner with a friend (choosing a restaurant to meet at) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 17:11:40"
+  }
+}

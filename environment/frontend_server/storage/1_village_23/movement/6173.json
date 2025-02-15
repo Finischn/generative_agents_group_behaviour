@@ -1,0 +1,357 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        23
+      ],
+      "pronunciatio": "\u2615",
+      "description": "taking a break and having a cup of coffee. @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        93,
+        18
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "taking a break and having a snack (reading a few pages from a book) @ the Ville:Carlos Gomez's apartment:main room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring Shakespeare's influence in the village and being introduced to local artists, historians, a book club, a farmers' market, and community events related to Shakespearean themes. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Ayesha! I noticed you're reviewing your notes. Are you working on something exciting?"
+        ],
+        [
+          "Ayesha Khan",
+          "Yes, Klaus! I'm actually researching for my senior thesis on the use of language in Shakespeare's plays. It's been quite insightful and fascinating so far."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds really interesting, Ayesha! Since you're new to the village, would you like me to show you around some local spots related to Shakespeare's influence in our community?"
+        ],
+        [
+          "Ayesha Khan",
+          "That would be wonderful, Klaus! I would love to learn more about Shakespeare's influence in the village."
+        ],
+        [
+          "Klaus Mueller",
+          "I know of a local artist who is inspired by Shakespearean themes. Would you be interested in meeting them to gain more insights?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds fantastic, Klaus! I would love to meet the local artist and explore more about Shakespeare's influence in our community."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's plan a visit to the farmers' market this weekend. It's a vibrant place where you can experience the local culture and community."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Klaus! I'm looking forward to exploring the farmers' market and meeting the local artist inspired by Shakespeare."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, there's a local book club that meets every Thursday at the community center. They often discuss plays, including Shakespeare's works. Would you be interested in joining them to delve deeper into the literary aspects of the village?"
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much for all your suggestions, Klaus! I am really excited to explore the local artist and the farmers' market. I'm definitely interested in joining the book club on Thursdays as well."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I can also introduce you to some local historians who can provide more insights into the village's history and cultural heritage. Would you be interested in meeting them?"
+        ],
+        [
+          "Ayesha Khan",
+          "That would be fantastic, Klaus! I would love to meet the local historians and learn more about the village's history and cultural heritage."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, there's also a community event this weekend at the local park where they will be performing scenes from Shakespeare's plays. Would you be interested in attending?"
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much, Klaus, for all your wonderful suggestions! I would love to attend the community event at the local park this weekend where they will be performing scenes from Shakespeare's plays. It sounds like a fantastic combination of culture and nature."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I also know of a local music project that incorporates poetry and storytelling inspired by Shakespearean themes. Would you be interested in attending one of their performances to experience a different artistic perspective?"
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much for all your wonderful suggestions and warm welcome, Klaus! I truly appreciate your guidance in helping me explore the village's cultural treasures."
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        59,
+        35
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy Lin and Sam Moore discussing plans to visit the local art gallery, explore Johnson Park, and collaborate on organizing a poetry and music event involving local artists and musicians. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Sam, happy birthday! It's great to see you having a blast with all your friends here at The Rose and Crown Pub. How are you enjoying your party so far?"
+        ],
+        [
+          "Sam Moore",
+          "Hey Eddy! Thank you so much for coming and for the birthday wishes. I'm truly having a great time here at The Rose and Crown Pub surrounded by wonderful friends. How about you? Are you enjoying the party?"
+        ],
+        [
+          "Eddy Lin",
+          "I'm having a great time at your birthday party, Sam. It's always fun to celebrate with friends and enjoy the vibrant atmosphere here at The Rose and Crown Pub."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're enjoying the party, Eddy. Have you tried the birthday cake yet? It's delicious!"
+        ],
+        [
+          "Eddy Lin",
+          "I heard there's a new exhibit at the local art gallery. Do you want to check it out sometime?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a great idea, Eddy! We should definitely plan a visit to the local art gallery soon. It would be a fun outing for both of us."
+        ],
+        [
+          "Eddy Lin",
+          "We should also make time to explore Johnson Park together. I heard they have some interesting military memorabilia on display."
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a plan, Eddy! Let's schedule a day to visit the art gallery and explore Johnson Park together."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, since we both enjoy exploring different places, how about we plan to visit the historical museum together soon? I heard they have some fascinating exhibits that we could check out."
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a fantastic idea, Eddy! Let's plan a visit to the historical museum together. I'm sure we'll both enjoy exploring the exhibits there."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, I heard there's a book club meeting coming up soon. Do you want to attend it together?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a great idea, Eddy! Let's definitely plan a visit to the local art gallery soon. It would be a fun outing for both of us."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, I was thinking about organizing a poetry and music event in the village. Would you be interested in collaborating on it with me?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a fantastic idea, Eddy! I'm definitely interested in collaborating on the poetry and music event with you. Let's discuss the details and plan it out together."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, I was also thinking about involving local artists and musicians in the poetry and music event we're planning. Do you have any recommendations or contacts we could reach out to?"
+        ],
+        [
+          "Sam Moore",
+          "That's a brilliant idea, Eddy! I have a few contacts who are local artists and musicians that we can reach out to for the poetry and music event. Let me get in touch with them and see if they'd be interested in collaborating with us."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring Shakespeare's influence in the village and being introduced to local artists, historians, a book club, a farmers' market, and community events related to Shakespearean themes. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Ayesha! I noticed you're reviewing your notes. Are you working on something exciting?"
+        ],
+        [
+          "Ayesha Khan",
+          "Yes, Klaus! I'm actually researching for my senior thesis on the use of language in Shakespeare's plays. It's been quite insightful and fascinating so far."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds really interesting, Ayesha! Since you're new to the village, would you like me to show you around some local spots related to Shakespeare's influence in our community?"
+        ],
+        [
+          "Ayesha Khan",
+          "That would be wonderful, Klaus! I would love to learn more about Shakespeare's influence in the village."
+        ],
+        [
+          "Klaus Mueller",
+          "I know of a local artist who is inspired by Shakespearean themes. Would you be interested in meeting them to gain more insights?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds fantastic, Klaus! I would love to meet the local artist and explore more about Shakespeare's influence in our community."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's plan a visit to the farmers' market this weekend. It's a vibrant place where you can experience the local culture and community."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Klaus! I'm looking forward to exploring the farmers' market and meeting the local artist inspired by Shakespeare."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, there's a local book club that meets every Thursday at the community center. They often discuss plays, including Shakespeare's works. Would you be interested in joining them to delve deeper into the literary aspects of the village?"
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much for all your suggestions, Klaus! I am really excited to explore the local artist and the farmers' market. I'm definitely interested in joining the book club on Thursdays as well."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I can also introduce you to some local historians who can provide more insights into the village's history and cultural heritage. Would you be interested in meeting them?"
+        ],
+        [
+          "Ayesha Khan",
+          "That would be fantastic, Klaus! I would love to meet the local historians and learn more about the village's history and cultural heritage."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, there's also a community event this weekend at the local park where they will be performing scenes from Shakespeare's plays. Would you be interested in attending?"
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much, Klaus, for all your wonderful suggestions! I would love to attend the community event at the local park this weekend where they will be performing scenes from Shakespeare's plays. It sounds like a fantastic combination of culture and nature."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I also know of a local music project that incorporates poetry and storytelling inspired by Shakespearean themes. Would you be interested in attending one of their performances to experience a different artistic perspective?"
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much for all your wonderful suggestions and warm welcome, Klaus! I truly appreciate your guidance in helping me explore the village's cultural treasures."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        98,
+        55
+      ],
+      "pronunciatio": "\ud83e\udd55",
+      "description": "having dinner (preparing ingredients for dinner) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        62,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy Lin and Sam Moore discussing plans to visit the local art gallery, explore Johnson Park, and collaborate on organizing a poetry and music event involving local artists and musicians. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Sam, happy birthday! It's great to see you having a blast with all your friends here at The Rose and Crown Pub. How are you enjoying your party so far?"
+        ],
+        [
+          "Sam Moore",
+          "Hey Eddy! Thank you so much for coming and for the birthday wishes. I'm truly having a great time here at The Rose and Crown Pub surrounded by wonderful friends. How about you? Are you enjoying the party?"
+        ],
+        [
+          "Eddy Lin",
+          "I'm having a great time at your birthday party, Sam. It's always fun to celebrate with friends and enjoy the vibrant atmosphere here at The Rose and Crown Pub."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're enjoying the party, Eddy. Have you tried the birthday cake yet? It's delicious!"
+        ],
+        [
+          "Eddy Lin",
+          "I heard there's a new exhibit at the local art gallery. Do you want to check it out sometime?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a great idea, Eddy! We should definitely plan a visit to the local art gallery soon. It would be a fun outing for both of us."
+        ],
+        [
+          "Eddy Lin",
+          "We should also make time to explore Johnson Park together. I heard they have some interesting military memorabilia on display."
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a plan, Eddy! Let's schedule a day to visit the art gallery and explore Johnson Park together."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, since we both enjoy exploring different places, how about we plan to visit the historical museum together soon? I heard they have some fascinating exhibits that we could check out."
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a fantastic idea, Eddy! Let's plan a visit to the historical museum together. I'm sure we'll both enjoy exploring the exhibits there."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, I heard there's a book club meeting coming up soon. Do you want to attend it together?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a great idea, Eddy! Let's definitely plan a visit to the local art gallery soon. It would be a fun outing for both of us."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, I was thinking about organizing a poetry and music event in the village. Would you be interested in collaborating on it with me?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a fantastic idea, Eddy! I'm definitely interested in collaborating on the poetry and music event with you. Let's discuss the details and plan it out together."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Sam, I was also thinking about involving local artists and musicians in the poetry and music event we're planning. Do you have any recommendations or contacts we could reach out to?"
+        ],
+        [
+          "Sam Moore",
+          "That's a brilliant idea, Eddy! I have a few contacts who are local artists and musicians that we can reach out to for the poetry and music event. Let me get in touch with them and see if they'd be interested in collaborating with us."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcde\ud83d\udce6",
+      "description": "still managing the store and helping customers with their orders (answering the phone and taking orders for delivery) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        74
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "working on her comic book series (reviewing and editing the script) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "wrapping up work on his book and preparing to leave for the day. @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 17:08:50"
+  }
+}

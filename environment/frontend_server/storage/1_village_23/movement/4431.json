@@ -1,0 +1,97 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83e\uddf9",
+      "description": "managing operations at Hobbs Cafe and interacting with customers (cleaning and organizing the cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "working on his poetry collection (conversing about Carlos Gomez and Klaus Mueller discussing exploring the village community, including visiting the farmers' market, local art exhibition, community center, joining the book club, trying out The Rose and Crown Pub, joining the community garden project, exploring village trails and nature reserves, attending weekly music jam sessions at the village hall, and volunteering at the local animal shelter.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        113,
+        30
+      ],
+      "pronunciatio": "\ud83c\udf33\ud83c\udfb6",
+      "description": "writing his research paper at the library (conversing about Carlos Gomez and Klaus Mueller discussing exploring the village community, including visiting the farmers' market, local art exhibition, community center, joining the book club, trying out The Rose and Crown Pub, joining the community garden project, exploring village trails and nature reserves, attending weekly music jam sessions at the village hall, and volunteering at the local animal shelter.) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        64,
+        37
+      ],
+      "pronunciatio": "\ud83c\udf7b\ud83e\udd50",
+      "description": "running errands and gathering party material (conversing about celebrating Sam's birthday at The Rose and Crown Pub, making plans to catch up over drinks, trying out pastries at Hobbs Cafe, exploring the new local produce section at The Willows Market and Pharmacy, and grabbing a quick coffee before the birthday bash) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending her fourth class at Oak Hill College (listening to the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        92,
+        37
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having lunch (eating his lunch) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        109,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "taking a break and having lunch at Hobbs Cafe (conversing about Klaus Mueller and Eddy Lin are discussing incorporating local village stories into their poetry and music project, planning to meet at Hobbs Cafe to brainstorm ideas, involve local artists and musicians, reach out to historians, explore Johnson Park for inspiration, involve Isabella Rodriguez, and potentially host a small event at Hobbs Cafe to showcase their work and gather feedback, with the idea of including traditional folk music and organizing a storytelling and music workshop with local school children to engage the younger generation and showcase their creativity.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        73,
+        62
+      ],
+      "pronunciatio": "\ud83c\udf6a",
+      "description": "still managing the store and helping customers with their orders (taking a break and having a snack) @ the Ville:Moreno family's house:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        57,
+        66
+      ],
+      "pronunciatio": "\ud83d\udd25",
+      "description": "having lunch (heating up her food) @ the Ville:Tamara Taylor and Carmen Ortiz's house:kitchen:cooking area",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        62
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having lunch and taking a break to go for a walk (eating his lunch) @ the Ville:Adam Smith's house:main room:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:18:30"
+  }
+}

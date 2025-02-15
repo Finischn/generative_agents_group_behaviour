@@ -1,0 +1,97 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "managing operations at Hobbs Cafe and interacting with customers (checking inventory and restocking supplies) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        34,
+        42
+      ],
+      "pronunciatio": "\ud83e\udd2b",
+      "description": "going for a walk in nature (finding a quiet spot to sit and reflect) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "writing his research paper at the library (conversing about Eddy Lin and Klaus Mueller are discussing collaboration with local historians, artists, and musicians to gather stories and perspectives for their project, planning to host an event at Hobbs Cafe, organize a storytelling and music workshop with local school children, explore Johnson Park for inspiration, and incorporate traditional folk music into their composition while involving the community center for support.) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        59,
+        32
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "preparing for his birthday party (researching decorations and party favors) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        114,
+        33
+      ],
+      "pronunciatio": "\u2615",
+      "description": "conducting research for her senior thesis at the library (taking a short break) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying for exams (studying for his chemistry exam) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "attending classes at Oak Hill College (on the way to taking a short break) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        65
+      ],
+      "pronunciatio": "\ud83e\uddf9",
+      "description": "taking a break and having lunch (cleaning up his lunch area) @ the Ville:Moreno family's house:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\ud83d\udca1",
+      "description": "working on her comic book series (brainstorming ideas for the plot) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\uddc2\ufe0f",
+      "description": "continuing to work on his book (organizing his thoughts and ideas for the next chapter) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 15:01:30"
+  }
+}

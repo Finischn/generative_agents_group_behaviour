@@ -1,0 +1,917 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 21:59:50",
+  "curr_tile": [
+    108,
+    33
+  ],
+  "daily_plan_req": "1. Wake up and complete the morning routine at 7:00 am 2. Head to the library at Oak Hill College for studying at 8:00 am 3. Meet Isabella at Johnson Park in the morning with flowers as a welcome gift 4. Attend Sam's birthday party at The Rose and Crown Pub in the afternoon 5. Have dinner at Hobbs Cafe at 5:00 pm",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 78,
+  "innate": "kind, inquisitive, passionate",
+  "race": "White",
+  "village": "longterm resident of the village",
+  "gender": "Male",
+  "political_affiliation": "Liberal",
+  "race_div": "Native Hawaiian or Pacific Islander",
+  "education": "Professional degree (JD, MD)",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.",
+  "currently": "Status: Klaus Mueller spent Tuesday, February 14 meeting Isabella at Johnson Park in the morning, bringing her flowers as a welcome gift. He then headed to Sam's birthday party at The Rose and Crown Pub in the afternoon, continuing his efforts to welcome newcomers to the village and foster a welcoming and inclusive community.",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 36,
+  "importance_ele_n": 36,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "have breakfast at home at 8:00 am",
+    "head to the library at Oak Hill College at 9:00 am",
+    "spend the day writing his research paper until 3:00 pm",
+    "have lunch at Hobbs Cafe at 1:00 pm",
+    "continue writing until 3:00 pm",
+    "take a break and go for a walk at 3:00 pm",
+    "return to the library and continue writing until 5:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine (waking up and turning off his alarm)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (stretching and doing some light exercises)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower and getting dressed)",
+      20
+    ],
+    [
+      "waking up and completing his morning routine (making breakfast)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (eating breakfast)",
+      10
+    ],
+    [
+      "having breakfast at home (on the way to making coffee)",
+      0
+    ],
+    [
+      "having breakfast at home (conversing about exploring various community events and activities in the village, including the farmers' market, book club, art exhibition, music events in the park, and a food truck adventure)",
+      11
+    ],
+    [
+      "having breakfast at home (on the way to making coffee)",
+      0
+    ],
+    [
+      "having breakfast at home (conversing about Klaus Mueller and Eddy Lin discussing their plan to involve local historians, artists, musicians, the community center, school children, traditional folk music, Johnson Park, Isabella Rodriguez, Hobbs Cafe, local businesses, and organizing a storytelling and music workshop for their project.)",
+      11
+    ],
+    [
+      "having breakfast at home (toasting bread)",
+      5
+    ],
+    [
+      "having breakfast at home (checking his emails)",
+      10
+    ],
+    [
+      "having breakfast at home (on the way to preparing his study materials for the day)",
+      0
+    ],
+    [
+      "having breakfast at home (conversing about Sam Moore and Klaus Mueller are discussing various activities and events to introduce Isabella to the local art, history, music, cuisine, and community of their village.)",
+      13
+    ],
+    [
+      "at the library studying sociology (reviewing his notes from previous lectures)",
+      15
+    ],
+    [
+      "at the library studying sociology (reading assigned readings for his sociology class)",
+      20
+    ],
+    [
+      "at the library studying sociology (taking notes on the readings)",
+      15
+    ],
+    [
+      "at the library studying sociology (reviewing his notes and summarizing key points)",
+      10
+    ],
+    [
+      "at the library studying sociology (organizing his study materials and preparing for his next class)",
+      10
+    ],
+    [
+      "still studying at the library (reviewing his notes from previous lectures)",
+      15
+    ],
+    [
+      "still studying at the library (reading assigned readings for his sociology class)",
+      30
+    ],
+    [
+      "still studying at the library (on the way to taking notes on the readings)",
+      0
+    ],
+    [
+      "still studying at the library (conversing about Klaus Mueller and Ayesha Khan discussing upcoming village events and activities such as joining a book club, attending a community event, exploring the farmers' market, relaxing in the park, visiting an art exhibition, and joining a guided tour of the historical museum.)",
+      16
+    ],
+    [
+      "still studying at the library (working on a sociology essay)",
+      59
+    ],
+    [
+      "still studying at the library (taking a short break)",
+      10
+    ],
+    [
+      "still studying at the library (proofreading and editing his essay)",
+      30
+    ],
+    [
+      "still studying at the library (on the way to on the way to printing out his essay)",
+      0
+    ],
+    [
+      "still studying at the library (conversing about planning various cultural and community activities to help Isabella feel welcome in the village, including visits to the art gallery, historical museum, community picnic, music event, farmers' market, book club meeting, guided tour, local diner, nature walk, and community center events)",
+      13
+    ],
+    [
+      "still studying at the library (on the way to printing out his essay)",
+      0
+    ],
+    [
+      "still studying at the library (conversing about two friends, Klaus Mueller and Tom Moreno, discussing various local events and activities to introduce their friend Isabella to the village's culture and heritage)",
+      7
+    ],
+    [
+      "having lunch at Hobbs Cafe (walking to Hobbs Cafe)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (on the way to ordering his food)",
+      0
+    ],
+    [
+      "having lunch at Hobbs Cafe (conversing about strategizing how to involve more local businesses, community center, artists, musicians, historians, school children, newcomers, and local resources in their upcoming storytelling and music project at the village hall.)",
+      15
+    ],
+    [
+      "having lunch at Hobbs Cafe (on the way to ordering his food)",
+      0
+    ],
+    [
+      "having lunch at Hobbs Cafe (conversing about Isabella Rodriguez and Klaus Mueller are discussing various community activities and events, such as art exhibitions, picnics, music nights, book clubs, nature walks, guided tours, and farmers' markets, that they can attend together to explore the village and connect with the local culture and community.)",
+      14
+    ],
+    [
+      "having lunch at Hobbs Cafe (on the way to ordering his food)",
+      0
+    ],
+    [
+      "having lunch at Hobbs Cafe (conversing about Carlos Gomez and Klaus Mueller are making plans to visit the farmers' market, attend an art exhibition, join a book club meeting, and participate in a community garden project together.)",
+      7
+    ],
+    [
+      "having lunch at Hobbs Cafe (waiting for his food)",
+      10
+    ],
+    [
+      "having lunch at Hobbs Cafe (eating his food)",
+      30
+    ],
+    [
+      "having lunch at Hobbs Cafe (paying for his meal)",
+      5
+    ],
+    [
+      "still studying at the library (reviewing his notes from his sociology class)",
+      10
+    ],
+    [
+      "still studying at the library (reading assigned readings for his sociology class)",
+      20
+    ],
+    [
+      "still studying at the library (taking a short break to stretch and get some water)",
+      4
+    ],
+    [
+      "taking a break and going for a walk (putting away his study materials)",
+      5
+    ],
+    [
+      "taking a break and going for a walk (stretching and doing some light exercises)",
+      10
+    ],
+    [
+      "taking a break and going for a walk (checking his phone for any important messages)",
+      5
+    ],
+    [
+      "taking a break and going for a walk (putting on his walking shoes and jacket)",
+      5
+    ],
+    [
+      "taking a break and going for a walk (walking to Johnson Park)",
+      15
+    ],
+    [
+      "taking a break and going for a walk (on the way to meeting Isabella at the park)",
+      0
+    ],
+    [
+      "taking a break and going for a walk (conversing about Klaus Mueller and Ayesha Khan are discussing exploring the village, joining the book club, meeting local artists, historians, and musicians, attending community events, visiting art exhibitions, and exploring hidden gems and local spots together.)",
+      14
+    ],
+    [
+      "taking a break and going for a walk (giving Isabella the flowers)",
+      1
+    ],
+    [
+      "taking a break and going for a walk (chatting with Isabella for a few minutes)",
+      5
+    ],
+    [
+      "still studying at the library (on the way to reviewing his notes from his sociology class)",
+      0
+    ],
+    [
+      "still studying at the library (conversing about two residents, Klaus Mueller and Carlos Gomez, making plans to explore various cultural and community activities together in their village.)",
+      11
+    ],
+    [
+      "still studying at the library (reviewing his notes from his sociology class)",
+      19
+    ],
+    [
+      "still studying at the library (on the way to on the way to taking a short break to stretch and get some water)",
+      0
+    ],
+    [
+      "still studying at the library (conversing about Klaus Mueller and Tom Moreno are planning a series of cultural and community activities for Isabella to immerse her in the local art scene, history, music, literature, nature, community events, and sustainability efforts, including a community picnic, volunteer opportunities, visits to local artists, a cultural festival, community center events, and a local community theater production.)",
+      14
+    ],
+    [
+      "still studying at the library (working on a research paper for his sociology class)",
+      16
+    ],
+    [
+      "heading to Johnson Park to meet Isabella with flowers as a welcome gift (packing up his study materials)",
+      5
+    ],
+    [
+      "heading to Johnson Park to meet Isabella with flowers as a welcome gift (walking to his car)",
+      5
+    ],
+    [
+      "heading to Johnson Park to meet Isabella with flowers as a welcome gift (driving to Johnson Park)",
+      15
+    ],
+    [
+      "heading to Johnson Park to meet Isabella with flowers as a welcome gift (parking his car)",
+      5
+    ],
+    [
+      "heading to Johnson Park to meet Isabella with flowers as a welcome gift (walking to the flower shop)",
+      5
+    ],
+    [
+      "heading to Johnson Park to meet Isabella with flowers as a welcome gift (picking out flowers)",
+      10
+    ],
+    [
+      "heading to Johnson Park to meet Isabella with flowers as a welcome gift (on the way to paying for the flowers)",
+      0
+    ],
+    [
+      "heading to Johnson Park to meet Isabella with flowers as a welcome gift (conversing about Wolfgang Schulz and Klaus Mueller are discussing settling into the village, exploring local events and activities, meeting local artists and musicians, visiting the local park and art gallery, attending a live music event, joining a community picnic, and exploring the historical museum together.)",
+      12
+    ],
+    [
+      "heading to Johnson Park to meet Isabella with flowers as a welcome gift (paying for the flowers)",
+      3
+    ],
+    [
+      "heading to The Rose and Crown Pub for Sam's birthday party (getting ready for the party)",
+      15
+    ],
+    [
+      "heading to The Rose and Crown Pub for Sam's birthday party (on the way to checking the directions to The Rose and Crown Pub)",
+      0
+    ],
+    [
+      "heading to The Rose and Crown Pub for Sam's birthday party (conversing about Klaus Mueller and Sam Moore are discussing various activities and events to include Isabella in to welcome her to the village and immerse her in the rich culture, community spirit, and local attractions.)",
+      15
+    ],
+    [
+      "heading to The Rose and Crown Pub for Sam's birthday party (walking to the bus stop)",
+      10
+    ],
+    [
+      "heading to The Rose and Crown Pub for Sam's birthday party (waiting for the bus)",
+      5
+    ],
+    [
+      "heading to The Rose and Crown Pub for Sam's birthday party (on the way to taking the bus to The Rose and Crown Pub)",
+      0
+    ],
+    [
+      "heading to The Rose and Crown Pub for Sam's birthday party (conversing about collaborating on organizing a poetry and music event for the community, involving local schools, community center, historians, artists, musicians, businesses, farmers' market, newcomers, and a community clean-up event before the event, as well as organizing a book club meeting as part of the event to promote literature and engage book lovers.)",
+      13
+    ],
+    [
+      "heading to The Rose and Crown Pub for Sam's birthday party (taking the bus to The Rose and Crown Pub)",
+      7
+    ],
+    [
+      "heading to The Rose and Crown Pub for Sam's birthday party (on the way to arriving at The Rose and Crown Pub)",
+      0
+    ],
+    [
+      "heading to The Rose and Crown Pub for Sam's birthday party (conversing about Isabella Rodriguez and Klaus Mueller are discussing collaborating on various community events such as a baking class, visiting the historical museum, joining a book club meeting, attending a music event in the park, exploring the local art scene, participating in a community clean-up event, and going for a nature walk.)",
+      13
+    ],
+    [
+      "at The Rose and Crown Pub for Sam's birthday party",
+      42
+    ],
+    [
+      "having dinner at Hobbs Cafe (on the way to looking at the menu and deciding what to order)",
+      0
+    ],
+    [
+      "having dinner at Hobbs Cafe (conversing about Klaus Mueller and Carlos Gomez are discussing different community activities to explore together in the village, including visiting the farmers' market, art exhibition, book club, music jam sessions, community garden project, nature reserves, and volunteering at the animal shelter.)",
+      11
+    ],
+    [
+      "having dinner at Hobbs Cafe (placing his order with the server)",
+      5
+    ],
+    [
+      "having dinner at Hobbs Cafe (engaging in conversation with Isabella and Sam)",
+      20
+    ],
+    [
+      "having dinner at Hobbs Cafe (eating his meal)",
+      20
+    ],
+    [
+      "having dinner at Hobbs Cafe (on the way to paying for his meal)",
+      0
+    ],
+    [
+      "having dinner at Hobbs Cafe (conversing about exploring different cultural and community events in the village, Ayesha Khan and Klaus Mueller plan to visit art exhibitions, historical museums, poetry readings, book club meetings, farmers' markets, music events, local parks, cafes, art galleries, and community garden projects together.)",
+      12
+    ],
+    [
+      "heading back home (on the way to leaving Hobbs Cafe and saying goodbye to Isabella and Sam)",
+      4
+    ],
+    [
+      "heading home (arriving at home)",
+      5
+    ],
+    [
+      "heading home after dinner at Hobbs Cafe (paying for his meal at Hobbs Cafe)",
+      5
+    ],
+    [
+      "heading home after dinner at Hobbs Cafe (on the way to saying goodbye to the staff at Hobbs Cafe)",
+      0
+    ],
+    [
+      "heading home after dinner at Hobbs Cafe (conversing about organizing a community poetry and music event involving local schools, historians, artists, musicians, businesses, farmers' market, and newcomers.)",
+      15
+    ],
+    [
+      "heading home after dinner at Hobbs Cafe (on the way to walking to his car)",
+      0
+    ],
+    [
+      "heading home after dinner at Hobbs Cafe (conversing about planning various cultural and community activities for Isabella to participate in and connect with the villagers, including a nature walk, book club meeting, museum visit, community picnic, art gallery visit, farmers' market trip, guided village tour, community center exploration, live music event attendance, community clean-up participation, community garden visit, and park exploration.)",
+      12
+    ],
+    [
+      "heading home after dinner at Hobbs Cafe (walking to his car)",
+      5
+    ],
+    [
+      "heading home after dinner at Hobbs Cafe (driving home)",
+      20
+    ],
+    [
+      "heading home after dinner at Hobbs Cafe (thinking about his day)",
+      3
+    ],
+    [
+      "heading home after dinner at Hobbs Cafe (arriving home)",
+      5
+    ],
+    [
+      "getting ready for bed (brushing his teeth)",
+      5
+    ],
+    [
+      "getting ready for bed (washing his face)",
+      5
+    ],
+    [
+      "getting ready for bed (changing into his pajamas)",
+      5
+    ],
+    [
+      "getting ready for bed (setting his alarm for the next day)",
+      5
+    ],
+    [
+      "getting ready for bed (turning off the lights and closing the curtains)",
+      5
+    ],
+    [
+      "getting ready for bed (checking his phone for any important messages)",
+      5
+    ],
+    [
+      "getting ready for bed (reading a book for 15 minutes before bed)",
+      15
+    ],
+    [
+      "getting ready for bed (turning off his phone and putting it on the charger)",
+      1
+    ],
+    [
+      "getting ready for bed (reflecting on the conversation about the community event and making notes for future planning)",
+      8
+    ],
+    [
+      "getting ready for bed (getting into bed and adjusting his pillows)",
+      5
+    ],
+    [
+      "getting ready for bed (reflecting on his day and setting intentions for the next day)",
+      5
+    ],
+    [
+      "going to bed at 11:00 pm",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -8
+    ],
+    [
+      "sleeping",
+      -8
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "having breakfast at home",
+      60
+    ],
+    [
+      "at the library studying sociology",
+      60
+    ],
+    [
+      "still studying at the library",
+      180
+    ],
+    [
+      "having lunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "still studying at the library",
+      60
+    ],
+    [
+      "taking a break and going for a walk",
+      60
+    ],
+    [
+      "still studying at the library",
+      60
+    ],
+    [
+      "heading to Johnson Park to meet Isabella with flowers as a welcome gift",
+      60
+    ],
+    [
+      "heading to The Rose and Crown Pub for Sam's birthday party",
+      60
+    ],
+    [
+      "at The Rose and Crown Pub for Sam's birthday party",
+      60
+    ],
+    [
+      "having dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "heading home after dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:common room:common room table",
+  "act_start_time": "February 14, 2023, 21:48:00",
+  "act_duration": 12,
+  "act_description": "heading home after dinner at Hobbs Cafe (conversing about planning various cultural and community activities for Isabella to participate in and connect with the villagers, including a nature walk, book club meeting, museum visit, community picnic, art gallery visit, farmers' market trip, guided village tour, community center exploration, live music event attendance, community clean-up participation, community garden visit, and park exploration.)",
+  "act_pronunciatio": "\ud83d\udcda\ud83c\udfa8",
+  "act_event": [
+    "Klaus Mueller",
+    "Klaus Mueller",
+    "is"
+  ],
+  "act_obj_description": "being used by Klaus Mueller for planning various cultural and community activities for Isabella",
+  "act_obj_pronunciatio": "\ud83d\udcc5",
+  "act_obj_event": [
+    "common room table",
+    "use",
+    "Klaus Mueller"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Ayesha Khan": 470,
+    "Isabella Rodriguez": -196,
+    "Wolfgang Schulz": -664,
+    "Carlos Gomez": -4,
+    "Sam Moore": 728,
+    "Eddy Lin": -2344,
+    "Adam Smith": 650,
+    "Tom Moreno": -1108
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      108,
+      35
+    ],
+    [
+      108,
+      36
+    ],
+    [
+      108,
+      37
+    ],
+    [
+      109,
+      37
+    ],
+    [
+      110,
+      37
+    ],
+    [
+      111,
+      37
+    ],
+    [
+      112,
+      37
+    ],
+    [
+      113,
+      37
+    ],
+    [
+      114,
+      37
+    ],
+    [
+      115,
+      37
+    ],
+    [
+      116,
+      37
+    ],
+    [
+      116,
+      38
+    ],
+    [
+      116,
+      39
+    ],
+    [
+      116,
+      40
+    ],
+    [
+      116,
+      41
+    ],
+    [
+      116,
+      42
+    ],
+    [
+      116,
+      43
+    ],
+    [
+      116,
+      44
+    ],
+    [
+      116,
+      45
+    ],
+    [
+      117,
+      45
+    ],
+    [
+      118,
+      45
+    ],
+    [
+      119,
+      45
+    ],
+    [
+      119,
+      46
+    ],
+    [
+      119,
+      47
+    ]
+  ],
+  "known_personas": [
+    "Ayesha Khan",
+    "Isabella Rodriguez",
+    "Wolfgang Schulz",
+    "Carlos Gomez",
+    "Sam Moore",
+    "Eddy Lin",
+    "Adam Smith",
+    "Tom Moreno"
+  ]
+}

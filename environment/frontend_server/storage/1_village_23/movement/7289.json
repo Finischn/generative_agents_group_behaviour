@@ -1,0 +1,139 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc69\u200d\ud83c\udf73",
+      "description": "having dinner and winding down for the night (preparing dinner in the kitchen) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        39,
+        30
+      ],
+      "pronunciatio": "\ud83d\udca1",
+      "description": "brainstorming new ideas for his poetry @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f\ud83e\uddf9",
+      "description": "finishing dinner and cleaning up. @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        41,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about organizing a community picnic at Johnson Park, with Sam Moore asking Adam Smith for help and suggesting reaching out to Isabella, Carlos, Klaus, and Tamara to join them. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Adam, I was thinking about organizing a community picnic at Johnson Park next weekend. Would you be interested in helping out and spreading the word?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a fantastic idea, Sam! Count me in. I can help with organizing the logistics and promoting the event within the village. Let's make it a fun and memorable picnic for everyone."
+        ],
+        [
+          "Sam Moore",
+          "Great! Let's also reach out to Isabella and Carlos to see if they can join us. It would be wonderful to have their help and input."
+        ],
+        [
+          "Adam Smith",
+          "Absolutely, I'll talk to Isabella and Carlos about joining us at the picnic. It's always great to have more hands on deck!"
+        ],
+        [
+          "Sam Moore",
+          "Let's also consider reaching out to Klaus and Tamara to see if they can join us at the picnic. The more, the merrier!"
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "back at the library and continuing her research for her senior thesis (reviewing her notes from previous research) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        107,
+        62
+      ],
+      "pronunciatio": "\ud83c\udf19",
+      "description": "winding down and preparing for bed @ the Ville:Dorm for Oak Hill College:Wolfgang Schulz's room:bed",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        93,
+        68
+      ],
+      "pronunciatio": "\ud83d\uddc2\ufe0f",
+      "description": "winding down for the night and getting ready for bed (organizing his composition project materials) @ the Ville:Lin family's house:Eddy Lin's bedroom:desk",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        68,
+        54
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "discussing the upcoming local mayor election with Jane (discussing the upcoming local mayor election with Jane) @ the Ville:Moreno family's house:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "finishing up any remaining work for the day (reviewing her progress on her children's book series) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        42,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about organizing a community picnic at Johnson Park, with Sam Moore asking Adam Smith for help and suggesting reaching out to Isabella, Carlos, Klaus, and Tamara to join them. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Adam, I was thinking about organizing a community picnic at Johnson Park next weekend. Would you be interested in helping out and spreading the word?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a fantastic idea, Sam! Count me in. I can help with organizing the logistics and promoting the event within the village. Let's make it a fun and memorable picnic for everyone."
+        ],
+        [
+          "Sam Moore",
+          "Great! Let's also reach out to Isabella and Carlos to see if they can join us. It would be wonderful to have their help and input."
+        ],
+        [
+          "Adam Smith",
+          "Absolutely, I'll talk to Isabella and Carlos about joining us at the picnic. It's always great to have more hands on deck!"
+        ],
+        [
+          "Sam Moore",
+          "Let's also consider reaching out to Klaus and Tamara to see if they can join us at the picnic. The more, the merrier!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 20:14:50"
+  }
+}

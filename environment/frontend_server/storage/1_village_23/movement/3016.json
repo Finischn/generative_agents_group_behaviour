@@ -1,0 +1,269 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the village, trying out new pastries, receiving recommendations for local activities and places to visit, and being invited to a birthday party at The Rose and Crown Pub, followed by an offer to see military memorabilia, a walk around Johnson Park, and grabbing a bite to eat at the local diner. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Sam, have you tried the new pastry we have on the menu today? It's a special recipe I wanted to share with everyone."
+        ],
+        [
+          "Sam Moore",
+          "Oh, that sounds delicious! I haven't tried it yet, but I'll definitely give it a taste. Thank you for sharing your special recipe with us!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Do you have any recommendations for places to visit or activities to do around the village? I'm still exploring and would love some local tips!"
+        ],
+        [
+          "Sam Moore",
+          "Oh, absolutely! There are so many hidden gems around the village. I would recommend taking a stroll in Johnson Park, it's a beautiful place to relax and enjoy nature. And if you're up for it, you should definitely join us at The Rose and Crown Pub tomorrow for my birthday party at 5pm. It's a great way to meet other villagers and have a good time!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much for the recommendation, Sam! I will definitely check out Johnson Park and I'm looking forward to joining you at The Rose and Crown Pub tomorrow for your birthday party at 5pm."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're joining us for the party tomorrow. It's always great to welcome new faces and share stories with everyone. Feel free to ask me anything about the village or if you need any help settling in!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for the warm invitation, Sam. I appreciate your kindness in welcoming me to the village. I'm looking forward to meeting everyone at The Rose and Crown Pub tomorrow for your birthday party at 5pm."
+        ],
+        [
+          "Sam Moore",
+          "Feel free to stop by my house after the party if you'd like. I have some old military memorabilia that might interest you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for the invitation, Sam. I would love to stop by your house after the party to see your military memorabilia."
+        ],
+        [
+          "Sam Moore",
+          "Isabella, since you're new to the village, would you like me to show you around some more after the party tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Sam. I would love to explore more of the village with you after the party tomorrow."
+        ],
+        [
+          "Sam Moore",
+          "Isabella, would you like to join me for a walk around Johnson Park this afternoon? It's a great way to explore more of the village and enjoy nature."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for the invitation, Sam. I would love to join you for a walk around Johnson Park this afternoon to explore more of the village and enjoy nature."
+        ],
+        [
+          "Sam Moore",
+          "Isabella, after our walk in Johnson Park this afternoon, would you like to grab a bite to eat at the local diner? It's a popular spot in the village and they have delicious comfort food."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for showing me around, Sam. I've had a wonderful time exploring the village with you."
+        ]
+      ]
+    },
+    "Carlos Gomez": {
+      "movement": [
+        96,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring local hidden gems and events in the village, Ayesha Khan and Carlos Gomez plan to visit a farmers' market and book club together while discussing their poetry and music project at Hobbs Cafe. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hi Carlos! I couldn't help but notice you at the creative writing workshop. It's great to see another newcomer to the village interested in exploring and diving into literature. Have you had a chance to discover any hidden gems or local events yet?"
+        ],
+        [
+          "Carlos Gomez",
+          "Hi Ayesha! Thank you for noticing me at the workshop. I haven't had a chance to explore much yet, but I'm looking forward to discovering hidden gems in the village. Do you have any recommendations or favorite spots?"
+        ],
+        [
+          "Ayesha Khan",
+          "I recently learned about a farmers' market and a book club that Klaus Mueller suggested. Would you be interested in checking them out together sometime?"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds wonderful, Ayesha! I would love to explore the farmers' market and book club with you. When would you like to go?"
+        ],
+        [
+          "Ayesha Khan",
+          "How about we meet at Hobbs Cafe tomorrow afternoon? We can discuss our poetry and music project further and explore the village community together."
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a great plan, Ayesha! I'm excited to explore the farmers' market and book club with you. I'll see you at Hobbs Cafe tomorrow afternoon."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        130,
+        50
+      ],
+      "pronunciatio": "\u2615",
+      "description": "having breakfast at home (making coffee) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the village, trying out new pastries, receiving recommendations for local activities and places to visit, and being invited to a birthday party at The Rose and Crown Pub, followed by an offer to see military memorabilia, a walk around Johnson Park, and grabbing a bite to eat at the local diner. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Sam, have you tried the new pastry we have on the menu today? It's a special recipe I wanted to share with everyone."
+        ],
+        [
+          "Sam Moore",
+          "Oh, that sounds delicious! I haven't tried it yet, but I'll definitely give it a taste. Thank you for sharing your special recipe with us!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Do you have any recommendations for places to visit or activities to do around the village? I'm still exploring and would love some local tips!"
+        ],
+        [
+          "Sam Moore",
+          "Oh, absolutely! There are so many hidden gems around the village. I would recommend taking a stroll in Johnson Park, it's a beautiful place to relax and enjoy nature. And if you're up for it, you should definitely join us at The Rose and Crown Pub tomorrow for my birthday party at 5pm. It's a great way to meet other villagers and have a good time!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much for the recommendation, Sam! I will definitely check out Johnson Park and I'm looking forward to joining you at The Rose and Crown Pub tomorrow for your birthday party at 5pm."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're joining us for the party tomorrow. It's always great to welcome new faces and share stories with everyone. Feel free to ask me anything about the village or if you need any help settling in!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for the warm invitation, Sam. I appreciate your kindness in welcoming me to the village. I'm looking forward to meeting everyone at The Rose and Crown Pub tomorrow for your birthday party at 5pm."
+        ],
+        [
+          "Sam Moore",
+          "Feel free to stop by my house after the party if you'd like. I have some old military memorabilia that might interest you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for the invitation, Sam. I would love to stop by your house after the party to see your military memorabilia."
+        ],
+        [
+          "Sam Moore",
+          "Isabella, since you're new to the village, would you like me to show you around some more after the party tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Sam. I would love to explore more of the village with you after the party tomorrow."
+        ],
+        [
+          "Sam Moore",
+          "Isabella, would you like to join me for a walk around Johnson Park this afternoon? It's a great way to explore more of the village and enjoy nature."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for the invitation, Sam. I would love to join you for a walk around Johnson Park this afternoon to explore more of the village and enjoy nature."
+        ],
+        [
+          "Sam Moore",
+          "Isabella, after our walk in Johnson Park this afternoon, would you like to grab a bite to eat at the local diner? It's a popular spot in the village and they have delicious comfort food."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for showing me around, Sam. I've had a wonderful time exploring the village with you."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        96,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring local hidden gems and events in the village, Ayesha Khan and Carlos Gomez plan to visit a farmers' market and book club together while discussing their poetry and music project at Hobbs Cafe. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hi Carlos! I couldn't help but notice you at the creative writing workshop. It's great to see another newcomer to the village interested in exploring and diving into literature. Have you had a chance to discover any hidden gems or local events yet?"
+        ],
+        [
+          "Carlos Gomez",
+          "Hi Ayesha! Thank you for noticing me at the workshop. I haven't had a chance to explore much yet, but I'm looking forward to discovering hidden gems in the village. Do you have any recommendations or favorite spots?"
+        ],
+        [
+          "Ayesha Khan",
+          "I recently learned about a farmers' market and a book club that Klaus Mueller suggested. Would you be interested in checking them out together sometime?"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds wonderful, Ayesha! I would love to explore the farmers' market and book club with you. When would you like to go?"
+        ],
+        [
+          "Ayesha Khan",
+          "How about we meet at Hobbs Cafe tomorrow afternoon? We can discuss our poetry and music project further and explore the village community together."
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a great plan, Ayesha! I'm excited to explore the farmers' market and book club with you. I'll see you at Hobbs Cafe tomorrow afternoon."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        122,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "studying for exams (reviewing his notes from previous lectures) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        77,
+        29
+      ],
+      "pronunciatio": "\ud83d\udcda\ud83c\udfb6",
+      "description": "attending classes at Oak Hill College (conversing about Eddy and Carlos are discussing collaborating on a poetry and music project while exploring the village community together and planning to meet at Hobbs Cafe tomorrow afternoon.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        76,
+        56
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having breakfast with his wife Jane (having a conversation with Jane about their plans for the day) @ the Ville:Moreno family's house:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83e\udde0\ud83d\udcad",
+      "description": "working on her new children's book series (brainstorming new characters and plot points) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "continuing to work on his book (organizing his thoughts and ideas for the book) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:22:40"
+  }
+}

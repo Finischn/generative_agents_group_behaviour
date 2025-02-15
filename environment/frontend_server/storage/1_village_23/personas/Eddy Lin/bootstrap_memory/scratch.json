@@ -1,0 +1,875 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 21:59:50",
+  "curr_tile": [
+    76,
+    27
+  ],
+  "daily_plan_req": "1. Wake up and complete morning routine at 7am 2. Attend classes at Oak Hill College from 10am to 1pm 3. Meet Isabella at Hobbs Cafe at 2pm to discuss poetry and music project 4. Study and work on music composition projects at Hobbs Cafe in the afternoon 5. Eat dinner at 5pm 6. Go to bed around 11pm",
+  "name": "Eddy Lin",
+  "first_name": "Eddy",
+  "last_name": "Lin",
+  "age": 28,
+  "innate": "curious, analytical, musical",
+  "race": "White",
+  "village": "longterm resident of the village",
+  "gender": "Male",
+  "political_affiliation": "Liberal",
+  "race_div": "Asian",
+  "education": "Professional degree (JD, MD)",
+  "learned": "Eddy Lin is a student at Oak Hill College studying music theory and composition. He loves to explore different musical styles and is always looking for ways to expand his knowledge.",
+  "currently": "Status: Eddy Lin had a fulfilling day discussing exciting projects with various people in the village on Monday. He is looking forward to meeting Isabella at Hobbs Cafe at 2 pm on Tuesday to discuss their poetry and music project. Eddy is excited to continue collaborating with local artists, musicians, and community members to create meaningful connections and projects in the village.",
+  "lifestyle": "Eddy Lin goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Lin family's house:Eddy Lin's bedroom",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 212,
+  "importance_ele_n": 11,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "attend classes at Oak Hill College starting at 10:00 am",
+    "take a break and have lunch at Hobbs Cafe around 12:00 pm",
+    "continue classes until 3:00 pm",
+    "spend time studying and working on his composition project",
+    "take a break for dinner around 5:00 pm",
+    "attend an evening music theory class from 7:00-8:30 pm",
+    "review class notes and continue working on composition project until around 10:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine (turning off his alarm and getting out of bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (stretching and doing some light exercises)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower and getting dressed)",
+      20
+    ],
+    [
+      "waking up and completing his morning routine (making breakfast and eating)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (checking his schedule and making sure he has everything he needs for the day)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (brushing his teeth and doing his skincare routine)",
+      5
+    ],
+    [
+      "attending classes at Oak Hill College (walking to the college campus)",
+      10
+    ],
+    [
+      "attending classes at Oak Hill College (attending his first class on music theory) (walking to his first class)",
+      5
+    ],
+    [
+      "attending classes at Oak Hill College (on the way to greeting his classmates and professor)",
+      0
+    ],
+    [
+      "attending classes at Oak Hill College (conversing about Klaus Mueller and Eddy Lin discussing their plan to involve local historians, artists, musicians, the community center, school children, traditional folk music, Johnson Park, Isabella Rodriguez, Hobbs Cafe, local businesses, and organizing a storytelling and music workshop for their project.)",
+      11
+    ],
+    [
+      "attending classes at Oak Hill College (on the way to greeting his classmates and professor)",
+      0
+    ],
+    [
+      "attending classes at Oak Hill College (conversing about Ayesha Khan and Eddy Lin are discussing ways to involve local artists and musicians in their poetry and music project, considering organizing a music showcase event at the community center, exploring traditional folk music, visiting historical museums and the farmers' market, and collaborating with local historians for a deeper understanding of the village's culture and heritage.)",
+      14
+    ],
+    [
+      "attending classes at Oak Hill College (on the way to greeting his classmates and professor)",
+      0
+    ],
+    [
+      "attending classes at Oak Hill College (conversing about exploring various cultural and historical activities and events in the village, planning collaborations and involvement of local artists, musicians, and historians, as well as visiting local establishments and businesses to support them.)",
+      17
+    ],
+    [
+      "attending classes at Oak Hill College (greeting his classmates and professor)",
+      3
+    ],
+    [
+      "attending classes at Oak Hill College (taking out his notebook and pen)",
+      5
+    ],
+    [
+      "attending classes at Oak Hill College (listening to the lecture)",
+      30
+    ],
+    [
+      "attending classes at Oak Hill College (on the way to taking notes)",
+      0
+    ],
+    [
+      "attending classes at Oak Hill College (conversing about Carlos Gomez and Eddy Lin are discussing their collaboration on a poetry and music project in the village, planning to involve local artists and musicians, exploring the village's history and art scene, and attending the upcoming community picnic to connect with the villagers and immerse themselves in the vibrant community spirit.)",
+      10
+    ],
+    [
+      "attending classes at Oak Hill College (taking notes during the class)",
+      35
+    ],
+    [
+      "attending classes at Oak Hill College (participating in a group discussion)",
+      20
+    ],
+    [
+      "attending classes at Oak Hill College (taking a short break)",
+      10
+    ],
+    [
+      "attending classes at Oak Hill College (attending his second class on music composition) (walking to his music composition class)",
+      5
+    ],
+    [
+      "attending classes at Oak Hill College (attending his second class on music composition) (greeting his classmates and professor)",
+      5
+    ],
+    [
+      "attending classes at Oak Hill College (attending his second class on music composition) (taking out his notebook and pen)",
+      5
+    ],
+    [
+      "attending classes at Oak Hill College (attending his second class on music composition) (listening to the lecture)",
+      20
+    ],
+    [
+      "attending classes at Oak Hill College (on the way to taking notes)",
+      0
+    ],
+    [
+      "attending classes at Oak Hill College (conversing about collaborating on incorporating traditional folk music elements, reaching out to local artists and musicians, organizing a music showcase event, collaborating with local historians, visiting historical museums and local art galleries, exploring the farmers' market, and attending a book club meeting in the village.)",
+      14
+    ],
+    [
+      "attending classes at Oak Hill College (on the way to working on a group project with his classmates)",
+      0
+    ],
+    [
+      "attending classes at Oak Hill College (conversing about collaborating on involving local artists and musicians in their project by meeting at Hobbs Cafe, visiting local spots, historical museum, Johnson Park, introducing local historians, and planning to involve the community center, school children, attending music event at the village hall, community picnic, local art gallery, and book club meeting to immerse in the village's cultural scene.)",
+      16
+    ],
+    [
+      "attending classes at Oak Hill College (on the way to working on a group project with his classmates)",
+      0
+    ],
+    [
+      "attending classes at Oak Hill College (conversing about Carlos Gomez and Eddy Lin are discussing exploring the local music scene, collaborating with local musicians, visiting the historical museum, attending a community picnic, checking out the farmers' market, exploring the art gallery on Main Street, and attending a book club meeting at the village library.)",
+      5
+    ],
+    [
+      "taking a break and having lunch at Hobbs Cafe (walking to Hobbs Cafe)",
+      5
+    ],
+    [
+      "taking a break and having lunch at Hobbs Cafe (ordering his lunch)",
+      10
+    ],
+    [
+      "taking a break and having lunch at Hobbs Cafe (checking his phone for any messages or notifications)",
+      5
+    ],
+    [
+      "taking a break and having lunch at Hobbs Cafe (eating his lunch)",
+      20
+    ],
+    [
+      "taking a break and having lunch at Hobbs Cafe (chatting with the staff at Hobbs Cafe)",
+      10
+    ],
+    [
+      "taking a break and having lunch at Hobbs Cafe (on the way to reviewing his notes for the afternoon classes)",
+      0
+    ],
+    [
+      "taking a break and having lunch at Hobbs Cafe (conversing about Eddy and Isabella are making plans to explore the village together, starting with a visit to the farmers' market, art gallery, Johnson Park, and ending the day with a meal at The Rose and Crown Pub.)",
+      13
+    ],
+    [
+      "attending classes at Oak Hill College (on the way to walking to his classroom)",
+      0
+    ],
+    [
+      "attending classes at Oak Hill College (conversing about strategizing how to involve more local businesses, community center, artists, musicians, historians, school children, newcomers, and local resources in their upcoming storytelling and music project at the village hall.)",
+      15
+    ],
+    [
+      "attending classes at Oak Hill College (greeting his classmates and professor)",
+      5
+    ],
+    [
+      "attending classes at Oak Hill College (on the way to taking out his notebook and pen)",
+      0
+    ],
+    [
+      "attending classes at Oak Hill College (conversing about Eddy Lin and Sam Moore discussing strategies to expand their poetry and music project collaboration by involving local businesses, community center, historians, school children, local artists, newcomers, community picnic, farmers' market, music event at village hall, and community center promotion.)",
+      17
+    ],
+    [
+      "attending classes at Oak Hill College (taking out his notebook and pen)",
+      3
+    ],
+    [
+      "attending classes at Oak Hill College (listening to the lecture)",
+      30
+    ],
+    [
+      "attending classes at Oak Hill College (taking notes)",
+      12
+    ],
+    [
+      "meeting Isabella at Hobbs Cafe to discuss their poetry and music project (on the way to meeting Isabella at Hobbs Cafe to discuss their poetry and music projec)",
+      0
+    ],
+    [
+      "meeting Isabella at Hobbs Cafe to discuss their poetry and music project (conversing about Wolfgang Schulz and Eddy Lin are discussing involving local artists, musicians, and historians in their project at Hobbs Cafe, exploring local spots together, attending a music event at the village hall, and immersing themselves in the village's culture, history, and natural beauty.)",
+      8
+    ],
+    [
+      "attending classes at Oak Hill College (walking to his first class)",
+      5
+    ],
+    [
+      "attending classes at Oak Hill College (taking notes during the lecture)",
+      30
+    ],
+    [
+      "attending classes at Oak Hill College (participating in a group discussion)",
+      20
+    ],
+    [
+      "attending classes at Oak Hill College (taking a short break)",
+      5
+    ],
+    [
+      "attending classes at Oak Hill College (working on an assignment)",
+      25
+    ],
+    [
+      "attending classes at Oak Hill College (packing up his belongings)",
+      5
+    ],
+    [
+      "reviewing notes and preparing for the next day's classes.",
+      10
+    ],
+    [
+      "studying and working on his composition project at Hobbs Cafe (setting up his workspace at Hobbs Cafe)",
+      5
+    ],
+    [
+      "studying and working on his composition project at Hobbs Cafe (reviewing his notes from class)",
+      10
+    ],
+    [
+      "studying and working on his composition project at Hobbs Cafe (researching different musical styles for inspiration)",
+      15
+    ],
+    [
+      "studying and working on his composition project at Hobbs Cafe (composing a melody for his project)",
+      20
+    ],
+    [
+      "studying and working on his composition project at Hobbs Cafe (on the way to on the way to taking a break to stretch and grab a snack)",
+      0
+    ],
+    [
+      "studying and working on his composition project at Hobbs Cafe (conversing about exploring the village together, visiting the farmers' market, art gallery, Johnson Park, and The Rose and Crown Pub, as well as participating in community clean-up events, park events, book club meetings, art exhibitions, and a local music event, with Eddy Lin inviting Isabella Rodriguez to join and experience the village community together.)",
+      14
+    ],
+    [
+      "taking a break and having dinner at Hobbs Cafe (ordering his dinner at the counter)",
+      4
+    ],
+    [
+      "taking a break and having dinner at Hobbs Cafe (on the way to finding a table to sit at)",
+      0
+    ],
+    [
+      "taking a break and having dinner at Hobbs Cafe (conversing about Eddy Lin and Adam Smith are making plans to attend an art exhibition, invite Isabella Rodriguez, join a book club meeting, visit a historical museum, have a casual chat at The Rose and Crown Pub, participate in a community clean-up event, reach out to local musicians, and attend a local music event at the village hall next month.)",
+      15
+    ],
+    [
+      "taking a break and having dinner at Hobbs Cafe (setting up his study materials at the table)",
+      10
+    ],
+    [
+      "taking a break and having dinner at Hobbs Cafe (taking a break and checking his phone for any important messages)",
+      10
+    ],
+    [
+      "taking a break and having dinner at Hobbs Cafe (eating his dinner)",
+      30
+    ],
+    [
+      "taking a break and having dinner at Hobbs Cafe (on the way to reviewing his composition project notes)",
+      0
+    ],
+    [
+      "taking a break and having dinner at Hobbs Cafe (conversing about Eddy Lin and Ayesha Khan are discussing collaborating on a project that involves exploring the village's culture, history, local artists, musicians, historians, organizing a music showcase event, attending a music event at the village hall, visiting art galleries, and going for a walk in Johnson Park.)",
+      14
+    ],
+    [
+      "taking a break and having dinner at Hobbs Cafe (on the way to on the way to reviewing his composition project notes)",
+      20
+    ],
+    [
+      "taking a break and having dinner at Hobbs Cafe (conversing about Carlos Gomez and Eddy Lin are discussing ways to involve more local artists and musicians in their poetry and music project, including reaching out to the community center, local businesses, school children, historians, and long-time village residents, as well as exploring the local art gallery, historical museum, Johnson Park, and attending the upcoming community picnic and book club meeting to further immerse themselves in the village's cultural offerings.)",
+      17
+    ],
+    [
+      "taking a break and having dinner at Hobbs Cafe (conversing about exploring the village, visiting the farmers' market, art galleries, book club meeting, Johnson Park, and The Rose and Crown Pub.)",
+      10
+    ],
+    [
+      "taking a break and having dinner at Hobbs Cafe (brainstorming ideas for his project)",
+      3
+    ],
+    [
+      "taking a break and having dinner at Hobbs Cafe (taking a break and chatting with the barista)",
+      2
+    ],
+    [
+      "taking a break and having dinner at Hobbs Cafe (finishing up his dinner)",
+      2
+    ],
+    [
+      "taking a break and having dinner at Hobbs Cafe (packing up his study materials)",
+      5
+    ],
+    [
+      "attending an evening music theory class at Oak Hill College (walking to Oak Hill College)",
+      10
+    ],
+    [
+      "attending an evening music theory class at Oak Hill College (greeting his classmates and professor)",
+      5
+    ],
+    [
+      "attending an evening music theory class at Oak Hill College (taking out his notebook and pen)",
+      5
+    ],
+    [
+      "attending an evening music theory class at Oak Hill College (listening to the lecture)",
+      30
+    ],
+    [
+      "attending an evening music theory class at Oak Hill College (taking notes)",
+      10
+    ],
+    [
+      "reviewing class notes and working on his composition project at Hobbs Cafe (setting up his workspace at Hobbs Cafe)",
+      5
+    ],
+    [
+      "reviewing class notes and working on his composition project at Hobbs Cafe (reviewing his class notes from the morning)",
+      20
+    ],
+    [
+      "reviewing class notes and working on his composition project at Hobbs Cafe (researching different musical styles for inspiration)",
+      30
+    ],
+    [
+      "reviewing class notes and working on his composition project at Hobbs Cafe (brainstorming ideas for his composition project)",
+      20
+    ],
+    [
+      "reviewing class notes and working on his composition project at Hobbs Cafe (on the way to taking a break and grabbing a snack)",
+      0
+    ],
+    [
+      "reviewing class notes and working on his composition project at Hobbs Cafe (conversing about Eddy Lin and Ayesha Khan discussing exploring the village, visiting the historical museum, local artists and musicians, planning to meet at the village library, and joining the book club meeting this weekend.)",
+      14
+    ],
+    [
+      "taking a break and grabbing a snack",
+      6
+    ],
+    [
+      "reviewing class notes and working on his composition project at Hobbs Cafe (continuing to brainstorm ideas for his composition project)",
+      15
+    ],
+    [
+      "reviewing class notes and working on his composition project at Hobbs Cafe (starting to work on his composition project)",
+      30
+    ],
+    [
+      "reviewing class notes and working on his composition project at Hobbs Cafe (taking a break to stretch and clear his mind)",
+      5
+    ],
+    [
+      "winding down and getting ready for bed",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -3
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -10
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -2
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -2
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -10
+    ],
+    [
+      "sleeping",
+      -17
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -25
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "attending classes at Oak Hill College",
+      240
+    ],
+    [
+      "taking a break and having lunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "attending classes at Oak Hill College",
+      60
+    ],
+    [
+      "meeting Isabella at Hobbs Cafe to discuss their poetry and music project",
+      60
+    ],
+    [
+      "attending classes at Oak Hill College",
+      60
+    ],
+    [
+      "studying and working on his composition project at Hobbs Cafe",
+      60
+    ],
+    [
+      "taking a break and having dinner at Hobbs Cafe",
+      120
+    ],
+    [
+      "attending an evening music theory class at Oak Hill College",
+      60
+    ],
+    [
+      "reviewing class notes and working on his composition project at Hobbs Cafe",
+      120
+    ],
+    [
+      "winding down and getting ready for bed",
+      120
+    ]
+  ],
+  "act_address": "the Ville:The Rose and Crown Pub:pub:microphone",
+  "act_start_time": "February 14, 2023, 21:59:00",
+  "act_duration": 14,
+  "act_description": "reviewing class notes and working on his composition project at Hobbs Cafe (conversing about Eddy Lin and Ayesha Khan discussing exploring the village, visiting the historical museum, local artists and musicians, planning to meet at the village library, and joining the book club meeting this weekend.)",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Eddy Lin",
+    "Eddy Lin",
+    "is"
+  ],
+  "act_obj_description": "being used by Eddy Lin at Hobbs Cafe for his composition project",
+  "act_obj_pronunciatio": "\u2615",
+  "act_obj_event": [
+    "microphone",
+    "use",
+    "Eddy Lin"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Carlos Gomez": -196,
+    "Isabella Rodriguez": -940,
+    "Wolfgang Schulz": -1900,
+    "Ayesha Khan": 794,
+    "Sam Moore": -2224,
+    "Klaus Mueller": -2344,
+    "Tom Moreno": -1030,
+    "Adam Smith": -808,
+    "Tamara Taylor": -340
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      76,
+      29
+    ],
+    [
+      76,
+      30
+    ],
+    [
+      75,
+      30
+    ],
+    [
+      74,
+      30
+    ],
+    [
+      73,
+      30
+    ],
+    [
+      72,
+      30
+    ],
+    [
+      71,
+      30
+    ],
+    [
+      70,
+      30
+    ],
+    [
+      69,
+      30
+    ],
+    [
+      68,
+      30
+    ],
+    [
+      67,
+      30
+    ],
+    [
+      66,
+      30
+    ],
+    [
+      65,
+      30
+    ],
+    [
+      64,
+      30
+    ],
+    [
+      63,
+      30
+    ],
+    [
+      62,
+      30
+    ],
+    [
+      61,
+      30
+    ],
+    [
+      60,
+      30
+    ],
+    [
+      59,
+      30
+    ],
+    [
+      58,
+      30
+    ],
+    [
+      57,
+      30
+    ],
+    [
+      57,
+      29
+    ],
+    [
+      57,
+      28
+    ],
+    [
+      57,
+      27
+    ],
+    [
+      57,
+      26
+    ],
+    [
+      57,
+      25
+    ],
+    [
+      58,
+      25
+    ],
+    [
+      59,
+      25
+    ],
+    [
+      60,
+      25
+    ],
+    [
+      61,
+      25
+    ]
+  ],
+  "known_personas": [
+    "Carlos Gomez",
+    "Isabella Rodriguez",
+    "Wolfgang Schulz",
+    "Ayesha Khan",
+    "Sam Moore",
+    "Klaus Mueller",
+    "Tom Moreno",
+    "Adam Smith",
+    "Tamara Taylor"
+  ]
+}

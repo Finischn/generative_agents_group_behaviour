@@ -1,0 +1,815 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 21:59:50",
+  "curr_tile": [
+    72,
+    14
+  ],
+  "daily_plan_req": "1. Wake up and complete the morning routine at 6:00 am 2. Open Hobbs Cafe at 8:00 am 3. Attend Sam's birthday party at 5:00 pm at The Rose and Crown Pub 4. Celebrate her own birthday party at Hobbs Cafe at 5:00 pm 5. Invite Carlos to join her for dinner at the local diner 6. Take a walk around Johnson Park with Sam during the day",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 67,
+  "innate": "friendly, outgoing, hospitable",
+  "race": "Black",
+  "village": "newcomer to the village",
+  "gender": "Female",
+  "political_affiliation": "Liberal",
+  "race_div": "Asian",
+  "education": "High school graduate (high school diploma or equivalent including GED)",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Status: Isabella Rodriguez is looking forward to her birthday party at Hobbs Cafe tonight at 5pm. She is excited to celebrate with friends and make new memories in the village. She also plans to invite Carlos to join her and include a stop at The Rose and Crown Pub after dinner at the local diner. Isabella is also eager to visit Sam's birthday party at The Rose and Crown Pub at 5pm, see his military memorabilia at his house, and take a walk around Johnson Park with him during the day. Additionally, she is planning to invite Ayesha to join her at the birthday party. Isabella feels grateful for the warm welcome from new friends and is excited to explore the village's community and culture through various upcoming activities such as the book club meeting, art exhibition, and music events.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 5,
+  "importance_ele_n": 88,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "prepare for the day and open Hobbs Cafe at 8:00 am",
+    "greet customers and manage operations at the cafe until 8:00 pm",
+    "close the cafe and clean up at 8:00 pm",
+    "head home for dinner and wind down for the night"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine (waking up and turning off her alarm)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (stretching and doing some light exercises)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (taking a shower and getting dressed)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine (making breakfast and coffee)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine (checking her schedule and making a to-do list for the day)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (eating breakfast and drinking her coffee)",
+      5
+    ],
+    [
+      "preparing for the day and getting ready to open Hobbs Cafe at 8:00 am (making a cup of coffee for herself)",
+      5
+    ],
+    [
+      "preparing for the day and getting ready to open Hobbs Cafe at 8:00 am (checking the inventory and making a list of items to restock)",
+      10
+    ],
+    [
+      "preparing for the day and getting ready to open Hobbs Cafe at 8:00 am (checking the schedule and assigning tasks to her employees)",
+      10
+    ],
+    [
+      "preparing for the day and getting ready to open Hobbs Cafe at 8:00 am (preparing the cash register and counting the cash)",
+      10
+    ],
+    [
+      "preparing for the day and getting ready to open Hobbs Cafe at 8:00 am (setting up the tables and chairs in the cafe)",
+      10
+    ],
+    [
+      "preparing for the day and getting ready to open Hobbs Cafe at 8:00 am (checking the menu and making any necessary changes)",
+      10
+    ],
+    [
+      "preparing for the day and getting ready to open Hobbs Cafe at 8:00 am (getting dressed in her cafe uniform)",
+      5
+    ],
+    [
+      "greeting customers and managing operations at Hobbs Cafe (unlocking the doors and turning on the lights)",
+      5
+    ],
+    [
+      "greeting customers and managing operations at Hobbs Cafe (checking the inventory and restocking any items that are low)",
+      10
+    ],
+    [
+      "greeting customers and managing operations at Hobbs Cafe (setting up the tables and chairs for customers)",
+      10
+    ],
+    [
+      "greeting customers and managing operations at Hobbs Cafe (brewing fresh coffee and preparing pastries for display)",
+      15
+    ],
+    [
+      "greeting customers and managing operations at Hobbs Cafe (greeting customers as they come in and taking their orders)",
+      10
+    ],
+    [
+      "greeting customers and managing operations at Hobbs Cafe (making and serving drinks and food to customers)",
+      10
+    ],
+    [
+      "managing operations at Hobbs Cafe (checking inventory and making a grocery list for the day)",
+      15
+    ],
+    [
+      "managing operations at Hobbs Cafe (preparing and serving coffee and pastries to customers) (checking inventory and restocking supplies)",
+      10
+    ],
+    [
+      "managing operations at Hobbs Cafe (preparing and serving coffee and pastries to customers) (brewing fresh coffee)",
+      5
+    ],
+    [
+      "managing operations at Hobbs Cafe (preparing and serving coffee and pastries to customers) (preparing pastries and arranging them on display)",
+      15
+    ],
+    [
+      "managing operations at Hobbs Cafe (on the way to taking orders and serving customers)",
+      0
+    ],
+    [
+      "managing operations at Hobbs Cafe (conversing about exploring various spots in the village including the farmers' market, art gallery, local musicians scene, diner, Johnson Park, The Rose and Crown Pub, historical museum, book club meeting, hiking trails, and community picnic while also planning to join the community book club meeting and attend an upcoming art exhibition)",
+      13
+    ],
+    [
+      "managing operations at Hobbs Cafe (taking orders and serving customers)",
+      7
+    ],
+    [
+      "managing operations at Hobbs Cafe (on the way to cleaning and organizing the cafe)",
+      0
+    ],
+    [
+      "managing operations at Hobbs Cafe (conversing about exploring the village, receiving recommendations from Tom Moreno on places to visit, including the farmers' market, art gallery, local community projects, upcoming art exhibition, and book club meeting at the library, all while expressing gratitude and excitement for immersing herself in the culture of the village)",
+      12
+    ],
+    [
+      "managing operations at Hobbs Cafe (cleaning and organizing the cafe)",
+      13
+    ],
+    [
+      "managing operations at Hobbs Cafe (taking orders and managing the cash register)",
+      30
+    ],
+    [
+      "managing operations at Hobbs Cafe (cleaning and restocking the cafe)",
+      30
+    ],
+    [
+      "managing operations at Hobbs Cafe (taking a break)",
+      30
+    ],
+    [
+      "managing operations at Hobbs Cafe (on the way to checking her emails and responding to any urgent messages)",
+      0
+    ],
+    [
+      "managing operations at Hobbs Cafe (conversing about Adam Smith and Isabella Rodriguez discussing upcoming community events and activities in the village, including an art exhibition, meeting local artists and musicians, joining a book club meeting, participating in a community clean-up event, and attending a community event at Johnson Park next weekend, as well as a farmers' market to support local vendors and enjoy fresh produce.)",
+      12
+    ],
+    [
+      "managing operations at Hobbs Cafe (checking and responding to emails and messages, preparing and serving lunch to customers) (preparing the ingredients for lunch)",
+      13
+    ],
+    [
+      "managing operations at Hobbs Cafe (checking and responding to emails and messages, preparing and serving lunch to customers) (cooking and plating the lunch dishes)",
+      25
+    ],
+    [
+      "managing operations at Hobbs Cafe (on the way to serving lunch to customers and ensuring their satisfaction)",
+      0
+    ],
+    [
+      "managing operations at Hobbs Cafe (on the way to conversing about Eddy and Isabella are making plans to explore the village together, starting with a visit to the farmers' market, art gallery, Johnson Park, and ending the day with a meal at The Rose and Crown Pub.)",
+      10
+    ],
+    [
+      "managing operations at Hobbs Cafe (conversing about Isabella Rodriguez and Carlos Gomez are planning to explore the village together, visit the farmers' market and art gallery, enjoy a meal at The Rose and Crown Pub, participate in local community projects, attend an upcoming art exhibition, and join the community garden project at the village hall.)",
+      14
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe and getting decorations ready (checking inventory and making a list of items needed for the party)",
+      10
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe and getting decorations ready (on the way to placing an order for any necessary items)",
+      0
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe and getting decorations ready (conversing about Isabella Rodriguez and Klaus Mueller are discussing various community activities and events, such as art exhibitions, picnics, music nights, book clubs, nature walks, guided tours, and farmers' markets, that they can attend together to explore the village and connect with the local culture and community.)",
+      14
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe and getting decorations ready (setting up tables and chairs for the party)",
+      15
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe and getting decorations ready (decorating the cafe with balloons and streamers)",
+      15
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe and getting decorations ready (setting up a playlist for the party)",
+      10
+    ],
+    [
+      "finishing up preparations for her birthday party at Hobbs Cafe",
+      42
+    ],
+    [
+      "managing operations at Hobbs Cafe (checking inventory and restocking supplies)",
+      15
+    ],
+    [
+      "managing operations at Hobbs Cafe (preparing and serving drinks and food to customers)",
+      30
+    ],
+    [
+      "managing operations at Hobbs Cafe (cleaning and organizing the cafe)",
+      30
+    ],
+    [
+      "managing operations at Hobbs Cafe (on the way to taking a break)",
+      0
+    ],
+    [
+      "managing operations at Hobbs Cafe (conversing about a new resident, Isabella Rodriguez, thanking Tom Moreno for his recommendations and guidance on exploring the village, expressing interest in meeting local historians, artists, and musicians to learn more about the culture and heritage, with Tom offering to arrange meetings and showing her around art galleries and cultural events to fully immerse herself in the vibrant community.)",
+      16
+    ],
+    [
+      "managing operations at Hobbs Cafe (on the way to checking and responding to emails and messages)",
+      0
+    ],
+    [
+      "managing operations at Hobbs Cafe (conversing about exploring the menu at Hobbs Cafe, deciding on the special of the day, planning to visit Johnson Park, exploring cultural events and attending an art exhibition, and joining Sam's birthday party at The Rose and Crown Pub.)",
+      8
+    ],
+    [
+      "managing operations at Hobbs Cafe (on the way to checking and responding to emails and messages)",
+      0
+    ],
+    [
+      "managing operations at Hobbs Cafe (conversing about Isabella Rodriguez and Adam Smith discussing various upcoming community events and activities, including an art exhibition, book club meeting, community clean-up event, park event, and farmers' market visit.)",
+      17
+    ],
+    [
+      "managing operations at Hobbs Cafe (on the way to checking and responding to any remaining emails and messages before ending the work day)",
+      4
+    ],
+    [
+      "managing operations at Hobbs Cafe (conversing about exploring the village together, visiting the farmers' market, art gallery, Johnson Park, and The Rose and Crown Pub, as well as participating in community clean-up events, park events, book club meetings, art exhibitions, and a local music event, with Eddy Lin inviting Isabella Rodriguez to join and experience the village community together.)",
+      14
+    ],
+    [
+      "closing Hobbs Cafe and getting ready for her birthday party (cleaning and organizing the cafe)",
+      15
+    ],
+    [
+      "closing Hobbs Cafe and getting ready for her birthday party (restocking supplies for the next day)",
+      10
+    ],
+    [
+      "closing Hobbs Cafe and getting ready for her birthday party (counting the day's earnings)",
+      5
+    ],
+    [
+      "closing Hobbs Cafe and getting ready for her birthday party (closing out the cash register)",
+      5
+    ],
+    [
+      "closing Hobbs Cafe and getting ready for her birthday party (turning off all the lights and appliances)",
+      5
+    ],
+    [
+      "closing Hobbs Cafe and getting ready for her birthday party (locking up the cafe)",
+      20
+    ],
+    [
+      "getting ready for her birthday party at Hobbs Cafe (cleaning and tidying up the cafe)",
+      15
+    ],
+    [
+      "getting ready for her birthday party at Hobbs Cafe (on the way to setting up decorations for the party)",
+      0
+    ],
+    [
+      "getting ready for her birthday party at Hobbs Cafe (conversing about connecting and making plans to explore the village together, visit the farmers' market, attend the book club meeting, and immerse themselves in the local culture.)",
+      17
+    ],
+    [
+      "getting ready for her birthday party at Hobbs Cafe (setting up decorations for the party)",
+      13
+    ],
+    [
+      "getting ready for her birthday party at Hobbs Cafe (preparing food and drinks for the party)",
+      15
+    ],
+    [
+      "having dinner at the local diner with Carlos (on the way to getting ready for dinner)",
+      0
+    ],
+    [
+      "having dinner at the local diner with Carlos (conversing about Isabella Rodriguez and Klaus Mueller are discussing collaborating on various community events such as a baking class, visiting the historical museum, joining a book club meeting, attending a music event in the park, exploring the local art scene, participating in a community clean-up event, and going for a nature walk.)",
+      13
+    ],
+    [
+      "having dinner at the local diner with Carlos (on the way to checking the reservation at the local diner)",
+      0
+    ],
+    [
+      "having dinner at the local diner with Carlos (conversing about Carlos Gomez and Isabella Rodriguez are making plans to explore the village, attend community events, collaborate with local artists and musicians, visit the art gallery and historical museum, connect with the community center, participate in the community garden project, attend a book club meeting, and enjoy a local music event together.)",
+      13
+    ],
+    [
+      "having dinner at the local diner with Carlos (on the way to checking the reservation at the local diner)",
+      0
+    ],
+    [
+      "having dinner at the local diner with Carlos (conversing about Adam and Isabella are discussing various community events, including mayoral candidate debates, art exhibitions, music events, book club meetings, and a community clean-up event, with Adam inviting Isabella to join him for these activities.)",
+      13
+    ],
+    [
+      "having dinner at the local diner with Carlos (on the way to checking the reservation at the local diner)",
+      0
+    ],
+    [
+      "having dinner at the local diner with Carlos (conversing about a friendly exchange between Sam Moore and Isabella Rodriguez as they discuss exploring the village together, attending community events, and getting involved in local activities.)",
+      12
+    ],
+    [
+      "having dinner at the local diner with Carlos (on the way to checking the reservation at the local diner)",
+      0
+    ],
+    [
+      "having dinner at the local diner with Carlos (conversing about two friends, Isabella Rodriguez and Ayesha Khan, making plans to explore the village, attend events together, and join a book club meeting.)",
+      11
+    ],
+    [
+      "having dinner at the local diner with Carlos (on the way to walking to the local diner)",
+      0
+    ],
+    [
+      "having dinner at the local diner with Carlos (conversing about Isabella Rodriguez and Tom Moreno discussing exploring the village's art, music, history, and community events together.)",
+      14
+    ],
+    [
+      "having dinner at the local diner with Carlos (greeting Carlos at the diner)",
+      5
+    ],
+    [
+      "having dinner at the local diner with Carlos (looking at the menu and ordering food for both of them)",
+      10
+    ],
+    [
+      "closing up Hobbs Cafe and cleaning up (wiping down tables and counters)",
+      10
+    ],
+    [
+      "closing up Hobbs Cafe and cleaning up (washing dishes and putting them away)",
+      14
+    ],
+    [
+      "closing up Hobbs Cafe and cleaning up (sweeping and mopping the floors)",
+      10
+    ],
+    [
+      "leaving the local diner and saying goodbye to Carlos.",
+      1
+    ],
+    [
+      "closing up Hobbs Cafe and cleaning up (restocking supplies for the next day)",
+      4
+    ],
+    [
+      "closing up Hobbs Cafe and cleaning up (turning off all lights and locking up the cafe)",
+      5
+    ],
+    [
+      "winding down for the night and getting ready for bed",
+      21
+    ],
+    [
+      "reading a book or watching TV before going to sleep.",
+      15
+    ],
+    [
+      "getting ready for bed and reflecting on her birthday celebrations throughout the day (changing into her pajamas)",
+      5
+    ],
+    [
+      "getting ready for bed and reflecting on her birthday celebrations throughout the day (washing her face and brushing her teeth)",
+      10
+    ],
+    [
+      "getting ready for bed and reflecting on her birthday celebrations throughout the day (checking her phone for any missed calls or messages)",
+      5
+    ],
+    [
+      "getting ready for bed and reflecting on her birthday celebrations throughout the day (writing in her journal about her birthday celebrations)",
+      15
+    ],
+    [
+      "getting ready for bed and reflecting on her birthday celebrations throughout the day (setting her alarm for the next day)",
+      5
+    ],
+    [
+      "getting ready for bed and reflecting on her birthday celebrations throughout the day (reading a book or listening to calming music)",
+      15
+    ],
+    [
+      "getting ready for bed and reflecting on her birthday celebrations throughout the day (turning off the lights and getting into bed)",
+      5
+    ],
+    [
+      "going to bed at 11:00 pm to get enough rest for the busy day ahead",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -14
+    ],
+    [
+      "sleeping",
+      14
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -14
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      2
+    ],
+    [
+      "sleeping",
+      -7
+    ],
+    [
+      "sleeping",
+      -4
+    ],
+    [
+      "sleeping",
+      -11
+    ],
+    [
+      "sleeping",
+      29
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "preparing for the day and getting ready to open Hobbs Cafe at 8:00 am",
+      60
+    ],
+    [
+      "greeting customers and managing operations at Hobbs Cafe",
+      60
+    ],
+    [
+      "managing operations at Hobbs Cafe",
+      240
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe and getting decorations ready",
+      60
+    ],
+    [
+      "finishing up preparations for her birthday party at Hobbs Cafe",
+      60
+    ],
+    [
+      "managing operations at Hobbs Cafe",
+      120
+    ],
+    [
+      "closing Hobbs Cafe and getting ready for her birthday party",
+      60
+    ],
+    [
+      "getting ready for her birthday party at Hobbs Cafe",
+      60
+    ],
+    [
+      "having dinner at the local diner with Carlos",
+      60
+    ],
+    [
+      "closing up Hobbs Cafe and cleaning up",
+      60
+    ],
+    [
+      "winding down for the night and getting ready for bed",
+      60
+    ],
+    [
+      "getting ready for bed and reflecting on her birthday celebrations throughout the day",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm to get enough rest for the busy day ahead",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:bed",
+  "act_start_time": "February 14, 2023, 21:51:00",
+  "act_duration": 15,
+  "act_description": "reading a book or watching TV before going to sleep.",
+  "act_pronunciatio": "\ud83d\udcda",
+  "act_event": [
+    "Isabella Rodriguez",
+    "read/watch",
+    "book/TV"
+  ],
+  "act_obj_description": "being occupied by Isabella Rodriguez as she reads a book or watches TV before going to sleep",
+  "act_obj_pronunciatio": "\ud83d\udcda",
+  "act_obj_event": [
+    "bed",
+    "be occupied by",
+    "Isabella Rodriguez"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": -196,
+    "Sam Moore": 86,
+    "Eddy Lin": -940,
+    "Carlos Gomez": -100,
+    "Ayesha Khan": 158,
+    "Wolfgang Schulz": -10986,
+    "Adam Smith": 8,
+    "Tom Moreno": 242,
+    "Tamara Taylor": -400
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "known_personas": [
+    "Klaus Mueller",
+    "Sam Moore",
+    "Eddy Lin",
+    "Carlos Gomez",
+    "Ayesha Khan",
+    "Wolfgang Schulz",
+    "Adam Smith",
+    "Tom Moreno",
+    "Tamara Taylor"
+  ]
+}

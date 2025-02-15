@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        57,
+        27
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "setting the table and getting her lunch ready @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        39,
+        30
+      ],
+      "pronunciatio": "\ud83d\uddbc\ufe0f",
+      "description": "working on his poetry collection (conversing about the upcoming art exhibition in town and recommendations for local artists to check out, as well as invitations to join the book club meeting, volunteer for a community clean-up event, and attend a music event in the park, all offered by Adam Smith to Carlos Gomez.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        57,
+        27
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "writing his research paper at the library (reviewing his research notes) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        48,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Sam Moore and Tamara Taylor discussing Sam's birthday party at The Rose and Crown Pub, planning to grab coffee at Hobbs Cafe before the party, and Sam offering to show Tamara around the village, including a visit to Johnson Park, the local art gallery, and historical museum. @ <persona> Tamara Taylor",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Tamara, how's the comic book series coming along? I saw you reviewing your outline earlier."
+        ],
+        [
+          "Tamara Taylor",
+          "Oh, hi Sam! Thank you for asking. It's progressing well. I'm excited to see how it all comes together."
+        ],
+        [
+          "Sam Moore",
+          "Would you like to join me at The Rose and Crown Pub for my birthday party tomorrow?"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you for the invitation, Sam. I would love to join you at The Rose and Crown Pub for your birthday party tomorrow!"
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're excited! How about we grab a quick coffee at Hobbs Cafe before heading to the party?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds like a wonderful plan. I appreciate you inviting me to your birthday party. I'm looking forward to joining you and having a great time!"
+        ],
+        [
+          "Sam Moore",
+          "Tamara, since you're new to the village, would you like me to introduce you to some of the other residents and show you around the community?"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Sam. I would really appreciate your help and getting to know more people in the village. Your kindness means a lot to me!"
+        ],
+        [
+          "Sam Moore",
+          "Let's start our tour of the village by visiting Johnson Park first. It's a beautiful spot with a lot of history."
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds like a great plan, Sam! I appreciate your offer to show me around the community. I'm looking forward to exploring Johnson Park with you."
+        ],
+        [
+          "Sam Moore",
+          "Let's also make a stop at the local art gallery and historical museum after our visit to Johnson Park. There's a lot of interesting history and culture to explore there."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam, I really appreciate your help and guidance in showing me around the village. I'm looking forward to exploring Johnson Park, the art gallery, and historical museum with you. It's nice to have a friend like you in the village."
+        ],
+        [
+          "Sam Moore",
+          "Let's also plan on attending some upcoming community events together, like the art exhibition and book club meetings. It'll be a great way for you to meet more people in the village."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Sam. I would really appreciate your help and getting to know more people in the village. Your kindness means a lot to me! Let's explore Johnson Park, the art gallery, and historical museum together."
+        ],
+        [
+          "Sam Moore",
+          "Let's also plan on attending some upcoming community events together, like the art exhibition and book club meetings. It'll be a great way for you to meet more people in the village."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Sam. I would really appreciate your help and getting to know more people in the village. Your kindness means a lot to me! Let's explore Johnson Park, the art gallery, and historical museum together."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "conducting research for her senior thesis at the library (reading through a chapter of a Shakespeare play) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying for exams (creating a study schedule for the day) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42\ud83d\udcdd",
+      "description": "attending classes at Oak Hill College (listening to the lecture and taking notes) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        65
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "taking a break and having lunch (eating his lunch) @ the Ville:Moreno family's house:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        48,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Sam Moore and Tamara Taylor discussing Sam's birthday party at The Rose and Crown Pub, planning to grab coffee at Hobbs Cafe before the party, and Sam offering to show Tamara around the village, including a visit to Johnson Park, the local art gallery, and historical museum. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Tamara, how's the comic book series coming along? I saw you reviewing your outline earlier."
+        ],
+        [
+          "Tamara Taylor",
+          "Oh, hi Sam! Thank you for asking. It's progressing well. I'm excited to see how it all comes together."
+        ],
+        [
+          "Sam Moore",
+          "Would you like to join me at The Rose and Crown Pub for my birthday party tomorrow?"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you for the invitation, Sam. I would love to join you at The Rose and Crown Pub for your birthday party tomorrow!"
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're excited! How about we grab a quick coffee at Hobbs Cafe before heading to the party?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds like a wonderful plan. I appreciate you inviting me to your birthday party. I'm looking forward to joining you and having a great time!"
+        ],
+        [
+          "Sam Moore",
+          "Tamara, since you're new to the village, would you like me to introduce you to some of the other residents and show you around the community?"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Sam. I would really appreciate your help and getting to know more people in the village. Your kindness means a lot to me!"
+        ],
+        [
+          "Sam Moore",
+          "Let's start our tour of the village by visiting Johnson Park first. It's a beautiful spot with a lot of history."
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds like a great plan, Sam! I appreciate your offer to show me around the community. I'm looking forward to exploring Johnson Park with you."
+        ],
+        [
+          "Sam Moore",
+          "Let's also make a stop at the local art gallery and historical museum after our visit to Johnson Park. There's a lot of interesting history and culture to explore there."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you, Sam, I really appreciate your help and guidance in showing me around the village. I'm looking forward to exploring Johnson Park, the art gallery, and historical museum with you. It's nice to have a friend like you in the village."
+        ],
+        [
+          "Sam Moore",
+          "Let's also plan on attending some upcoming community events together, like the art exhibition and book club meetings. It'll be a great way for you to meet more people in the village."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Sam. I would really appreciate your help and getting to know more people in the village. Your kindness means a lot to me! Let's explore Johnson Park, the art gallery, and historical museum together."
+        ],
+        [
+          "Sam Moore",
+          "Let's also plan on attending some upcoming community events together, like the art exhibition and book club meetings. It'll be a great way for you to meet more people in the village."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Sam. I would really appreciate your help and getting to know more people in the village. Your kindness means a lot to me! Let's explore Johnson Park, the art gallery, and historical museum together."
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83c\udfa8",
+      "description": "attending a local mayoral candidate debate (conversing about the upcoming art exhibition in town and recommendations for local artists to check out, as well as invitations to join the book club meeting, volunteer for a community clean-up event, and attend a music event in the park, all offered by Adam Smith to Carlos Gomez.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 14:32:50"
+  }
+}

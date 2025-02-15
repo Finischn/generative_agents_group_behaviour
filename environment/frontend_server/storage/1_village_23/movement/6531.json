@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "getting ready for her birthday party tomorrow and making final preparations at Hobbs Cafe (decorating the cafe for the party) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        65,
+        36
+      ],
+      "pronunciatio": "\ud83d\udd2a",
+      "description": "having dinner (preparing ingredients for dinner) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        121,
+        32
+      ],
+      "pronunciatio": "\ud83d\ude8c",
+      "description": "heading home from the library (riding the bus home) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        61,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "enjoying his birthday party at The Rose and Crown Pub (greeting and thanking guests for coming) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        112,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about collaborating with local artists, musicians, and historians in the village for a poetry and music project, while planning to visit local historical museums together to further enrich their understanding of the village's cultural heritage @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Eddy, I was thinking about our poetry and music project and how we can incorporate local artists and musicians. Do you know any musicians in the village that we could potentially collaborate with?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Ayesha, that's a great idea! I actually know a few musicians in the village that we could reach out to. Let's discuss more about it over lunch at Hobbs Cafe tomorrow."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds perfect! I'm excited to meet and collaborate with local musicians. Lunch at Hobbs Cafe tomorrow to discuss further sounds great."
+        ],
+        [
+          "Eddy Lin",
+          "Welcome to the community, Ayesha! I think you'll love meeting the local musicians here. They're really talented and passionate about their craft."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much, Eddy! I'm looking forward to meeting them and seeing how we can collaborate on our project."
+        ],
+        [
+          "Eddy Lin",
+          "We can also consider reaching out to local artists in the village who can contribute their creative talents to our project. I'll introduce you to a few of them during our visit to Hobbs Cafe tomorrow."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds wonderful, Eddy! I can't wait to meet the local artists and explore their creative talents. Thank you for introducing me to the vibrant arts community here."
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad you're excited to explore the local arts community here. It's a vibrant and welcoming environment for creativity."
+        ],
+        [
+          "Ayesha Khan",
+          "I really appreciate your help and guidance in navigating the local arts community. It's refreshing to meet someone as passionate about creativity as you are."
+        ],
+        [
+          "Eddy Lin",
+          "I'm sure you'll find a lot of inspiration from the local artists and musicians here. They're really supportive and eager to collaborate on creative projects."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Eddy! I'm grateful for your support and enthusiasm in this collaboration. I'm looking forward to what we can create together."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I can also introduce you to some local historians who can provide insights into the village's cultural heritage. They might have stories and perspectives that could enrich our project. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds fantastic, Eddy! I would love to learn more about the village's cultural heritage from the local historians. It could bring a unique perspective to our project."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, since you're new to the village, how about we plan a visit to the local historical museums together? It could provide us with a deeper understanding of the village's roots and inspire our project even further."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much for welcoming me to the community, Eddy. I truly appreciate your guidance and support in exploring the local arts and cultural scene."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, since you're new to the village, how about we plan a visit to the local historical museums together? It could provide us with a deeper understanding of the village's roots and inspire our project even further."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        75,
+        34
+      ],
+      "pronunciatio": "\ud83c\udfa8\ud83c\udfb6",
+      "description": "reviewing notes and studying for exams (conversing about exploring local art galleries, meeting local artists and musicians, visiting historical sites, having lunch at a local diner, and potentially attending a book club meeting in the evening in the village.) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        113,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about collaborating with local artists, musicians, and historians in the village for a poetry and music project, while planning to visit local historical museums together to further enrich their understanding of the village's cultural heritage @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Eddy, I was thinking about our poetry and music project and how we can incorporate local artists and musicians. Do you know any musicians in the village that we could potentially collaborate with?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Ayesha, that's a great idea! I actually know a few musicians in the village that we could reach out to. Let's discuss more about it over lunch at Hobbs Cafe tomorrow."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds perfect! I'm excited to meet and collaborate with local musicians. Lunch at Hobbs Cafe tomorrow to discuss further sounds great."
+        ],
+        [
+          "Eddy Lin",
+          "Welcome to the community, Ayesha! I think you'll love meeting the local musicians here. They're really talented and passionate about their craft."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much, Eddy! I'm looking forward to meeting them and seeing how we can collaborate on our project."
+        ],
+        [
+          "Eddy Lin",
+          "We can also consider reaching out to local artists in the village who can contribute their creative talents to our project. I'll introduce you to a few of them during our visit to Hobbs Cafe tomorrow."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds wonderful, Eddy! I can't wait to meet the local artists and explore their creative talents. Thank you for introducing me to the vibrant arts community here."
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad you're excited to explore the local arts community here. It's a vibrant and welcoming environment for creativity."
+        ],
+        [
+          "Ayesha Khan",
+          "I really appreciate your help and guidance in navigating the local arts community. It's refreshing to meet someone as passionate about creativity as you are."
+        ],
+        [
+          "Eddy Lin",
+          "I'm sure you'll find a lot of inspiration from the local artists and musicians here. They're really supportive and eager to collaborate on creative projects."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Eddy! I'm grateful for your support and enthusiasm in this collaboration. I'm looking forward to what we can create together."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I can also introduce you to some local historians who can provide insights into the village's cultural heritage. They might have stories and perspectives that could enrich our project. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds fantastic, Eddy! I would love to learn more about the village's cultural heritage from the local historians. It could bring a unique perspective to our project."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, since you're new to the village, how about we plan a visit to the local historical museums together? It could provide us with a deeper understanding of the village's roots and inspire our project even further."
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you so much for welcoming me to the community, Eddy. I truly appreciate your guidance and support in exploring the local arts and cultural scene."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, since you're new to the village, how about we plan a visit to the local historical museums together? It could provide us with a deeper understanding of the village's roots and inspire our project even further."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        82,
+        56
+      ],
+      "pronunciatio": "\ud83d\udcb0",
+      "description": "going home and having dinner with his wife Jane (counting the cash register and recording the day's sales) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        66
+      ],
+      "pronunciatio": "\ud83d\udd25",
+      "description": "having dinner (heating up leftovers for dinner) @ the Ville:Tamara Taylor and Carmen Ortiz's house:kitchen:cooking area",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf54\ud83e\udd64",
+      "description": "having dinner with a friend (ordering food and drinks) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 18:08:30"
+  }
+}

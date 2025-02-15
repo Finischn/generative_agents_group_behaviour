@@ -1,0 +1,97 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        56,
+        25
+      ],
+      "pronunciatio": "\ud83d\udde8\ufe0f",
+      "description": "having dinner at the local diner with Carlos (conversing about a friendly exchange between Sam Moore and Isabella Rodriguez as they discuss exploring the village together, attending community events, and getting involved in local activities.) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f\ud83d\udebf",
+      "description": "having dinner (clearing the table and washing the dishes) @ the Ville:Carlos Gomez's apartment:main room:kitchen sink",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        55,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf39\ud83c\udf7b",
+      "description": "at The Rose and Crown Pub for Sam's birthday party @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        59,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "still celebrating his birthday at The Rose and Crown Pub @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        54,
+        30
+      ],
+      "pronunciatio": "\ud83d\ude96",
+      "description": "attending Isabella's birthday party at Hobbs Cafe (taking a taxi to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        109,
+        30
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "reviewing notes and studying for exams (taking a break to eat dinner) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending an evening music theory class at Oak Hill College (listening to the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        73,
+        67
+      ],
+      "pronunciatio": "\ud83d\udce7",
+      "description": "getting ready for his meeting with Carlos tomorrow (checking his email for any updates from Carlos) @ the Ville:Moreno family's house:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        61
+      ],
+      "pronunciatio": "\u23f0",
+      "description": "finishing up any remaining work before relaxing for the evening (responding to any urgent emails) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        57,
+        25
+      ],
+      "pronunciatio": "\ud83c\udfab",
+      "description": "attending a local mayoral candidate debate (checking in and finding his seat) @ the Ville:Ryan Park's apartment:main room:computer desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 20:01:30"
+  }
+}

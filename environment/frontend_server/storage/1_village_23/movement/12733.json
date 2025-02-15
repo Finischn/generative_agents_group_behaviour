@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddf9\ud83d\uded2",
+      "description": "managing operations at Hobbs Cafe (cleaning and restocking the cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending the creative writing workshop (listening to a guest speaker) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still studying at the library (working on a sociology essay) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        64,
+        52
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "running errands and gathering party material (going to the party supply store to buy decorations and party favors) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        109,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about collaborating on incorporating traditional folk music elements, reaching out to local artists and musicians, organizing a music showcase event, collaborating with local historians, visiting historical museums and local art galleries, exploring the farmers' market, and attending a book club meeting in the village. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Eddy, I was thinking about our poetry and music project. Do you think we could incorporate some traditional folk music elements into our collaboration?"
+        ],
+        [
+          "Eddy Lin",
+          "That's a fantastic idea, Ayesha! I think blending traditional folk music with our poetry and music project could add a unique and authentic touch to our work. Let's definitely explore that further and see how we can incorporate those elements seamlessly."
+        ],
+        [
+          "Ayesha Khan",
+          "I was also thinking about reaching out to some local artists and musicians in the village to collaborate with us. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a wonderful idea, Ayesha! Local artists and musicians would definitely bring a new perspective to our project. Let's reach out to them and see how we can collaborate together."
+        ],
+        [
+          "Ayesha Khan",
+          "I was thinking of organizing a music showcase event at the community center to showcase our poetry and music project. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "That's an excellent idea, Ayesha! A music showcase event at the community center would be a perfect way to share our project with the village. Let's start planning for it and involve the local community in our creative collaboration."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I was thinking we could also explore the possibility of collaborating with local historians to gain a deeper understanding of the village's cultural heritage. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "That's an excellent idea, Ayesha! Collaborating with local historians would indeed provide us with a deeper insight into the village's cultural heritage. Let's reach out to them and see how they can contribute to our project."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I was also thinking about visiting the historical museums in the village to gather further inspiration for our project. Do you think that would be beneficial?"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I think visiting the historical museums in the village is a fantastic idea. It would definitely provide us with valuable inspiration and insights into the village's rich cultural heritage. Let's plan a visit together and explore the museums for our project."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I was also thinking about exploring local art galleries in the village to gather more inspiration for our project. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I love the idea of exploring local art galleries in the village to gather inspiration for our project. Let's definitely plan a visit together and see how we can incorporate art into our collaboration."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I also thought about exploring the farmers' market in the village to experience the local produce and unique atmosphere. Would you be interested in going together?"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I think it would be a great idea for us to explore the farmers' market together. It's a wonderful opportunity to experience the local produce and immerse ourselves in the unique atmosphere of the village. When would be a good time for you to go?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I was also thinking about attending the book club meeting in the village. Would you be interested in joining me?"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I'm thrilled to have you on board for our project. Since you're new to the village, I would love to show you around some of the local hidden gems and popular spots. How about we start with a visit to the historical museum to get a better understanding of the village's rich heritage?"
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "attending afternoon classes at Oak Hill College (participating in class discussions) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        111,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about collaborating on incorporating traditional folk music elements, reaching out to local artists and musicians, organizing a music showcase event, collaborating with local historians, visiting historical museums and local art galleries, exploring the farmers' market, and attending a book club meeting in the village. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Eddy, I was thinking about our poetry and music project. Do you think we could incorporate some traditional folk music elements into our collaboration?"
+        ],
+        [
+          "Eddy Lin",
+          "That's a fantastic idea, Ayesha! I think blending traditional folk music with our poetry and music project could add a unique and authentic touch to our work. Let's definitely explore that further and see how we can incorporate those elements seamlessly."
+        ],
+        [
+          "Ayesha Khan",
+          "I was also thinking about reaching out to some local artists and musicians in the village to collaborate with us. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a wonderful idea, Ayesha! Local artists and musicians would definitely bring a new perspective to our project. Let's reach out to them and see how we can collaborate together."
+        ],
+        [
+          "Ayesha Khan",
+          "I was thinking of organizing a music showcase event at the community center to showcase our poetry and music project. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "That's an excellent idea, Ayesha! A music showcase event at the community center would be a perfect way to share our project with the village. Let's start planning for it and involve the local community in our creative collaboration."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I was thinking we could also explore the possibility of collaborating with local historians to gain a deeper understanding of the village's cultural heritage. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "That's an excellent idea, Ayesha! Collaborating with local historians would indeed provide us with a deeper insight into the village's cultural heritage. Let's reach out to them and see how they can contribute to our project."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I was also thinking about visiting the historical museums in the village to gather further inspiration for our project. Do you think that would be beneficial?"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I think visiting the historical museums in the village is a fantastic idea. It would definitely provide us with valuable inspiration and insights into the village's rich cultural heritage. Let's plan a visit together and explore the museums for our project."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I was also thinking about exploring local art galleries in the village to gather more inspiration for our project. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I love the idea of exploring local art galleries in the village to gather inspiration for our project. Let's definitely plan a visit together and see how we can incorporate art into our collaboration."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I also thought about exploring the farmers' market in the village to experience the local produce and unique atmosphere. Would you be interested in going together?"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I think it would be a great idea for us to explore the farmers' market together. It's a wonderful opportunity to experience the local produce and immerse ourselves in the unique atmosphere of the village. When would be a good time for you to go?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I was also thinking about attending the book club meeting in the village. Would you be interested in joining me?"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I'm thrilled to have you on board for our project. Since you're new to the village, I would love to show you around some of the local hidden gems and popular spots. How about we start with a visit to the historical museum to get a better understanding of the village's rich heritage?"
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        69,
+        37
+      ],
+      "pronunciatio": "\ud83d\udc49",
+      "description": "introducing Carlos to local artists, musicians, and historians (guiding Carlos to the next artist's location) @ the Ville:Ryan Park's apartment:main room:computer desk",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        74
+      ],
+      "pronunciatio": "\ud83c\udfa8",
+      "description": "still working on her new children's book series (working on illustrations for the book) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "finishing up his meeting with Klaus Mueller and making plans to follow up with him next week (clarifying any action items or next steps) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 11:22:10"
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        30
+      ],
+      "pronunciatio": "\u2615",
+      "description": "closing Hobbs Cafe and cleaning up (restocking the coffee and tea supplies) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        57,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a newcomer, Carlos Gomez, seeking recommendations and invitations from a local, Adam Smith, to explore art exhibitions, attend book club meetings, join community events, experience local culture, collaborate on a poetry project involving music, and visit the farmers' market together while settling into the village. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Adam! I was thinking about checking out the upcoming art exhibition you mentioned. Do you have any recommendations for local artists to look out for?"
+        ],
+        [
+          "Adam Smith",
+          "That's fantastic, Carlos! I recommend you keep an eye out for Isabella Rodriguez's exhibit. She's a talented local artist who always impresses with her work. You'll definitely enjoy her creations."
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds intriguing! I'll make sure to look out for Isabella Rodriguez's exhibit. Thank you for the recommendation, Adam."
+        ],
+        [
+          "Adam Smith",
+          "Since you're new to the village, Carlos, I also recommend you attend the upcoming book club meeting. It's a great way to meet other villagers and discuss interesting reads. I think you'll really enjoy it."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Adam. I'm looking forward to attending the book club meeting. It sounds like a great way to get involved in the community."
+        ],
+        [
+          "Adam Smith",
+          "Carlos, there's also a community clean-up event happening next week. I think it would be a great opportunity for you to get involved and connect with other villagers. Would you be interested in joining?"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for letting me know about the community clean-up event, Adam. I'll definitely join in and help out!"
+        ],
+        [
+          "Adam Smith",
+          "Carlos, there's also a music event happening in the park next weekend. I think it would be a fun way for you to experience the local culture and connect with other villagers. Would you be interested in attending?"
+        ],
+        [
+          "Carlos Gomez",
+          "That music event in the park sounds wonderful, Adam! I would love to attend and immerse myself in the local culture. Thank you for the invitation!"
+        ],
+        [
+          "Adam Smith",
+          "Carlos, I'm also working on a poetry collaboration project involving music. I think your interest in poetry could be a great addition to the project. Would you like to join me in this creative endeavor?"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for inviting me to join your poetry collaboration project involving music, Adam. I would be delighted to contribute my poetry to the creative endeavor."
+        ],
+        [
+          "Adam Smith",
+          "Carlos, since you're new to the village, would you be interested in joining me for a visit to the farmers' market next week? It's a great way to experience the local produce and community atmosphere."
+        ],
+        [
+          "Carlos Gomez",
+          "Adam, I appreciate all the recommendations and invitations you've given me. I'm excited to explore the art exhibition, attend the book club meeting, join the community clean-up event, immerse myself in the music event in the park, and collaborate on the poetry project involving music with you. Your guidance has been invaluable as I settle into the village. I'd love to join you at the farmers' market next week to further experience the local produce and community atmosphere."
+        ],
+        [
+          "Adam Smith",
+          "Carlos, there is also an upcoming community picnic next month that I think you would enjoy attending. It's a great opportunity to socialize with other villagers and experience the sense of community in our village. Would you be interested in joining?"
+        ],
+        [
+          "Carlos Gomez",
+          "Adam, thank you so much for all the recommendations and invitations. Your support means a lot to me as a newcomer. I look forward to experiencing the art exhibition, book club meeting, community clean-up event, music event in the park, poetry collaboration project, and farmers' market with you. Your guidance has truly helped me feel welcomed in the village."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        89,
+        52
+      ],
+      "pronunciatio": "\ud83d\udc69\u200d\ud83c\udf73",
+      "description": "having dinner at home (cooking dinner) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "still enjoying his birthday party at The Rose and Crown Pub (chatting with his friends and family) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "back at the library and continuing her research for her senior thesis (referencing other scholarly articles for her thesis) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "reviewing notes and studying for exams (practicing sample problems) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "taking notes during the lecture @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        70,
+        65
+      ],
+      "pronunciatio": "\ud83e\ude91",
+      "description": "relaxing and watching TV (sitting down on the couch and getting comfortable) @ the Ville:Moreno family's house:common room:shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        67
+      ],
+      "pronunciatio": "\u23f3",
+      "description": "finishing up any remaining work for the day (responding to any urgent emails) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        57,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a newcomer, Carlos Gomez, seeking recommendations and invitations from a local, Adam Smith, to explore art exhibitions, attend book club meetings, join community events, experience local culture, collaborate on a poetry project involving music, and visit the farmers' market together while settling into the village. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Adam! I was thinking about checking out the upcoming art exhibition you mentioned. Do you have any recommendations for local artists to look out for?"
+        ],
+        [
+          "Adam Smith",
+          "That's fantastic, Carlos! I recommend you keep an eye out for Isabella Rodriguez's exhibit. She's a talented local artist who always impresses with her work. You'll definitely enjoy her creations."
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds intriguing! I'll make sure to look out for Isabella Rodriguez's exhibit. Thank you for the recommendation, Adam."
+        ],
+        [
+          "Adam Smith",
+          "Since you're new to the village, Carlos, I also recommend you attend the upcoming book club meeting. It's a great way to meet other villagers and discuss interesting reads. I think you'll really enjoy it."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Adam. I'm looking forward to attending the book club meeting. It sounds like a great way to get involved in the community."
+        ],
+        [
+          "Adam Smith",
+          "Carlos, there's also a community clean-up event happening next week. I think it would be a great opportunity for you to get involved and connect with other villagers. Would you be interested in joining?"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for letting me know about the community clean-up event, Adam. I'll definitely join in and help out!"
+        ],
+        [
+          "Adam Smith",
+          "Carlos, there's also a music event happening in the park next weekend. I think it would be a fun way for you to experience the local culture and connect with other villagers. Would you be interested in attending?"
+        ],
+        [
+          "Carlos Gomez",
+          "That music event in the park sounds wonderful, Adam! I would love to attend and immerse myself in the local culture. Thank you for the invitation!"
+        ],
+        [
+          "Adam Smith",
+          "Carlos, I'm also working on a poetry collaboration project involving music. I think your interest in poetry could be a great addition to the project. Would you like to join me in this creative endeavor?"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for inviting me to join your poetry collaboration project involving music, Adam. I would be delighted to contribute my poetry to the creative endeavor."
+        ],
+        [
+          "Adam Smith",
+          "Carlos, since you're new to the village, would you be interested in joining me for a visit to the farmers' market next week? It's a great way to experience the local produce and community atmosphere."
+        ],
+        [
+          "Carlos Gomez",
+          "Adam, I appreciate all the recommendations and invitations you've given me. I'm excited to explore the art exhibition, attend the book club meeting, join the community clean-up event, immerse myself in the music event in the park, and collaborate on the poetry project involving music with you. Your guidance has been invaluable as I settle into the village. I'd love to join you at the farmers' market next week to further experience the local produce and community atmosphere."
+        ],
+        [
+          "Adam Smith",
+          "Carlos, there is also an upcoming community picnic next month that I think you would enjoy attending. It's a great opportunity to socialize with other villagers and experience the sense of community in our village. Would you be interested in joining?"
+        ],
+        [
+          "Carlos Gomez",
+          "Adam, thank you so much for all the recommendations and invitations. Your support means a lot to me as a newcomer. I look forward to experiencing the art exhibition, book club meeting, community clean-up event, music event in the park, poetry collaboration project, and farmers' market with you. Your guidance has truly helped me feel welcomed in the village."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 19:25:40"
+  }
+}

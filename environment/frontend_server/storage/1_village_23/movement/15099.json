@@ -1,0 +1,203 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udd12",
+      "description": "closing Hobbs Cafe and getting ready for her birthday party (locking up the cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        39,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos and Sam are discussing different community events and activities to participate in together, including exploring art exhibitions, joining a book club, attending music jam sessions, getting involved in a community garden project, visiting a historical museum, and joining a community picnic at Johnson Park. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Sam, I'm really looking forward to exploring the art exhibition with you today. It's exciting to discover more about the local art scene in the village."
+        ],
+        [
+          "Sam Moore",
+          "Hey Carlos, I'm thrilled to show you around the art exhibition today. I think you'll really enjoy the local artists' work and the creativity in our village. Let's have a great time exploring together!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for being so welcoming and showing me around, Sam. I appreciate your kindness and support as I settle into the village."
+        ],
+        [
+          "Sam Moore",
+          "Carlos, I also wanted to invite you to join our book club meetings. It's a great way to meet new people and discuss interesting books. What do you think?"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you so much for inviting me to join the book club meetings, Sam! I would love to be a part of it and discuss interesting books with you all."
+        ],
+        [
+          "Sam Moore",
+          "Carlos, there's a music jam session happening next week that you might enjoy. It's a great opportunity to meet more locals and immerse yourself in our village's musical scene. Would you be interested in attending?"
+        ],
+        [
+          "Carlos Gomez",
+          "Sam, I appreciate all the opportunities you've given me to explore the village and meet new people. I'm excited to attend the music jam session next week and immerse myself in the local musical scene."
+        ],
+        [
+          "Sam Moore",
+          "Carlos, there's also a community garden project happening next month that you might be interested in joining. It's a great way to get involved in the community and contribute to our village. Would you like to participate?"
+        ],
+        [
+          "Carlos Gomez",
+          "Sam, I truly appreciate your kindness and the warm welcome I've received since arriving in the village. Your enthusiasm for community events and activities is contagious, and I'm grateful for the opportunity to explore and connect with new people. I look forward to continuing our adventures together!"
+        ],
+        [
+          "Sam Moore",
+          "Carlos, there is a historical museum in the village that showcases the rich heritage and culture of our community. Would you be interested in visiting it together?"
+        ],
+        [
+          "Carlos Gomez",
+          "Sam, I would love to visit the historical museum with you and learn more about the rich heritage and culture of our community."
+        ],
+        [
+          "Sam Moore",
+          "Carlos, I heard there's a community picnic at Johnson Park next weekend. Would you like to join me and some other locals for a fun afternoon?"
+        ],
+        [
+          "Carlos Gomez",
+          "Sam, I truly appreciate your kindness and the warm welcome I've received since arriving in the village. Your enthusiasm for community events and activities is contagious, and I'm grateful for the opportunity to explore and connect with new people. I look forward to continuing our adventures together!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        80,
+        38
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "heading to Johnson Park to meet Isabella with flowers as a welcome gift (conversing about Wolfgang Schulz and Klaus Mueller are discussing settling into the village, exploring local events and activities, meeting local artists and musicians, visiting the local park and art gallery, attending a live music event, joining a community picnic, and exploring the historical museum together.) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        38,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos and Sam are discussing different community events and activities to participate in together, including exploring art exhibitions, joining a book club, attending music jam sessions, getting involved in a community garden project, visiting a historical museum, and joining a community picnic at Johnson Park. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Sam, I'm really looking forward to exploring the art exhibition with you today. It's exciting to discover more about the local art scene in the village."
+        ],
+        [
+          "Sam Moore",
+          "Hey Carlos, I'm thrilled to show you around the art exhibition today. I think you'll really enjoy the local artists' work and the creativity in our village. Let's have a great time exploring together!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for being so welcoming and showing me around, Sam. I appreciate your kindness and support as I settle into the village."
+        ],
+        [
+          "Sam Moore",
+          "Carlos, I also wanted to invite you to join our book club meetings. It's a great way to meet new people and discuss interesting books. What do you think?"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you so much for inviting me to join the book club meetings, Sam! I would love to be a part of it and discuss interesting books with you all."
+        ],
+        [
+          "Sam Moore",
+          "Carlos, there's a music jam session happening next week that you might enjoy. It's a great opportunity to meet more locals and immerse yourself in our village's musical scene. Would you be interested in attending?"
+        ],
+        [
+          "Carlos Gomez",
+          "Sam, I appreciate all the opportunities you've given me to explore the village and meet new people. I'm excited to attend the music jam session next week and immerse myself in the local musical scene."
+        ],
+        [
+          "Sam Moore",
+          "Carlos, there's also a community garden project happening next month that you might be interested in joining. It's a great way to get involved in the community and contribute to our village. Would you like to participate?"
+        ],
+        [
+          "Carlos Gomez",
+          "Sam, I truly appreciate your kindness and the warm welcome I've received since arriving in the village. Your enthusiasm for community events and activities is contagious, and I'm grateful for the opportunity to explore and connect with new people. I look forward to continuing our adventures together!"
+        ],
+        [
+          "Sam Moore",
+          "Carlos, there is a historical museum in the village that showcases the rich heritage and culture of our community. Would you be interested in visiting it together?"
+        ],
+        [
+          "Carlos Gomez",
+          "Sam, I would love to visit the historical museum with you and learn more about the rich heritage and culture of our community."
+        ],
+        [
+          "Sam Moore",
+          "Carlos, I heard there's a community picnic at Johnson Park next weekend. Would you like to join me and some other locals for a fun afternoon?"
+        ],
+        [
+          "Carlos Gomez",
+          "Sam, I truly appreciate your kindness and the warm welcome I've received since arriving in the village. Your enthusiasm for community events and activities is contagious, and I'm grateful for the opportunity to explore and connect with new people. I look forward to continuing our adventures together!"
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        76,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "having dinner (getting ready for Isabella's birthday party) @ the Ville:Isabella Rodriguez's apartment:main room:closet",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        80,
+        37
+      ],
+      "pronunciatio": "\ud83d\udc69\u200d\ud83c\udf73",
+      "description": "having dinner (cooking dinner) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciatio": "\ud83d\udd70\ufe0f",
+      "description": "taking a break and having dinner at Hobbs Cafe (taking a break and checking his phone for any important messages) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83c\udfb6",
+      "description": "closing The Willow Market and Pharmacy (conversing about exploring the local music scene and other cultural activities in the village, such as visiting the farmers' market, attending an art exhibition, and joining a book club meeting at the library.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        39,
+        30
+      ],
+      "pronunciatio": "\ud83c\udfa8",
+      "description": "preparing for the art exhibition and community clean-up event. @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        66,
+        19
+      ],
+      "pronunciatio": "\ud83d\ude97",
+      "description": "attending a local mayoral candidate debate (driving to the debate location) @ the Ville:Ryan Park's apartment:main room:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 17:56:30"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        30
+      ],
+      "pronunciatio": "\ud83d\uddfa\ufe0f",
+      "description": "closing Hobbs Cafe and cleaning up (conversing about planning to explore various attractions and activities together in the village, such as visiting Johnson Park, checking out an art exhibition, attending a book club meeting, joining a community garden project, and attending a community picnic.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        73,
+        30
+      ],
+      "pronunciatio": "\ud83c\udf33",
+      "description": "having dinner (conversing about planning to explore various attractions and activities together in the village, such as visiting Johnson Park, checking out an art exhibition, attending a book club meeting, joining a community garden project, and attending a community picnic.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        91,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Wolfgang Schulz discussing exploring the village, starting with visiting the farmers' market, joining the local book club, attending a music event in the park, and trying out a food truck. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Wolfgang, I noticed you've been studying hard for your exams. Have you had a chance to explore the village yet?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Klaus, I've been so focused on my studies and training lately that I haven't had a chance to explore the village yet. Do you have any recommendations on where I should start?"
+        ],
+        [
+          "Klaus Mueller",
+          "I would recommend starting with a visit to the farmers' market on Saturday mornings. It's a great way to meet local vendors and get a feel for the community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great idea, Klaus. I'll definitely check out the farmers' market this Saturday. Do you have any suggestions for other community activities or events I should check out?"
+        ],
+        [
+          "Klaus Mueller",
+          "You should also consider joining the local book club. It's a great way to meet people and engage in interesting discussions."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great suggestion, Klaus. I'll make sure to check out the farmers' market and consider joining the book club. Thanks for the tips!"
+        ],
+        [
+          "Klaus Mueller",
+          "You should also consider attending the next music event in the park. It's a great way to enjoy some local talent and connect with other villagers. Plus, I heard there will be a food truck with delicious treats!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for all the suggestions, Klaus. I will definitely plan to attend the next music event in the park and check out the food truck as well. I appreciate your guidance!"
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        35,
+        32
+      ],
+      "pronunciatio": "\ud83c\udf96\ufe0f",
+      "description": "enjoying his birthday party at The Rose and Crown Pub (sharing stories from his time in the military) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        98,
+        32
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "back at the library and continuing her research for her senior thesis (conversing about Wolfgang and Ayesha are planning their day exploring the local farmers' market, library, art exhibition, book club meeting, historical museum, and ending with lunch at the local cafe.) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        91,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Wolfgang Schulz discussing exploring the village, starting with visiting the farmers' market, joining the local book club, attending a music event in the park, and trying out a food truck. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Wolfgang, I noticed you've been studying hard for your exams. Have you had a chance to explore the village yet?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Klaus, I've been so focused on my studies and training lately that I haven't had a chance to explore the village yet. Do you have any recommendations on where I should start?"
+        ],
+        [
+          "Klaus Mueller",
+          "I would recommend starting with a visit to the farmers' market on Saturday mornings. It's a great way to meet local vendors and get a feel for the community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great idea, Klaus. I'll definitely check out the farmers' market this Saturday. Do you have any suggestions for other community activities or events I should check out?"
+        ],
+        [
+          "Klaus Mueller",
+          "You should also consider joining the local book club. It's a great way to meet people and engage in interesting discussions."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds like a great suggestion, Klaus. I'll make sure to check out the farmers' market and consider joining the book club. Thanks for the tips!"
+        ],
+        [
+          "Klaus Mueller",
+          "You should also consider attending the next music event in the park. It's a great way to enjoy some local talent and connect with other villagers. Plus, I heard there will be a food truck with delicious treats!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you for all the suggestions, Klaus. I will definitely plan to attend the next music event in the park and check out the food truck as well. I appreciate your guidance!"
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "greeting his classmates and taking a seat (conversing about Klaus Mueller and Eddy Lin are discussing ways to involve the local community, including the community center, school children, historians, local artists and musicians, Isabella Rodriguez, Johnson Park, Hobbs Cafe, traditional folk music, and local businesses, in their storytelling and music project.) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        73,
+        69
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "going home and having dinner with his wife Jane (discussing their day with Jane) @ the Ville:Moreno family's house:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        67
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having dinner (sitting down to eat) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        79,
+        46
+      ],
+      "pronunciatio": "\ud83d\udd75\ufe0f\u200d",
+      "description": "attending a local mayoral candidate debate (researching the candidates and their platforms) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 18:33:50"
+  }
+}

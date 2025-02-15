@@ -1,0 +1,219 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        30
+      ],
+      "pronunciatio": "\ud83d\udd13",
+      "description": "opening Hobbs Cafe and greeting customers (unlocking the doors to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        98,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy and Carlos are discussing collaborating on a poetry and music project while exploring the village community together and planning to meet at Hobbs Cafe tomorrow afternoon. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Eddy! I noticed you're always heading to your music theory class. How long have you been studying music?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Carlos! I've been studying music for about 6 years now. It's been a passion of mine since I was young."
+        ],
+        [
+          "Carlos Gomez",
+          "That's impressive, Eddy! I'm actually a poet and I'm working on a collection that explores the beauty of nature. Maybe we can collaborate on a project together sometime."
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a great idea, Carlos! I would love to collaborate with you on a project. Maybe we can discuss some ideas over coffee at Hobbs Cafe sometime."
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds wonderful, Eddy! I'll message you later to set up a time to meet at Hobbs Cafe."
+        ],
+        [
+          "Eddy Lin",
+          "Welcome to the village, Carlos! I'm sure you'll enjoy being a part of our community. If you ever need any help settling in or getting to know the area, feel free to ask me or any of the other residents."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Eddy! I really appreciate your warm welcome and offer to help. I'll definitely keep that in mind as I settle into the village. Looking forward to collaborating with you on a project!"
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad to hear that you're settling in well, Carlos. The village is a welcoming community, and I'm sure you'll enjoy your time here. If you ever need any recommendations for places to visit or things to do, feel free to ask me!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for the warm welcome, Eddy! I look forward to collaborating on a project together and exploring the village community."
+        ],
+        [
+          "Eddy Lin",
+          "Since you're new to the village, would you like me to show you around and introduce you to some of the other residents?"
+        ],
+        [
+          "Carlos Gomez",
+          "That would be fantastic, Eddy! I would love to learn more about the village and meet some of the other residents."
+        ],
+        [
+          "Eddy Lin",
+          "I can introduce you to some of the other residents after your workshop. How about we meet at Hobbs Cafe tomorrow afternoon?"
+        ],
+        [
+          "Carlos Gomez",
+          "That would be great, Eddy! I'm looking forward to exploring the village with you and meeting the other residents. Thank you for offering to show me around."
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad you're settling in well, Carlos. The village is a welcoming community, and I'm sure you'll enjoy your time here. If you ever need any recommendations for places to visit or things to do, feel free to ask me!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you so much, Eddy. I would love to explore the village with you and meet the other residents. Let's plan to meet at Hobbs Cafe tomorrow afternoon."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        30
+      ],
+      "pronunciatio": "\ud83c\udf92",
+      "description": "waking up and completing his morning routine (packing his bag for the library) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        59,
+        30
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "reading at Hobbs Cafe (walking to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        115,
+        33
+      ],
+      "pronunciatio": "\ud83d\ude8c",
+      "description": "attending her first class at Oak Hill College (waiting for the bus) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        122,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "studying for exams (reviewing his notes from previous lectures) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        98,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy and Carlos are discussing collaborating on a poetry and music project while exploring the village community together and planning to meet at Hobbs Cafe tomorrow afternoon. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Eddy! I noticed you're always heading to your music theory class. How long have you been studying music?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Carlos! I've been studying music for about 6 years now. It's been a passion of mine since I was young."
+        ],
+        [
+          "Carlos Gomez",
+          "That's impressive, Eddy! I'm actually a poet and I'm working on a collection that explores the beauty of nature. Maybe we can collaborate on a project together sometime."
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a great idea, Carlos! I would love to collaborate with you on a project. Maybe we can discuss some ideas over coffee at Hobbs Cafe sometime."
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds wonderful, Eddy! I'll message you later to set up a time to meet at Hobbs Cafe."
+        ],
+        [
+          "Eddy Lin",
+          "Welcome to the village, Carlos! I'm sure you'll enjoy being a part of our community. If you ever need any help settling in or getting to know the area, feel free to ask me or any of the other residents."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Eddy! I really appreciate your warm welcome and offer to help. I'll definitely keep that in mind as I settle into the village. Looking forward to collaborating with you on a project!"
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad to hear that you're settling in well, Carlos. The village is a welcoming community, and I'm sure you'll enjoy your time here. If you ever need any recommendations for places to visit or things to do, feel free to ask me!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for the warm welcome, Eddy! I look forward to collaborating on a project together and exploring the village community."
+        ],
+        [
+          "Eddy Lin",
+          "Since you're new to the village, would you like me to show you around and introduce you to some of the other residents?"
+        ],
+        [
+          "Carlos Gomez",
+          "That would be fantastic, Eddy! I would love to learn more about the village and meet some of the other residents."
+        ],
+        [
+          "Eddy Lin",
+          "I can introduce you to some of the other residents after your workshop. How about we meet at Hobbs Cafe tomorrow afternoon?"
+        ],
+        [
+          "Carlos Gomez",
+          "That would be great, Eddy! I'm looking forward to exploring the village with you and meeting the other residents. Thank you for offering to show me around."
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad you're settling in well, Carlos. The village is a welcoming community, and I'm sure you'll enjoy your time here. If you ever need any recommendations for places to visit or things to do, feel free to ask me!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you so much, Eddy. I would love to explore the village with you and meet the other residents. Let's plan to meet at Hobbs Cafe tomorrow afternoon."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        65
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having breakfast with his wife Jane (setting the table for breakfast) @ the Ville:Moreno family's house:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        74
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "working on her new children's book series (reviewing her notes and ideas for the new book series) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "continuing to work on his book (reviewing his notes and research on creativity) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:08:30"
+  }
+}

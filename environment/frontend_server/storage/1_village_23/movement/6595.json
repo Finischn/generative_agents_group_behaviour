@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "getting ready for her birthday party tomorrow and making final preparations at Hobbs Cafe (preparing the food and drinks for the party) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        72,
+        30
+      ],
+      "pronunciatio": "\ud83c\udf33",
+      "description": "having dinner (conversing about exploring various community activities and events together, including visiting the farmers' market, attending a book club meeting, checking out an art gallery, exploring the historical museum and military memorabilia at Johnson Park, attending a concert at the park, grabbing dinner at the local diner, joining weekly music jam sessions at the village hall, and getting involved in the community garden project, with Carlos Gomez and Wolfgang Schulz.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Eddy Lin are discussing ways to involve the local community, including the community center, school children, historians, local artists and musicians, Isabella Rodriguez, Johnson Park, Hobbs Cafe, traditional folk music, and local businesses, in their storytelling and music project. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Eddy, I was thinking about our project and how we could involve the community center for additional support. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a great idea Klaus! I'll reach out to the community center and see how they can support our project."
+        ],
+        [
+          "Klaus Mueller",
+          "Also, we should consider inviting local school children to participate in our storytelling and music workshop to engage the younger generation."
+        ],
+        [
+          "Eddy Lin",
+          "That's a fantastic idea! I will make sure to reach out to local artists and musicians as well to add more creativity to our project."
+        ],
+        [
+          "Klaus Mueller",
+          "I also think we should consider reaching out to local historians to gather more stories and perspectives for our project."
+        ],
+        [
+          "Eddy Lin",
+          "I agree, involving local historians will definitely add depth and authenticity to our project. I will start reaching out to them today."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also keep in mind to involve Isabella Rodriguez in our project, she has some great insights and ideas."
+        ],
+        [
+          "Eddy Lin",
+          "I'll also start planning a visit to Johnson Park for inspiration. It could provide us with some unique perspectives for our project."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also think about organizing a small event at Hobbs Cafe to showcase our work and gather feedback from the community."
+        ],
+        [
+          "Eddy Lin",
+          "I think it's a great idea to involve the local community in our project. We could also explore different ways to incorporate traditional folk music into our composition."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also plan to meet at Hobbs Cafe tomorrow afternoon to discuss our progress and brainstorm more ideas."
+        ],
+        [
+          "Eddy Lin",
+          "We should also consider organizing a storytelling and music workshop with local school children to showcase their creativity."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also think about reaching out to the local artists and musicians to involve them in our project. Their creativity and perspective would be valuable."
+        ],
+        [
+          "Eddy Lin",
+          "We should also plan to incorporate elements of traditional folk music into our composition to truly capture the essence of our village."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also consider involving the community center for additional support in our project. They could provide resources and help us reach a wider audience."
+        ],
+        [
+          "Eddy Lin",
+          "I think we should also consider collaborating with local businesses in the village to support our project and potentially showcase our work in different venues."
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        38,
+        32
+      ],
+      "pronunciatio": "\ud83c\udf96\ufe0f",
+      "description": "enjoying his birthday party at The Rose and Crown Pub (sharing stories from his time in the military) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        110,
+        30
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "back at the library and continuing her research for her senior thesis (conversing about collaborating with local artists, musicians, and historians in the village for a poetry and music project, while planning to visit local historical museums together to further enrich their understanding of the village's cultural heritage) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        73,
+        32
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "reviewing notes and studying for exams (conversing about exploring various community activities and events together, including visiting the farmers' market, attending a book club meeting, checking out an art gallery, exploring the historical museum and military memorabilia at Johnson Park, attending a concert at the park, grabbing dinner at the local diner, joining weekly music jam sessions at the village hall, and getting involved in the community garden project, with Carlos Gomez and Wolfgang Schulz.) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        113,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Eddy Lin are discussing ways to involve the local community, including the community center, school children, historians, local artists and musicians, Isabella Rodriguez, Johnson Park, Hobbs Cafe, traditional folk music, and local businesses, in their storytelling and music project. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Eddy, I was thinking about our project and how we could involve the community center for additional support. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a great idea Klaus! I'll reach out to the community center and see how they can support our project."
+        ],
+        [
+          "Klaus Mueller",
+          "Also, we should consider inviting local school children to participate in our storytelling and music workshop to engage the younger generation."
+        ],
+        [
+          "Eddy Lin",
+          "That's a fantastic idea! I will make sure to reach out to local artists and musicians as well to add more creativity to our project."
+        ],
+        [
+          "Klaus Mueller",
+          "I also think we should consider reaching out to local historians to gather more stories and perspectives for our project."
+        ],
+        [
+          "Eddy Lin",
+          "I agree, involving local historians will definitely add depth and authenticity to our project. I will start reaching out to them today."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also keep in mind to involve Isabella Rodriguez in our project, she has some great insights and ideas."
+        ],
+        [
+          "Eddy Lin",
+          "I'll also start planning a visit to Johnson Park for inspiration. It could provide us with some unique perspectives for our project."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also think about organizing a small event at Hobbs Cafe to showcase our work and gather feedback from the community."
+        ],
+        [
+          "Eddy Lin",
+          "I think it's a great idea to involve the local community in our project. We could also explore different ways to incorporate traditional folk music into our composition."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also plan to meet at Hobbs Cafe tomorrow afternoon to discuss our progress and brainstorm more ideas."
+        ],
+        [
+          "Eddy Lin",
+          "We should also consider organizing a storytelling and music workshop with local school children to showcase their creativity."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also think about reaching out to the local artists and musicians to involve them in our project. Their creativity and perspective would be valuable."
+        ],
+        [
+          "Eddy Lin",
+          "We should also plan to incorporate elements of traditional folk music into our composition to truly capture the essence of our village."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also consider involving the community center for additional support in our project. They could provide resources and help us reach a wider audience."
+        ],
+        [
+          "Eddy Lin",
+          "I think we should also consider collaborating with local businesses in the village to support our project and potentially showcase our work in different venues."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        52
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "going home and having dinner with his wife Jane (saying goodbye to any remaining customers and thanking them for their business) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        65
+      ],
+      "pronunciatio": "\ud83d\udcf1",
+      "description": "having dinner (checking her phone for any urgent messages) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:shelf",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf54\ud83e\udd64",
+      "description": "having dinner with a friend (ordering food and drinks) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 18:19:10"
+  }
+}

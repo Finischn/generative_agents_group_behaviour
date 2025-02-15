@@ -1,0 +1,203 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcb0",
+      "description": "managing operations at Hobbs Cafe (taking orders and managing the cash register) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending the creative writing workshop (listening to the workshop instructor's introduction) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still studying at the library (reading assigned readings for his sociology class) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        83,
+        49
+      ],
+      "pronunciatio": "\ud83d\uded2",
+      "description": "running errands and gathering party material (going to the local grocery store to buy snacks and drinks for the party) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        113,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcda\ud83c\udfa8",
+      "description": "attending classes at Oak Hill College (conversing about Klaus Mueller and Ayesha Khan discussing upcoming village events and activities such as joining a book club, attending a community event, exploring the farmers' market, relaxing in the park, visiting an art exhibition, and joining a guided tour of the historical museum.) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending afternoon classes at Oak Hill College (listening to the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "attending classes at Oak Hill College (participating in a group discussion) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcde\ud83d\udecd\ufe0f",
+      "description": "attending to customers and working at The Willow Market and Pharmacy (answering phone calls, taking orders, and assisting customers) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        39,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Tamara Taylor and Adam Smith are discussing Tamara's excitement about attending the book club meeting, with Adam offering to introduce her to other members, share insights on local history, and connect her with local artists and musicians. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Tamara Taylor",
+          "Hi Adam! I just wanted to let you know that I'm really excited about attending the book club meeting next week with Carlos. I think it's a great way for me to connect more with the community and immerse myself in the village culture. Have you been to any of the book club meetings before?"
+        ],
+        [
+          "Adam Smith",
+          "That's wonderful to hear, Tamara! The book club meetings are always a great way to connect with others in the community and explore new ideas. I've actually been to a few meetings myself and found them quite engaging. You'll definitely enjoy the discussion and the camaraderie. I'm glad you're diving into the village culture through activities like this, it's a fantastic way to get involved. Let me know if you need any recommendations for books to read or other events to attend!"
+        ],
+        [
+          "Tamara Taylor",
+          "Thanks for the insight, Adam! I appreciate your recommendations, and I'll definitely let you know if I need suggestions on what to read next. I'm looking forward to exploring more of the village activities and getting to know the community better."
+        ],
+        [
+          "Adam Smith",
+          "That sounds fantastic, Tamara! I'm glad you're eager to participate in the book club meeting and explore more of what the village has to offer. If you're interested, I can also introduce you to some of the other members of the book club to help you feel more at ease during the discussions. Just let me know if you'd like me to make those introductions!"
+        ],
+        [
+          "Tamara Taylor",
+          "That would be wonderful, Adam! I'd appreciate any introductions you could make for me to the other book club members. It would definitely help me feel more at ease during the discussions."
+        ],
+        [
+          "Adam Smith",
+          "I can also share some insights on local history with you to further immerse yourself in the village culture. Would you be interested in that?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds fantastic, Adam! I would love to learn more about the local history and immerse myself further in the village culture. Whenever you have some time, I'd be interested in hearing your insights."
+        ],
+        [
+          "Adam Smith",
+          "I can arrange for you to meet some local artists and musicians as well if you're interested. They're an integral part of our community and have some fascinating insights to share."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much for offering to introduce me to other book club members and sharing insights on local history. I would appreciate meeting local artists and musicians as well. It's great to have such welcoming guidance as a newcomer."
+        ],
+        [
+          "Adam Smith",
+          "I can also provide you with information on upcoming community events and projects that you might find interesting. There's always something exciting happening in the village, and I'm happy to keep you in the loop!"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much for all your guidance and support, Adam. I truly appreciate your help in helping me to feel more connected to the community and exploring everything the village has to offer. I look forward to all the upcoming events and getting to know more about the local history, artists, and musicians. Your openness and welcoming attitude have made my transition to the village so much smoother."
+        ],
+        [
+          "Adam Smith",
+          "I'm glad you're interested in getting involved in the community events and projects. Let me know if you need any assistance with navigating through the upcoming events and activities. I'm here to help and support you in any way I can."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much for all your guidance and support, Adam. I truly appreciate your help in helping me to feel more connected to the community and exploring everything the village has to offer. I look forward to all the upcoming events and getting to know more about the local history, artists, and musicians. Your openness and welcoming attitude have made my transition to the village so much smoother."
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        40,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Tamara Taylor and Adam Smith are discussing Tamara's excitement about attending the book club meeting, with Adam offering to introduce her to other members, share insights on local history, and connect her with local artists and musicians. @ <persona> Tamara Taylor",
+      "chat": [
+        [
+          "Tamara Taylor",
+          "Hi Adam! I just wanted to let you know that I'm really excited about attending the book club meeting next week with Carlos. I think it's a great way for me to connect more with the community and immerse myself in the village culture. Have you been to any of the book club meetings before?"
+        ],
+        [
+          "Adam Smith",
+          "That's wonderful to hear, Tamara! The book club meetings are always a great way to connect with others in the community and explore new ideas. I've actually been to a few meetings myself and found them quite engaging. You'll definitely enjoy the discussion and the camaraderie. I'm glad you're diving into the village culture through activities like this, it's a fantastic way to get involved. Let me know if you need any recommendations for books to read or other events to attend!"
+        ],
+        [
+          "Tamara Taylor",
+          "Thanks for the insight, Adam! I appreciate your recommendations, and I'll definitely let you know if I need suggestions on what to read next. I'm looking forward to exploring more of the village activities and getting to know the community better."
+        ],
+        [
+          "Adam Smith",
+          "That sounds fantastic, Tamara! I'm glad you're eager to participate in the book club meeting and explore more of what the village has to offer. If you're interested, I can also introduce you to some of the other members of the book club to help you feel more at ease during the discussions. Just let me know if you'd like me to make those introductions!"
+        ],
+        [
+          "Tamara Taylor",
+          "That would be wonderful, Adam! I'd appreciate any introductions you could make for me to the other book club members. It would definitely help me feel more at ease during the discussions."
+        ],
+        [
+          "Adam Smith",
+          "I can also share some insights on local history with you to further immerse yourself in the village culture. Would you be interested in that?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds fantastic, Adam! I would love to learn more about the local history and immerse myself further in the village culture. Whenever you have some time, I'd be interested in hearing your insights."
+        ],
+        [
+          "Adam Smith",
+          "I can arrange for you to meet some local artists and musicians as well if you're interested. They're an integral part of our community and have some fascinating insights to share."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much for offering to introduce me to other book club members and sharing insights on local history. I would appreciate meeting local artists and musicians as well. It's great to have such welcoming guidance as a newcomer."
+        ],
+        [
+          "Adam Smith",
+          "I can also provide you with information on upcoming community events and projects that you might find interesting. There's always something exciting happening in the village, and I'm happy to keep you in the loop!"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much for all your guidance and support, Adam. I truly appreciate your help in helping me to feel more connected to the community and exploring everything the village has to offer. I look forward to all the upcoming events and getting to know more about the local history, artists, and musicians. Your openness and welcoming attitude have made my transition to the village so much smoother."
+        ],
+        [
+          "Adam Smith",
+          "I'm glad you're interested in getting involved in the community events and projects. Let me know if you need any assistance with navigating through the upcoming events and activities. I'm here to help and support you in any way I can."
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much for all your guidance and support, Adam. I truly appreciate your help in helping me to feel more connected to the community and exploring everything the village has to offer. I look forward to all the upcoming events and getting to know more about the local history, artists, and musicians. Your openness and welcoming attitude have made my transition to the village so much smoother."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 10:49:00"
+  }
+}

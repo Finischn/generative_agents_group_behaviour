@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "managing operations at Hobbs Cafe (checking inventory and restocking supplies) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        21
+      ],
+      "pronunciatio": "\ud83d\uddc2\ufe0f",
+      "description": "working on his poetry collection (organizing his poetry notes and drafts) @ the Ville:Carlos Gomez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        37
+      ],
+      "pronunciatio": "\ud83e\udd38",
+      "description": "taking a break and going for a walk (stretching and doing some light exercises) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        39,
+        65
+      ],
+      "pronunciatio": "\ud83e\uddd0",
+      "description": "preparing for the party and possibly making a trip to the store (checking his pantry and fridge for any necessary ingredients) @ the Ville:Moore family's house:main room:refrigerator",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        39,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning an art exhibition at the village community center, involving showcasing Tamara's comic book series and Ayesha's photography work, collaborating to engage the community, reaching out to other local artists and creators, considering including local musicians and a poetry reading event, and organizing a community clean-up event to give back to the village, as well as involving local schools to showcase the creativity of the younger members of the community. @ <persona> Tamara Taylor",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Tamara! I couldn't help but notice your comic book series, it looks amazing! Are you planning to showcase it at any upcoming events in the village?"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Ayesha! I'm glad you like it. I'm actually considering showcasing it at the upcoming art exhibition at the village community center. It would be great to see your photography there too!"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic idea, Tamara! I would love to collaborate with you on organizing the art exhibition at the village community center. We could showcase both your comic book series and my photography work. It could be a great opportunity to engage the community and celebrate local talent."
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds like a fantastic idea, Ayesha! I would love to collaborate with you on organizing the art exhibition at the village community center. We could showcase both your photography work and my comic book series. It could be a wonderful way to bring the community together and highlight our creativity."
+        ],
+        [
+          "Ayesha Khan",
+          "I think it would be wonderful if we could involve other local artists and creators in the exhibition as well. It could truly showcase the diverse talent in our village."
+        ],
+        [
+          "Tamara Taylor",
+          "That's a brilliant idea, Ayesha! We could reach out to other local artists and creators to join the exhibition, making it a true celebration of the village's talent."
+        ],
+        [
+          "Ayesha Khan",
+          "It would be wonderful to involve other local artists and creators in the exhibition, showcasing the diverse talent in our village."
+        ],
+        [
+          "Tamara Taylor",
+          "We could also see if there are any local musicians interested in performing at the art exhibition to add another element of creativity and community engagement."
+        ],
+        [
+          "Ayesha Khan",
+          "I agree! Including local musicians in the art exhibition would definitely add a unique touch. We could create a truly immersive experience for the community."
+        ],
+        [
+          "Tamara Taylor",
+          "I think reaching out to local musicians to perform at the art exhibition would be a fantastic idea. It could really elevate the overall experience and engage the community in a unique way."
+        ],
+        [
+          "Ayesha Khan",
+          "We should also consider having a poetry reading event as part of the art exhibition to further showcase the creative talents in our village."
+        ],
+        [
+          "Tamara Taylor",
+          "I think including a poetry reading event as part of the art exhibition would be a great idea to showcase even more of the creative talents in our village."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful idea, Tamara! We could also collaborate on organizing a community clean-up event to coincide with the art exhibition. It would be a great way to not only showcase our creativity but also give back to the village."
+        ],
+        [
+          "Tamara Taylor",
+          "Ayesha, I think organizing a community clean-up event to coincide with the art exhibition is a brilliant idea! It would be an excellent opportunity for us to give back to the village and showcase our commitment to the community."
+        ],
+        [
+          "Ayesha Khan",
+          "Tamara, I was also thinking we could involve the local schools in the art exhibition. It could be a great opportunity to showcase the creativity of the younger members of our community."
+        ],
+        [
+          "Tamara Taylor",
+          "That's a fantastic idea, Ayesha! Involving local schools in the art exhibition would truly showcase the creativity of the younger members of our community. We could create a space where everyone, no matter their age, can appreciate and engage with art. By including the local schools, we can inspire the next generation to explore their creative talents and celebrate our village's artistic spirit."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending afternoon classes at Oak Hill College (listening to the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "attending classes at Oak Hill College (participating in a group discussion) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        70,
+        65
+      ],
+      "pronunciatio": "\ud83d\udcde",
+      "description": "attending to customers and working at The Willow Market and Pharmacy (answering phone calls and taking orders for delivery) @ the Ville:Moreno family's house:common room:shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        38,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning an art exhibition at the village community center, involving showcasing Tamara's comic book series and Ayesha's photography work, collaborating to engage the community, reaching out to other local artists and creators, considering including local musicians and a poetry reading event, and organizing a community clean-up event to give back to the village, as well as involving local schools to showcase the creativity of the younger members of the community. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Tamara! I couldn't help but notice your comic book series, it looks amazing! Are you planning to showcase it at any upcoming events in the village?"
+        ],
+        [
+          "Tamara Taylor",
+          "Thank you so much, Ayesha! I'm glad you like it. I'm actually considering showcasing it at the upcoming art exhibition at the village community center. It would be great to see your photography there too!"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic idea, Tamara! I would love to collaborate with you on organizing the art exhibition at the village community center. We could showcase both your comic book series and my photography work. It could be a great opportunity to engage the community and celebrate local talent."
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds like a fantastic idea, Ayesha! I would love to collaborate with you on organizing the art exhibition at the village community center. We could showcase both your photography work and my comic book series. It could be a wonderful way to bring the community together and highlight our creativity."
+        ],
+        [
+          "Ayesha Khan",
+          "I think it would be wonderful if we could involve other local artists and creators in the exhibition as well. It could truly showcase the diverse talent in our village."
+        ],
+        [
+          "Tamara Taylor",
+          "That's a brilliant idea, Ayesha! We could reach out to other local artists and creators to join the exhibition, making it a true celebration of the village's talent."
+        ],
+        [
+          "Ayesha Khan",
+          "It would be wonderful to involve other local artists and creators in the exhibition, showcasing the diverse talent in our village."
+        ],
+        [
+          "Tamara Taylor",
+          "We could also see if there are any local musicians interested in performing at the art exhibition to add another element of creativity and community engagement."
+        ],
+        [
+          "Ayesha Khan",
+          "I agree! Including local musicians in the art exhibition would definitely add a unique touch. We could create a truly immersive experience for the community."
+        ],
+        [
+          "Tamara Taylor",
+          "I think reaching out to local musicians to perform at the art exhibition would be a fantastic idea. It could really elevate the overall experience and engage the community in a unique way."
+        ],
+        [
+          "Ayesha Khan",
+          "We should also consider having a poetry reading event as part of the art exhibition to further showcase the creative talents in our village."
+        ],
+        [
+          "Tamara Taylor",
+          "I think including a poetry reading event as part of the art exhibition would be a great idea to showcase even more of the creative talents in our village."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a wonderful idea, Tamara! We could also collaborate on organizing a community clean-up event to coincide with the art exhibition. It would be a great way to not only showcase our creativity but also give back to the village."
+        ],
+        [
+          "Tamara Taylor",
+          "Ayesha, I think organizing a community clean-up event to coincide with the art exhibition is a brilliant idea! It would be an excellent opportunity for us to give back to the village and showcase our commitment to the community."
+        ],
+        [
+          "Ayesha Khan",
+          "Tamara, I was also thinking we could involve the local schools in the art exhibition. It could be a great opportunity to showcase the creativity of the younger members of our community."
+        ],
+        [
+          "Tamara Taylor",
+          "That's a fantastic idea, Ayesha! Involving local schools in the art exhibition would truly showcase the creativity of the younger members of our community. We could create a space where everyone, no matter their age, can appreciate and engage with art. By including the local schools, we can inspire the next generation to explore their creative talents and celebrate our village's artistic spirit."
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "taking a break to go for a walk and clear his mind (conversing about Adam and Tamara are discussing various community events and activities they can attend together, such as art exhibitions, music events, volunteering at the animal shelter, book club meetings, participating in the community garden project, community clean-up events, and a poetry and music event with traditional folk music elements, as well as exploring local history and cultural spots.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 15:12:10"
+  }
+}

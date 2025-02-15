@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        26
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2640",
+      "description": "managing operations at Hobbs Cafe (conversing about Eddy and Isabella are making plans to explore the village together, starting with a visit to the farmers' market, art gallery, Johnson Park, and ending the day with a meal at The Rose and Crown Pub.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\u23f3",
+      "description": "having lunch (waiting for his food to arrive) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Klaus Mueller and Tom Moreno, discussing various local events and activities to introduce their friend Isabella to the village's culture and heritage @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Tom, I heard there's a community picnic coming up this weekend. Would you be interested in going together and checking it out?"
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a great idea! I'll definitely be there. We can also invite Isabella to join us."
+        ],
+        [
+          "Klaus Mueller",
+          "That's fantastic! I think Isabella would really enjoy the community picnic as well. I'll make sure to extend the invitation to her."
+        ],
+        [
+          "Tom Moreno",
+          "We should also plan to attend the upcoming music jam session at Johnson Park. It would be a great opportunity for Isabella to experience the local music scene."
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely, I agree! The music jam session at Johnson Park always brings a great crowd. It's a perfect opportunity for Isabella to get a feel for the local music scene. Let's make sure she doesn't miss out!"
+        ],
+        [
+          "Tom Moreno",
+          "We should also introduce Isabella to some local historians, artists, and musicians. It would be a great way for her to learn more about the village's culture and heritage."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also consider exploring the local artisans' market next weekend. It's a great opportunity to support local talent and find unique crafts."
+        ],
+        [
+          "Tom Moreno",
+          "We could also plan a visit to the historical museum next week. Isabella would appreciate learning about the village's rich history."
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Tom, I think it would be a great idea to organize a guided tour of the village for Isabella. It could be a fun way for her to explore the various landmarks and learn more about the village's history and culture."
+        ],
+        [
+          "Tom Moreno",
+          "We should also explore the local book club meeting at the library next week. Isabella might enjoy discussing literature with fellow community members."
+        ],
+        [
+          "Klaus Mueller",
+          "Tom, I was thinking we could also plan to visit the local community center next week. There are usually interesting events and workshops happening there that Isabella might enjoy."
+        ],
+        [
+          "Tom Moreno",
+          "We could also consider attending the art exhibition at the local gallery next weekend. Isabella would enjoy experiencing the local art scene."
+        ],
+        [
+          "Klaus Mueller",
+          "Tom, how about we also plan to attend the book club meeting at the library next week? It would be a great way for Isabella to engage with the community and explore different literary works."
+        ],
+        [
+          "Tom Moreno",
+          "Klaus, I think it would also be a good idea to participate in the community garden project next month. Isabella would enjoy getting involved in a hands-on activity and meeting more locals."
+        ],
+        [
+          "Klaus Mueller",
+          "Tom, I think we should also plan to attend the farmers' market next week. Isabella can experience the vibrant local produce and meet some of the local vendors."
+        ],
+        [
+          "Tom Moreno",
+          "Klaus, we should also consider attending the upcoming art exhibition at the local gallery. Isabella would love to immerse herself in the local art scene."
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        39,
+        31
+      ],
+      "pronunciatio": "\ud83c\udfa8",
+      "description": "having lunch (conversing about planning various cultural and community activities to help Isabella feel welcome in the village, including visits to the art gallery, historical museum, community picnic, music event, farmers' market, book club meeting, guided tour, local diner, nature walk, and community center events) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "having lunch and studying at the library (eating her lunch) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        76,
+        49
+      ],
+      "pronunciatio": "\ud83c\udfa8",
+      "description": "having lunch (conversing about immersing themselves in the village's culture and community, Tom Moreno and Wolfgang Schulz discuss exploring the farmers' market, attending an art exhibition, joining a book club meeting, checking out music events, exploring the local music scene, and visiting the historical museum.) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "taking a break and having lunch at Hobbs Cafe (conversing about Eddy and Isabella are making plans to explore the village together, starting with a visit to the farmers' market, art gallery, Johnson Park, and ending the day with a meal at The Rose and Crown Pub.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        76,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Klaus Mueller and Tom Moreno, discussing various local events and activities to introduce their friend Isabella to the village's culture and heritage @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Tom, I heard there's a community picnic coming up this weekend. Would you be interested in going together and checking it out?"
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a great idea! I'll definitely be there. We can also invite Isabella to join us."
+        ],
+        [
+          "Klaus Mueller",
+          "That's fantastic! I think Isabella would really enjoy the community picnic as well. I'll make sure to extend the invitation to her."
+        ],
+        [
+          "Tom Moreno",
+          "We should also plan to attend the upcoming music jam session at Johnson Park. It would be a great opportunity for Isabella to experience the local music scene."
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely, I agree! The music jam session at Johnson Park always brings a great crowd. It's a perfect opportunity for Isabella to get a feel for the local music scene. Let's make sure she doesn't miss out!"
+        ],
+        [
+          "Tom Moreno",
+          "We should also introduce Isabella to some local historians, artists, and musicians. It would be a great way for her to learn more about the village's culture and heritage."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also consider exploring the local artisans' market next weekend. It's a great opportunity to support local talent and find unique crafts."
+        ],
+        [
+          "Tom Moreno",
+          "We could also plan a visit to the historical museum next week. Isabella would appreciate learning about the village's rich history."
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Tom, I think it would be a great idea to organize a guided tour of the village for Isabella. It could be a fun way for her to explore the various landmarks and learn more about the village's history and culture."
+        ],
+        [
+          "Tom Moreno",
+          "We should also explore the local book club meeting at the library next week. Isabella might enjoy discussing literature with fellow community members."
+        ],
+        [
+          "Klaus Mueller",
+          "Tom, I was thinking we could also plan to visit the local community center next week. There are usually interesting events and workshops happening there that Isabella might enjoy."
+        ],
+        [
+          "Tom Moreno",
+          "We could also consider attending the art exhibition at the local gallery next weekend. Isabella would enjoy experiencing the local art scene."
+        ],
+        [
+          "Klaus Mueller",
+          "Tom, how about we also plan to attend the book club meeting at the library next week? It would be a great way for Isabella to engage with the community and explore different literary works."
+        ],
+        [
+          "Tom Moreno",
+          "Klaus, I think it would also be a good idea to participate in the community garden project next month. Isabella would enjoy getting involved in a hands-on activity and meeting more locals."
+        ],
+        [
+          "Klaus Mueller",
+          "Tom, I think we should also plan to attend the farmers' market next week. Isabella can experience the vibrant local produce and meet some of the local vendors."
+        ],
+        [
+          "Tom Moreno",
+          "Klaus, we should also consider attending the upcoming art exhibition at the local gallery. Isabella would love to immerse herself in the local art scene."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\ud83d\udce7",
+      "description": "having lunch (checking her emails) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        60,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "reaching out to Tamara Taylor to discuss upcoming community events (reviewing his notes from previous discussions with Tamara) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 12:53:00"
+  }
+}

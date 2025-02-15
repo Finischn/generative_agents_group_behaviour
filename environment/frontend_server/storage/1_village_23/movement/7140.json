@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udd12\ud83d\udea8",
+      "description": "closing Hobbs Cafe and cleaning up (locking up the cafe and setting the alarm) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        62,
+        34
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Tom Moreno discussing incorporating traditional folk music elements into their poetry and music project, collaborating with local historians and artists, exploring village attractions and activities, joining a book club meeting, attending a music jam session, volunteering for a community garden project, and learning about the local history from historians. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Tom, I was thinking about incorporating some traditional folk music elements into our poetry and music project. What do you think?"
+        ],
+        [
+          "Tom Moreno",
+          "That's a fantastic idea, Carlos! I know a few local musicians and artists who could help us with that. Let's meet up later and discuss it further."
+        ],
+        [
+          "Carlos Gomez",
+          "I\u2019m also interested in involving the community in our project. Do you think we could collaborate with local historians and organize a storytelling and music workshop for the local school children?"
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a great plan, Carlos. I\u2019m excited to explore these ideas further and involve the community. Let's set up a meeting to discuss the details and reach out to the local historians and artists."
+        ],
+        [
+          "Carlos Gomez",
+          "Tom, I was also thinking about exploring various attractions and activities in the village, like visiting Johnson Park, checking out an art exhibition, attending a book club meeting, joining a community garden project, and attending a community picnic. Would you be interested in joining me?"
+        ],
+        [
+          "Tom Moreno",
+          "Absolutely, Carlos! I would love to join you in exploring the village and participating in these activities. Let's plan our adventure together."
+        ],
+        [
+          "Carlos Gomez",
+          "Tom, I was wondering if you could show me around the village and introduce me to some of the local artists and musicians. I'd love to learn more about the creative community here."
+        ],
+        [
+          "Tom Moreno",
+          "Absolutely, Carlos! I would be happy to show you around the village and introduce you to some of the local artists and musicians. Let's start by visiting the art exhibition at the town hall and then we can meet with a few musicians at Hobbs Cafe."
+        ],
+        [
+          "Carlos Gomez",
+          "Tom, I heard about a book club meeting happening next week. Would you be interested in joining me?"
+        ],
+        [
+          "Tom Moreno",
+          "Sure, Carlos! I would love to join you at the book club meeting next week. It's a great way to meet more people in the community and discuss some interesting books."
+        ],
+        [
+          "Carlos Gomez",
+          "Tom, I was thinking about exploring the local music scene and possibly attending a music jam session at the village hall. Would you be interested in joining me?"
+        ],
+        [
+          "Tom Moreno",
+          "Carlos, I think it would be great if we could also visit the local farmers' market together. It's a lively place where you can find fresh produce and meet more members of our community. What do you think?"
+        ],
+        [
+          "Carlos Gomez",
+          "Tom, I also heard about a community garden project that's happening next weekend. Would you be interested in joining me to volunteer and help out?"
+        ],
+        [
+          "Tom Moreno",
+          "Carlos, I think it would be wonderful if we could also attend the community picnic together. It's a great opportunity to socialize with other villagers and enjoy some outdoor activities. What do you think?"
+        ],
+        [
+          "Carlos Gomez",
+          "Tom, I'm also curious about the local history of the village. Do you know any local historians we could connect with to learn more?"
+        ],
+        [
+          "Tom Moreno",
+          "Carlos, I can introduce you to some local historians who can provide you with insights into the rich history of our village. Let's set up a meeting with them to learn more."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        123,
+        46
+      ],
+      "pronunciatio": "\ud83d\udc69\u200d\ud83c\udf73",
+      "description": "having dinner at home (cooking dinner) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        35,
+        32
+      ],
+      "pronunciatio": "\ud83c\udfa4",
+      "description": "still enjoying his birthday party at The Rose and Crown Pub (telling stories from his time in the military) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcda\ud83d\udcac",
+      "description": "taking a break and chatting with her friends at the library @ the Ville:Oak Hill College:library:library sofa",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        118,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcda\ud83d\udcdd",
+      "description": "reviewing notes and studying for exams (reviewing his flashcards and making final notes on important topics) @ the Ville:Dorm for Oak Hill College:Wolfgang Schulz's room:desk",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\u2753",
+      "description": "asking questions and clarifying any confusion @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        61,
+        34
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Tom Moreno discussing incorporating traditional folk music elements into their poetry and music project, collaborating with local historians and artists, exploring village attractions and activities, joining a book club meeting, attending a music jam session, volunteering for a community garden project, and learning about the local history from historians. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Tom, I was thinking about incorporating some traditional folk music elements into our poetry and music project. What do you think?"
+        ],
+        [
+          "Tom Moreno",
+          "That's a fantastic idea, Carlos! I know a few local musicians and artists who could help us with that. Let's meet up later and discuss it further."
+        ],
+        [
+          "Carlos Gomez",
+          "I\u2019m also interested in involving the community in our project. Do you think we could collaborate with local historians and organize a storytelling and music workshop for the local school children?"
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a great plan, Carlos. I\u2019m excited to explore these ideas further and involve the community. Let's set up a meeting to discuss the details and reach out to the local historians and artists."
+        ],
+        [
+          "Carlos Gomez",
+          "Tom, I was also thinking about exploring various attractions and activities in the village, like visiting Johnson Park, checking out an art exhibition, attending a book club meeting, joining a community garden project, and attending a community picnic. Would you be interested in joining me?"
+        ],
+        [
+          "Tom Moreno",
+          "Absolutely, Carlos! I would love to join you in exploring the village and participating in these activities. Let's plan our adventure together."
+        ],
+        [
+          "Carlos Gomez",
+          "Tom, I was wondering if you could show me around the village and introduce me to some of the local artists and musicians. I'd love to learn more about the creative community here."
+        ],
+        [
+          "Tom Moreno",
+          "Absolutely, Carlos! I would be happy to show you around the village and introduce you to some of the local artists and musicians. Let's start by visiting the art exhibition at the town hall and then we can meet with a few musicians at Hobbs Cafe."
+        ],
+        [
+          "Carlos Gomez",
+          "Tom, I heard about a book club meeting happening next week. Would you be interested in joining me?"
+        ],
+        [
+          "Tom Moreno",
+          "Sure, Carlos! I would love to join you at the book club meeting next week. It's a great way to meet more people in the community and discuss some interesting books."
+        ],
+        [
+          "Carlos Gomez",
+          "Tom, I was thinking about exploring the local music scene and possibly attending a music jam session at the village hall. Would you be interested in joining me?"
+        ],
+        [
+          "Tom Moreno",
+          "Carlos, I think it would be great if we could also visit the local farmers' market together. It's a lively place where you can find fresh produce and meet more members of our community. What do you think?"
+        ],
+        [
+          "Carlos Gomez",
+          "Tom, I also heard about a community garden project that's happening next weekend. Would you be interested in joining me to volunteer and help out?"
+        ],
+        [
+          "Tom Moreno",
+          "Carlos, I think it would be wonderful if we could also attend the community picnic together. It's a great opportunity to socialize with other villagers and enjoy some outdoor activities. What do you think?"
+        ],
+        [
+          "Carlos Gomez",
+          "Tom, I'm also curious about the local history of the village. Do you know any local historians we could connect with to learn more?"
+        ],
+        [
+          "Tom Moreno",
+          "Carlos, I can introduce you to some local historians who can provide you with insights into the rich history of our village. Let's set up a meeting with them to learn more."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "finishing up any remaining work for the day (reviewing her progress on her children's book series) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        36,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending a local mayoral candidate debate (taking notes during the debate) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 19:50:00"
+  }
+}

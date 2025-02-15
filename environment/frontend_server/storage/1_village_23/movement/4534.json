@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83e\uddf9",
+      "description": "managing operations at Hobbs Cafe and interacting with customers (cleaning and organizing the cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having lunch (conversing about Sam and Carlos are chatting about exploring the village together, attending an art exhibition, hiking trail, local music scene, concert at the park, art gallery, historical museum, community center, and a community picnic at Johnson Park.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        117,
+        33
+      ],
+      "pronunciatio": "\ud83c\udf33\ud83c\udfb6",
+      "description": "writing his research paper at the library (conversing about Carlos Gomez and Klaus Mueller discussing exploring the village community, including visiting the farmers' market, local art exhibition, community center, joining the book club, trying out The Rose and Crown Pub, joining the community garden project, exploring village trails and nature reserves, attending weekly music jam sessions at the village hall, and volunteering at the local animal shelter.) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        57,
+        28
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "having lunch (conversing about Sam and Carlos are chatting about exploring the village together, attending an art exhibition, hiking trail, local music scene, concert at the park, art gallery, historical museum, community center, and a community picnic at Johnson Park.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending her fifth class at Oak Hill College and discussing her senior thesis topic with her professor @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        82,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Eddy Lin discussing various places to explore and activities to try out in the village, including the local art gallery, historical museum, local diner, Johnson Park, farmers' market, book club, The Rose and Crown Pub, and the community center. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Eddy, I really appreciate all the recommendations you've given me about the village. I'm excited to explore Johnson Park, attend the book club, and meet local artists and musicians. Do you have any other suggestions for places I should check out?"
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad you're enjoying the recommendations! Another place you should definitely check out is the local art gallery. It showcases some amazing work by talented artists from the village."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds fantastic, Eddy! I'll definitely make a trip to the local art gallery. Thank you for the suggestion!"
+        ],
+        [
+          "Eddy Lin",
+          "You should also consider visiting the historical museum in the village. It's a great place to learn about the rich heritage and history of our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Eddy. The historical museum sounds fascinating. I'll make sure to add it to my list of places to visit!"
+        ],
+        [
+          "Eddy Lin",
+          "You should also consider trying out the local diner. It's a beloved spot in the village with delicious food and a cozy atmosphere."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thanks for all the great suggestions, Eddy! I'll definitely make sure to visit the local art gallery, historical museum, and try out the local diner. Your insights have been really helpful!"
+        ],
+        [
+          "Eddy Lin",
+          "You should also consider visiting Johnson Park. It's a beautiful spot in the village with nature trails and scenic views. It's a great place to relax and enjoy the outdoors."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much for all the wonderful recommendations, Eddy! I can't wait to explore all these places and immerse myself in the village's culture and history. Your insights have been invaluable to me as a newcomer."
+        ],
+        [
+          "Eddy Lin",
+          "You should also consider checking out the farmers' market in the village. It's a great place to find fresh produce, local goods, and mingle with other residents. It's held every Saturday morning in the town square."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Eddy, for all your wonderful suggestions. I'm looking forward to exploring all these places and getting to know the village better. Your insights have been invaluable to me as a newcomer."
+        ],
+        [
+          "Eddy Lin",
+          "You should also consider attending the local book club on Thursdays. It's a great opportunity to meet other residents, discuss interesting books, and be part of the community. I think you'll enjoy it!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Eddy, for all your wonderful suggestions. I'm looking forward to exploring all these places and getting to know the village better. Your insights have been invaluable to me as a newcomer."
+        ],
+        [
+          "Eddy Lin",
+          "You should also consider trying out The Rose and Crown Pub in the village. It's a popular spot for locals to hang out, grab a drink, and enjoy live music on weekends. I think you'll really like it!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Eddy, for all your wonderful suggestions. I'm looking forward to exploring all these places and getting to know the village better. Your insights have been invaluable to me as a newcomer."
+        ],
+        [
+          "Eddy Lin",
+          "You should also consider exploring the local community center. They often host events, workshops, and activities that are a great way to meet other villagers and get involved in the community. It's a fantastic place to connect with people and learn more about the village."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        79,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Eddy Lin discussing various places to explore and activities to try out in the village, including the local art gallery, historical museum, local diner, Johnson Park, farmers' market, book club, The Rose and Crown Pub, and the community center. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Eddy, I really appreciate all the recommendations you've given me about the village. I'm excited to explore Johnson Park, attend the book club, and meet local artists and musicians. Do you have any other suggestions for places I should check out?"
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad you're enjoying the recommendations! Another place you should definitely check out is the local art gallery. It showcases some amazing work by talented artists from the village."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds fantastic, Eddy! I'll definitely make a trip to the local art gallery. Thank you for the suggestion!"
+        ],
+        [
+          "Eddy Lin",
+          "You should also consider visiting the historical museum in the village. It's a great place to learn about the rich heritage and history of our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Eddy. The historical museum sounds fascinating. I'll make sure to add it to my list of places to visit!"
+        ],
+        [
+          "Eddy Lin",
+          "You should also consider trying out the local diner. It's a beloved spot in the village with delicious food and a cozy atmosphere."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thanks for all the great suggestions, Eddy! I'll definitely make sure to visit the local art gallery, historical museum, and try out the local diner. Your insights have been really helpful!"
+        ],
+        [
+          "Eddy Lin",
+          "You should also consider visiting Johnson Park. It's a beautiful spot in the village with nature trails and scenic views. It's a great place to relax and enjoy the outdoors."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you so much for all the wonderful recommendations, Eddy! I can't wait to explore all these places and immerse myself in the village's culture and history. Your insights have been invaluable to me as a newcomer."
+        ],
+        [
+          "Eddy Lin",
+          "You should also consider checking out the farmers' market in the village. It's a great place to find fresh produce, local goods, and mingle with other residents. It's held every Saturday morning in the town square."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Eddy, for all your wonderful suggestions. I'm looking forward to exploring all these places and getting to know the village better. Your insights have been invaluable to me as a newcomer."
+        ],
+        [
+          "Eddy Lin",
+          "You should also consider attending the local book club on Thursdays. It's a great opportunity to meet other residents, discuss interesting books, and be part of the community. I think you'll enjoy it!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Eddy, for all your wonderful suggestions. I'm looking forward to exploring all these places and getting to know the village better. Your insights have been invaluable to me as a newcomer."
+        ],
+        [
+          "Eddy Lin",
+          "You should also consider trying out The Rose and Crown Pub in the village. It's a popular spot for locals to hang out, grab a drink, and enjoy live music on weekends. I think you'll really like it!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Thank you, Eddy, for all your wonderful suggestions. I'm looking forward to exploring all these places and getting to know the village better. Your insights have been invaluable to me as a newcomer."
+        ],
+        [
+          "Eddy Lin",
+          "You should also consider exploring the local community center. They often host events, workshops, and activities that are a great way to meet other villagers and get involved in the community. It's a fantastic place to connect with people and learn more about the village."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        90,
+        52
+      ],
+      "pronunciatio": "\ud83e\uddf9",
+      "description": "still managing the store and helping customers with their orders (restocking shelves and organizing products) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        57,
+        65
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having lunch (eating her lunch) @ the Ville:Tamara Taylor and Carmen Ortiz's house:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        22,
+        64
+      ],
+      "pronunciatio": "\u23f3",
+      "description": "having lunch and taking a break to go for a walk (taking a 10-minute break to relax and stretch) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:35:40"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83e\uddf9\ud83e\uddfa",
+      "description": "managing operations at Hobbs Cafe (cleaning and organizing the cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        33,
+        45
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "going for a walk in nature (walking to the nearby park) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        33,
+        43
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "taking a break and going for a walk (conversing about Klaus Mueller and Ayesha Khan are discussing exploring the village, joining the book club, meeting local artists, historians, and musicians, attending community events, visiting art exhibitions, and exploring hidden gems and local spots together.) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        37,
+        60
+      ],
+      "pronunciatio": "\ud83c\udfe0\ud83c\udf89",
+      "description": "preparing for the party and possibly making a trip to the store (organizing and cleaning his home in preparation for the party) @ the Ville:Moore family's house:main room:closet",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        32,
+        42
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "visiting Johnson Park with Isabella (conversing about Klaus Mueller and Ayesha Khan are discussing exploring the village, joining the book club, meeting local artists, historians, and musicians, attending community events, visiting art exhibitions, and exploring hidden gems and local spots together.) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending afternoon classes at Oak Hill College (taking notes) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "attending classes at Oak Hill College (working on an assignment) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        68,
+        46
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "attending to customers and working at The Willow Market and Pharmacy (checking inventory and placing orders for restocking) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        74
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "still working on her comic book series (reviewing her notes and ideas for the comic book series) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        59
+      ],
+      "pronunciatio": "\ud83c\udfe1\ud83d\udc5f",
+      "description": "taking a break to go for a walk and clear his mind (returning home and taking off his walking shoes) @ the Ville:Adam Smith's house:main room:closet",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 15:56:00"
+  }
+}

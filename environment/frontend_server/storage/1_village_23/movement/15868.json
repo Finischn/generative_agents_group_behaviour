@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        56,
+        29
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Isabella Rodriguez and Ayesha Khan, making plans to explore the village, attend events together, and join a book club meeting. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Ayesha, I'm so glad you could make it to my birthday party at Hobbs Cafe! Have you had a chance to explore Johnson Park yet?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Isabella! I haven't had a chance to explore Johnson Park yet, but I'm looking forward to it. How was your dinner at the local diner with Carlos?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was great! Carlos and I had a lovely dinner and we talked about our plans to explore the village together. Would you like to join us?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea! I'd love to join you and Carlos in exploring the village together. When do you guys plan on going to Johnson Park?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We plan on going to Johnson Park tomorrow afternoon around 2pm. Would you like to join us?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds perfect, Isabella! I would love to join you and Carlos in exploring the village tomorrow afternoon at 2pm. Thank you for the invitation!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm also excited about attending the upcoming art exhibition in the village. Would you like to come with me?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds wonderful, Isabella! I would love to come with you to the art exhibition in the village. Thank you for inviting me."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm also planning to attend Sam's birthday party at The Rose and Crown Pub tonight at 5 pm. Would you like to join me?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic plan, Isabella! I would love to join you at Sam's birthday party at The Rose and Crown Pub. Thank you for inviting me!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Ayesha, I'm so glad we both are exploring the village together and attending these wonderful events. I'm looking forward to our adventures together!"
+        ],
+        [
+          "Ayesha Khan",
+          "I'm excited to explore the village with you and attend the art exhibition and Sam's birthday party. Thank you for including me in your plans, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hey Ayesha, I'm really enjoying getting to know the village and exploring all the exciting events and places here. It's been so much fun going on these adventures with you. I'm looking forward to many more to come!"
+        ],
+        [
+          "Ayesha Khan",
+          "Isabella, I agree, exploring the village with you has been amazing. I'm grateful for your friendship and for introducing me to all these wonderful places and events. I look forward to more adventures with you!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Ayesha, I was thinking of attending the book club meeting next week. Would you like to join me?"
+        ],
+        [
+          "Ayesha Khan",
+          "Isabella, I would love to join you at the book club meeting next week! Thank you for inviting me."
+        ]
+      ]
+    },
+    "Carlos Gomez": {
+      "movement": [
+        96,
+        21
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f\ud83d\udebf",
+      "description": "having dinner (clearing the table and washing the dishes) @ the Ville:Carlos Gomez's apartment:main room:kitchen sink",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        55,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf39\ud83c\udf7b",
+      "description": "at The Rose and Crown Pub for Sam's birthday party @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        59,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "still celebrating his birthday at The Rose and Crown Pub @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        56,
+        28
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Isabella Rodriguez and Ayesha Khan, making plans to explore the village, attend events together, and join a book club meeting. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Ayesha, I'm so glad you could make it to my birthday party at Hobbs Cafe! Have you had a chance to explore Johnson Park yet?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Isabella! I haven't had a chance to explore Johnson Park yet, but I'm looking forward to it. How was your dinner at the local diner with Carlos?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was great! Carlos and I had a lovely dinner and we talked about our plans to explore the village together. Would you like to join us?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a great idea! I'd love to join you and Carlos in exploring the village together. When do you guys plan on going to Johnson Park?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We plan on going to Johnson Park tomorrow afternoon around 2pm. Would you like to join us?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds perfect, Isabella! I would love to join you and Carlos in exploring the village tomorrow afternoon at 2pm. Thank you for the invitation!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm also excited about attending the upcoming art exhibition in the village. Would you like to come with me?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds wonderful, Isabella! I would love to come with you to the art exhibition in the village. Thank you for inviting me."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm also planning to attend Sam's birthday party at The Rose and Crown Pub tonight at 5 pm. Would you like to join me?"
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds like a fantastic plan, Isabella! I would love to join you at Sam's birthday party at The Rose and Crown Pub. Thank you for inviting me!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Ayesha, I'm so glad we both are exploring the village together and attending these wonderful events. I'm looking forward to our adventures together!"
+        ],
+        [
+          "Ayesha Khan",
+          "I'm excited to explore the village with you and attend the art exhibition and Sam's birthday party. Thank you for including me in your plans, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hey Ayesha, I'm really enjoying getting to know the village and exploring all the exciting events and places here. It's been so much fun going on these adventures with you. I'm looking forward to many more to come!"
+        ],
+        [
+          "Ayesha Khan",
+          "Isabella, I agree, exploring the village with you has been amazing. I'm grateful for your friendship and for introducing me to all these wonderful places and events. I look forward to more adventures with you!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Ayesha, I was thinking of attending the book club meeting next week. Would you like to join me?"
+        ],
+        [
+          "Ayesha Khan",
+          "Isabella, I would love to join you at the book club meeting next week! Thank you for inviting me."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        92,
+        32
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "reviewing notes and studying for exams (taking a break to eat dinner) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending an evening music theory class at Oak Hill College (listening to the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        73,
+        67
+      ],
+      "pronunciatio": "\ud83d\udce7",
+      "description": "getting ready for his meeting with Carlos tomorrow (checking his email for any updates from Carlos) @ the Ville:Moreno family's house:common room:common room table",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\u23f0",
+      "description": "finishing up any remaining work before relaxing for the evening (responding to any urgent emails) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        67,
+        26
+      ],
+      "pronunciatio": "\ud83c\udfab",
+      "description": "attending a local mayoral candidate debate (checking in and finding his seat) @ the Ville:Ryan Park's apartment:main room:computer desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 20:04:40"
+  }
+}

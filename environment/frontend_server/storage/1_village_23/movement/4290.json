@@ -1,0 +1,357 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcb0",
+      "description": "managing operations at Hobbs Cafe and interacting with customers (managing the cash register and handling payments) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        98,
+        29
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Klaus Mueller discussing exploring the village community, including visiting the farmers' market, local art exhibition, community center, joining the book club, trying out The Rose and Crown Pub, joining the community garden project, exploring village trails and nature reserves, attending weekly music jam sessions at the village hall, and volunteering at the local animal shelter. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Klaus, I was thinking about checking out the farmers' market this weekend. Would you like to join me?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Carlos! I'd love to join you at the farmers' market this weekend and show you around."
+        ],
+        [
+          "Carlos Gomez",
+          "Since you've been in the village for a while, do you have any recommendations for other local events or places to explore?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're interested in exploring more of the village, Carlos. In addition to the farmers' market, I recommend checking out the local art exhibition next week and visiting the community center for some upcoming events. Let me know if you need any more suggestions!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for the recommendations, Klaus. I'll make sure to check out the local art exhibition next week and visit the community center for upcoming events."
+        ],
+        [
+          "Klaus Mueller",
+          "Carlos, since you're new to the village, I also recommend joining the local book club. It's a great way to meet fellow residents and explore different genres of literature. Feel free to let me know if you need more information on how to get involved!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Klaus, for all the wonderful suggestions! I am excited to explore the farmers' market, local art exhibition, and community center. I will definitely check out the book club as well. Your guidance is truly appreciated!"
+        ],
+        [
+          "Klaus Mueller",
+          "Carlos, I also recommend trying out the local diner, The Rose and Crown Pub. It's a cozy spot with delicious food and a welcoming atmosphere. It's a great place to unwind and connect with other villagers."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Klaus, for all the wonderful suggestions! I look forward to checking out the local art exhibition, community center, and the book club. I will definitely visit The Rose and Crown Pub as well. Your insights have been incredibly helpful in getting me involved in the village community."
+        ],
+        [
+          "Klaus Mueller",
+          "Carlos, if you're interested in exploring more of the village, I suggest joining the community garden project. It's a great way to connect with nature, meet other villagers, and contribute to a meaningful cause."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Klaus, for all your wonderful suggestions and recommendations. I really appreciate the guidance you've provided me in exploring the village community. I'm excited to check out the farmers' market this weekend and look forward to joining the book club and exploring the local art exhibition and community center. I'll also make sure to visit The Rose and Crown Pub and consider joining the community garden project. Your insights have been invaluable in helping me settle in and connect with the village."
+        ],
+        [
+          "Klaus Mueller",
+          "Carlos, I also recommend exploring the village trails and nature reserves. It's a great way to appreciate the natural beauty of our surroundings, go for peaceful walks, and observe the local wildlife. Let me know if you need any directions or recommendations for your outdoor adventures!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Klaus, for all the wonderful suggestions and recommendations. I really appreciate the guidance you've provided me in exploring the village community. I'm excited to check out the farmers' market this weekend and look forward to joining the book club and exploring the local art exhibition and community center. I'll also make sure to visit The Rose and Crown Pub and consider joining the community garden project. Your insights have been invaluable in helping me settle in and connect with the village."
+        ],
+        [
+          "Klaus Mueller",
+          "Carlos, one more thing you might enjoy is attending the weekly music jam sessions at the village hall. It's a great way to connect with local musicians and enjoy some live music. Let me know if you're interested and I can give you more details."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Klaus, for all the wonderful suggestions and recommendations. I really appreciate the guidance you've provided me in exploring the village community. I'm excited to check out the farmers' market this weekend and look forward to joining the book club and exploring the local art exhibition and community center. I'll also make sure to visit The Rose and Crown Pub and consider joining the community garden project. Your insights have been invaluable in helping me settle in and connect with the village."
+        ],
+        [
+          "Klaus Mueller",
+          "Carlos, another activity you might enjoy is volunteering at the local animal shelter. It's a rewarding way to give back to the community and help our furry friends. Let me know if you're interested and I can provide you with more information."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        94,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Klaus Mueller discussing exploring the village community, including visiting the farmers' market, local art exhibition, community center, joining the book club, trying out The Rose and Crown Pub, joining the community garden project, exploring village trails and nature reserves, attending weekly music jam sessions at the village hall, and volunteering at the local animal shelter. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Klaus, I was thinking about checking out the farmers' market this weekend. Would you like to join me?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Carlos! I'd love to join you at the farmers' market this weekend and show you around."
+        ],
+        [
+          "Carlos Gomez",
+          "Since you've been in the village for a while, do you have any recommendations for other local events or places to explore?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're interested in exploring more of the village, Carlos. In addition to the farmers' market, I recommend checking out the local art exhibition next week and visiting the community center for some upcoming events. Let me know if you need any more suggestions!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you for the recommendations, Klaus. I'll make sure to check out the local art exhibition next week and visit the community center for upcoming events."
+        ],
+        [
+          "Klaus Mueller",
+          "Carlos, since you're new to the village, I also recommend joining the local book club. It's a great way to meet fellow residents and explore different genres of literature. Feel free to let me know if you need more information on how to get involved!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Klaus, for all the wonderful suggestions! I am excited to explore the farmers' market, local art exhibition, and community center. I will definitely check out the book club as well. Your guidance is truly appreciated!"
+        ],
+        [
+          "Klaus Mueller",
+          "Carlos, I also recommend trying out the local diner, The Rose and Crown Pub. It's a cozy spot with delicious food and a welcoming atmosphere. It's a great place to unwind and connect with other villagers."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Klaus, for all the wonderful suggestions! I look forward to checking out the local art exhibition, community center, and the book club. I will definitely visit The Rose and Crown Pub as well. Your insights have been incredibly helpful in getting me involved in the village community."
+        ],
+        [
+          "Klaus Mueller",
+          "Carlos, if you're interested in exploring more of the village, I suggest joining the community garden project. It's a great way to connect with nature, meet other villagers, and contribute to a meaningful cause."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Klaus, for all your wonderful suggestions and recommendations. I really appreciate the guidance you've provided me in exploring the village community. I'm excited to check out the farmers' market this weekend and look forward to joining the book club and exploring the local art exhibition and community center. I'll also make sure to visit The Rose and Crown Pub and consider joining the community garden project. Your insights have been invaluable in helping me settle in and connect with the village."
+        ],
+        [
+          "Klaus Mueller",
+          "Carlos, I also recommend exploring the village trails and nature reserves. It's a great way to appreciate the natural beauty of our surroundings, go for peaceful walks, and observe the local wildlife. Let me know if you need any directions or recommendations for your outdoor adventures!"
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Klaus, for all the wonderful suggestions and recommendations. I really appreciate the guidance you've provided me in exploring the village community. I'm excited to check out the farmers' market this weekend and look forward to joining the book club and exploring the local art exhibition and community center. I'll also make sure to visit The Rose and Crown Pub and consider joining the community garden project. Your insights have been invaluable in helping me settle in and connect with the village."
+        ],
+        [
+          "Klaus Mueller",
+          "Carlos, one more thing you might enjoy is attending the weekly music jam sessions at the village hall. It's a great way to connect with local musicians and enjoy some live music. Let me know if you're interested and I can give you more details."
+        ],
+        [
+          "Carlos Gomez",
+          "Thank you, Klaus, for all the wonderful suggestions and recommendations. I really appreciate the guidance you've provided me in exploring the village community. I'm excited to check out the farmers' market this weekend and look forward to joining the book club and exploring the local art exhibition and community center. I'll also make sure to visit The Rose and Crown Pub and consider joining the community garden project. Your insights have been invaluable in helping me settle in and connect with the village."
+        ],
+        [
+          "Klaus Mueller",
+          "Carlos, another activity you might enjoy is volunteering at the local animal shelter. It's a rewarding way to give back to the community and help our furry friends. Let me know if you're interested and I can provide you with more information."
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        91,
+        46
+      ],
+      "pronunciatio": "\ud83c\udf82",
+      "description": "running errands and gathering party material (ordering a cake for the party) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy Lin and Ayesha Khan are chatting about collaborating on a poetry and music project, meeting at Hobbs Cafe, exploring the village, visiting the farmers' market, having dinner at The Rose and Crown Pub, walking in Johnson Park, and attending a book club meeting. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Ayesha, I'm glad we bumped into each other here at Oak Hill College. How have your classes been going so far?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Eddy, my classes have been going really well. I'm actually quite excited about our poetry and music project. How about you?"
+        ],
+        [
+          "Eddy Lin",
+          "I'm looking forward to discussing our project ideas in more detail at Hobbs Cafe tomorrow afternoon. It will be a great opportunity for us to share our creative vision."
+        ],
+        [
+          "Ayesha Khan",
+          "I agree, I'm excited to collaborate with you on this project. Let's discuss more at Hobbs Cafe tomorrow."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I would love to show you around the village after our meeting at Hobbs Cafe tomorrow. There are some hidden gems and local spots I'm sure you'll enjoy exploring."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds wonderful, Eddy. I would love to explore the hidden gems and local spots with you. Thank you for offering to show me around!"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, there is a lovely farmers' market in the village that I think you would enjoy visiting. Would you like to explore it together after our meeting at Hobbs Cafe tomorrow?"
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Eddy. I appreciate your kindness in showing me around the village and I'm looking forward to exploring the farmers' market with you!"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, after visiting the farmers' market, would you be interested in grabbing dinner at The Rose and Crown Pub? It's a local favorite with great food and a cozy atmosphere."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds fantastic, Eddy! I would love to have dinner at The Rose and Crown Pub after visiting the farmers' market tomorrow. Thank you for inviting me!"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, after dinner at The Rose and Crown Pub, we could take a walk in Johnson Park to see some military memorabilia. It's a beautiful spot with a lot of history."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I truly appreciate your thoughtfulness in planning out our day tomorrow. I'm really looking forward to exploring the village with you and experiencing all these wonderful places you're suggesting."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I'm thrilled to have you in the village community. I'm sure you'll find so much inspiration here for our poetry and music project. Let me know if you need any help settling in or finding your way around."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, thank you so much for being so welcoming and offering to show me around the village. I'm truly grateful for your kindness."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, before we end our conversation, I wanted to invite you to attend a book club meeting with me next week. It's a great way to meet other residents and discuss some interesting reads. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I appreciate your invitation to the book club meeting next week. I would love to attend and meet other residents in the village. Thank you for including me!"
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udd0d\u2705",
+      "description": "studying for exams (reviewing his practice exam and checking his answers) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        113,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Eddy Lin and Ayesha Khan are chatting about collaborating on a poetry and music project, meeting at Hobbs Cafe, exploring the village, visiting the farmers' market, having dinner at The Rose and Crown Pub, walking in Johnson Park, and attending a book club meeting. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Ayesha, I'm glad we bumped into each other here at Oak Hill College. How have your classes been going so far?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Eddy, my classes have been going really well. I'm actually quite excited about our poetry and music project. How about you?"
+        ],
+        [
+          "Eddy Lin",
+          "I'm looking forward to discussing our project ideas in more detail at Hobbs Cafe tomorrow afternoon. It will be a great opportunity for us to share our creative vision."
+        ],
+        [
+          "Ayesha Khan",
+          "I agree, I'm excited to collaborate with you on this project. Let's discuss more at Hobbs Cafe tomorrow."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I would love to show you around the village after our meeting at Hobbs Cafe tomorrow. There are some hidden gems and local spots I'm sure you'll enjoy exploring."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds wonderful, Eddy. I would love to explore the hidden gems and local spots with you. Thank you for offering to show me around!"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, there is a lovely farmers' market in the village that I think you would enjoy visiting. Would you like to explore it together after our meeting at Hobbs Cafe tomorrow?"
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Eddy. I appreciate your kindness in showing me around the village and I'm looking forward to exploring the farmers' market with you!"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, after visiting the farmers' market, would you be interested in grabbing dinner at The Rose and Crown Pub? It's a local favorite with great food and a cozy atmosphere."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds fantastic, Eddy! I would love to have dinner at The Rose and Crown Pub after visiting the farmers' market tomorrow. Thank you for inviting me!"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, after dinner at The Rose and Crown Pub, we could take a walk in Johnson Park to see some military memorabilia. It's a beautiful spot with a lot of history."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I truly appreciate your thoughtfulness in planning out our day tomorrow. I'm really looking forward to exploring the village with you and experiencing all these wonderful places you're suggesting."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I'm thrilled to have you in the village community. I'm sure you'll find so much inspiration here for our poetry and music project. Let me know if you need any help settling in or finding your way around."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, thank you so much for being so welcoming and offering to show me around the village. I'm truly grateful for your kindness."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, before we end our conversation, I wanted to invite you to attend a book club meeting with me next week. It's a great way to meet other residents and discuss some interesting reads. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I appreciate your invitation to the book club meeting next week. I would love to attend and meet other residents in the village. Thank you for including me!"
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        88,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcb3",
+      "description": "still managing the store and helping customers with their orders (ringing up customers' purchases at the cash register) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f",
+      "description": "working on her new children's book series (taking a break) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        22,
+        62
+      ],
+      "pronunciatio": "\u23f8\ufe0f",
+      "description": "continuing to work on his book (taking a break to review his progress) @ the Ville:Adam Smith's house:main room:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:55:00"
+  }
+}
