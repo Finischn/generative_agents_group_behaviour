@@ -34,7 +34,6 @@ def get_random_alphanumeric(i=6, j=6):
   x = ''.join(random.choices(string.ascii_letters + string.digits, k=k))
   return x
 
-
 ##############################################################################
 # CHAPTER 1: Run GPT Prompt
 ##############################################################################
