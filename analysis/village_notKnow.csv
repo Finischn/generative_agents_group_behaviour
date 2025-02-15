@@ -1,0 +1,9 @@
+Interaction Type,Simulation,Median,Mean,Std_Error,IQR,Q1,Q3
+long-term res. → long-term res.,1_village_23,1.0,0.3384615384615385,0.25154355832678404,1.6,-0.6,1.0
+long-term res. → long-term res.,2_village_23,0.0,0.11904761904761905,0.23337818212923703,1.8333333333333333,-0.8333333333333333,1.0
+long-term res. → newcomer,1_village_23,1.0,1.0,0.0,0.0,1.0,1.0
+long-term res. → newcomer,2_village_23,1.0,0.8,0.19999999999999998,0.0,1.0,1.0
+newcomer → long-term res.,1_village_23,1.0,0.6470588235294118,0.17023289562926802,0.0,1.0,1.0
+newcomer → long-term res.,2_village_23,1.0,0.5925925925925926,0.18778136585417424,0.0,1.0,1.0
+newcomer → newcomer,1_village_23,1.0,1.0,0.0,0.0,1.0,1.0
+newcomer → newcomer,2_village_23,1.0,0.46153846153846156,0.24325212770525995,1.0,0.0,1.0
