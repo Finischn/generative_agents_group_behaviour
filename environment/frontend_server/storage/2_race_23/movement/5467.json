@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf7f\ud83e\udd64",
+      "description": "having a snack break at Hobbs Cafe (checking the inventory of snacks and drinks) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "working on his poetry collection (revising and editing his poem) @ the Ville:Carlos Gomez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\uddc2\ufe0f",
+      "description": "still at the library working on his research paper (organizing his notes and creating an outline for his paper) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        75,
+        52
+      ],
+      "pronunciatio": "\ud83d\udcb8",
+      "description": "running errands or catching up on emails (checking his bank account and paying bills) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        122,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcda\ud83d\udd8d\ufe0f",
+      "description": "researching for her senior thesis at the library (reading through her notes and highlighting important information) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        44
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "attending afternoon classes (wrapping up the group project and discussing next steps) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        80,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how to better represent and involve the Black community in their project on gentrification and inequality @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Tom, I was just thinking about our project on gentrification and inequality. Do you have any ideas on how we can better represent and involve the Black community in our collaboration?"
+        ],
+        [
+          "Tom Moreno",
+          "I think we should reach out to local Black community leaders and organizations to get their input and perspective on our project."
+        ],
+        [
+          "Eddy Lin",
+          "That's a great idea, Tom. We should definitely make sure to actively involve and collaborate with the Black community to ensure our project is respectful and impactful."
+        ],
+        [
+          "Tom Moreno",
+          "We can also consider hosting a community event specifically for the Black community to showcase our project and gather feedback."
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a fantastic idea, Tom. I will start reaching out to community leaders and organizations right away to get their valuable input."
+        ],
+        [
+          "Tom Moreno",
+          "I agree, it's important to prioritize inclusivity and diversity in our project."
+        ],
+        [
+          "Eddy Lin",
+          "Thanks for your insights, Tom. I'll make sure to reach out to the Black community leaders and organizations to involve them in our project."
+        ],
+        [
+          "Tom Moreno",
+          "We should also ensure that our project includes diverse perspectives and experiences to accurately reflect the community."
+        ],
+        [
+          "Eddy Lin",
+          "Thank you, Tom. I appreciate your input and support for prioritizing inclusivity and diversity in our project. I will make sure to keep you updated on our progress."
+        ],
+        [
+          "Tom Moreno",
+          "We should also consider incorporating feedback from other marginalized communities in our project to ensure a comprehensive and inclusive approach."
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Tom. It's essential to have a diverse range of voices and perspectives in our project. We should also consider reaching out to other marginalized communities for their input."
+        ],
+        [
+          "Tom Moreno",
+          "We should make sure to create a safe and inclusive space for all communities to engage with our project."
+        ],
+        [
+          "Eddy Lin",
+          "I agree, creating a safe and inclusive space for all communities is crucial for the success of our project. Let's brainstorm ways to ensure that everyone feels heard and represented."
+        ],
+        [
+          "Tom Moreno",
+          "We should also consider collaborating with local Black artists to incorporate their perspectives and experiences into our project."
+        ],
+        [
+          "Eddy Lin",
+          "I think reaching out to local Black artists will bring a unique perspective to our project. Let's see how we can incorporate their voices."
+        ],
+        [
+          "Tom Moreno",
+          "We should also reach out to Black community members who may not be part of formal organizations to ensure we are capturing a diverse range of perspectives."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        76,
+        35
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how to better represent and involve the Black community in their project on gentrification and inequality @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Tom, I was just thinking about our project on gentrification and inequality. Do you have any ideas on how we can better represent and involve the Black community in our collaboration?"
+        ],
+        [
+          "Tom Moreno",
+          "I think we should reach out to local Black community leaders and organizations to get their input and perspective on our project."
+        ],
+        [
+          "Eddy Lin",
+          "That's a great idea, Tom. We should definitely make sure to actively involve and collaborate with the Black community to ensure our project is respectful and impactful."
+        ],
+        [
+          "Tom Moreno",
+          "We can also consider hosting a community event specifically for the Black community to showcase our project and gather feedback."
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a fantastic idea, Tom. I will start reaching out to community leaders and organizations right away to get their valuable input."
+        ],
+        [
+          "Tom Moreno",
+          "I agree, it's important to prioritize inclusivity and diversity in our project."
+        ],
+        [
+          "Eddy Lin",
+          "Thanks for your insights, Tom. I'll make sure to reach out to the Black community leaders and organizations to involve them in our project."
+        ],
+        [
+          "Tom Moreno",
+          "We should also ensure that our project includes diverse perspectives and experiences to accurately reflect the community."
+        ],
+        [
+          "Eddy Lin",
+          "Thank you, Tom. I appreciate your input and support for prioritizing inclusivity and diversity in our project. I will make sure to keep you updated on our progress."
+        ],
+        [
+          "Tom Moreno",
+          "We should also consider incorporating feedback from other marginalized communities in our project to ensure a comprehensive and inclusive approach."
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Tom. It's essential to have a diverse range of voices and perspectives in our project. We should also consider reaching out to other marginalized communities for their input."
+        ],
+        [
+          "Tom Moreno",
+          "We should make sure to create a safe and inclusive space for all communities to engage with our project."
+        ],
+        [
+          "Eddy Lin",
+          "I agree, creating a safe and inclusive space for all communities is crucial for the success of our project. Let's brainstorm ways to ensure that everyone feels heard and represented."
+        ],
+        [
+          "Tom Moreno",
+          "We should also consider collaborating with local Black artists to incorporate their perspectives and experiences into our project."
+        ],
+        [
+          "Eddy Lin",
+          "I think reaching out to local Black artists will bring a unique perspective to our project. Let's see how we can incorporate their voices."
+        ],
+        [
+          "Tom Moreno",
+          "We should also reach out to Black community members who may not be part of formal organizations to ensure we are capturing a diverse range of perspectives."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "continuing to work on her children's book series (revising and editing the first draft) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        28,
+        48
+      ],
+      "pronunciatio": "\ud83e\udd38\u200d\u2640",
+      "description": "taking a break and going for a walk or exercise (stretching and warming up) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 15:11:10"
+  }
+}

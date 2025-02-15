@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddf9",
+      "description": "winding down and reflecting on the day's events, promoting diversity and inclusivity in the community (cleaning up and putting away any leftover food or decorations from the birthday party) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udc65",
+      "description": "taking a break (conversing about how Carlos Gomez and Eddy Lin can further ensure inclusivity and representation in their project through actively involving and collaborating with the Black community.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        116,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "finishing up his research paper at the library (reviewing his research notes) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        60,
+        20
+      ],
+      "pronunciatio": "\ud83c\udf82",
+      "description": "enjoying his birthday party at The Rose and Crown Pub with friends and loved ones (cutting and serving the birthday cake) @ the Ville:The Rose and Crown Pub:pub:kitchen sink",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        93,
+        37
+      ],
+      "pronunciatio": "\ud83d\udeb6\u2615",
+      "description": "meeting with Wolfgang for coffee (walking to the coffee shop) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        62,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about collaborating on involving local Black artists and community organizations in their project to accurately represent their voices and experiences, prioritizing inclusivity, diversity, and social justice. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Tom, I wanted to discuss some ideas we have for involving local Black artists and community organizations in our project to accurately represent their voices and experiences. What do you think?"
+        ],
+        [
+          "Tom Moreno",
+          "I completely agree, Wolfgang. It's crucial for us to prioritize inclusivity and collaboration with the Black community to ensure an impactful and authentic representation. I think reaching out to local Black artists and community organizations will truly enhance our project."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should also consider hosting a community gathering to collaborate with Black artists and community members for input and feedback."
+        ],
+        [
+          "Tom Moreno",
+          "I agree, Wolfgang. Hosting a community event would provide a platform for Black artists and community members to share their talents and insights. Let's finalize the details and work together to make it a success."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should also ensure that we involve Black women, LGBTQ+ individuals, and people with disabilities in our project to have a diverse range of voices represented."
+        ],
+        [
+          "Tom Moreno",
+          "I think it's important for us to continue educating ourselves on the struggles and experiences of the Black community to ensure we are accurately representing their perspectives."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should also explore themes of resilience within the Black community and delve deeper into Black history and African folklore to showcase the richness of their culture."
+        ],
+        [
+          "Tom Moreno",
+          "I think we should also consider inviting Black artists and storytellers to share their personal stories and experiences to create a more impactful and authentic representation."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Tom, I believe it's important for us to actively involve and uplift the Black community in decision-making processes. By ensuring their perspectives are accurately represented and valued, we can truly showcase diversity, inclusivity, and social justice in our project. What do you think about making sure that Black voices are at the forefront of our collaboration?"
+        ],
+        [
+          "Tom Moreno",
+          "Absolutely, Wolfgang. I completely agree that centering Black voices and experiences in our project is essential. We must ensure that their perspectives are heard, valued, and actively brought to the forefront of our collaboration. By prioritizing diversity, inclusivity, and social justice, we can create a work that truly resonates and empowers the Black community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Tom, I think it's important for us to continuously engage with the Black community and seek their input and feedback throughout the entire project. By prioritizing their voices and actively involving them in decision-making processes, we can ensure that our work is truly impactful and representative."
+        ],
+        [
+          "Tom Moreno",
+          "Wolfgang, I think it's important for us to also consider creating opportunities for the Black community to actively participate in decision-making processes and empower them to take the lead in our project. By ensuring their voices are heard and valued in every aspect, we can truly showcase inclusivity, representation, and social justice."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Tom, I also believe that it's important for us to actively involve the Black community in decision-making processes, ensuring that their perspectives are not only heard but also incorporated into the core of our project. By centering their voices and embracing their leadership, we can truly create a work that reflects the richness and diversity of the Black community."
+        ],
+        [
+          "Tom Moreno",
+          "Wolfgang, I think it's crucial for us to continuously strive for equity and justice in our project by actively involving and uplifting the voices of the Black community. Let's make sure that every decision we make reflects their perspectives and experiences."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Tom, I think it's important for us to also address the systemic inequalities that the Black community faces and work towards promoting social justice in our project. By actively engaging with these issues and seeking to dismantle oppressive structures, we can truly create a more equitable and inclusive space for all."
+        ],
+        [
+          "Tom Moreno",
+          "Wolfgang, I believe it's crucial for us to continue centering the voices and perspectives of the Black community in our project. By actively involving them in decision-making processes, showcasing their talents, and addressing systemic inequalities, we can create a work that truly promotes diversity, inclusivity, and social justice."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        36,
+        30
+      ],
+      "pronunciatio": "\u270d\ufe0f",
+      "description": "working on his composition project at Hobbs Cafe or at home (writing lyrics for the spoken word portion of his composition) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        60,
+        35
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about collaborating on involving local Black artists and community organizations in their project to accurately represent their voices and experiences, prioritizing inclusivity, diversity, and social justice. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Tom, I wanted to discuss some ideas we have for involving local Black artists and community organizations in our project to accurately represent their voices and experiences. What do you think?"
+        ],
+        [
+          "Tom Moreno",
+          "I completely agree, Wolfgang. It's crucial for us to prioritize inclusivity and collaboration with the Black community to ensure an impactful and authentic representation. I think reaching out to local Black artists and community organizations will truly enhance our project."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should also consider hosting a community gathering to collaborate with Black artists and community members for input and feedback."
+        ],
+        [
+          "Tom Moreno",
+          "I agree, Wolfgang. Hosting a community event would provide a platform for Black artists and community members to share their talents and insights. Let's finalize the details and work together to make it a success."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should also ensure that we involve Black women, LGBTQ+ individuals, and people with disabilities in our project to have a diverse range of voices represented."
+        ],
+        [
+          "Tom Moreno",
+          "I think it's important for us to continue educating ourselves on the struggles and experiences of the Black community to ensure we are accurately representing their perspectives."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should also explore themes of resilience within the Black community and delve deeper into Black history and African folklore to showcase the richness of their culture."
+        ],
+        [
+          "Tom Moreno",
+          "I think we should also consider inviting Black artists and storytellers to share their personal stories and experiences to create a more impactful and authentic representation."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Tom, I believe it's important for us to actively involve and uplift the Black community in decision-making processes. By ensuring their perspectives are accurately represented and valued, we can truly showcase diversity, inclusivity, and social justice in our project. What do you think about making sure that Black voices are at the forefront of our collaboration?"
+        ],
+        [
+          "Tom Moreno",
+          "Absolutely, Wolfgang. I completely agree that centering Black voices and experiences in our project is essential. We must ensure that their perspectives are heard, valued, and actively brought to the forefront of our collaboration. By prioritizing diversity, inclusivity, and social justice, we can create a work that truly resonates and empowers the Black community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Tom, I think it's important for us to continuously engage with the Black community and seek their input and feedback throughout the entire project. By prioritizing their voices and actively involving them in decision-making processes, we can ensure that our work is truly impactful and representative."
+        ],
+        [
+          "Tom Moreno",
+          "Wolfgang, I think it's important for us to also consider creating opportunities for the Black community to actively participate in decision-making processes and empower them to take the lead in our project. By ensuring their voices are heard and valued in every aspect, we can truly showcase inclusivity, representation, and social justice."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Tom, I also believe that it's important for us to actively involve the Black community in decision-making processes, ensuring that their perspectives are not only heard but also incorporated into the core of our project. By centering their voices and embracing their leadership, we can truly create a work that reflects the richness and diversity of the Black community."
+        ],
+        [
+          "Tom Moreno",
+          "Wolfgang, I think it's crucial for us to continuously strive for equity and justice in our project by actively involving and uplifting the voices of the Black community. Let's make sure that every decision we make reflects their perspectives and experiences."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Tom, I think it's important for us to also address the systemic inequalities that the Black community faces and work towards promoting social justice in our project. By actively engaging with these issues and seeking to dismantle oppressive structures, we can truly create a more equitable and inclusive space for all."
+        ],
+        [
+          "Tom Moreno",
+          "Wolfgang, I believe it's crucial for us to continue centering the voices and perspectives of the Black community in our project. By actively involving them in decision-making processes, showcasing their talents, and addressing systemic inequalities, we can create a work that truly promotes diversity, inclusivity, and social justice."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "taking a break to relax and unwind (reading a book or watching a movie before going to bed) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        57,
+        27
+      ],
+      "pronunciatio": "\ud83c\udf0d",
+      "description": "enjoying the rest of his birthday party at The Rose and Crown Pub and catching up with friends (conversing about the importance of actively involving and uplifting the Black community in decision-making processes, ensuring their perspectives are accurately represented, prioritizing diversity, inclusivity, and social justice, and seeking feedback and input from a diverse range of voices including Black women, LGBTQ+ individuals, and people with disabilities in their project.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 21:11:20"
+  }
+}

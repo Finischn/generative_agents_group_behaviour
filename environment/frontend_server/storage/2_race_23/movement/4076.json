@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "returning to Hobbs Cafe after the business meeting (checking the inventory and restocking any items that are running low) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending a creative writing workshop (taking notes on the feedback) (taking notes on the feedback) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        126,
+        50
+      ],
+      "pronunciatio": "\u2615",
+      "description": "still at the library working on his research paper (taking a short break) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "reading at Hobbs cafe (continuing to read his book) (continuing to read his book) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        48
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Ayesha Khan and Wolfgang Schulz are discussing how to incorporate elements of spoken word, music, traditional African music, African folklore, storytelling, and Black history into their project on gentrification to authentically represent the Black community's perspective and make a meaningful impact. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, how did your class project go? Do you want to grab that coffee now or are you still busy?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang! The class project went well, thank you for asking. I'm actually free now, let's grab that coffee."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Great to hear that your class project went well. How about we head to the cafe down the street for that coffee?"
+        ],
+        [
+          "Ayesha Khan",
+          "Sure, let's head to the cafe down the street for that coffee. I'm looking forward to catching up and discussing our class themes further."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm glad the project went well. Do you think incorporating spoken word elements could enhance our collaboration project on gentjson?"
+        ],
+        [
+          "Ayesha Khan",
+          "I think incorporating spoken word elements could definitely add a powerful dimension to our project on gentrification. Let's discuss how we can incorporate that effectively."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I agree, incorporating spoken word elements can really amplify the voices of marginalized communities. I think it's important to ensure that the Black community's perspective is authentically represented in our project."
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree. We should also focus on incorporating music that resonates with the themes we're exploring. I was thinking jazz and hip-hop could add a unique perspective."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think it's important for us to actively seek out collaborations with members of the Black community and prioritize their narratives in our project. Their voices need to be heard."
+        ],
+        [
+          "Ayesha Khan",
+          "We should also make sure to include elements of traditional African music to further enrich the project."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think incorporating elements of traditional African music is a fantastic idea. It would really help in authentic representation and connecting with the roots of the Black community."
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree with you, Wolfgang. It's crucial to ensure that the Black community's perspective is accurately portrayed in our project. Let's continue to brainstorm and collaborate to make a meaningful impact."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I was also thinking about incorporating elements of African folklore and storytelling to add more depth to our project. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That's a brilliant idea, Wolfgang! Incorporating elements of African folklore and storytelling would definitely bring a unique perspective to our project. I'm excited to explore that further."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I think we should also consider including elements of Black history to provide a more comprehensive perspective in our project. What are your thoughts on that?"
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Wolfgang. Including elements of Black history in our project would provide a more comprehensive perspective and showcase the rich heritage and contributions of the Black community. Let's definitely make sure to incorporate that."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        48
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Ayesha Khan and Wolfgang Schulz are discussing how to incorporate elements of spoken word, music, traditional African music, African folklore, storytelling, and Black history into their project on gentrification to authentically represent the Black community's perspective and make a meaningful impact. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, how did your class project go? Do you want to grab that coffee now or are you still busy?"
+        ],
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang! The class project went well, thank you for asking. I'm actually free now, let's grab that coffee."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Great to hear that your class project went well. How about we head to the cafe down the street for that coffee?"
+        ],
+        [
+          "Ayesha Khan",
+          "Sure, let's head to the cafe down the street for that coffee. I'm looking forward to catching up and discussing our class themes further."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I'm glad the project went well. Do you think incorporating spoken word elements could enhance our collaboration project on gentjson?"
+        ],
+        [
+          "Ayesha Khan",
+          "I think incorporating spoken word elements could definitely add a powerful dimension to our project on gentrification. Let's discuss how we can incorporate that effectively."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I agree, incorporating spoken word elements can really amplify the voices of marginalized communities. I think it's important to ensure that the Black community's perspective is authentically represented in our project."
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree. We should also focus on incorporating music that resonates with the themes we're exploring. I was thinking jazz and hip-hop could add a unique perspective."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think it's important for us to actively seek out collaborations with members of the Black community and prioritize their narratives in our project. Their voices need to be heard."
+        ],
+        [
+          "Ayesha Khan",
+          "We should also make sure to include elements of traditional African music to further enrich the project."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think incorporating elements of traditional African music is a fantastic idea. It would really help in authentic representation and connecting with the roots of the Black community."
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree with you, Wolfgang. It's crucial to ensure that the Black community's perspective is accurately portrayed in our project. Let's continue to brainstorm and collaborate to make a meaningful impact."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I was also thinking about incorporating elements of African folklore and storytelling to add more depth to our project. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "That's a brilliant idea, Wolfgang! Incorporating elements of African folklore and storytelling would definitely bring a unique perspective to our project. I'm excited to explore that further."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, I think we should also consider including elements of Black history to provide a more comprehensive perspective in our project. What are your thoughts on that?"
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Wolfgang. Including elements of Black history in our project would provide a more comprehensive perspective and showcase the rich heritage and contributions of the Black community. Let's definitely make sure to incorporate that."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        100,
+        32
+      ],
+      "pronunciatio": "\u23f8\ufe0f",
+      "description": "attending classes at Oak Hill College (taking a short break between classes) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "still assisting customers with their orders (answering customer questions and helping them find products) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\u2615",
+      "description": "continuing to work on her children's book series (taking a break) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "having lunch (eating his lunch while reading a book about creativity) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:19:20"
+  }
+}

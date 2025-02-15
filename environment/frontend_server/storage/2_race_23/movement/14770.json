@@ -1,0 +1,357 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        23
+      ],
+      "pronunciatio": "\ud83d\udca1",
+      "description": "taking a break and having a snack at 4:00 pm (checking the lighting and making any necessary adjustments) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        36,
+        33
+      ],
+      "pronunciatio": "\ud83c\udfb6",
+      "description": "taking a break and going for a walk in nature or visiting a local art gallery (conversing about celebrating the diversity and heritage of the Black community through incorporating traditional African music, jazz, hip-hop, storytelling, elements of nature and folklore, and engaging with local artists and community members to ensure a well-rounded and inclusive project.) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        116,
+        30
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "attending a lecture at Oak Hill College (walking to the lecture hall) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        56,
+        27
+      ],
+      "pronunciatio": "\ud83d\udce7\u2705",
+      "description": "catching up on emails and preparing for the committee meeting (reviewing and finalizing the response to the important email) @ the Ville:Moore family's house:main room:desk",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        49
+      ],
+      "pronunciatio": "\ud83e\udd1d",
+      "description": "discussing gentrification impact with Klaus (meeting with Klaus) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        58,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Eddy Lin are discussing the importance of prioritizing inclusivity, collaboration, and representation of the Black community in their project, including involving Black artists, community organizations, seeking feedback, educating themselves on Black experiences, showcasing diversity through music and spoken word performances, delving into Black history and African folklore, organizing listening sessions, shedding light on systemic inequalities, celebrating resilience, and valuing the narratives of community members, artists, and storytellers to create an impactful and authentic representation. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Eddy, I really appreciate your dedication to incorporating diverse perspectives and voices in our project. I think it's crucial that we continue to prioritize inclusivity and collaboration with the Black community to ensure the authenticity and impact of our work. I believe their input and feedback are invaluable in showcasing the resilience and strength of their community."
+        ],
+        [
+          "Eddy Lin",
+          "Thank you, Wolfgang. I completely agree with you. It's essential that we create a platform for the Black community to lead in decision-making processes and empower their voices throughout our project."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think it would also be beneficial for us to actively involve Black artists and community organizations in our project to ensure a well-rounded representation and showcase the diversity within the Black community."
+        ],
+        [
+          "Eddy Lin",
+          "I agree, Wolfgang. We should also make sure to continuously seek feedback from the Black community and prioritize their narratives in our project."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I believe it is crucial for us to educate ourselves further on the struggles and experiences faced by the Black community to ensure we are accurately representing their stories and perspectives."
+        ],
+        [
+          "Eddy Lin",
+          "We should also make sure to create safe and inclusive spaces for the Black community to share their stories and talents."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should explore incorporating elements of jazz music and traditional African music into our project to further highlight the cultural richness and diversity of the Black community."
+        ],
+        [
+          "Eddy Lin",
+          "I think it would be beneficial for us to also involve local hip-hop artists in our project to add another layer of authenticity and representation for the Black community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I think it's important for us to also consider incorporating elements of spoken word performances in our project. This style of storytelling can really amplify the voices and emotions of the Black community in a powerful way."
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Wolfgang. Your insights on incorporating spoken word performances are spot on. It can truly amplify the voices and emotions of the Black community in a powerful and meaningful way. Let's make sure to prioritize this aspect in our project."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I think it's important for us to also delve deeper into Black history and African folklore to provide a comprehensive and authentic representation of the Black community in our project."
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I think it would be beneficial for us to organize listening sessions with members of the Black community to gather more insights and perspectives for our project. It's essential for us to create a space for open dialogue and feedback."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I think we should also consider showcasing the impact of systemic inequalities faced by the Black community in our project. By shedding light on these issues, we can create a more impactful and meaningful representation."
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I think it's important for us to also celebrate the resilience and strength of the Black community in our project. By highlighting their perseverance and accomplishments, we can truly honor their experiences and contributions."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I also think it's essential for us to continue reaching out to community members, artists, and storytellers from the Black community to ensure that their narratives are accurately represented and valued in our project. Their voices are crucial in shaping the authenticity and impact of our work."
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I think it's important for us to showcase the diversity within the Black community by incorporating a variety of perspectives and stories in our project. By highlighting the different experiences and voices, we can create a more inclusive and impactful representation."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        52,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Eddy Lin are discussing the importance of prioritizing inclusivity, collaboration, and representation of the Black community in their project, including involving Black artists, community organizations, seeking feedback, educating themselves on Black experiences, showcasing diversity through music and spoken word performances, delving into Black history and African folklore, organizing listening sessions, shedding light on systemic inequalities, celebrating resilience, and valuing the narratives of community members, artists, and storytellers to create an impactful and authentic representation. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Eddy, I really appreciate your dedication to incorporating diverse perspectives and voices in our project. I think it's crucial that we continue to prioritize inclusivity and collaboration with the Black community to ensure the authenticity and impact of our work. I believe their input and feedback are invaluable in showcasing the resilience and strength of their community."
+        ],
+        [
+          "Eddy Lin",
+          "Thank you, Wolfgang. I completely agree with you. It's essential that we create a platform for the Black community to lead in decision-making processes and empower their voices throughout our project."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think it would also be beneficial for us to actively involve Black artists and community organizations in our project to ensure a well-rounded representation and showcase the diversity within the Black community."
+        ],
+        [
+          "Eddy Lin",
+          "I agree, Wolfgang. We should also make sure to continuously seek feedback from the Black community and prioritize their narratives in our project."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I believe it is crucial for us to educate ourselves further on the struggles and experiences faced by the Black community to ensure we are accurately representing their stories and perspectives."
+        ],
+        [
+          "Eddy Lin",
+          "We should also make sure to create safe and inclusive spaces for the Black community to share their stories and talents."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should explore incorporating elements of jazz music and traditional African music into our project to further highlight the cultural richness and diversity of the Black community."
+        ],
+        [
+          "Eddy Lin",
+          "I think it would be beneficial for us to also involve local hip-hop artists in our project to add another layer of authenticity and representation for the Black community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I think it's important for us to also consider incorporating elements of spoken word performances in our project. This style of storytelling can really amplify the voices and emotions of the Black community in a powerful way."
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Wolfgang. Your insights on incorporating spoken word performances are spot on. It can truly amplify the voices and emotions of the Black community in a powerful and meaningful way. Let's make sure to prioritize this aspect in our project."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I think it's important for us to also delve deeper into Black history and African folklore to provide a comprehensive and authentic representation of the Black community in our project."
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I think it would be beneficial for us to organize listening sessions with members of the Black community to gather more insights and perspectives for our project. It's essential for us to create a space for open dialogue and feedback."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I think we should also consider showcasing the impact of systemic inequalities faced by the Black community in our project. By shedding light on these issues, we can create a more impactful and meaningful representation."
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I think it's important for us to also celebrate the resilience and strength of the Black community in our project. By highlighting their perseverance and accomplishments, we can truly honor their experiences and contributions."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I also think it's essential for us to continue reaching out to community members, artists, and storytellers from the Black community to ensure that their narratives are accurately represented and valued in our project. Their voices are crucial in shaping the authenticity and impact of our work."
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I think it's important for us to showcase the diversity within the Black community by incorporating a variety of perspectives and stories in our project. By highlighting the different experiences and voices, we can create a more inclusive and impactful representation."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        61,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Tom Moreno and Tamara Taylor discussing incorporating elements of hip-hop culture, collaborating with local hip-hop artists, showcasing storytelling from the Black community, hosting a community event to celebrate the talents and stories of the Black community, collaborating with Black artists and organizations, and incorporating traditional African music and spoken word performances into their project. @ <persona> Tamara Taylor",
+      "chat": [
+        [
+          "Tom Moreno",
+          "Hey Tamara, I was thinking about incorporating elements of hip-hop culture into our project, like collaborating with local hip-hop artists and showcasing storytelling from the Black community. What do you think?"
+        ],
+        [
+          "Tamara Taylor",
+          "That's a great idea, Tom. I think incorporating hip-hop culture would add a unique and powerful element to our project. It's important to showcase diverse voices and experiences, and hip-hop is such a vibrant and impactful form of storytelling. Let's discuss how we can integrate it seamlessly into our work."
+        ],
+        [
+          "Tom Moreno",
+          "I also believe it's crucial to continue actively involving and uplifting the Black community in our project. Their voices are essential, and their perspectives need to be at the forefront of our work."
+        ],
+        [
+          "Tamara Taylor",
+          "Absolutely, Tom. I agree wholeheartedly. We must ensure that the Black community's narratives are central to our project to authentically represent their experiences. Let's continue brainstorming ways to elevate their voices and celebrate their heritage."
+        ],
+        [
+          "Tom Moreno",
+          "I agree, Tamara. Let's prioritize creating safe and inclusive spaces for the Black community to share their stories and talents in."
+        ],
+        [
+          "Tamara Taylor",
+          "Tom, I appreciate your commitment to diversity and inclusion in our project. It's inspiring to see your dedication to uplifting marginalized voices."
+        ],
+        [
+          "Tom Moreno",
+          "Tamara, I was also thinking about collaborating with Black artists and storytellers to authentically represent the Black community's experiences. Their insights and talents are invaluable to our project."
+        ],
+        [
+          "Tamara Taylor",
+          "Tom, I appreciate your dedication to promoting diversity and inclusion in our project. It's crucial that we continue to prioritize the voices and experiences of underrepresented communities."
+        ],
+        [
+          "Tom Moreno",
+          "Tamara, I was reflecting on our project and I believe it would be beneficial to host a community event where we can showcase the talents and stories of the Black community. This would not only celebrate their heritage but also create a platform for their voices to be heard and appreciated by a wider audience. What are your thoughts on this idea?"
+        ],
+        [
+          "Tamara Taylor",
+          "Tom, I think hosting a community event to showcase the talents and stories of the Black community is a fantastic idea. It's important to provide a platform for their voices to be heard and appreciated. Let's definitely plan this event together and make sure it's inclusive and uplifting for everyone involved."
+        ],
+        [
+          "Tom Moreno",
+          "Tamara, I think it would be beneficial for us to collaborate closely with local Black artists and organizations to gather insights and ensure accurate representation in our project. Their involvement and guidance would be invaluable."
+        ],
+        [
+          "Tamara Taylor",
+          "Tom, I completely agree. Collaborating closely with local Black artists and organizations is crucial for gathering insights and ensuring accurate representation in our project. Their perspectives and guidance will truly enrich our work."
+        ],
+        [
+          "Tom Moreno",
+          "Tamara, I believe we should also consider incorporating elements of traditional African music into our project. It's important to celebrate and honor the rich cultural heritage of the Black community."
+        ],
+        [
+          "Tamara Taylor",
+          "Tom, I appreciate your openness to incorporating elements of hip-hop culture and traditional African music into our project. It's crucial to celebrate the diversity of voices and experiences within the Black community. Let's ensure that our collaboration uplifts and honors these narratives authentically."
+        ],
+        [
+          "Tom Moreno",
+          "Tamara, I was also thinking about incorporating elements of spoken word performances into our project to further amplify the voices and stories of the Black community. I believe the power of spoken word can truly capture the essence of their experiences and struggles. What do you think?"
+        ],
+        [
+          "Tamara Taylor",
+          "Tom, I completely agree with your ideas to incorporate hip-hop culture and spoken word performances into our project. It's crucial to showcase the diversity of storytelling and artistic expressions within the Black community. Let's continue to collaborate and amplify these voices together."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        62,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Tom Moreno and Tamara Taylor discussing incorporating elements of hip-hop culture, collaborating with local hip-hop artists, showcasing storytelling from the Black community, hosting a community event to celebrate the talents and stories of the Black community, collaborating with Black artists and organizations, and incorporating traditional African music and spoken word performances into their project. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Tom Moreno",
+          "Hey Tamara, I was thinking about incorporating elements of hip-hop culture into our project, like collaborating with local hip-hop artists and showcasing storytelling from the Black community. What do you think?"
+        ],
+        [
+          "Tamara Taylor",
+          "That's a great idea, Tom. I think incorporating hip-hop culture would add a unique and powerful element to our project. It's important to showcase diverse voices and experiences, and hip-hop is such a vibrant and impactful form of storytelling. Let's discuss how we can integrate it seamlessly into our work."
+        ],
+        [
+          "Tom Moreno",
+          "I also believe it's crucial to continue actively involving and uplifting the Black community in our project. Their voices are essential, and their perspectives need to be at the forefront of our work."
+        ],
+        [
+          "Tamara Taylor",
+          "Absolutely, Tom. I agree wholeheartedly. We must ensure that the Black community's narratives are central to our project to authentically represent their experiences. Let's continue brainstorming ways to elevate their voices and celebrate their heritage."
+        ],
+        [
+          "Tom Moreno",
+          "I agree, Tamara. Let's prioritize creating safe and inclusive spaces for the Black community to share their stories and talents in."
+        ],
+        [
+          "Tamara Taylor",
+          "Tom, I appreciate your commitment to diversity and inclusion in our project. It's inspiring to see your dedication to uplifting marginalized voices."
+        ],
+        [
+          "Tom Moreno",
+          "Tamara, I was also thinking about collaborating with Black artists and storytellers to authentically represent the Black community's experiences. Their insights and talents are invaluable to our project."
+        ],
+        [
+          "Tamara Taylor",
+          "Tom, I appreciate your dedication to promoting diversity and inclusion in our project. It's crucial that we continue to prioritize the voices and experiences of underrepresented communities."
+        ],
+        [
+          "Tom Moreno",
+          "Tamara, I was reflecting on our project and I believe it would be beneficial to host a community event where we can showcase the talents and stories of the Black community. This would not only celebrate their heritage but also create a platform for their voices to be heard and appreciated by a wider audience. What are your thoughts on this idea?"
+        ],
+        [
+          "Tamara Taylor",
+          "Tom, I think hosting a community event to showcase the talents and stories of the Black community is a fantastic idea. It's important to provide a platform for their voices to be heard and appreciated. Let's definitely plan this event together and make sure it's inclusive and uplifting for everyone involved."
+        ],
+        [
+          "Tom Moreno",
+          "Tamara, I think it would be beneficial for us to collaborate closely with local Black artists and organizations to gather insights and ensure accurate representation in our project. Their involvement and guidance would be invaluable."
+        ],
+        [
+          "Tamara Taylor",
+          "Tom, I completely agree. Collaborating closely with local Black artists and organizations is crucial for gathering insights and ensuring accurate representation in our project. Their perspectives and guidance will truly enrich our work."
+        ],
+        [
+          "Tom Moreno",
+          "Tamara, I believe we should also consider incorporating elements of traditional African music into our project. It's important to celebrate and honor the rich cultural heritage of the Black community."
+        ],
+        [
+          "Tamara Taylor",
+          "Tom, I appreciate your openness to incorporating elements of hip-hop culture and traditional African music into our project. It's crucial to celebrate the diversity of voices and experiences within the Black community. Let's ensure that our collaboration uplifts and honors these narratives authentically."
+        ],
+        [
+          "Tom Moreno",
+          "Tamara, I was also thinking about incorporating elements of spoken word performances into our project to further amplify the voices and stories of the Black community. I believe the power of spoken word can truly capture the essence of their experiences and struggles. What do you think?"
+        ],
+        [
+          "Tamara Taylor",
+          "Tom, I completely agree with your ideas to incorporate hip-hop culture and spoken word performances into our project. It's crucial to showcase the diversity of storytelling and artistic expressions within the Black community. Let's continue to collaborate and amplify these voices together."
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        62
+      ],
+      "pronunciatio": "\ud83d\udeb0\ud83c\udfc3\u200d",
+      "description": "continuing to work on his book (taking a break to stretch and get some water) @ the Ville:Adam Smith's house:main room:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 17:01:40"
+  }
+}

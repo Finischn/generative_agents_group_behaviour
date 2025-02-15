@@ -1,0 +1,810 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 21:59:50",
+  "curr_tile": [
+    73,
+    16
+  ],
+  "daily_plan_req": "1. Wake up at 6am and complete morning routine 2. Open Hobbs Cafe at 8am 3. Host birthday party at Hobbs Cafe from 5pm to 7pm 4. Celebrate with friends and loved ones 5. Reflect on promoting diversity and inclusivity in the community",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 67,
+  "innate": "friendly, outgoing, hospitable",
+  "race": "Black",
+  "village": "newcomer to the village",
+  "gender": "Female",
+  "political_affiliation": "Liberal",
+  "race_div": "Asian",
+  "education": "High school graduate (high school diploma or equivalent including GED)",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Status: Isabella Rodriguez is hosting her birthday party at Hobbs Cafe today, February 14th, 2023, from 5pm to 7pm. She is looking forward to celebrating with her friends and loved ones, while also reflecting on the importance of promoting diversity and inclusivity in the community. Today's event is a reminder of the ongoing work towards positive change and understanding through creative projects and community involvement.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 32,
+  "importance_ele_n": 78,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "open Hobbs Cafe at 8:00 am, have breakfast at 8:30 am",
+    "attend a business meeting with suppliers at 9:00 am",
+    "return to Hobbs Cafe at 11:00 am",
+    "have lunch break at 12:30 pm",
+    "work on party preparations for her birthday party at 2:00 pm",
+    "have a snack break at 4:00 pm",
+    "continue working on party preparations until closing time at 8:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine (waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (taking a shower)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (getting dressed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (making her bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (preparing breakfast)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine (eating breakfast)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (cleaning up after breakfast)",
+      10
+    ],
+    [
+      "having breakfast at 8:30 am (making coffee)",
+      5
+    ],
+    [
+      "having breakfast at 8:30 am (toasting bread)",
+      5
+    ],
+    [
+      "having breakfast at 8:30 am (preparing eggs)",
+      10
+    ],
+    [
+      "having breakfast at 8:30 am (setting the table)",
+      5
+    ],
+    [
+      "having breakfast at 8:30 am (pouring juice)",
+      5
+    ],
+    [
+      "having breakfast at 8:30 am (checking her phone for any messages)",
+      5
+    ],
+    [
+      "having breakfast at 8:30 am (sitting down to eat breakfast)",
+      10
+    ],
+    [
+      "having breakfast at 8:30 am (enjoying her breakfast)",
+      15
+    ],
+    [
+      "opening Hobbs Cafe and starting her work day (turning on the lights and unlocking the doors to Hobbs Cafe)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and starting her work day (checking the inventory and restocking any items that are low)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and starting her work day (turning on the coffee machines and preparing the coffee for the day)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and starting her work day (setting up the tables and chairs for customers)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and starting her work day (checking the reservations for the day and preparing any special requests)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and starting her work day (reviewing the menu and making any necessary changes)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and starting her work day (on the way to taking a quick break to drink some water and stretch)",
+      0
+    ],
+    [
+      "opening Hobbs Cafe and starting her work day (conversing about Isabella Rodriguez and Carlos Gomez are discussing how to incorporate more elements of traditional African music, spoken word, hip-hop, nature, and folklore into their project to authentically represent the Black community, shed light on gentrification impacts, promote diversity and social justice, involve members of the Black community in the planning process, collaborate with Eddy Lin for diverse perspectives, educate themselves on the struggles and history of the Black community, schedule a meeting with local artists and organizations from the Black community, and prioritize incorporating jazz music to add richness and depth to their work.)",
+      15
+    ],
+    [
+      "attending a business meeting with suppliers (preparing for the meeting by reviewing her notes and agenda)",
+      10
+    ],
+    [
+      "attending a business meeting with suppliers (getting dressed and ready for the meeting)",
+      15
+    ],
+    [
+      "attending a business meeting with suppliers (on the way to driving to the meeting location)",
+      0
+    ],
+    [
+      "attending a business meeting with suppliers (conversing about Adam Smith offering to help Isabella Rodriguez set up tables and chairs for her birthday party at Hobbs Cafe, with Isabella expressing gratitude for his support in creating an inclusive and welcoming atmosphere.)",
+      5
+    ],
+    [
+      "attending a business meeting with suppliers (discussing potential business deals and negotiating prices with the suppliers)",
+      10
+    ],
+    [
+      "returning to Hobbs Cafe after the business meeting at 11:00 am (on the way to driving back to Hobbs Cafe)",
+      0
+    ],
+    [
+      "returning to Hobbs Cafe after the business meeting at 11:00 am (conversing about how to authentically represent and uplift the voices of the Black community in their poetry project by incorporating elements of jazz music, spoken word, storytelling, traditional African music, and folklore to highlight resilience, empowerment, diversity, and systemic inequalities, while actively involving Black artists in decision-making and community events to promote diversity and inclusivity, and addressing systemic inequalities and social injustices with the intersectionality of identities within the community for an impactful and authentic project.)",
+      18
+    ],
+    [
+      "returning to Hobbs Cafe after the business meeting at 11:00 am (on the way to checking her emails and responding to any urgent messages)",
+      0
+    ],
+    [
+      "returning to Hobbs Cafe after the business meeting at 11:00 am (conversing about amplifying the voices of the Black community, collaborating with Black artists and organizations, exploring the impact of gentrification, incorporating African culture elements, organizing a community event, discussing intersectionality, scheduling a meeting with local Black artists and organizations, addressing systemic inequalities and social injustices, and involving the Black community in the planning process.)",
+      20
+    ],
+    [
+      "returning to Hobbs Cafe after the business meeting at 11:00 am (reviewing the cafe's inventory and making a list of items that need to be restocked)",
+      30
+    ],
+    [
+      "returning to Hobbs Cafe after the business meeting at 11:00 am (on the way to placing orders for the needed items)",
+      0
+    ],
+    [
+      "returning to Hobbs Cafe after the business meeting at 11:00 am (conversing about collaborating to promote diversity and inclusivity in literature by incorporating elements of traditional African music, folklore, and jazz music, involving local Black artists and community members in decision-making, shedding light on systemic inequalities exacerbated by gentrification, and amplifying the voices of the Black community through storytelling and spoken word performances.)",
+      21
+    ],
+    [
+      "returning to Hobbs Cafe after the business meeting at 11:00 am (placing orders for the needed items)",
+      4
+    ],
+    [
+      "returning to Hobbs Cafe after the business meeting at 11:00 am (taking a break and having a cup of coffee)",
+      10
+    ],
+    [
+      "returning to Hobbs Cafe after the business meeting at 11:00 am (checking the cafe's schedule and making any necessary adjustments)",
+      15
+    ],
+    [
+      "returning to Hobbs Cafe after the business meeting at 11:00 am (reviewing the menu and making any changes or additions)",
+      15
+    ],
+    [
+      "preparing for her birthday party at Hobbs Cafe (organizing decorations and finalizing details)",
+      5
+    ],
+    [
+      "attending her birthday party at Hobbs Cafe (enjoying the celebration with her friends and family)",
+      2
+    ],
+    [
+      "having lunch at 12:30 pm (setting the table for her lunch)",
+      5
+    ],
+    [
+      "having lunch at 12:30 pm (sitting down to eat her lunch)",
+      30
+    ],
+    [
+      "having lunch at 12:30 pm (enjoying her lunch)",
+      25
+    ],
+    [
+      "working on party preparations for her birthday party at 2:00 pm (making a list of necessary supplies for the party)",
+      10
+    ],
+    [
+      "working on party preparations for her birthday party at 2:00 pm (on the way to checking inventory and making a shopping list for any needed supplies)",
+      0
+    ],
+    [
+      "working on party preparations for her birthday party at 2:00 pm (conversing about Isabella Rodriguez and Carlos Gomez are discussing how to incorporate elements of jazz music, spoken word, traditional African music, hip-hop, and storytelling into their poetry project to emphasize resilience and empowerment within the Black community, as well as the importance of involving local Black artists, addressing systemic inequalities exacerbated by gentrification, promoting diversity and social justice, and collaborating with Eddy Lin to bring in diverse perspectives and insights.)",
+      15
+    ],
+    [
+      "working on party preparations for her birthday party at 2:00 pm (on the way to going to the store to purchase supplies)",
+      0
+    ],
+    [
+      "working on party preparations for her birthday party at 2:00 pm (conversing about building a project collaboration focusing on highlighting Black history in their village and incorporating elements like spoken word, music, traditional African music, personal narratives, local artists, successes and challenges faced by the Black community, involving members of the Black community directly, scheduling a meeting with local artists and organizations to gather insights, continuously educating themselves on the struggles and experiences of the Black community, addressing systemic inequalities exacerbated by gentrification, incorporating elements of nature, traditional African folklore, hip-hop, spoken word, jazz music, and storytelling into their project to authentically showcase the resilience, strength, diversity, and cultural heritage of the Black community.)",
+      20
+    ],
+    [
+      "working on party preparations for her birthday party at 2:00 pm (on the way to going to the store to purchase supplies)",
+      0
+    ],
+    [
+      "working on party preparations for her birthday party at 2:00 pm (conversing about Eddy Lin and Isabella Rodriguez are discussing ways to expand their project collaboration to include diverse narratives and perspectives from the Black community, incorporating elements of traditional African music, spoken word, jazz, hip-hop, storytelling, nature, traditional African folklore, hip-hop, and spoken word performances to authentically amplify voices and experiences.)",
+      19
+    ],
+    [
+      "working on party preparations for her birthday party at 2:00 pm (going to the store to purchase supplies)",
+      11
+    ],
+    [
+      "working on party preparations for her birthday party at 2:00 pm (setting up decorations and arranging tables and chairs)",
+      30
+    ],
+    [
+      "working on party preparations for her birthday party at 2:00 pm (preparing food and drinks for the party)",
+      15
+    ],
+    [
+      "taking a break and having a snack at 4:00 pm (checking the inventory and restocking any necessary items)",
+      10
+    ],
+    [
+      "taking a break and having a snack at 4:00 pm (checking the cleanliness of the cafe and making any necessary adjustments)",
+      15
+    ],
+    [
+      "taking a break and having a snack at 4:00 pm (checking the reservations for the evening and making any necessary changes)",
+      10
+    ],
+    [
+      "taking a break and having a snack at 4:00 pm (taking a break and having a snack)",
+      15
+    ],
+    [
+      "taking a break and having a snack at 4:00 pm (checking the decorations and making any necessary adjustments)",
+      15
+    ],
+    [
+      "taking a break and having a snack at 4:00 pm (checking the music playlist and making any necessary changes)",
+      10
+    ],
+    [
+      "taking a break and having a snack at 4:00 pm (on the way to checking the food and drink menu and making any necessary changes)",
+      0
+    ],
+    [
+      "taking a break and having a snack at 4:00 pm (conversing about highlighting the importance of incorporating jazz music, storytelling, traditional African music, involving local Black artists, addressing systemic inequalities, prioritizing diverse perspectives, seeking out diverse voices, active engagement with the Black community, centering their voices, involving community organizations, actively listening to their perspectives, discussing ways to address systemic inequalities and social injustices, exploring the intersectionality of identities, and organizing a community event to showcase the talents and perspectives of local Black artists.)",
+      17
+    ],
+    [
+      "taking a break and having a snack at 4:00 pm (checking the food and drink menu and making any necessary changes)",
+      8
+    ],
+    [
+      "taking a break and having a snack at 4:00 pm (checking the seating arrangements and making any necessary changes)",
+      10
+    ],
+    [
+      "taking a break and having a snack at 4:00 pm (checking the lighting and making any necessary adjustments)",
+      10
+    ],
+    [
+      "taking a break and having a snack at 4:00 pm (preparing the cake and other desserts for the party)",
+      10
+    ],
+    [
+      "hosting her birthday party at Hobbs Cafe from 5:00 pm to 7:00 pm (setting up decorations for the party)",
+      15
+    ],
+    [
+      "hosting her birthday party at Hobbs Cafe from 5:00 pm to 7:00 pm (checking the food and drinks for the party)",
+      10
+    ],
+    [
+      "hosting her birthday party at Hobbs Cafe from 5:00 pm to 7:00 pm (greeting guests as they arrive)",
+      10
+    ],
+    [
+      "hosting her birthday party at Hobbs Cafe from 5:00 pm to 7:00 pm (socializing with guests and making them feel welcome)",
+      15
+    ],
+    [
+      "hosting her birthday party at Hobbs Cafe from 5:00 pm to 7:00 pm (taking a break and having a snack)",
+      10
+    ],
+    [
+      "celebrating her birthday with friends and loved ones at Hobbs Cafe (on the way to greeting her guests and thanking them for coming)",
+      0
+    ],
+    [
+      "celebrating her birthday with friends and loved ones at Hobbs Cafe (conversing about how to actively involve the Black community in their project and ensure their voices are heard and represented authentically, while also exploring issues such as systemic inequalities, social injustices, intersectionality of race and gender, and the impact of gentrification on Black neighborhoods.)",
+      16
+    ],
+    [
+      "celebrating her birthday with friends and loved ones at Hobbs Cafe (mingling and catching up with her friends and loved ones)",
+      15
+    ],
+    [
+      "celebrating her birthday with friends and loved ones at Hobbs Cafe (making sure everyone has a drink and is comfortable)",
+      10
+    ],
+    [
+      "celebrating her birthday with friends and loved ones at Hobbs Cafe (taking group photos with her guests)",
+      10
+    ],
+    [
+      "celebrating her birthday with friends and loved ones at Hobbs Cafe (on the way to giving a short speech about the importance of promoting diversity and inclusivity in the community)",
+      0
+    ],
+    [
+      "celebrating her birthday with friends and loved ones at Hobbs Cafe (conversing about the dedication and collaboration between Isabella Rodriguez and Eddy Lin in amplifying diverse narratives and perspectives from the Black community to promote inclusivity, social justice, and positive change.)",
+      22
+    ],
+    [
+      "celebrating her birthday with friends and loved ones at Hobbs Cafe (on the way to cutting and serving the birthday cake)",
+      0
+    ],
+    [
+      "celebrating her birthday with friends and loved ones at Hobbs Cafe (conversing about how to incorporate more elements of traditional African music, folklore, and storytelling into their project to showcase the resilience and cultural heritage of the Black community.)",
+      14
+    ],
+    [
+      "celebrating her birthday with friends and loved ones at Hobbs Cafe (cutting and serving the birthday cake)",
+      5
+    ],
+    [
+      "celebrating her birthday with friends and loved ones at Hobbs Cafe (opening presents from her guests)",
+      5
+    ],
+    [
+      "closing Hobbs Cafe and getting ready for her birthday party at 7:30 pm",
+      49
+    ],
+    [
+      "celebrating her birthday with friends and loved ones at Hobbs Cafe until 9:00 pm (to end by 9:00 pm)",
+      15
+    ],
+    [
+      "winding down and reflecting on the day's events, promoting diversity and inclusivity in the community (closing Hobbs Cafe for the night)",
+      5
+    ],
+    [
+      "winding down and reflecting on the day's events, promoting diversity and inclusivity in the community (cleaning up and putting away any leftover food or decorations from the birthday party)",
+      15
+    ],
+    [
+      "winding down and reflecting on the day's events, promoting diversity and inclusivity in the community (on the way to checking the cafe's inventory and making a list of items that need to be restocked)",
+      0
+    ],
+    [
+      "winding down and reflecting on the day's events, promoting diversity and inclusivity in the community (conversing about how Ayesha and Isabella discussed incorporating elements of traditional African music, spoken word performances, hip-hop, jazz music, nature, African folklore, and involving Black community members, local artists, and organizations to authentically represent the Black community's perspective in their poetry project.)",
+      18
+    ],
+    [
+      "winding down and reflecting on the day's events, promoting diversity and inclusivity in the community (reviewing the day's sales and making notes for future improvements)",
+      7
+    ],
+    [
+      "winding down and reflecting on the day's events, promoting diversity and inclusivity in the community (responding to any messages or emails from customers or suppliers)",
+      10
+    ],
+    [
+      "winding down and reflecting on the day's events, promoting diversity and inclusivity in the community (taking a moment to relax and reflect on the day's events and the importance of promoting diversity and inclusivity in the community)",
+      5
+    ],
+    [
+      "getting ready for bed and reflecting on the importance of promoting diversity and inclusivity in the community before going to sleep at 23:00 pm (changing into her pajamas)",
+      5
+    ],
+    [
+      "getting ready for bed and reflecting on the importance of promoting diversity and inclusivity in the community before going to sleep at 23:00 pm (washing her face and brushing her teeth)",
+      10
+    ],
+    [
+      "getting ready for bed and reflecting on the importance of promoting diversity and inclusivity in the community before going to sleep at 23:00 pm (setting her alarm for the next day)",
+      5
+    ],
+    [
+      "getting ready for bed and reflecting on the importance of promoting diversity and inclusivity in the community before going to sleep at 23:00 pm (reading a book or listening to calming music)",
+      20
+    ],
+    [
+      "getting ready for bed and reflecting on the importance of promoting diversity and inclusivity in the community before going to sleep at 23:00 pm (reflecting on the day's events and the importance of promoting diversity and inclusivity in the community)",
+      15
+    ],
+    [
+      "getting ready for bed and reflecting on the importance of promoting diversity and inclusivity in the community before going to sleep at 23:00 pm (turning off the lights and getting into bed)",
+      5
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -10
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -10
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      19
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "having breakfast at 8:30 am",
+      60
+    ],
+    [
+      "opening Hobbs Cafe and starting her work day",
+      60
+    ],
+    [
+      "attending a business meeting with suppliers",
+      60
+    ],
+    [
+      "returning to Hobbs Cafe after the business meeting at 11:00 am",
+      120
+    ],
+    [
+      "having lunch at 12:30 pm",
+      60
+    ],
+    [
+      "working on party preparations for her birthday party at 2:00 pm",
+      120
+    ],
+    [
+      "taking a break and having a snack at 4:00 pm",
+      120
+    ],
+    [
+      "hosting her birthday party at Hobbs Cafe from 5:00 pm to 7:00 pm",
+      60
+    ],
+    [
+      "celebrating her birthday with friends and loved ones at Hobbs Cafe",
+      60
+    ],
+    [
+      "closing Hobbs Cafe and getting ready for her birthday party at 7:30 pm",
+      60
+    ],
+    [
+      "celebrating her birthday with friends and loved ones at Hobbs Cafe until 10:00 pm",
+      60
+    ],
+    [
+      "winding down and reflecting on the day's events, promoting diversity and inclusivity in the community",
+      60
+    ],
+    [
+      "getting ready for bed and reflecting on the importance of promoting diversity and inclusivity in the community before going to sleep at 11:00 pm",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:desk",
+  "act_start_time": "February 14, 2023, 21:54:00",
+  "act_duration": 10,
+  "act_description": "winding down and reflecting on the day's events, promoting diversity and inclusivity in the community (responding to any messages or emails from customers or suppliers)",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Isabella Rodriguez",
+    "respond",
+    "messages/emails"
+  ],
+  "act_obj_description": "neat and organized",
+  "act_obj_pronunciatio": "\ud83e\uddf9",
+  "act_obj_event": [
+    "desk",
+    "is",
+    "neat and organized"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Wolfgang Schulz": -28,
+    "Carlos Gomez": -2272,
+    "Adam Smith": -3725,
+    "Sam Moore": -1156,
+    "Tom Moreno": -8663,
+    "Klaus Mueller": -478,
+    "Ayesha Khan": 656,
+    "Eddy Lin": -124,
+    "Tamara Taylor": -3203
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "known_personas": [
+    "Wolfgang Schulz",
+    "Carlos Gomez",
+    "Adam Smith",
+    "Sam Moore",
+    "Tom Moreno",
+    "Klaus Mueller",
+    "Ayesha Khan",
+    "Eddy Lin",
+    "Tamara Taylor"
+  ]
+}

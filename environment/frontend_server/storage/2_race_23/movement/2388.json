@@ -1,0 +1,179 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        82,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc87\u200d\u2640",
+      "description": "waking up and completing her morning routine (doing her hair and makeup) @ the Ville:Isabella Rodriguez's apartment:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        93,
+        18
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Carlos Gomez's apartment:main room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        46
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        33,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Sam and Wolfgang, chatting about enjoying a walk in the park and making plans to go for a run together next week @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Sam, how are you enjoying your walk in the park today?"
+        ],
+        [
+          "Sam Moore",
+          "Hey Wolfgang, I'm having a great walk today. It's always nice to see you around here."
+        ],
+        [
+          "Wolfgang Schulz",
+          "It's a beautiful day for a run, isn't it?"
+        ],
+        [
+          "Sam Moore",
+          "Yes, the weather is perfect for outdoor activities!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Would you like to join me for a run sometime?"
+        ],
+        [
+          "Sam Moore",
+          "Sure, I would love to join you for a run sometime."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds great! How about we plan for a run together next week?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a plan, let's coordinate our schedules and find a day that works for both of us."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Great, I'll check my schedule and get back to you with some available days. Enjoy the rest of your walk, Sam!"
+        ],
+        [
+          "Sam Moore",
+          "It was nice chatting with you, Wolfgang. I look forward to our run next week!"
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        116,
+        55
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2642",
+      "description": "waking up and completing her morning routine (doing a 15-minute yoga session) @ the Ville:Dorm for Oak Hill College:garden:dorm garden",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        33,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Sam and Wolfgang, chatting about enjoying a walk in the park and making plans to go for a run together next week @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Sam, how are you enjoying your walk in the park today?"
+        ],
+        [
+          "Sam Moore",
+          "Hey Wolfgang, I'm having a great walk today. It's always nice to see you around here."
+        ],
+        [
+          "Wolfgang Schulz",
+          "It's a beautiful day for a run, isn't it?"
+        ],
+        [
+          "Sam Moore",
+          "Yes, the weather is perfect for outdoor activities!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Would you like to join me for a run sometime?"
+        ],
+        [
+          "Sam Moore",
+          "Sure, I would love to join you for a run sometime."
+        ],
+        [
+          "Wolfgang Schulz",
+          "That sounds great! How about we plan for a run together next week?"
+        ],
+        [
+          "Sam Moore",
+          "That sounds like a plan, let's coordinate our schedules and find a day that works for both of us."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Great, I'll check my schedule and get back to you with some available days. Enjoy the rest of your walk, Sam!"
+        ],
+        [
+          "Sam Moore",
+          "It was nice chatting with you, Wolfgang. I look forward to our run next week!"
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        94,
+        74
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Lin family's house:Eddy Lin's bedroom:bed",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        72,
+        74
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Moreno family's house:Tom and Jane Moreno's bedroom:bed",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        61,
+        65
+      ],
+      "pronunciatio": "\ud83d\udc84",
+      "description": "waking up and completing her morning routine (putting on makeup) @ the Ville:Tamara Taylor and Carmen Ortiz's house:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udcf0",
+      "description": "having breakfast (reading the newspaper) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 06:38:00"
+  }
+}

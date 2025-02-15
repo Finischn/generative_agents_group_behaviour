@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        57,
+        30
+      ],
+      "pronunciatio": "\ud83d\udeeb",
+      "description": "attending a business meeting with suppliers (traveling to the meeting location) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending a creative writing workshop (participating in a writing exercise) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        117,
+        30
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "at the library working on his research paper (conducting online research on gentrification) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Adam and Sam, chatting about Sam's military experiences in the navy, inviting Adam to his birthday party at The Rose and Crown Pub, discussing their plans to catch up and share more stories over drinks, and recommending a signature ale at the pub. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey Sam, I see you're here enjoying a good read. How's your day going so far?"
+        ],
+        [
+          "Sam Moore",
+          "Hey Adam, my day's been pretty good so far. Just getting some reading in before heading out for my walk. How about you?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds lovely, Sam. What book are you currently reading?"
+        ],
+        [
+          "Sam Moore",
+          "I'm reading a book on military strategies, it reminds me of my time in the navy. Have you ever considered joining the military?"
+        ],
+        [
+          "Adam Smith",
+          "That's fascinating, Sam. I've never considered joining the military, but I'm intrigued by your experiences. Do you mind sharing more about your time in the navy?"
+        ],
+        [
+          "Sam Moore",
+          "I'd be happy to share some stories from my time in the navy with you. It was quite an adventure!"
+        ],
+        [
+          "Adam Smith",
+          "That sounds fascinating, Sam. I would love to hear more about your experiences in the navy."
+        ],
+        [
+          "Sam Moore",
+          "I appreciate your interest, Adam. Perhaps you'd like to join me for a drink at The Rose and Crown Pub tomorrow for my birthday party. It would be great to have you there."
+        ],
+        [
+          "Adam Smith",
+          "Thank you for the invitation, Sam. I would love to join you at The Rose and Crown Pub for your birthday party tomorrow."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're able to join, Adam. It will be a great opportunity to catch up and share more stories."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a wonderful plan, Sam. I look forward to celebrating your birthday with you at The Rose and Crown Pub tomorrow."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're interested in hearing more about my military experiences. Let me tell you about the time we had a surprise visit from a group of dolphins during our drill at sea."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like an incredible experience, Sam. I can only imagine how memorable it must have been to have dolphins visit during your drill at sea."
+        ],
+        [
+          "Sam Moore",
+          "Adam, have you ever been to The Rose and Crown Pub before? It's a great place with a cozy atmosphere."
+        ],
+        [
+          "Adam Smith",
+          "That sounds wonderful, Sam. I haven't been to The Rose and Crown Pub before, but I'm looking forward to experiencing the cozy atmosphere. Do you have a favorite drink you recommend?"
+        ],
+        [
+          "Sam Moore",
+          "Adam, I recommend trying their signature ale, it's one of my favorites at The Rose and Crown Pub."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        112,
+        25
+      ],
+      "pronunciatio": "\ud83d\udc42\ud83d\udcda",
+      "description": "attending her classes at Oak Hill College (participating in class discussions) (actively listening to the lecture) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending morning classes (attending his first class) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        100,
+        74
+      ],
+      "pronunciatio": "\ud83d\ude97",
+      "description": "attending classes at Oak Hill College (commuting to Oak Hill College) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        81,
+        49
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "assisting customers with their orders (helping a customer find a specific item) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        65
+      ],
+      "pronunciatio": "\ud83d\udcf1",
+      "description": "taking a break to have lunch (checking her phone for any urgent messages) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:shelf",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Adam and Sam, chatting about Sam's military experiences in the navy, inviting Adam to his birthday party at The Rose and Crown Pub, discussing their plans to catch up and share more stories over drinks, and recommending a signature ale at the pub. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey Sam, I see you're here enjoying a good read. How's your day going so far?"
+        ],
+        [
+          "Sam Moore",
+          "Hey Adam, my day's been pretty good so far. Just getting some reading in before heading out for my walk. How about you?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds lovely, Sam. What book are you currently reading?"
+        ],
+        [
+          "Sam Moore",
+          "I'm reading a book on military strategies, it reminds me of my time in the navy. Have you ever considered joining the military?"
+        ],
+        [
+          "Adam Smith",
+          "That's fascinating, Sam. I've never considered joining the military, but I'm intrigued by your experiences. Do you mind sharing more about your time in the navy?"
+        ],
+        [
+          "Sam Moore",
+          "I'd be happy to share some stories from my time in the navy with you. It was quite an adventure!"
+        ],
+        [
+          "Adam Smith",
+          "That sounds fascinating, Sam. I would love to hear more about your experiences in the navy."
+        ],
+        [
+          "Sam Moore",
+          "I appreciate your interest, Adam. Perhaps you'd like to join me for a drink at The Rose and Crown Pub tomorrow for my birthday party. It would be great to have you there."
+        ],
+        [
+          "Adam Smith",
+          "Thank you for the invitation, Sam. I would love to join you at The Rose and Crown Pub for your birthday party tomorrow."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're able to join, Adam. It will be a great opportunity to catch up and share more stories."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a wonderful plan, Sam. I look forward to celebrating your birthday with you at The Rose and Crown Pub tomorrow."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad you're interested in hearing more about my military experiences. Let me tell you about the time we had a surprise visit from a group of dolphins during our drill at sea."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like an incredible experience, Sam. I can only imagine how memorable it must have been to have dolphins visit during your drill at sea."
+        ],
+        [
+          "Sam Moore",
+          "Adam, have you ever been to The Rose and Crown Pub before? It's a great place with a cozy atmosphere."
+        ],
+        [
+          "Adam Smith",
+          "That sounds wonderful, Sam. I haven't been to The Rose and Crown Pub before, but I'm looking forward to experiencing the cozy atmosphere. Do you have a favorite drink you recommend?"
+        ],
+        [
+          "Sam Moore",
+          "Adam, I recommend trying their signature ale, it's one of my favorites at The Rose and Crown Pub."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:24:20"
+  }
+}

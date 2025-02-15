@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "opening Hobbs Cafe and having breakfast (continuing to search for Ayesha and making sure she's okay) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        101,
+        29
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending a creative writing workshop (listening to the lecture on poetry techniques) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast (eating breakfast) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        39,
+        62
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast (eating breakfast) @ the Ville:Moore family's house:main room:kitchen sink",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        112,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Ayesha Khan are chatting about meeting for coffee, discussing class themes, attending a community meeting on gentrification, meeting up after Ayesha's discussion with Klaus, coordinating a run with Sam Moore, and reviewing notes before their coffee catch-up tomorrow. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang! I'm glad we caught up in class. Are you still up for coffee after classes tomorrow?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, definitely! I'm looking forward to our coffee catch-up tomorrow."
+        ],
+        [
+          "Ayesha Khan",
+          "Great! How about we meet at the cafe near campus around 2 pm?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Sounds perfect! See you at the cafe near campus at 2 pm tomorrow."
+        ],
+        [
+          "Ayesha Khan",
+          "Looking forward to discussing the themes we've been learning in class over coffee tomorrow!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "By the way, I'll be attending that community meeting later this week. It might be helpful for my research paper on gentrification."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds fascinating! We should definitely discuss our findings from the community meeting at coffee tomorrow."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, do you have any plans for the rest of the day after classes?"
+        ],
+        [
+          "Ayesha Khan",
+          "I actually have to meet with Klaus later today to discuss our research on the impact of gentrification. Maybe we can catch up after that?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Sure, that sounds like a plan. Let me know when you're done with Klaus, and we can figure out a time to meet up."
+        ],
+        [
+          "Ayesha Khan",
+          "Great, I'll let you know when I'm done chatting with Klaus. Looking forward to our catch up!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, before I forget, let's split up and search for you in different areas of the village as we planned earlier. It's important to make sure you're okay."
+        ],
+        [
+          "Ayesha Khan",
+          "Sure, that sounds like a plan. Let me know when you're done with Klaus, and we can figure out a time to meet up."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, let's make sure we coordinate our schedules for our run together with Sam Moore next week. I'll check my schedule and get back to you with available days."
+        ],
+        [
+          "Ayesha Khan",
+          "Sounds like a plan, Wolfgang. Let me know when you're free to discuss our findings from the community meeting and our research on gentrification."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, don't forget to review your notes from the previous class before our coffee catch-up tomorrow."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        113,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Ayesha Khan are chatting about meeting for coffee, discussing class themes, attending a community meeting on gentrification, meeting up after Ayesha's discussion with Klaus, coordinating a run with Sam Moore, and reviewing notes before their coffee catch-up tomorrow. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Wolfgang! I'm glad we caught up in class. Are you still up for coffee after classes tomorrow?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Ayesha, definitely! I'm looking forward to our coffee catch-up tomorrow."
+        ],
+        [
+          "Ayesha Khan",
+          "Great! How about we meet at the cafe near campus around 2 pm?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Sounds perfect! See you at the cafe near campus at 2 pm tomorrow."
+        ],
+        [
+          "Ayesha Khan",
+          "Looking forward to discussing the themes we've been learning in class over coffee tomorrow!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "By the way, I'll be attending that community meeting later this week. It might be helpful for my research paper on gentrification."
+        ],
+        [
+          "Ayesha Khan",
+          "That sounds fascinating! We should definitely discuss our findings from the community meeting at coffee tomorrow."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, do you have any plans for the rest of the day after classes?"
+        ],
+        [
+          "Ayesha Khan",
+          "I actually have to meet with Klaus later today to discuss our research on the impact of gentrification. Maybe we can catch up after that?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Sure, that sounds like a plan. Let me know when you're done with Klaus, and we can figure out a time to meet up."
+        ],
+        [
+          "Ayesha Khan",
+          "Great, I'll let you know when I'm done chatting with Klaus. Looking forward to our catch up!"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, before I forget, let's split up and search for you in different areas of the village as we planned earlier. It's important to make sure you're okay."
+        ],
+        [
+          "Ayesha Khan",
+          "Sure, that sounds like a plan. Let me know when you're done with Klaus, and we can figure out a time to meet up."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, let's make sure we coordinate our schedules for our run together with Sam Moore next week. I'll check my schedule and get back to you with available days."
+        ],
+        [
+          "Ayesha Khan",
+          "Sounds like a plan, Wolfgang. Let me know when you're free to discuss our findings from the community meeting and our research on gentrification."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Ayesha, don't forget to review your notes from the previous class before our coffee catch-up tomorrow."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        98,
+        38
+      ],
+      "pronunciatio": "\ud83d\uddd3\ufe0f",
+      "description": "attending classes at Oak Hill College (waking up and completing his morning routine) (checking his schedule and making sure he has all the necessary materials for each class) @ the Ville:Oak Hill College:classroom:blackboard",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        85,
+        49
+      ],
+      "pronunciatio": "\u23f3",
+      "description": "opening The Willow Market and Pharmacy and preparing for the day's business (checking the expiration dates on all products) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\ud83d\udc86\u200d\u2642",
+      "description": "working on her children's book series (taking a break to stretch and get some water) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        54,
+        56
+      ],
+      "pronunciatio": "\ud83d\uddf3\ufe0f",
+      "description": "having breakfast (making a list of potential candidates for the local mayor election) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:47:20"
+  }
+}

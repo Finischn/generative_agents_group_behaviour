@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf54",
+      "description": "taking a break and having a snack at 4:00 pm (taking a break and having a snack) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83c\udfb6",
+      "description": "actively involving and seeking feedback from members of the Black community for their poetry project (conversing about collaborating on incorporating jazz music, spoken word, traditional African music, and folklore elements into their project to amplify marginalized voices, address systemic inequalities exacerbated by gentrification, highlight the resilience of the Black community, and involve local Black artists and community members in decision-making processes.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        108,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "still at the library working on his research paper (researching and gathering more information for the paper) (reviewing his notes and previous research) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        37,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about the importance of promoting diversity and inclusion in their project and how their collaboration can make a positive impact on marginalized communities. @ <persona> Tamara Taylor",
+      "chat": [
+        [
+          "Tamara Taylor",
+          "Hey Sam, I really appreciate our conversation and your dedication to promoting diversity and inclusion in our project. I think our collaboration will truly make a positive impact."
+        ],
+        [
+          "Sam Moore",
+          "Thank you, Tamara. Your perspective and passion for this project are truly inspiring. I am excited to see the positive impact we can make together."
+        ],
+        [
+          "Tamara Taylor",
+          "I believe our collaboration is essential in amplifying marginalized voices and addressing systemic inequalities. By working together, we can create a more inclusive and equitable society."
+        ],
+        [
+          "Sam Moore",
+          "Tamara, I value your perspective and experience in this project. Your insights have been truly valuable in shaping our approach towards diversity and inclusion."
+        ],
+        [
+          "Tamara Taylor",
+          "I think we should also focus on creating opportunities for mentorship and representation in our project to empower aspiring artists from marginalized communities."
+        ],
+        [
+          "Sam Moore",
+          "Tamara, I fully support the idea of creating opportunities for mentorship and representation in our project. It's crucial to empower aspiring artists from marginalized communities and provide them with the platform they deserve."
+        ],
+        [
+          "Tamara Taylor",
+          "Sam, I believe working together to uplift diverse voices and experiences will enrich our project even further. Let's continue to collaborate and make a difference."
+        ],
+        [
+          "Sam Moore",
+          "Tamara, I appreciate your perspective and the impact you are making with your artwork. Your dedication to promoting diversity and inclusion is truly inspiring."
+        ],
+        [
+          "Tamara Taylor",
+          "Sam, I think it's important for us to continue having open conversations about diversity and inclusion in our project to ensure we are always moving in the right direction."
+        ],
+        [
+          "Sam Moore",
+          "Tamara, I truly believe that by centering the voices and experiences of marginalized communities in our project, we can create a more inclusive and representative platform for diverse artists. Your perspective on this has been invaluable."
+        ],
+        [
+          "Tamara Taylor",
+          "Sam, I believe that by working together and amplifying diverse voices, we can create meaningful change in our project. Let's continue to collaborate and strive for inclusivity and representation."
+        ],
+        [
+          "Sam Moore",
+          "Tamara, your dedication to promoting diversity and inclusion in our project is truly inspiring. I am grateful for the opportunity to collaborate with you and together, we can make a significant impact."
+        ],
+        [
+          "Tamara Taylor",
+          "Sam, I appreciate your commitment to learning and growing in our project. Your openness to new perspectives is truly commendable."
+        ],
+        [
+          "Sam Moore",
+          "Tamara, I value your unique perspective and experiences in our project. Your insights are crucial in shaping our approach towards diversity and inclusion. I look forward to continuing our collaboration and learning from your expertise."
+        ],
+        [
+          "Tamara Taylor",
+          "Sam, I appreciate your openness and willingness to listen to diverse perspectives. It's important for us to continue challenging ourselves to create a more inclusive and equitable space for all voices."
+        ],
+        [
+          "Sam Moore",
+          "Tamara, I recognize the importance of acknowledging and addressing systemic inequalities in our project. Your insights have been crucial in shaping our approach towards promoting diversity and inclusion. I am committed to learning and growing in this collaboration."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "studying and working on her senior thesis at the library (writing her thesis outline) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        35,
+        31
+      ],
+      "pronunciatio": "\ud83c\udfb6",
+      "description": "studying or working on projects (conversing about incorporating traditional African music, storytelling, and elements of jazz music into their project, as well as prioritizing diversity, inclusivity, and education on Black experiences, involving local Black artists and community organizations, humanizing the Black community through personal stories and experiences, and establishing a framework for inclusive decision-making and communication.) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        107,
+        32
+      ],
+      "pronunciatio": "\ud83c\udf7f",
+      "description": "working on his composition project at Hobbs Cafe (taking a break to grab a snack) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\ud83d\uded2",
+      "description": "still managing operations and assisting customers at The Willow Market and Pharmacy (assisting customers with finding products and answering questions) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        38,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about the importance of promoting diversity and inclusion in their project and how their collaboration can make a positive impact on marginalized communities. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Tamara Taylor",
+          "Hey Sam, I really appreciate our conversation and your dedication to promoting diversity and inclusion in our project. I think our collaboration will truly make a positive impact."
+        ],
+        [
+          "Sam Moore",
+          "Thank you, Tamara. Your perspective and passion for this project are truly inspiring. I am excited to see the positive impact we can make together."
+        ],
+        [
+          "Tamara Taylor",
+          "I believe our collaboration is essential in amplifying marginalized voices and addressing systemic inequalities. By working together, we can create a more inclusive and equitable society."
+        ],
+        [
+          "Sam Moore",
+          "Tamara, I value your perspective and experience in this project. Your insights have been truly valuable in shaping our approach towards diversity and inclusion."
+        ],
+        [
+          "Tamara Taylor",
+          "I think we should also focus on creating opportunities for mentorship and representation in our project to empower aspiring artists from marginalized communities."
+        ],
+        [
+          "Sam Moore",
+          "Tamara, I fully support the idea of creating opportunities for mentorship and representation in our project. It's crucial to empower aspiring artists from marginalized communities and provide them with the platform they deserve."
+        ],
+        [
+          "Tamara Taylor",
+          "Sam, I believe working together to uplift diverse voices and experiences will enrich our project even further. Let's continue to collaborate and make a difference."
+        ],
+        [
+          "Sam Moore",
+          "Tamara, I appreciate your perspective and the impact you are making with your artwork. Your dedication to promoting diversity and inclusion is truly inspiring."
+        ],
+        [
+          "Tamara Taylor",
+          "Sam, I think it's important for us to continue having open conversations about diversity and inclusion in our project to ensure we are always moving in the right direction."
+        ],
+        [
+          "Sam Moore",
+          "Tamara, I truly believe that by centering the voices and experiences of marginalized communities in our project, we can create a more inclusive and representative platform for diverse artists. Your perspective on this has been invaluable."
+        ],
+        [
+          "Tamara Taylor",
+          "Sam, I believe that by working together and amplifying diverse voices, we can create meaningful change in our project. Let's continue to collaborate and strive for inclusivity and representation."
+        ],
+        [
+          "Sam Moore",
+          "Tamara, your dedication to promoting diversity and inclusion in our project is truly inspiring. I am grateful for the opportunity to collaborate with you and together, we can make a significant impact."
+        ],
+        [
+          "Tamara Taylor",
+          "Sam, I appreciate your commitment to learning and growing in our project. Your openness to new perspectives is truly commendable."
+        ],
+        [
+          "Sam Moore",
+          "Tamara, I value your unique perspective and experiences in our project. Your insights are crucial in shaping our approach towards diversity and inclusion. I look forward to continuing our collaboration and learning from your expertise."
+        ],
+        [
+          "Tamara Taylor",
+          "Sam, I appreciate your openness and willingness to listen to diverse perspectives. It's important for us to continue challenging ourselves to create a more inclusive and equitable space for all voices."
+        ],
+        [
+          "Sam Moore",
+          "Tamara, I recognize the importance of acknowledging and addressing systemic inequalities in our project. Your insights have been crucial in shaping our approach towards promoting diversity and inclusion. I am committed to learning and growing in this collaboration."
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        27,
+        46
+      ],
+      "pronunciatio": "\ud83e\uddca\ud83e\uddd8",
+      "description": "taking a break and going for a walk or exercising (cooling down and stretching) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 15:58:30"
+  }
+}

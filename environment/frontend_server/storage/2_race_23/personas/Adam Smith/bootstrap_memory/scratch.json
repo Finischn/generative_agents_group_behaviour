@@ -1,0 +1,1060 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 21:59:50",
+  "curr_tile": [
+    23,
+    62
+  ],
+  "daily_plan_req": "1. Wake up at 4am and complete morning routine 2. Have breakfast at 5am 3. Work on writing project from 6am to 10am 4. Attend birthday party at The Rose and Crown Pub at 7pm",
+  "name": "Adam Smith",
+  "first_name": "Adam",
+  "last_name": "Smith",
+  "age": 38,
+  "innate": "thoughtful, reflective, intellectual",
+  "race": "White",
+  "village": "longterm resident of the village",
+  "gender": "Male",
+  "political_affiliation": "Conservative",
+  "race_div": "American Indian or Alaska Native",
+  "education": "Master's degree",
+  "learned": "Adam Smith is a philosopher who loves to explore different ideas. He is always looking for ways to challenge people\u00e2\u20ac\u2122s preconceptions.",
+  "currently": "Status: Adam Smith is looking forward to joining Sam at The Rose and Crown Pub tonight on Tuesday February 14 for his birthday party. He is excited to try their signature ale and catch up with friends. Adam also plans to set up a meeting with Sam at The Rose and Crown Pub to continue their discussions. Additionally, Adam is eagerly anticipating his meeting with Tamara at the local coffee shop next week to talk about her children's book series and the importance of diversity and representation in storytelling. After a busy and productive day, Adam feels motivated and fulfilled by his achievements and interactions with others.",
+  "lifestyle": "Adam Smith goes to bed around 8pm, awakes up around 4am, eats dinner around 5pm.",
+  "living_area": "the Ville:Adam Smith's house:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 19,
+  "importance_ele_n": 68,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 4:00 am",
+    "work on his book for 3 hours from 5:00 am to 8:00 am",
+    "have breakfast at 8:00 am",
+    "research and gather information about the local mayor election from 9:00 am to 11:00 am",
+    "have lunch at 12:00 pm",
+    "work on his book again from 1:00 pm to 3:00 pm",
+    "take a break and go for a walk or exercise from 3:00 pm to 4:00 pm",
+    "continue working on his book from 4:00 pm to 6:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      240
+    ],
+    [
+      "waking up and completing his morning routine (waking up and getting out of bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (stretching and doing some light exercises)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (getting dressed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (making his bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (preparing breakfast)",
+      20
+    ],
+    [
+      "working on his writing project (reviewing his notes and research for the writing project)",
+      10
+    ],
+    [
+      "working on his writing project (organizing his thoughts and ideas for the project)",
+      15
+    ],
+    [
+      "working on his writing project (writing the first draft of the project)",
+      20
+    ],
+    [
+      "working on his writing project (taking a short break)",
+      15
+    ],
+    [
+      "working on his book (reviewing his notes and research for the book)",
+      10
+    ],
+    [
+      "working on his book (writing the introduction for the book)",
+      15
+    ],
+    [
+      "working on his book (taking a short break)",
+      5
+    ],
+    [
+      "working on his book (writing the first chapter of the book)",
+      20
+    ],
+    [
+      "working on his book (taking a break to stretch and get some water)",
+      10
+    ],
+    [
+      "having breakfast (making coffee)",
+      5
+    ],
+    [
+      "having breakfast (toasting bread)",
+      5
+    ],
+    [
+      "having breakfast (checking his emails)",
+      10
+    ],
+    [
+      "having breakfast (reading the newspaper)",
+      15
+    ],
+    [
+      "having breakfast (making scrambled eggs)",
+      10
+    ],
+    [
+      "having breakfast (setting the table)",
+      15
+    ],
+    [
+      "researching and gathering information about the local mayor election (checking local news websites for updates on the election)",
+      10
+    ],
+    [
+      "researching and gathering information about the local mayor election (reading articles and opinion pieces about the candidates)",
+      20
+    ],
+    [
+      "researching and gathering information about the local mayor election (taking notes on key points and arguments)",
+      15
+    ],
+    [
+      "researching and gathering information about the local mayor election (researching the candidates' backgrounds and past political experience)",
+      10
+    ],
+    [
+      "researching and gathering information about the local mayor election (on the way to organizing his notes and thoughts)",
+      0
+    ],
+    [
+      "researching and gathering information about the local mayor election (conversing about integrating diverse cultural elements into their project to promote diversity and inclusivity, with Adam Smith and Eddy Lin discussing the importance of accurately representing diverse voices, actively involving the Black community, seeking feedback, showcasing diverse artists, and organizing events to engage with and uplift underrepresented communities.)",
+      13
+    ],
+    [
+      "having lunch (deciding on a restaurant to go to for lunch)",
+      5
+    ],
+    [
+      "having lunch (walking to the restaurant)",
+      10
+    ],
+    [
+      "having lunch (on the way to looking at the menu and deciding what to order)",
+      0
+    ],
+    [
+      "having lunch (conversing about Adam Smith offering to help Isabella Rodriguez set up tables and chairs for her birthday party at Hobbs Cafe, with Isabella expressing gratitude for his support in creating an inclusive and welcoming atmosphere.)",
+      5
+    ],
+    [
+      "having lunch (looking at the menu and deciding what to order)",
+      5
+    ],
+    [
+      "having lunch (placing his order with the server)",
+      5
+    ],
+    [
+      "having lunch (waiting for his food to arrive)",
+      15
+    ],
+    [
+      "having lunch (eating his lunch)",
+      7
+    ],
+    [
+      "attending a meeting with Sam at The Rose and Crown Pub to discuss their ongoing philosophical discussions (on the way to walking to The Rose and Crown Pub)",
+      0
+    ],
+    [
+      "attending a meeting with Sam at The Rose and Crown Pub to discuss their ongoing philosophical discussions (conversing about promoting diversity, inclusivity, and amplifying marginalized voices within their collaborative project in literature.)",
+      16
+    ],
+    [
+      "attending a meeting with Sam at The Rose and Crown Pub to discuss their ongoing philosophical discussions (taking a break and ordering another round of drinks)",
+      10
+    ],
+    [
+      "attending a meeting with Sam at The Rose and Crown Pub to discuss their ongoing philosophical discussions (wrapping up the meeting and saying goodbye to Sam)",
+      5
+    ],
+    [
+      "walking back to his office",
+      5
+    ],
+    [
+      "checking and responding to emails and messages (on the way to checking and responding to emails and message)",
+      0
+    ],
+    [
+      "checking and responding to emails and messages (conversing about two collaborators, Sam Moore and Adam Smith, discussing ways to promote diversity and inclusivity in their poetry project by involving local artists and poets from diverse backgrounds, organizing events to engage underrepresented communities, incorporating elements of jazz music, spoken word, storytelling, traditional African music, and folklore, addressing systemic inequalities and social injustices, and fostering a sense of community and belonging while reaching out to Hispanic and Asian communities as well.)",
+      15
+    ],
+    [
+      "reviewing and editing his current project proposal",
+      10
+    ],
+    [
+      "making final revisions and submitting the project proposal",
+      10
+    ],
+    [
+      "wrapping up work and preparing to leave for the day.",
+      2
+    ],
+    [
+      "walking back to his office and preparing for his next task.",
+      8
+    ],
+    [
+      "continuing his research and gathering information about the local mayor election (reviewing the current candidates for the local mayor election)",
+      10
+    ],
+    [
+      "continuing his research and gathering information about the local mayor election (on the way to researching the candidates' backgrounds and political stances)",
+      0
+    ],
+    [
+      "continuing his research and gathering information about the local mayor election (conversing about Adam Smith and Carlos Gomez are discussing ways to promote diversity, inclusivity, and social justice in their project by incorporating traditional African music, spoken word, cultural heritage, involving Black artists and community members, addressing systemic inequalities, celebrating Black cultural heritage, and organizing community engagement events.)",
+      20
+    ],
+    [
+      "continuing his research and gathering information about the local mayor election (taking notes on the candidates' key points and potential impact on the community)",
+      9
+    ],
+    [
+      "continuing his research and gathering information about the local mayor election (checking local news sources for any updates on the election)",
+      10
+    ],
+    [
+      "continuing his research and gathering information about the local mayor election (organizing his notes and thoughts on the election)",
+      5
+    ],
+    [
+      "having lunch (on the way to deciding on a place to eat)",
+      0
+    ],
+    [
+      "having lunch (conversing about collaborating on a project to showcase Black history and achievements, involving poetry, traditional African music, local artists, and community organizations to ensure inclusivity and diverse representation.)",
+      14
+    ],
+    [
+      "having lunch (walking to the chosen restaurant)",
+      10
+    ],
+    [
+      "having lunch (on the way to looking at the menu and deciding what to order)",
+      0
+    ],
+    [
+      "having lunch (conversing about highlighting the importance of diversity, inclusion, and authentic representation in their project while actively engaging with the Black, Hispanic, and Asian communities to address systemic inequalities and showcase diverse talent.)",
+      19
+    ],
+    [
+      "having lunch (looking at the menu and deciding what to order)",
+      5
+    ],
+    [
+      "having lunch (placing his order with the server)",
+      5
+    ],
+    [
+      "having lunch (checking his phone for any important messages or emails)",
+      5
+    ],
+    [
+      "having lunch (engaging in small talk with the server)",
+      10
+    ],
+    [
+      "wrapping up lunch and heading back to the office.",
+      1
+    ],
+    [
+      "taking a break and going for a walk or exercising",
+      15
+    ],
+    [
+      "continuing his research and gathering information about the local mayor election (on the way to reviewing his notes and making any necessary updates)",
+      0
+    ],
+    [
+      "continuing his research and gathering information about the local mayor election (conversing about collaborating and planning a community event to showcase Ayesha Khan's poetry project on gentrification and social issues, involving Adam Smith, Tom Moreno, Ayesha, Carlos, Klaus, Eddy, and local artists to promote diversity, inclusivity, and incorporate elements of jazz music and storytelling.)",
+      9
+    ],
+    [
+      "continuing his research and gathering information about the local mayor election (reviewing the current candidates for the local mayor election)",
+      10
+    ],
+    [
+      "continuing his research and gathering information about the local mayor election (on the way to researching the candidates' backgrounds and political stances)",
+      0
+    ],
+    [
+      "continuing his research and gathering information about the local mayor election (conversing about two collaborators, Tamara Taylor and Adam Smith, discussing ways to incorporate diverse voices, such as Black, Hispanic, and Asian communities, into their project to promote inclusivity and authenticity in their storytelling.)",
+      14
+    ],
+    [
+      "continuing his research and gathering information about the local mayor election (researching the candidates' backgrounds and political stances)",
+      6
+    ],
+    [
+      "continuing his research and gathering information about the local mayor election (taking notes on the candidates' key points and potential impact on the community)",
+      15
+    ],
+    [
+      "continuing his research and gathering information about the local mayor election (on the way to checking for any recent news or updates on the election)",
+      0
+    ],
+    [
+      "continuing his research and gathering information about the local mayor election (conversing about further involving the Black community in their project and prioritizing their voices, perspectives, and talents through community engagement events, showcasing diverse talent, and scheduling a meeting to discuss ideas and collaboration.)",
+      5
+    ],
+    [
+      "continuing his research and gathering information about the local mayor election (organizing his research and notes)",
+      10
+    ],
+    [
+      "wrapping up his research and preparing for his next task.",
+      15
+    ],
+    [
+      "taking a break and going for a walk or exercising (changing into his workout clothes)",
+      5
+    ],
+    [
+      "taking a break and going for a walk or exercising (stretching and warming up)",
+      10
+    ],
+    [
+      "taking a break and going for a walk or exercising (going for a 30-minute jog around the neighborhood)",
+      30
+    ],
+    [
+      "taking a break and going for a walk or exercising (cooling down and stretching)",
+      10
+    ],
+    [
+      "taking a break and going for a walk or exercising (taking a quick shower)",
+      5
+    ],
+    [
+      "wrapping up his break and getting ready for his next task.",
+      9
+    ],
+    [
+      "continuing to work on his book (reviewing his notes and research for the book)",
+      10
+    ],
+    [
+      "continuing to work on his book (organizing his thoughts and ideas for the next chapter)",
+      15
+    ],
+    [
+      "continuing to work on his book (writing the first draft of the next chapter)",
+      20
+    ],
+    [
+      "continuing to work on his book (taking a break to stretch and get some water)",
+      15
+    ],
+    [
+      "getting ready for his birthday party at The Rose and Crown Pub (taking a shower)",
+      10
+    ],
+    [
+      "getting ready for his birthday party at The Rose and Crown Pub (choosing an outfit to wear)",
+      15
+    ],
+    [
+      "getting ready for his birthday party at The Rose and Crown Pub (getting dressed)",
+      5
+    ],
+    [
+      "getting ready for his birthday party at The Rose and Crown Pub (styling his hair)",
+      10
+    ],
+    [
+      "getting ready for his birthday party at The Rose and Crown Pub (putting on cologne)",
+      5
+    ],
+    [
+      "getting ready for his birthday party at The Rose and Crown Pub (checking his phone for any messages or updates)",
+      5
+    ],
+    [
+      "getting ready for his birthday party at The Rose and Crown Pub (making sure he has his wallet and keys)",
+      5
+    ],
+    [
+      "getting ready for his birthday party at The Rose and Crown Pub (leaving his house and locking the door)",
+      5
+    ],
+    [
+      "attending his birthday party at The Rose and Crown Pub (greeting and chatting with guests as they arrive)",
+      10
+    ],
+    [
+      "attending his birthday party at The Rose and Crown Pub (ordering a drink from the bar)",
+      5
+    ],
+    [
+      "attending his birthday party at The Rose and Crown Pub (on the way to catching up with his friend Sam)",
+      0
+    ],
+    [
+      "attending his birthday party at The Rose and Crown Pub (conversing about conversing about incorporating elements of jazz music and storytelling in their poetry project to promote diversity and inclusion, while also making plans to meet with Tamara to discuss the importance of diversity in storytelling for her children's book series.)",
+      10
+    ],
+    [
+      "attending his birthday party at The Rose and Crown Pub (catching up with his friend Sam)",
+      5
+    ],
+    [
+      "attending his birthday party at The Rose and Crown Pub (trying the pub's signature ale)",
+      10
+    ],
+    [
+      "attending his birthday party at The Rose and Crown Pub (mingling with other guests and engaging in conversations)",
+      15
+    ],
+    [
+      "attending his birthday party at The Rose and Crown Pub (thanking his guests for coming and saying goodbye to those who are leaving)",
+      5
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub and catching up with friends (greeting and catching up with friends as they arrive)",
+      10
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub and catching up with friends (ordering a drink and food from the pub)",
+      10
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub and catching up with friends (on the way to engaging in conversation with his friends)",
+      0
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub and catching up with friends (conversing about actively involving and prioritizing diversity, inclusivity, social justice, and uplifting Black voices through various forms of art and community engagement in their project.)",
+      14
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub and catching up with friends (playing a game with his friends)",
+      6
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub and catching up with friends (saying goodbye and thanking his friends for coming)",
+      10
+    ],
+    [
+      "setting up a meeting with Tamara at the local coffee shop next week to discuss her children's book series and the importance of diversity and representation in storytelling (on the way to checking his calendar for available dates and times)",
+      0
+    ],
+    [
+      "setting up a meeting with Tamara at the local coffee shop next week to discuss her children's book series and the importance of diversity and representation in storytelling (conversing about incorporating elements of traditional African music and folklore into their project, celebrating diversity, highlighting systemic inequalities and social injustices, educating themselves on the struggles and history of the Black community, involving Hispanic and Asian communities, and prioritizing inclusivity and authenticity in their storytelling.)",
+      14
+    ],
+    [
+      "setting up a meeting with Tamara at the local coffee shop next week to discuss her children's book series and the importance of diversity and representation in storytelling (checking his email for a response from Tamara)",
+      5
+    ],
+    [
+      "setting up a meeting with Tamara at the local coffee shop next week to discuss her children's book series and the importance of diversity and representation in storytelling (on the way to confirming the meeting date and time with Tamara)",
+      0
+    ],
+    [
+      "setting up a meeting with Tamara at the local coffee shop next week to discuss her children's book series and the importance of diversity and representation in storytelling (conversing about incorporating elements of traditional African music and storytelling, reaching out to local Black artists, involving members of the Black community directly, educating themselves on the struggles and history of the Black community, creating a safe and inclusive space for the Black community, collaborating with local community organizations, incorporating elements of hip-hop culture and spoken word performances, delving into Black history and African folklore, highlighting the resilience and strength of the Black community, seeking feedback and listening to the voices of the Black community, empowering Black voices, addressing systemic inequalities, and collaborating with community organizations that support Black youth.)",
+      14
+    ],
+    [
+      "setting up a meeting with Tamara at the local coffee shop next week to discuss her children's book series and the importance of diversity and representation in storytelling (researching the topic of diversity and representation in storytelling)",
+      10
+    ],
+    [
+      "setting up a meeting with Tamara at the local coffee shop next week to discuss her children's book series and the importance of diversity and representation in storytelling (preparing questions and discussion points for the meeting)",
+      15
+    ],
+    [
+      "enjoying the rest of his birthday party at The Rose and Crown Pub and catching up with friends (on the way to relaxing and chatting with friends)",
+      0
+    ],
+    [
+      "enjoying the rest of his birthday party at The Rose and Crown Pub and catching up with friends (conversing about the importance of actively involving and uplifting the Black community in decision-making processes, ensuring their perspectives are accurately represented, prioritizing diversity, inclusivity, and social justice, and seeking feedback and input from a diverse range of voices including Black women, LGBTQ+ individuals, and people with disabilities in their project.)",
+      20
+    ],
+    [
+      "winding down and getting ready for bed (on the way to turning off all electronics and dimming the lights in his home)",
+      0
+    ],
+    [
+      "winding down and getting ready for bed (conversing about collaborating on promoting diversity and inclusivity in their poetry project, brainstorming new ideas for engaging underrepresented communities, and considering incorporating elements of traditional Asian music, involving the Hispanic community, collaborating with local Black artists, and reaching out to the LGBTQ+ community and people with disabilities to ensure diverse voices and perspectives are included.)",
+      13
+    ],
+    [
+      "winding down and getting ready for bed (taking a shower and getting changed into comfortable pajamas)",
+      15
+    ],
+    [
+      "winding down and getting ready for bed (making a cup of chamomile tea to help him relax)",
+      10
+    ],
+    [
+      "winding down and getting ready for bed (doing some light stretching or yoga to unwind)",
+      10
+    ],
+    [
+      "winding down and getting ready for bed (reading a book or listening to calming music)",
+      2
+    ],
+    [
+      "winding down and getting ready for bed (setting his alarm for 4am the next morning)",
+      5
+    ],
+    [
+      "going to bed at 10:00 pm to get a good night's rest for another productive day tomorrow (brushing his teeth and washing his face)",
+      5
+    ],
+    [
+      "going to bed at 10:00 pm to get a good night's rest for another productive day tomorrow (changing into his pajamas)",
+      5
+    ],
+    [
+      "going to bed at 10:00 pm to get a good night's rest for another productive day tomorrow (setting his alarm for 4am)",
+      5
+    ],
+    [
+      "going to bed at 10:00 pm to get a good night's rest for another productive day tomorrow (turning off all electronics and dimming the lights)",
+      10
+    ],
+    [
+      "going to bed at 10:00 pm to get a good night's rest for another productive day tomorrow (doing a quick meditation to relax his mind and body)",
+      10
+    ],
+    [
+      "going to bed at 10:00 pm to get a good night's rest for another productive day tomorrow (reading a few pages of a book to wind down)",
+      10
+    ],
+    [
+      "going to bed at 10:00 pm to get a good night's rest for another productive day tomorrow (turning off the lights and getting into bed)",
+      5
+    ],
+    [
+      "going to bed at 10:00 pm to get a good night's rest for another productive day tomorrow (doing some deep breathing exercises to help him fall asleep)",
+      2
+    ],
+    [
+      "reflecting on his productive day and feeling grateful for his achievements and interactions with others. He falls asleep with a sense of fulfillment and excitement for the future",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -8
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -8
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      1
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -1
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      16
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -3
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -9
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      240
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "working on his writing project",
+      60
+    ],
+    [
+      "working on his book",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "researching and gathering information about the local mayor election",
+      60
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "attending a meeting with Sam at The Rose and Crown Pub to discuss their ongoing philosophical discussions",
+      60
+    ],
+    [
+      "continuing his research and gathering information about the local mayor election",
+      60
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "taking a break and going for a walk or exercising",
+      60
+    ],
+    [
+      "continuing his research and gathering information about the local mayor election",
+      60
+    ],
+    [
+      "taking a break and going for a walk or exercising",
+      60
+    ],
+    [
+      "continuing to work on his book",
+      60
+    ],
+    [
+      "getting ready for his birthday party at The Rose and Crown Pub",
+      60
+    ],
+    [
+      "attending his birthday party at The Rose and Crown Pub",
+      60
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub and catching up with friends",
+      60
+    ],
+    [
+      "setting up a meeting with Tamara at the local coffee shop next week to discuss her children's book series and the importance of diversity and representation in storytelling",
+      60
+    ],
+    [
+      "winding down and getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 10:00 pm to get a good night's rest for another productive day tomorrow",
+      60
+    ],
+    [
+      "reflecting on his productive day and feeling grateful for his achievements and interactions with others. He falls asleep with a sense of fulfillment and excitement for the future",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Adam Smith's house:main room:kitchen sink",
+  "act_start_time": "February 14, 2023, 21:53:00",
+  "act_duration": 10,
+  "act_description": "winding down and getting ready for bed (making a cup of chamomile tea to help him relax)",
+  "act_pronunciatio": "\u2615",
+  "act_event": [
+    "Adam Smith",
+    "make",
+    "cup of chamomile tea"
+  ],
+  "act_obj_description": "being filled with dirty dishes",
+  "act_obj_pronunciatio": "\ud83c\udf7d\ufe0f",
+  "act_obj_event": [
+    "kitchen sink",
+    "fill",
+    "dirty dishes"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Tom Moreno": -2248,
+    "Isabella Rodriguez": -3724,
+    "Sam Moore": 590,
+    "Tamara Taylor": 158,
+    "Eddy Lin": 266,
+    "Carlos Gomez": -22,
+    "Klaus Mueller": -2644,
+    "Wolfgang Schulz": 482
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "known_personas": [
+    "Tom Moreno",
+    "Isabella Rodriguez",
+    "Sam Moore",
+    "Tamara Taylor",
+    "Eddy Lin",
+    "Carlos Gomez",
+    "Klaus Mueller",
+    "Wolfgang Schulz"
+  ]
+}

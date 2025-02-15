@@ -1,0 +1,774 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 21:59:50",
+  "curr_tile": [
+    119,
+    47
+  ],
+  "daily_plan_req": "1. Wake up at 7:00 AM and complete morning routine 2. Head to Oak Hill College library to work on project at 9:00 AM 3. Meet with Isabella Rodriguez and Wolfgang Schulz at 2:00 PM at the community center 4. Go to Hobbs Cafe for dinner at 5:00 PM.",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 78,
+  "innate": "kind, inquisitive, passionate",
+  "race": "White",
+  "village": "longterm resident of the village",
+  "gender": "Male",
+  "political_affiliation": "Liberal",
+  "race_div": "Native Hawaiian or Pacific Islander",
+  "education": "Professional degree (JD, MD)",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.",
+  "currently": "Status: Klaus Mueller is scheduled to meet with Isabella Rodriguez and Wolfgang Schulz on Tuesday February 14 at 2:00 PM in the community center to discuss incorporating Carlos Gomez's poetry and traditional African music into their project on gentrification. Klaus is committed to actively involving members of the Black community in the creative process and incorporating elements of traditional African music, storytelling, and folklore to authentically represent their perspectives and experiences. Klaus is excited about the collaboration and inclusive approach for the project.",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 74,
+  "importance_ele_n": 63,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "have breakfast at 8:00 am",
+    "go to the library at Oak Hill College at 9:00 am",
+    "work on research paper until lunch at 12:00 pm",
+    "have lunch at Hobbs Cafe at 12:30 pm",
+    "continue working on research paper at the library until 4:30 pm",
+    "attend a lecture at 5:00 pm",
+    "have dinner at 6:30 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine (waking up and turning off his alarm)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (stretching and doing some light exercises)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower and getting dressed)",
+      20
+    ],
+    [
+      "waking up and completing his morning routine (making breakfast)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (eating breakfast)",
+      10
+    ],
+    [
+      "having breakfast (making coffee)",
+      5
+    ],
+    [
+      "having breakfast (toasting bread)",
+      5
+    ],
+    [
+      "having breakfast (checking his emails)",
+      10
+    ],
+    [
+      "having breakfast (eating breakfast)",
+      20
+    ],
+    [
+      "having breakfast (washing dishes)",
+      10
+    ],
+    [
+      "having breakfast (getting dressed)",
+      10
+    ],
+    [
+      "at the library working on his research paper (reviewing his research notes)",
+      10
+    ],
+    [
+      "at the library working on his research paper (organizing his research materials)",
+      15
+    ],
+    [
+      "at the library working on his research paper (writing an outline for his paper)",
+      10
+    ],
+    [
+      "at the library working on his research paper (conducting additional research on his topic)",
+      15
+    ],
+    [
+      "at the library working on his research paper (taking a short break)",
+      10
+    ],
+    [
+      "still at the library working on his research paper (reviewing his research notes)",
+      15
+    ],
+    [
+      "still at the library working on his research paper (on the way to organizing his research materials)",
+      0
+    ],
+    [
+      "still at the library working on his research paper (conversing about amplifying the voices of the Black community, collaborating with Black artists and organizations, exploring the impact of gentrification, incorporating African culture elements, organizing a community event, discussing intersectionality, scheduling a meeting with local Black artists and organizations, addressing systemic inequalities and social injustices, and involving the Black community in the planning process.)",
+      20
+    ],
+    [
+      "still at the library working on his research paper (on the way to writing the introduction for his paper)",
+      0
+    ],
+    [
+      "still at the library working on his research paper (conversing about two collaborators, Carlos Gomez and Klaus Mueller, discussing their excitement and dedication to incorporating poetry and traditional African music to showcase Black history and achievements in their project.)",
+      16
+    ],
+    [
+      "still at the library working on his research paper (writing the introduction for his paper)",
+      14
+    ],
+    [
+      "still at the library working on his research paper (taking a short break)",
+      5
+    ],
+    [
+      "still at the library working on his research paper (researching and gathering sources for his paper)",
+      30
+    ],
+    [
+      "still at the library working on his research paper (on the way to taking a break to stretch and get some water)",
+      0
+    ],
+    [
+      "still at the library working on his research paper (conversing about Klaus Mueller and Ayesha Khan are discussing how to incorporate elements of traditional African music, storytelling, involve local Black artists and community organizations, explore systemic inequalities, and prioritize diversity within the Black community in their project.)",
+      14
+    ],
+    [
+      "still at the library working on his research paper (taking a break to stretch and get some water)",
+      6
+    ],
+    [
+      "taking a break and having lunch at Hobbs Cafe (walking to Hobbs Cafe)",
+      5
+    ],
+    [
+      "taking a break and having lunch at Hobbs Cafe (ordering his food)",
+      10
+    ],
+    [
+      "taking a break and having lunch at Hobbs Cafe (on the way to finding a table to sit at)",
+      0
+    ],
+    [
+      "taking a break and having lunch at Hobbs Cafe (conversing about collaborating on a project to showcase Black history and achievements, involving poetry, traditional African music, local artists, and community organizations to ensure inclusivity and diverse representation.)",
+      14
+    ],
+    [
+      "taking a break and having lunch at Hobbs Cafe (finding a table to sit at)",
+      5
+    ],
+    [
+      "taking a break and having lunch at Hobbs Cafe (checking his phone for any messages)",
+      5
+    ],
+    [
+      "taking a break and having lunch at Hobbs Cafe (eating his lunch)",
+      25
+    ],
+    [
+      "taking a break and having lunch at Hobbs Cafe (on the way to on the way to reflecting on his morning work at the library)",
+      0
+    ],
+    [
+      "taking a break and having lunch at Hobbs Cafe (conversing about incorporating elements of jazz music, spoken word, traditional African music, nature, and hip-hop into their project, while also involving local Black artists and storytellers to celebrate the Black community's heritage and resilience, and educating themselves on the struggles and history of the Black community to ensure their project is well-informed and respectful.)",
+      15
+    ],
+    [
+      "back at the library working on his research paper (reviewing his notes and research materials)",
+      10
+    ],
+    [
+      "back at the library working on his research paper (organizing his thoughts and ideas for the paper)",
+      15
+    ],
+    [
+      "back at the library working on his research paper (writing the introduction for the paper)",
+      10
+    ],
+    [
+      "back at the library working on his research paper (taking a short break)",
+      5
+    ],
+    [
+      "back at the library working on his research paper (researching and gathering more information for the paper)",
+      1
+    ],
+    [
+      "meeting with Isabella Rodriguez and Wolfgang Schulz at the community center to discuss their project on gentrification (greeting Isabella and Wolfgang)",
+      5
+    ],
+    [
+      "meeting with Isabella Rodriguez and Wolfgang Schulz at the community center to discuss their project on gentrification (discussing the project goals and objectives)",
+      10
+    ],
+    [
+      "meeting with Isabella Rodriguez and Wolfgang Schulz at the community center to discuss their project on gentrification (sharing his ideas for incorporating Carlos Gomez's poetry and traditional African music)",
+      15
+    ],
+    [
+      "meeting with Isabella Rodriguez and Wolfgang Schulz at the community center to discuss their project on gentrification (listening to Isabella and Wolfgang's feedback and suggestions)",
+      10
+    ],
+    [
+      "meeting with Isabella Rodriguez and Wolfgang Schulz at the community center to discuss their project on gentrification (discussing the timeline and deadlines for the project)",
+      10
+    ],
+    [
+      "meeting with Isabella Rodriguez and Wolfgang Schulz at the community center to discuss their project on gentrification (finalizing the meeting and setting a date for the next meeting)",
+      5
+    ],
+    [
+      "meeting with Isabella Rodriguez and Wolfgang Schulz at the community center to discuss their project on gentrification (saying goodbye and leaving the community center)",
+      5
+    ],
+    [
+      "still at the library working on his research paper (on the way to reviewing his notes and research materials)",
+      0
+    ],
+    [
+      "still at the library working on his research paper (conversing about incorporating jazz music, spoken word, storytelling, traditional African folklore and music, involving local Black artists and community organizations, exploring systemic inequalities and the impact of gentrification on the Black community, prioritizing diversity, educating themselves on the struggles and history of the Black community, highlighting achievements and resilience, challenging biases, striving for authentic representation, actively involving Black community members in decision-making processes, exploring the intersectionality of race and gender within the Black community, and creating a safe space for open dialogue and collaboration to authentically represent the Black community)",
+      16
+    ],
+    [
+      "still at the library working on his research paper (on the way to organizing his thoughts and ideas for the paper)",
+      0
+    ],
+    [
+      "still at the library working on his research paper (conversing about Klaus Mueller and Wolfgang Schulz are discussing how to authentically incorporate elements of jazz music, spoken word, traditional African music, storytelling, and folklore into their project, while actively involving local Black artists and community organizations, prioritizing diversity, inclusivity, and education on Black experiences to ensure an impactful and respectful representation of the Black community.)",
+      19
+    ],
+    [
+      "still at the library working on his research paper (organizing his thoughts and ideas for the paper)",
+      15
+    ],
+    [
+      "still at the library working on his research paper (taking a short break)",
+      5
+    ],
+    [
+      "still at the library working on his research paper (researching and gathering more information for the paper) (reviewing his notes and previous research)",
+      10
+    ],
+    [
+      "still at the library working on his research paper (researching and gathering more information for the paper) (searching for scholarly articles and books related to his topic)",
+      15
+    ],
+    [
+      "still at the library working on his research paper (researching and gathering more information for the paper) (taking notes on the information he finds)",
+      20
+    ],
+    [
+      "still at the library working on his research paper (researching and gathering more information for the paper) (organizing his notes and research into categories)",
+      10
+    ],
+    [
+      "still at the library working on his research paper (researching and gathering more information for the paper) (taking a short break)",
+      5
+    ],
+    [
+      "still at the library working on his research paper (finalizing his notes and wrapping up for the day)",
+      5
+    ],
+    [
+      "attending a lecture at Oak Hill College (walking to the lecture hall)",
+      5
+    ],
+    [
+      "attending a lecture at Oak Hill College (finding a seat in the lecture hall)",
+      5
+    ],
+    [
+      "attending a lecture at Oak Hill College (greeting his classmates and professor)",
+      5
+    ],
+    [
+      "attending a lecture at Oak Hill College (taking out his notebook and pen)",
+      45
+    ],
+    [
+      "having dinner at Hobbs Cafe (walking to Hobbs Cafe)",
+      5
+    ],
+    [
+      "having dinner at Hobbs Cafe (looking at the menu and deciding what to order)",
+      10
+    ],
+    [
+      "having dinner at Hobbs Cafe (on the way to placing his order with the server)",
+      0
+    ],
+    [
+      "having dinner at Hobbs Cafe (conversing about how to actively involve the Black community in their project and ensure their voices are heard and represented authentically, while also exploring issues such as systemic inequalities, social injustices, intersectionality of race and gender, and the impact of gentrification on Black neighborhoods.)",
+      16
+    ],
+    [
+      "having dinner at Hobbs Cafe (waiting for his food to arrive)",
+      15
+    ],
+    [
+      "having dinner at Hobbs Cafe (on the way to checking his phone for any updates or messages)",
+      0
+    ],
+    [
+      "having dinner at Hobbs Cafe (conversing about how Klaus and Eddy are planning to involve local Black artists, musicians, storytellers, poets, and youth in their project to ensure authentic representation and collaboration.)",
+      17
+    ],
+    [
+      "walking to Oak Hill College",
+      5
+    ],
+    [
+      "finding a seat in the lecture hall (on the way to finding a seat in the lecture hal)",
+      0
+    ],
+    [
+      "finding a seat in the lecture hall (conversing about Carlos Gomez and Klaus Mueller are discussing the importance of incorporating diverse Black voices, such as Isabella Rodriguez and Wolfgang Schulz, jazz music, spoken word, and involving community organizations and Black youth to ensure a comprehensive, respectful, and inclusive representation of the Black community in their project.)",
+      21
+    ],
+    [
+      "taking out his notebook and pen",
+      5
+    ],
+    [
+      "listening to the introduction of the lecture",
+      10
+    ],
+    [
+      "taking notes on the lecture",
+      30
+    ],
+    [
+      "participating in a group discussion",
+      20
+    ],
+    [
+      "taking a short break (on the way to taking a short brea)",
+      0
+    ],
+    [
+      "taking a short break (conversing about Klaus Mueller and Wolfgang Schulz are discussing ways to involve the local Black community in their project through collaboration with Black artists and organizations, organizing a community event to showcase their talents and perspectives, and ensuring their voices are heard and respected.)",
+      8
+    ],
+    [
+      "listening to the rest of the lecture",
+      21
+    ],
+    [
+      "finishing up his research paper at the library (reviewing his research notes)",
+      10
+    ],
+    [
+      "finishing up his research paper at the library (organizing his research into sections)",
+      15
+    ],
+    [
+      "finishing up his research paper at the library (writing the introduction for his paper)",
+      10
+    ],
+    [
+      "finishing up his research paper at the library (taking a short break)",
+      5
+    ],
+    [
+      "finishing up his research paper at the library (writing the body of his paper)",
+      20
+    ],
+    [
+      "winding down and getting ready for bed (turning off his computer and packing up his belongings at the library)",
+      5
+    ],
+    [
+      "winding down and getting ready for bed (walking back to his dorm room)",
+      10
+    ],
+    [
+      "winding down and getting ready for bed (taking a shower)",
+      15
+    ],
+    [
+      "winding down and getting ready for bed (brushing his teeth)",
+      5
+    ],
+    [
+      "winding down and getting ready for bed (changing into his pajamas)",
+      5
+    ],
+    [
+      "winding down and getting ready for bed (setting his alarm for the next day)",
+      20
+    ],
+    [
+      "going to bed at 11:00 PM to get a good night's rest for the next day",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -3
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "at the library working on his research paper",
+      60
+    ],
+    [
+      "still at the library working on his research paper",
+      120
+    ],
+    [
+      "taking a break and having lunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "back at the library working on his research paper",
+      60
+    ],
+    [
+      "meeting with Isabella Rodriguez and Wolfgang Schulz at the community center to discuss their project on gentrification",
+      60
+    ],
+    [
+      "still at the library working on his research paper",
+      120
+    ],
+    [
+      "attending a lecture at Oak Hill College",
+      60
+    ],
+    [
+      "having dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "attending a lecture at Oak Hill College",
+      120
+    ],
+    [
+      "finishing up his research paper at the library",
+      60
+    ],
+    [
+      "winding down and getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 PM to get a good night's rest for the next day",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:common room:common room table",
+  "act_start_time": "February 14, 2023, 21:45:00",
+  "act_duration": 20,
+  "act_description": "finishing up his research paper at the library (writing the body of his paper)",
+  "act_pronunciatio": "\u270d\ufe0f",
+  "act_event": [
+    "Klaus Mueller",
+    "write",
+    "body of paper"
+  ],
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "\ud83d\udd04",
+  "act_obj_event": [
+    "common room table",
+    "use",
+    "being"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Ayesha Khan": -1648,
+    "Wolfgang Schulz": 254,
+    "Isabella Rodriguez": -478,
+    "Carlos Gomez": -112,
+    "Eddy Lin": -292,
+    "Adam Smith": -2644,
+    "Tom Moreno": -2482
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "known_personas": [
+    "Ayesha Khan",
+    "Wolfgang Schulz",
+    "Isabella Rodriguez",
+    "Carlos Gomez",
+    "Eddy Lin",
+    "Adam Smith",
+    "Tom Moreno"
+  ]
+}

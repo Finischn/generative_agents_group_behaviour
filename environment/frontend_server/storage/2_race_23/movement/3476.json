@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        30
+      ],
+      "pronunciatio": "\ud83e\udd1d\ud83d\udcdd",
+      "description": "attending a business meeting with suppliers (attending the meeting and taking notes) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending a creative writing workshop (participating in a writing exercise) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        116,
+        30
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2640",
+      "description": "at the library working on his research paper (taking a short break to stretch and grab a snack) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        76,
+        30
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "reading at Hobbs cafe (conversing about conversing about their upcoming activities, such as attending Sam's birthday party at The Rose and Crown Pub, collaborating on a poetry project inspired by Maya Angelou's work, and discussing diversity and inclusion in local government) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        113,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Ayesha Khan and Eddy Lin are discussing how to combine music and poetry in their collaboration project, focusing on themes of gentrification and inequality, incorporating jazz and hip-hop music, and ensuring authentic representation of the voices of marginalized communities, particularly the Black community. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Eddy, I was thinking about how we could combine music and poetry in our collaboration project. Do you have any ideas on how we can approach this?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Ayesha, I was actually thinking the same thing. Maybe we can start by brainstorming themes and melodies that could complement each other in our project."
+        ],
+        [
+          "Ayesha Khan",
+          "I agree, we could explore the themes of gentrification and inequality in our project."
+        ],
+        [
+          "Eddy Lin",
+          "I think incorporating elements of jazz music could add depth to our project. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "I think that's a great idea. Jazz music has a rich history of addressing social issues, so it would be a perfect fit for our project."
+        ],
+        [
+          "Eddy Lin",
+          "I think we should also consider incorporating spoken word elements into our project to further emphasize the themes of gentrification and inequality."
+        ],
+        [
+          "Ayesha Khan",
+          "It's important to also consider how we can effectively represent diverse perspectives and voices in our project."
+        ],
+        [
+          "Eddy Lin",
+          "We should also think about incorporating different musical genres to represent the diversity of voices in our project."
+        ],
+        [
+          "Ayesha Khan",
+          "I think it's crucial to ensure that our project is inclusive and respects the voices of marginalized communities. How about we incorporate elements of hip-hop to further diversify our project?"
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree with you, Ayesha. Incorporating elements of hip-hop will definitely diversify our project and add another layer of depth to our exploration of gentrification and inequality."
+        ],
+        [
+          "Ayesha Khan",
+          "We should also prioritize ensuring that the voices of the communities affected by gentrification are accurately represented in our project."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I think we should also consider incorporating elements of traditional African music into our project to pay homage to the roots of the communities we are representing."
+        ],
+        [
+          "Ayesha Khan",
+          "We should also ensure that we incorporate elements that reflect the experiences of the Black community in our project."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I think we should also consider collaborating with local artists from the Black community to ensure that their voices are authentically represented in our project."
+        ],
+        [
+          "Ayesha Khan",
+          "We should also make sure to incorporate elements of storytelling from the Black community to truly capture their experiences in our project."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I think it's crucial for us to actively listen to the voices of the Black community and ensure that their narratives are the focal point of our project. How about we organize a community event where we can collaborate with local activists and artists to further amplify these voices?"
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending morning classes (attending his first class) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        112,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Ayesha Khan and Eddy Lin are discussing how to combine music and poetry in their collaboration project, focusing on themes of gentrification and inequality, incorporating jazz and hip-hop music, and ensuring authentic representation of the voices of marginalized communities, particularly the Black community. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Eddy, I was thinking about how we could combine music and poetry in our collaboration project. Do you have any ideas on how we can approach this?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Ayesha, I was actually thinking the same thing. Maybe we can start by brainstorming themes and melodies that could complement each other in our project."
+        ],
+        [
+          "Ayesha Khan",
+          "I agree, we could explore the themes of gentrification and inequality in our project."
+        ],
+        [
+          "Eddy Lin",
+          "I think incorporating elements of jazz music could add depth to our project. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "I think that's a great idea. Jazz music has a rich history of addressing social issues, so it would be a perfect fit for our project."
+        ],
+        [
+          "Eddy Lin",
+          "I think we should also consider incorporating spoken word elements into our project to further emphasize the themes of gentrification and inequality."
+        ],
+        [
+          "Ayesha Khan",
+          "It's important to also consider how we can effectively represent diverse perspectives and voices in our project."
+        ],
+        [
+          "Eddy Lin",
+          "We should also think about incorporating different musical genres to represent the diversity of voices in our project."
+        ],
+        [
+          "Ayesha Khan",
+          "I think it's crucial to ensure that our project is inclusive and respects the voices of marginalized communities. How about we incorporate elements of hip-hop to further diversify our project?"
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree with you, Ayesha. Incorporating elements of hip-hop will definitely diversify our project and add another layer of depth to our exploration of gentrification and inequality."
+        ],
+        [
+          "Ayesha Khan",
+          "We should also prioritize ensuring that the voices of the communities affected by gentrification are accurately represented in our project."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I think we should also consider incorporating elements of traditional African music into our project to pay homage to the roots of the communities we are representing."
+        ],
+        [
+          "Ayesha Khan",
+          "We should also ensure that we incorporate elements that reflect the experiences of the Black community in our project."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I think we should also consider collaborating with local artists from the Black community to ensure that their voices are authentically represented in our project."
+        ],
+        [
+          "Ayesha Khan",
+          "We should also make sure to incorporate elements of storytelling from the Black community to truly capture their experiences in our project."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I think it's crucial for us to actively listen to the voices of the Black community and ensure that their narratives are the focal point of our project. How about we organize a community event where we can collaborate with local activists and artists to further amplify these voices?"
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        83,
+        49
+      ],
+      "pronunciatio": "\ud83d\uded2",
+      "description": "assisting customers with their orders (restocking shelves while assisting customers) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        67
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "taking a break to have lunch (sitting down to eat her lunch) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "researching and gathering information about the local mayor election (reading articles about the candidates running for mayor) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:39:20"
+  }
+}

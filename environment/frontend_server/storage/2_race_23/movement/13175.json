@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having lunch at 12:30 pm (sitting down to eat her lunch) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having lunch @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        88,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "taking a break and having lunch at Hobbs Cafe (conversing about collaborating on a project to showcase Black history and achievements, involving poetry, traditional African music, local artists, and community organizations to ensure inclusivity and diverse representation.) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "having lunch at Hobbs cafe and reading poetry (reading poetry while waiting for lunch) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending her third class at Oak Hill College (listening to the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        57,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about highlighting the importance of diversity, inclusion, and authentic representation in their project while actively engaging with the Black, Hispanic, and Asian communities to address systemic inequalities and showcase diverse talent. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey Wolfgang, I really appreciate your input and dedication to our project. I think incorporating elements of African folklore and jazz music will truly enhance the authenticity and impact of our showcase. What are your thoughts on how we can further involve the community and highlight the resilience and empowerment of the Black community?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I completely agree, Adam. I think we should also consider inviting Eddy Lin to join our collaboration to bring in diverse perspectives and create a more impactful representation of the Black community."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a great idea. Let's also reach out to local Black artists and community members to ensure their voices are heard and represented in our project."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should also make sure to incorporate elements of spoken word and storytelling to further amplify the voices of the Black community. It's crucial to showcase the struggles and triumphs authentically."
+        ],
+        [
+          "Adam Smith",
+          "Wolfgang, I think it's important for us to prioritize accurate representation and diversity in our project. We need to actively involve the Black community in decision-making processes and ensure that their stories are showcased authentically."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Adam, I believe it's crucial for us to not only highlight the resilience and empowerment of the Black community but also address the systemic inequalities and social injustices they face. We must ensure that our project serves as a platform to shed light on these issues and foster meaningful change."
+        ],
+        [
+          "Adam Smith",
+          "Wolfgang, I think inviting local artists and poets from diverse backgrounds to collaborate with us could further enrich our project. How do you feel about showcasing the diverse talent within the community?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Adam, I agree that showcasing the diverse talent within the community will not only enrich our project but also highlight the unity and strength within the Black community. Let's continue to collaborate with local artists and poets from various backgrounds to ensure a truly inclusive and impactful representation."
+        ],
+        [
+          "Adam Smith",
+          "Wolfgang, I think it's crucial for us to actively engage with the Hispanic and Asian communities as well to promote diversity and inclusivity in our project. How do you feel about reaching out to these communities?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Adam, I think reaching out to the Hispanic and Asian communities is a fantastic idea. By including diverse perspectives and engaging with different communities, we can truly create a more inclusive and impactful project. Let's make sure to collaborate with members from these communities to ensure a comprehensive representation."
+        ],
+        [
+          "Adam Smith",
+          "Wolfgang, I believe it's important for us to create a safe space for open dialogue and collaboration within our project. Let's ensure that all voices are respected and valued in our discussions."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Adam, I appreciate your dedication to promoting diversity and inclusivity in our project. I believe it's crucial for us to actively involve members of the Black community in decision-making processes and ensure that their perspectives are accurately represented. Let's continue to prioritize authentic representation and diversity in our work."
+        ],
+        [
+          "Adam Smith",
+          "Wolfgang, I agree with your points. Let's also explore the impact of systemic inequalities on the Black community and how our project can help address these issues."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Adam, it's essential for us to not only highlight the struggles and triumphs of the Black community but also to actively listen to their experiences and perspectives. We must ensure that our project is a true representation of their voices and stories."
+        ],
+        [
+          "Adam Smith",
+          "Wolfgang, I think it's also important for us to explore the impact of gentrification on the Black community and how we can address the inequalities exacerbated by this issue. Let's delve deeper into this aspect and ensure that our project reflects the challenges faced by the community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Adam, I believe it's crucial for us to not only highlight the impact of gentrification on the Black community but also to actively involve members of the community in finding solutions and mitigating these inequalities. Let's work together to create a project that not only sheds light on these issues but also serves as a catalyst for positive change."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        72,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending his music theory class at Oak Hill College (on the way to reviewing his notes from class) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        88,
+        44
+      ],
+      "pronunciatio": "\ud83d\udcb5",
+      "description": "still managing operations and assisting customers at The Willow Market and Pharmacy (managing the cash register and handling transactions) @ the Ville:The Willows Market and Pharmacy:store:behind the grocery counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "taking a break for lunch and ending the meeting with Adam. @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        56,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about highlighting the importance of diversity, inclusion, and authentic representation in their project while actively engaging with the Black, Hispanic, and Asian communities to address systemic inequalities and showcase diverse talent. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey Wolfgang, I really appreciate your input and dedication to our project. I think incorporating elements of African folklore and jazz music will truly enhance the authenticity and impact of our showcase. What are your thoughts on how we can further involve the community and highlight the resilience and empowerment of the Black community?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I completely agree, Adam. I think we should also consider inviting Eddy Lin to join our collaboration to bring in diverse perspectives and create a more impactful representation of the Black community."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a great idea. Let's also reach out to local Black artists and community members to ensure their voices are heard and represented in our project."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should also make sure to incorporate elements of spoken word and storytelling to further amplify the voices of the Black community. It's crucial to showcase the struggles and triumphs authentically."
+        ],
+        [
+          "Adam Smith",
+          "Wolfgang, I think it's important for us to prioritize accurate representation and diversity in our project. We need to actively involve the Black community in decision-making processes and ensure that their stories are showcased authentically."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Adam, I believe it's crucial for us to not only highlight the resilience and empowerment of the Black community but also address the systemic inequalities and social injustices they face. We must ensure that our project serves as a platform to shed light on these issues and foster meaningful change."
+        ],
+        [
+          "Adam Smith",
+          "Wolfgang, I think inviting local artists and poets from diverse backgrounds to collaborate with us could further enrich our project. How do you feel about showcasing the diverse talent within the community?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Adam, I agree that showcasing the diverse talent within the community will not only enrich our project but also highlight the unity and strength within the Black community. Let's continue to collaborate with local artists and poets from various backgrounds to ensure a truly inclusive and impactful representation."
+        ],
+        [
+          "Adam Smith",
+          "Wolfgang, I think it's crucial for us to actively engage with the Hispanic and Asian communities as well to promote diversity and inclusivity in our project. How do you feel about reaching out to these communities?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Adam, I think reaching out to the Hispanic and Asian communities is a fantastic idea. By including diverse perspectives and engaging with different communities, we can truly create a more inclusive and impactful project. Let's make sure to collaborate with members from these communities to ensure a comprehensive representation."
+        ],
+        [
+          "Adam Smith",
+          "Wolfgang, I believe it's important for us to create a safe space for open dialogue and collaboration within our project. Let's ensure that all voices are respected and valued in our discussions."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Adam, I appreciate your dedication to promoting diversity and inclusivity in our project. I believe it's crucial for us to actively involve members of the Black community in decision-making processes and ensure that their perspectives are accurately represented. Let's continue to prioritize authentic representation and diversity in our work."
+        ],
+        [
+          "Adam Smith",
+          "Wolfgang, I agree with your points. Let's also explore the impact of systemic inequalities on the Black community and how our project can help address these issues."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Adam, it's essential for us to not only highlight the struggles and triumphs of the Black community but also to actively listen to their experiences and perspectives. We must ensure that our project is a true representation of their voices and stories."
+        ],
+        [
+          "Adam Smith",
+          "Wolfgang, I think it's also important for us to explore the impact of gentrification on the Black community and how we can address the inequalities exacerbated by this issue. Let's delve deeper into this aspect and ensure that our project reflects the challenges faced by the community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Adam, I believe it's crucial for us to not only highlight the impact of gentrification on the Black community but also to actively involve members of the community in finding solutions and mitigating these inequalities. Let's work together to create a project that not only sheds light on these issues but also serves as a catalyst for positive change."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 12:35:50"
+  }
+}

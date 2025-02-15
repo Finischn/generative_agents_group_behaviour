@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having a snack break at Hobbs Cafe (conversing about Carlos Gomez and Isabella Rodriguez are discussing ideas for their poetry project focused on themes of diversity, inclusion, social justice, and resilience, with plans to incorporate elements of spoken word, traditional African music, jazz music, and collaboration with local artists from the Black community.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        36,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "working on his poetry collection (conversing about Carlos Gomez and Isabella Rodriguez are discussing ideas for their poetry project focused on themes of diversity, inclusion, social justice, and resilience, with plans to incorporate elements of spoken word, traditional African music, jazz music, and collaboration with local artists from the Black community.) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        121,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Ayesha Khan are discussing incorporating themes of gender struggles in Shakespeare's plays and the impacts of gentrification on the Black community into their project, including involving local organizations and individuals, incorporating traditional African music, storytelling, and folklore, and addressing systemic inequalities to create a holistic and empowering representation of the community. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Ayesha, I couldn't help but notice you working on Shakespeare for your thesis. Your insights on the portrayal of women in his plays are always intriguing. Have you found any interesting connections to our project on gentrification and the Black community?"
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Klaus. I actually found some interesting parallels between the struggles faced by women in Shakespeare's plays and the challenges experienced by the Black community in the context of gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "That's fascinating, Ayesha. It's amazing how literature can illuminate social issues. I wonder if we can incorporate some of these themes and reflections into our project to further emphasize the community's resilience and strength."
+        ],
+        [
+          "Ayesha Khan",
+          "Absolutely, Klaus. I believe exploring these parallels can add depth to our project and shed light on the interconnected struggles faced by marginalized groups."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, your perspective on the challenges faced by different marginalized groups is invaluable. I think incorporating these insights will truly amplify the voices of the Black community in our project."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I also think it's important for us to involve members of the Black community in our project to ensure their voices are accurately represented. We should consider ways to actively engage with local organizations and individuals who can provide us with valuable insights and perspectives."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I completely agree. Actively involving members of the Black community in our project is essential for authentic representation and meaningful impact. Perhaps we can reach out to local artists and performers who can contribute their perspectives and talents to our collaboration."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I also think it would be beneficial for us to explore incorporating elements of traditional African music and storytelling into our project. These forms of expression hold significant cultural value and can help us authentically represent the Black community's perspective."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I think incorporating traditional African music and storytelling into our project is a brilliant idea. It would enrich the narrative and truly showcase the vibrant cultural heritage of the Black community. I'm excited to explore this further with you."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I think we should also consider incorporating elements of African folklore into our project. It could provide a deeper understanding of the cultural roots of the Black community and add a unique perspective to our work."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I completely agree with you. Incorporating elements of African folklore into our project would be a powerful way to honor the cultural heritage and traditions of the Black community. It would not only enrich our work but also deepen our understanding of the community's experiences."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I also believe it's crucial for us to confront the uncomfortable truths about the impact of gentrification on the Black community. We need to address the systemic issues that perpetuate inequalities and work towards creating a more just and equitable society."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I appreciate your dedication to exploring the impact of gentrification on the Black community. Your insights are truly invaluable. I believe by delving deeper into these issues and working together, we can create a meaningful and impactful project that brings about positive change."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I also think it's important for us to highlight the successes and achievements of the Black community in our project. By showcasing the triumphs alongside the challenges, we can provide a more holistic and empowering representation."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I think it would be beneficial for us to schedule a deeper dive into the impact of gentrification on the Black community. By thoroughly examining the nuances of this issue, we can ensure our project accurately reflects the experiences and challenges faced by the community."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I think it's important for us to actively involve the Black community in the creative process of our project. Their direct participation will ensure that their voices are not only heard but also celebrated, empowering them to share their stories on their own terms."
+        ]
+      ]
+    },
+    "Sam Moore": {
+      "movement": [
+        88,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "running errands or catching up on emails (making a grocery list and going grocery shopping) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        121,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Ayesha Khan are discussing incorporating themes of gender struggles in Shakespeare's plays and the impacts of gentrification on the Black community into their project, including involving local organizations and individuals, incorporating traditional African music, storytelling, and folklore, and addressing systemic inequalities to create a holistic and empowering representation of the community. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Ayesha, I couldn't help but notice you working on Shakespeare for your thesis. Your insights on the portrayal of women in his plays are always intriguing. Have you found any interesting connections to our project on gentrification and the Black community?"
+        ],
+        [
+          "Ayesha Khan",
+          "Thank you, Klaus. I actually found some interesting parallels between the struggles faced by women in Shakespeare's plays and the challenges experienced by the Black community in the context of gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "That's fascinating, Ayesha. It's amazing how literature can illuminate social issues. I wonder if we can incorporate some of these themes and reflections into our project to further emphasize the community's resilience and strength."
+        ],
+        [
+          "Ayesha Khan",
+          "Absolutely, Klaus. I believe exploring these parallels can add depth to our project and shed light on the interconnected struggles faced by marginalized groups."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, your perspective on the challenges faced by different marginalized groups is invaluable. I think incorporating these insights will truly amplify the voices of the Black community in our project."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I also think it's important for us to involve members of the Black community in our project to ensure their voices are accurately represented. We should consider ways to actively engage with local organizations and individuals who can provide us with valuable insights and perspectives."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I completely agree. Actively involving members of the Black community in our project is essential for authentic representation and meaningful impact. Perhaps we can reach out to local artists and performers who can contribute their perspectives and talents to our collaboration."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I also think it would be beneficial for us to explore incorporating elements of traditional African music and storytelling into our project. These forms of expression hold significant cultural value and can help us authentically represent the Black community's perspective."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I think incorporating traditional African music and storytelling into our project is a brilliant idea. It would enrich the narrative and truly showcase the vibrant cultural heritage of the Black community. I'm excited to explore this further with you."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I think we should also consider incorporating elements of African folklore into our project. It could provide a deeper understanding of the cultural roots of the Black community and add a unique perspective to our work."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I completely agree with you. Incorporating elements of African folklore into our project would be a powerful way to honor the cultural heritage and traditions of the Black community. It would not only enrich our work but also deepen our understanding of the community's experiences."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I also believe it's crucial for us to confront the uncomfortable truths about the impact of gentrification on the Black community. We need to address the systemic issues that perpetuate inequalities and work towards creating a more just and equitable society."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I appreciate your dedication to exploring the impact of gentrification on the Black community. Your insights are truly invaluable. I believe by delving deeper into these issues and working together, we can create a meaningful and impactful project that brings about positive change."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I also think it's important for us to highlight the successes and achievements of the Black community in our project. By showcasing the triumphs alongside the challenges, we can provide a more holistic and empowering representation."
+        ],
+        [
+          "Klaus Mueller",
+          "Ayesha, I think it would be beneficial for us to schedule a deeper dive into the impact of gentrification on the Black community. By thoroughly examining the nuances of this issue, we can ensure our project accurately reflects the experiences and challenges faced by the community."
+        ],
+        [
+          "Ayesha Khan",
+          "Klaus, I think it's important for us to actively involve the Black community in the creative process of our project. Their direct participation will ensure that their voices are not only heard but also celebrated, empowering them to share their stories on their own terms."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying or working on projects (reading assigned chapters or articles) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying at Hobbs Cafe (setting up his study materials and reviewing his notes from his music theory class) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        86,
+        49
+      ],
+      "pronunciatio": "\ud83c\udf7f",
+      "description": "back at work and assisting customers with their orders (taking a break and having a snack) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83c\udf7f",
+      "description": "continuing to work on her children's book series (taking a break to eat a snack) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        34,
+        42
+      ],
+      "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+      "description": "taking a break and going for a walk or exercise (doing some light exercises at the park) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 15:51:00"
+  }
+}

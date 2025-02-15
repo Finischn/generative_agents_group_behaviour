@@ -1,0 +1,97 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "opening Hobbs Cafe and having breakfast (continuing to search for Ayesha and making sure she's okay) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        101,
+        32
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending a creative writing workshop (listening to the lecture on poetry techniques) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        131,
+        45
+      ],
+      "pronunciatio": "\ud83d\udc55",
+      "description": "having breakfast (getting dressed) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:closet",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        39,
+        62
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast (eating breakfast) @ the Ville:Moore family's house:main room:kitchen sink",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        112,
+        25
+      ],
+      "pronunciatio": "\u2615",
+      "description": "attending her classes at Oak Hill College (conversing about Wolfgang Schulz and Ayesha Khan are chatting about meeting for coffee, discussing class themes, attending a community meeting on gentrification, meeting up after Ayesha's discussion with Klaus, coordinating a run with Sam Moore, and reviewing notes before their coffee catch-up tomorrow.) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending morning classes (attending his first class) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        101,
+        31
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f\ud83d\udcda",
+      "description": "attending classes at Oak Hill College (conversing about two friends, Carlos and Eddy, discussing their experiences and exploration of new techniques in poetry, planning to attend a music theory class together and considering a collaboration project combining music and poetry.) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        86,
+        49
+      ],
+      "pronunciatio": "\u23f3",
+      "description": "opening The Willow Market and Pharmacy and preparing for the day's business (checking the expiration dates on all products) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\ud83d\udc86\u200d\u2642",
+      "description": "working on her children's book series (taking a break to stretch and get some water) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        84,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "having breakfast (making a list of potential candidates for the local mayor election) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:58:20"
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "opening Hobbs Cafe and having breakfast (continuing to search for Ayesha and making sure she's okay) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        98,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Carlos and Eddy, discussing their experiences and exploration of new techniques in poetry, planning to attend a music theory class together and considering a collaboration project combining music and poetry. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Eddy, how have you been finding the poetry workshop so far?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Carlos, I've been enjoying the poetry workshop. It's really expanding my creativity."
+        ],
+        [
+          "Carlos Gomez",
+          "That's great to hear, Eddy. Are there any specific techniques you've found particularly helpful?"
+        ],
+        [
+          "Eddy Lin",
+          "I recently learned about using metaphors to enhance the imagery in my poems."
+        ],
+        [
+          "Carlos Gomez",
+          "That's interesting, Eddy. Metaphors can truly add depth to poetry. Have you tried incorporating them into your work yet?"
+        ],
+        [
+          "Eddy Lin",
+          "I have tried incorporating metaphors into my poems, and it has definitely added a new layer to my work. How about you, Carlos? Have you experimented with any new techniques in your writing?"
+        ],
+        [
+          "Carlos Gomez",
+          "That's great to hear, Eddy. I've also been exploring new techniques in my writing, like using enjambment to create flow in my poems. It's been an enlightening experience."
+        ],
+        [
+          "Eddy Lin",
+          "That's fascinating, Carlos. Enjambment can truly create a unique flow in poetry. It's great to hear that you're exploring new techniques."
+        ],
+        [
+          "Carlos Gomez",
+          "It's inspiring to see how we both are expanding our creativity in this workshop. I appreciate our conversations about poetry and learning from each other's perspectives."
+        ],
+        [
+          "Eddy Lin",
+          "I agree, it's been great discussing poetry with you. Have you thought about attending the music theory class with me sometime?"
+        ],
+        [
+          "Carlos Gomez",
+          "Sure, I'd be interested in attending the music theory class with you! It could provide a different perspective on creativity."
+        ],
+        [
+          "Eddy Lin",
+          "That's great to hear, Carlos. I think you'll find the music theory class really interesting. We can discuss how music and poetry intersect after attending the class together."
+        ],
+        [
+          "Carlos Gomez",
+          "I appreciate your perspective on poetry, Eddy. It's great to see the different ways we can all interpret and create art."
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad we have the opportunity to share our creative experiences and learn from each other's perspectives. It's truly enriching to engage in discussions about art with someone as insightful as you, Carlos."
+        ],
+        [
+          "Carlos Gomez",
+          "I agree, Eddy. It's important for us to continue to learn from each other's perspectives and embrace the diversity of our creative community."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Carlos, would you be interested in collaborating on a creative project that combines music and poetry?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        131,
+        45
+      ],
+      "pronunciatio": "\ud83d\udc55",
+      "description": "having breakfast (getting dressed) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:closet",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        39,
+        62
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast (eating breakfast) @ the Ville:Moore family's house:main room:kitchen sink",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        112,
+        25
+      ],
+      "pronunciatio": "\u2615",
+      "description": "attending her classes at Oak Hill College (conversing about Wolfgang Schulz and Ayesha Khan are chatting about meeting for coffee, discussing class themes, attending a community meeting on gentrification, meeting up after Ayesha's discussion with Klaus, coordinating a run with Sam Moore, and reviewing notes before their coffee catch-up tomorrow.) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending morning classes (attending his first class) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        98,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Carlos and Eddy, discussing their experiences and exploration of new techniques in poetry, planning to attend a music theory class together and considering a collaboration project combining music and poetry. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Eddy, how have you been finding the poetry workshop so far?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Carlos, I've been enjoying the poetry workshop. It's really expanding my creativity."
+        ],
+        [
+          "Carlos Gomez",
+          "That's great to hear, Eddy. Are there any specific techniques you've found particularly helpful?"
+        ],
+        [
+          "Eddy Lin",
+          "I recently learned about using metaphors to enhance the imagery in my poems."
+        ],
+        [
+          "Carlos Gomez",
+          "That's interesting, Eddy. Metaphors can truly add depth to poetry. Have you tried incorporating them into your work yet?"
+        ],
+        [
+          "Eddy Lin",
+          "I have tried incorporating metaphors into my poems, and it has definitely added a new layer to my work. How about you, Carlos? Have you experimented with any new techniques in your writing?"
+        ],
+        [
+          "Carlos Gomez",
+          "That's great to hear, Eddy. I've also been exploring new techniques in my writing, like using enjambment to create flow in my poems. It's been an enlightening experience."
+        ],
+        [
+          "Eddy Lin",
+          "That's fascinating, Carlos. Enjambment can truly create a unique flow in poetry. It's great to hear that you're exploring new techniques."
+        ],
+        [
+          "Carlos Gomez",
+          "It's inspiring to see how we both are expanding our creativity in this workshop. I appreciate our conversations about poetry and learning from each other's perspectives."
+        ],
+        [
+          "Eddy Lin",
+          "I agree, it's been great discussing poetry with you. Have you thought about attending the music theory class with me sometime?"
+        ],
+        [
+          "Carlos Gomez",
+          "Sure, I'd be interested in attending the music theory class with you! It could provide a different perspective on creativity."
+        ],
+        [
+          "Eddy Lin",
+          "That's great to hear, Carlos. I think you'll find the music theory class really interesting. We can discuss how music and poetry intersect after attending the class together."
+        ],
+        [
+          "Carlos Gomez",
+          "I appreciate your perspective on poetry, Eddy. It's great to see the different ways we can all interpret and create art."
+        ],
+        [
+          "Eddy Lin",
+          "I'm glad we have the opportunity to share our creative experiences and learn from each other's perspectives. It's truly enriching to engage in discussions about art with someone as insightful as you, Carlos."
+        ],
+        [
+          "Carlos Gomez",
+          "I agree, Eddy. It's important for us to continue to learn from each other's perspectives and embrace the diversity of our creative community."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Carlos, would you be interested in collaborating on a creative project that combines music and poetry?"
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        88,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Tom and Adam, discussing potential candidates for the local mayor election and Adam suggesting Tom to run for mayor, but Tom expressing his preference for his work at the store @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Tom Moreno",
+          "Hey Adam, I see you're working on the list for the local mayor election. Have you considered anyone in particular?"
+        ],
+        [
+          "Adam Smith",
+          "Hey Tom, I've been researching the candidates and there are a few promising ones. Have you thought about running yourself?"
+        ],
+        [
+          "Tom Moreno",
+          "Honestly, I haven't really thought about running for mayor. I enjoy my work at the store and helping out our community."
+        ],
+        [
+          "Adam Smith",
+          "That's understandable, your work at the store is really important for the community. I'll keep you in mind when finalizing my list of candidates."
+        ],
+        [
+          "Tom Moreno",
+          "Thank you, Adam, I appreciate that. Let me know if you need any help with the research."
+        ],
+        [
+          "Adam Smith",
+          "I'll definitely keep in touch if I need any assistance, thank you for offering. Have a great day at the store!"
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\ud83d\udc86\u200d\u2642",
+      "description": "working on her children's book series (taking a break to stretch and get some water) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        87,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Tom and Adam, discussing potential candidates for the local mayor election and Adam suggesting Tom to run for mayor, but Tom expressing his preference for his work at the store @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Tom Moreno",
+          "Hey Adam, I see you're working on the list for the local mayor election. Have you considered anyone in particular?"
+        ],
+        [
+          "Adam Smith",
+          "Hey Tom, I've been researching the candidates and there are a few promising ones. Have you thought about running yourself?"
+        ],
+        [
+          "Tom Moreno",
+          "Honestly, I haven't really thought about running for mayor. I enjoy my work at the store and helping out our community."
+        ],
+        [
+          "Adam Smith",
+          "That's understandable, your work at the store is really important for the community. I'll keep you in mind when finalizing my list of candidates."
+        ],
+        [
+          "Tom Moreno",
+          "Thank you, Adam, I appreciate that. Let me know if you need any help with the research."
+        ],
+        [
+          "Adam Smith",
+          "I'll definitely keep in touch if I need any assistance, thank you for offering. Have a great day at the store!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:56:40"
+  }
+}

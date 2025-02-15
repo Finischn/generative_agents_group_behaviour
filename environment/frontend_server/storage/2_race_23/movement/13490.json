@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "working on party preparations for her birthday party at 2:00 pm (conversing about Isabella Rodriguez and Carlos Gomez are discussing how to incorporate elements of jazz music, spoken word, traditional African music, hip-hop, and storytelling into their poetry project to emphasize resilience and empowerment within the Black community, as well as the importance of involving local Black artists, addressing systemic inequalities exacerbated by gentrification, promoting diversity and social justice, and collaborating with Eddy Lin to bring in diverse perspectives and insights.) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        76,
+        29
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "writing and editing his poetry collection (conversing about Isabella Rodriguez and Carlos Gomez are discussing how to incorporate elements of jazz music, spoken word, traditional African music, hip-hop, and storytelling into their poetry project to emphasize resilience and empowerment within the Black community, as well as the importance of involving local Black artists, addressing systemic inequalities exacerbated by gentrification, promoting diversity and social justice, and collaborating with Eddy Lin to bring in diverse perspectives and insights.) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        58,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "back at the library working on his research paper (reviewing his notes and research materials) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        68,
+        46
+      ],
+      "pronunciatio": "\ud83d\ude97",
+      "description": "running errands and checking emails (driving to the post office to mail a package) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcb3",
+      "description": "having lunch (paying for her food) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        34,
+        46
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f",
+      "description": "having lunch (taking a short break to relax and recharge) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "having a late lunch (looking at the menu and deciding what to order) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        65,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about collaborating and planning a community event to showcase Ayesha Khan's poetry project on gentrification and social issues, involving Adam Smith, Tom Moreno, Ayesha, Carlos, Klaus, Eddy, and local artists to promote diversity, inclusivity, and incorporate elements of jazz music and storytelling. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Tom Moreno",
+          "Hey Adam! I was just drafting an email to Ayesha Khan to offer my support for her poetry project on gentrification and social issues."
+        ],
+        [
+          "Adam Smith",
+          "That's great to hear, Tom! Ayesha's project sounds really impactful and important. How can I help with it?"
+        ],
+        [
+          "Tom Moreno",
+          "I appreciate your interest, Adam. Maybe we can collaborate on a community event to showcase Ayesha's work and raise awareness."
+        ],
+        [
+          "Adam Smith",
+          "That's a fantastic idea, Tom! I think organizing a community event to showcase Ayesha's work would be a great way to raise awareness and engage the community. Let's discuss the details and see how we can make it happen."
+        ],
+        [
+          "Tom Moreno",
+          "Let's schedule a meeting with Ayesha and Carlos to discuss the details further."
+        ],
+        [
+          "Adam Smith",
+          "Sounds like a plan, Tom! I'll reach out to Ayesha and Carlos to set up a meeting and coordinate the event. Let's make it a success!"
+        ],
+        [
+          "Tom Moreno",
+          "Thanks for being on board with this idea, Adam. I really value your support and collaboration."
+        ],
+        [
+          "Adam Smith",
+          "I'm glad we can work together to support Ayesha's project and make a difference in the community."
+        ],
+        [
+          "Tom Moreno",
+          "I'll also reach out to Klaus and Eddy to involve them in organizing the event."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a great plan, Tom. I'll contact Ayesha and Carlos to start organizing the details. Looking forward to making this event a success!"
+        ],
+        [
+          "Tom Moreno",
+          "Let's make sure to involve the Black community in the event planning as well to promote inclusivity."
+        ],
+        [
+          "Adam Smith",
+          "That's a great idea, Tom. It's important to ensure that the event is inclusive and representative of our diverse community."
+        ],
+        [
+          "Tom Moreno",
+          "I'll also reach out to Klaus and Eddy to involve them in organizing the event."
+        ],
+        [
+          "Adam Smith",
+          "I think reaching out to the Black community and involving them in the event planning is crucial for promoting diversity and inclusivity."
+        ],
+        [
+          "Tom Moreno",
+          "Let's also consider collaborating with local artists to incorporate elements of jazz music and storytelling into the event."
+        ],
+        [
+          "Adam Smith",
+          "I agree, involving local artists and incorporating elements of jazz music and storytelling will definitely enhance the event."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        39,
+        28
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "back to working on her children's book series (reviewing her progress and making any necessary changes) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        65,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about collaborating and planning a community event to showcase Ayesha Khan's poetry project on gentrification and social issues, involving Adam Smith, Tom Moreno, Ayesha, Carlos, Klaus, Eddy, and local artists to promote diversity, inclusivity, and incorporate elements of jazz music and storytelling. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Tom Moreno",
+          "Hey Adam! I was just drafting an email to Ayesha Khan to offer my support for her poetry project on gentrification and social issues."
+        ],
+        [
+          "Adam Smith",
+          "That's great to hear, Tom! Ayesha's project sounds really impactful and important. How can I help with it?"
+        ],
+        [
+          "Tom Moreno",
+          "I appreciate your interest, Adam. Maybe we can collaborate on a community event to showcase Ayesha's work and raise awareness."
+        ],
+        [
+          "Adam Smith",
+          "That's a fantastic idea, Tom! I think organizing a community event to showcase Ayesha's work would be a great way to raise awareness and engage the community. Let's discuss the details and see how we can make it happen."
+        ],
+        [
+          "Tom Moreno",
+          "Let's schedule a meeting with Ayesha and Carlos to discuss the details further."
+        ],
+        [
+          "Adam Smith",
+          "Sounds like a plan, Tom! I'll reach out to Ayesha and Carlos to set up a meeting and coordinate the event. Let's make it a success!"
+        ],
+        [
+          "Tom Moreno",
+          "Thanks for being on board with this idea, Adam. I really value your support and collaboration."
+        ],
+        [
+          "Adam Smith",
+          "I'm glad we can work together to support Ayesha's project and make a difference in the community."
+        ],
+        [
+          "Tom Moreno",
+          "I'll also reach out to Klaus and Eddy to involve them in organizing the event."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a great plan, Tom. I'll contact Ayesha and Carlos to start organizing the details. Looking forward to making this event a success!"
+        ],
+        [
+          "Tom Moreno",
+          "Let's make sure to involve the Black community in the event planning as well to promote inclusivity."
+        ],
+        [
+          "Adam Smith",
+          "That's a great idea, Tom. It's important to ensure that the event is inclusive and representative of our diverse community."
+        ],
+        [
+          "Tom Moreno",
+          "I'll also reach out to Klaus and Eddy to involve them in organizing the event."
+        ],
+        [
+          "Adam Smith",
+          "I think reaching out to the Black community and involving them in the event planning is crucial for promoting diversity and inclusivity."
+        ],
+        [
+          "Tom Moreno",
+          "Let's also consider collaborating with local artists to incorporate elements of jazz music and storytelling into the event."
+        ],
+        [
+          "Adam Smith",
+          "I agree, involving local artists and incorporating elements of jazz music and storytelling will definitely enhance the event."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 13:28:20"
+  }
+}

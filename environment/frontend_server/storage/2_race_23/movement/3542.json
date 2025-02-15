@@ -1,0 +1,97 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        25
+      ],
+      "pronunciatio": "\ud83e\udd1d\ud83d\udcdd",
+      "description": "attending a business meeting with suppliers (attending the meeting and taking notes) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        106,
+        32
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f",
+      "description": "attending a creative writing workshop (taking a short break) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "at the library working on his research paper (organizing his research findings and taking notes) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "reading at Hobbs cafe (reading his book) (walking to Hobbs cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending her classes at Oak Hill College (taking notes during the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        112,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending morning classes (attending his second class) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83c\udfb7",
+      "description": "attending classes at Oak Hill College (conversing about Ayesha Khan and Eddy Lin are discussing how to combine music and poetry in their collaboration project, focusing on themes of gentrification and inequality, incorporating jazz and hip-hop music, and ensuring authentic representation of the voices of marginalized communities, particularly the Black community.) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        88,
+        44
+      ],
+      "pronunciatio": "\ud83d\uded2",
+      "description": "assisting customers with their orders (checking out a customer's purchases) @ the Ville:The Willows Market and Pharmacy:store:behind the grocery counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        69
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "taking a break to have lunch (enjoying her lunch break) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        75,
+        52
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "researching and gathering information about the local mayor election (taking notes on the candidates' backgrounds and policies) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:50:20"
+  }
+}

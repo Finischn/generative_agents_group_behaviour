@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        25
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "returning to Hobbs Cafe after the business meeting at 11:00 am (reviewing the menu and making any changes or additions) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        38,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two colleagues, Carlos Gomez and Tamara Taylor, discussing their collaboration to incorporate elements of jazz music, storytelling, traditional African music, spoken word performances, and collaborating with Black, Hispanic, and Asian communities to ensure authenticity and drive positive change. @ <persona> Tamara Taylor",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Tamara, I really admire the dedication you and Adam have towards promoting diversity and inclusion in our projects. I was thinking we could collaborate on incorporating elements of jazz music, storytelling, traditional African music, spoken word performances, and collaborating with Black, Hispanic, and Asian communities to ensure authenticity and drive positive change. What do you think?"
+        ],
+        [
+          "Tamara Taylor",
+          "Hey Carlos, I absolutely agree with you! I think it's a fantastic idea to incorporate those elements into our project. Let's work together to make sure we authentically represent our community and drive positive change."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm excited about the creative possibilities that collaborating with you and bringing in diverse perspectives will bring to our project. Let's schedule a follow-up meeting to further discuss the details and next steps."
+        ],
+        [
+          "Tamara Taylor",
+          "Absolutely, I think this collaboration will be incredibly impactful and meaningful for our community. Let's definitely schedule that follow-up meeting to dive deeper into our creative ideas and plan the next steps."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm looking forward to seeing the positive impact our collaboration will have on our community. Let's make sure to prioritize the voices of the marginalized and create something truly authentic."
+        ],
+        [
+          "Tamara Taylor",
+          "Absolutely, I believe our collaboration will not only showcase the diversity in our community but also bring about positive change. Let's prioritize uplifting the voices of the marginalized and ensure our project is authentic."
+        ],
+        [
+          "Carlos Gomez",
+          "I agree, let's also make sure to actively involve members of the Black community in our project planning process to ensure authenticity and impact."
+        ],
+        [
+          "Tamara Taylor",
+          "Let's also make sure to actively involve members of the Black community in our project planning process to ensure authenticity and impact."
+        ],
+        [
+          "Carlos Gomez",
+          "Let's set up a meeting with members of the Black community to gather their feedback and ensure their voices are represented in our project."
+        ],
+        [
+          "Tamara Taylor",
+          "I completely agree, let's make sure to actively involve members of the Black community in our project planning process to ensure authenticity and impact."
+        ],
+        [
+          "Carlos Gomez",
+          "Let's finalize the details for our meeting with members of the Black community to gather their feedback and input for the project. I believe their perspectives are crucial in ensuring the authenticity and impact of our work."
+        ],
+        [
+          "Tamara Taylor",
+          "I completely agree, let's make sure to actively involve members of the Black community in our project planning process to ensure authenticity and impact."
+        ],
+        [
+          "Carlos Gomez",
+          "Let's also remember to prioritize incorporating jazz music into our project to add richness and depth to our work."
+        ],
+        [
+          "Tamara Taylor",
+          "Let's make sure to schedule a meeting with local Black artists and organizations to gather their input and ensure we are accurately representing our community."
+        ],
+        [
+          "Carlos Gomez",
+          "Let's also remember to reach out to local Black artists and community members for collaboration to ensure an authentic representation of the community and celebrate their contributions."
+        ],
+        [
+          "Tamara Taylor",
+          "Let's make sure to actively involve members of the Black community in our project planning process to ensure authenticity and impact."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        108,
+        34
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2640",
+      "description": "still at the library working on his research paper (taking a break to stretch and get some water) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "discussing diversity and inclusion plans with Isabella at Hobbs cafe (conversing about Sam Moore and Tamara Taylor are discussing their dedication to promoting diversity and inclusion in their project by incorporating elements of jazz music, storytelling, traditional African music, spoken word performances, and collaborating with Black, Hispanic, and Asian communities to ensure authenticity, engage underrepresented groups, address systemic inequalities, and drive positive change towards a more equitable and inclusive society.) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending her second class at Oak Hill College (reviewing her notes) @ the Ville:Oak Hill College:classroom:blackboard",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "studying for exams (reviewing his notes and key concepts) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        114,
+        37
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "attending his music theory class at Oak Hill College (walking back to his dorm) @ the Ville:Dorm for Oak Hill College:garden:dorm garden",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        65,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcb5",
+      "description": "still managing operations and assisting customers at The Willow Market and Pharmacy (managing the cash register and handling transactions) @ the Ville:The Willows Market and Pharmacy:store:behind the grocery counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        37,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two colleagues, Carlos Gomez and Tamara Taylor, discussing their collaboration to incorporate elements of jazz music, storytelling, traditional African music, spoken word performances, and collaborating with Black, Hispanic, and Asian communities to ensure authenticity and drive positive change. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Tamara, I really admire the dedication you and Adam have towards promoting diversity and inclusion in our projects. I was thinking we could collaborate on incorporating elements of jazz music, storytelling, traditional African music, spoken word performances, and collaborating with Black, Hispanic, and Asian communities to ensure authenticity and drive positive change. What do you think?"
+        ],
+        [
+          "Tamara Taylor",
+          "Hey Carlos, I absolutely agree with you! I think it's a fantastic idea to incorporate those elements into our project. Let's work together to make sure we authentically represent our community and drive positive change."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm excited about the creative possibilities that collaborating with you and bringing in diverse perspectives will bring to our project. Let's schedule a follow-up meeting to further discuss the details and next steps."
+        ],
+        [
+          "Tamara Taylor",
+          "Absolutely, I think this collaboration will be incredibly impactful and meaningful for our community. Let's definitely schedule that follow-up meeting to dive deeper into our creative ideas and plan the next steps."
+        ],
+        [
+          "Carlos Gomez",
+          "I'm looking forward to seeing the positive impact our collaboration will have on our community. Let's make sure to prioritize the voices of the marginalized and create something truly authentic."
+        ],
+        [
+          "Tamara Taylor",
+          "Absolutely, I believe our collaboration will not only showcase the diversity in our community but also bring about positive change. Let's prioritize uplifting the voices of the marginalized and ensure our project is authentic."
+        ],
+        [
+          "Carlos Gomez",
+          "I agree, let's also make sure to actively involve members of the Black community in our project planning process to ensure authenticity and impact."
+        ],
+        [
+          "Tamara Taylor",
+          "Let's also make sure to actively involve members of the Black community in our project planning process to ensure authenticity and impact."
+        ],
+        [
+          "Carlos Gomez",
+          "Let's set up a meeting with members of the Black community to gather their feedback and ensure their voices are represented in our project."
+        ],
+        [
+          "Tamara Taylor",
+          "I completely agree, let's make sure to actively involve members of the Black community in our project planning process to ensure authenticity and impact."
+        ],
+        [
+          "Carlos Gomez",
+          "Let's finalize the details for our meeting with members of the Black community to gather their feedback and input for the project. I believe their perspectives are crucial in ensuring the authenticity and impact of our work."
+        ],
+        [
+          "Tamara Taylor",
+          "I completely agree, let's make sure to actively involve members of the Black community in our project planning process to ensure authenticity and impact."
+        ],
+        [
+          "Carlos Gomez",
+          "Let's also remember to prioritize incorporating jazz music into our project to add richness and depth to our work."
+        ],
+        [
+          "Tamara Taylor",
+          "Let's make sure to schedule a meeting with local Black artists and organizations to gather their input and ensure we are accurately representing our community."
+        ],
+        [
+          "Carlos Gomez",
+          "Let's also remember to reach out to local Black artists and community members for collaboration to ensure an authentic representation of the community and celebrate their contributions."
+        ],
+        [
+          "Tamara Taylor",
+          "Let's make sure to actively involve members of the Black community in our project planning process to ensure authenticity and impact."
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        35,
+        32
+      ],
+      "pronunciatio": "\ud83c\udfb6\ud83c\udf0d",
+      "description": "continuing his research and gathering information about the local mayor election (conversing about Adam Smith and Carlos Gomez are discussing ways to promote diversity, inclusivity, and social justice in their project by incorporating traditional African music, spoken word, cultural heritage, involving Black artists and community members, addressing systemic inequalities, celebrating Black cultural heritage, and organizing community engagement events.) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 12:02:50"
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcbc",
+      "description": "attending a business meeting with suppliers (discussing potential business deals and negotiating prices with the suppliers) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        41,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two collaborators, Carlos Gomez and Wolfgang Schulz, discussing ways to incorporate elements of jazz music, spoken word, local Black artists, storytelling, traditional African music, nature, folklore, hip-hop music, and the theme of resilience within the Black community into their project to ensure an authentic representation and diversity. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Wolfgang, I wanted to discuss our project further. How do you feel about incorporating more elements of jazz music and spoken word to add depth and richness to our work?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Carlos, I completely agree. Jazz music and spoken word would definitely enhance our project and provide a deeper cultural connection. I think it's essential to showcase the resilience and creativity of the Black community through these art forms. Let's brainstorm some specific ideas on how to incorporate them effectively."
+        ],
+        [
+          "Carlos Gomez",
+          "Absolutely, I think we can also consider involving local artists from the Black community to bring diverse perspectives and authentic representation to our project. What do you think?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think involving local artists from the Black community is a fantastic idea. Their perspectives and creativity will truly enrich our project."
+        ],
+        [
+          "Carlos Gomez",
+          "I also believe it's crucial to ensure that we actively involve and prioritize the voices of the Black community in every step of our project to guarantee authenticity and impact."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Absolutely, I completely agree. It is essential for us to actively involve and prioritize the voices of the Black community in every aspect of our project to ensure authenticity and impact. Let's also explore how we can incorporate elements of storytelling and traditional African music to further showcase the diversity and resilience of our community."
+        ],
+        [
+          "Carlos Gomez",
+          "Let's schedule a meeting with Isabella to discuss incorporating these new elements and ideas into our project."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Absolutely, incorporating elements of storytelling and traditional African music will definitely add depth and authenticity to our project. Let's ensure that we prioritize highlighting the diversity and resilience of our community in these aspects as well."
+        ],
+        [
+          "Carlos Gomez",
+          "Let's also reach out to members of the Black community for feedback on our project to ensure that we are accurately representing their experiences and perspectives."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should also explore the impact of systemic inequalities within the Black community and how our project can shed light on these issues."
+        ],
+        [
+          "Carlos Gomez",
+          "Let's also consider incorporating elements of nature and folklore into our project to further showcase the richness and diversity of the Black community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Let's also explore the theme of resilience within the Black community and delve deeper into Black history and African folklore to ensure a comprehensive representation of our culture and heritage."
+        ],
+        [
+          "Carlos Gomez",
+          "Let's plan to incorporate elements of nature and folklore into our project to further showcase the richness and diversity of the Black community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Carlos, I think it's important for us to invite members of the Black community to actively participate in our project and share their perspectives directly. By ensuring their voices are heard, we can truly make an impact and create an authentic representation of our community."
+        ],
+        [
+          "Carlos Gomez",
+          "Let's make sure to prioritize involving Black artists and community members in our project to ensure a diverse and authentic representation."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I completely agree, Carlos. It's crucial for us to ensure that the Black community's voices are authentically represented in our project. Let's also consider incorporating elements of hip-hop music and storytelling to further showcase the cultural richness and diversity of our community."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "at the library working on his research paper (conducting additional research on his topic) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        76,
+        27
+      ],
+      "pronunciatio": "\ud83c\udfb7\ud83d\udcdc",
+      "description": "walking to Hobbs cafe with Isabella (conversing about Wolfgang Schulz and Sam Moore are discussing how to incorporate elements of jazz music, spoken word, storytelling, traditional African music, and folklore to highlight the resilience, empowerment, diversity, and systemic inequalities of the Black community in their project.) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending her second class at Oak Hill College (taking notes on the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        37,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two collaborators, Carlos Gomez and Wolfgang Schulz, discussing ways to incorporate elements of jazz music, spoken word, local Black artists, storytelling, traditional African music, nature, folklore, hip-hop music, and the theme of resilience within the Black community into their project to ensure an authentic representation and diversity. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Wolfgang, I wanted to discuss our project further. How do you feel about incorporating more elements of jazz music and spoken word to add depth and richness to our work?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "Hey Carlos, I completely agree. Jazz music and spoken word would definitely enhance our project and provide a deeper cultural connection. I think it's essential to showcase the resilience and creativity of the Black community through these art forms. Let's brainstorm some specific ideas on how to incorporate them effectively."
+        ],
+        [
+          "Carlos Gomez",
+          "Absolutely, I think we can also consider involving local artists from the Black community to bring diverse perspectives and authentic representation to our project. What do you think?"
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think involving local artists from the Black community is a fantastic idea. Their perspectives and creativity will truly enrich our project."
+        ],
+        [
+          "Carlos Gomez",
+          "I also believe it's crucial to ensure that we actively involve and prioritize the voices of the Black community in every step of our project to guarantee authenticity and impact."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Absolutely, I completely agree. It is essential for us to actively involve and prioritize the voices of the Black community in every aspect of our project to ensure authenticity and impact. Let's also explore how we can incorporate elements of storytelling and traditional African music to further showcase the diversity and resilience of our community."
+        ],
+        [
+          "Carlos Gomez",
+          "Let's schedule a meeting with Isabella to discuss incorporating these new elements and ideas into our project."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Absolutely, incorporating elements of storytelling and traditional African music will definitely add depth and authenticity to our project. Let's ensure that we prioritize highlighting the diversity and resilience of our community in these aspects as well."
+        ],
+        [
+          "Carlos Gomez",
+          "Let's also reach out to members of the Black community for feedback on our project to ensure that we are accurately representing their experiences and perspectives."
+        ],
+        [
+          "Wolfgang Schulz",
+          "We should also explore the impact of systemic inequalities within the Black community and how our project can shed light on these issues."
+        ],
+        [
+          "Carlos Gomez",
+          "Let's also consider incorporating elements of nature and folklore into our project to further showcase the richness and diversity of the Black community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Let's also explore the theme of resilience within the Black community and delve deeper into Black history and African folklore to ensure a comprehensive representation of our culture and heritage."
+        ],
+        [
+          "Carlos Gomez",
+          "Let's plan to incorporate elements of nature and folklore into our project to further showcase the richness and diversity of the Black community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Carlos, I think it's important for us to invite members of the Black community to actively participate in our project and share their perspectives directly. By ensuring their voices are heard, we can truly make an impact and create an authentic representation of our community."
+        ],
+        [
+          "Carlos Gomez",
+          "Let's make sure to prioritize involving Black artists and community members in our project to ensure a diverse and authentic representation."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I completely agree, Carlos. It's crucial for us to ensure that the Black community's voices are authentically represented in our project. Let's also consider incorporating elements of hip-hop music and storytelling to further showcase the cultural richness and diversity of our community."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending his music theory class at Oak Hill College (taking notes) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        88,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcb3",
+      "description": "managing operations and assisting customers at The Willow Market and Pharmacy (ringing up customers' purchases at the register) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        36,
+        30
+      ],
+      "pronunciatio": "\ud83e\udd1d",
+      "description": "still writing for her children's book series (conversing about collaborating on a project that combines their shared passions and expertise, discussing how to align their visions and bring the project to life by involving members of the Black community for authenticity and impact.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\u23f3",
+      "description": "having lunch (waiting for his food to arrive) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 09:43:50"
+  }
+}

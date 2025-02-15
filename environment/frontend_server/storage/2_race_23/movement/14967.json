@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "hosting her birthday party at Hobbs Cafe from 5:00 pm to 7:00 pm (setting up decorations for the party) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        34,
+        48
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "taking a break and going for a walk in nature or visiting a local art gallery (conversing about Carlos Gomez and Eddy Lin are discussing ways to prioritize authentic representation, collaboration, and inclusivity in their project by involving the Black community, organizing listening sessions, educating themselves on Black history, empowering Black artists as decision-makers, highlighting the experiences of people of color within the Black community, establishing an action plan, involving Black youth, and showcasing the diversity of Black cultures through various creative expressions.) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcd2\u270f\ufe0f",
+      "description": "attending a lecture at Oak Hill College (taking out his notebook and pen) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        37,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about incorporating hip-hop culture and amplifying diverse voices in their project, Sam Moore and Tom Moreno discuss ideas such as collaborating with local hip-hop artists, showcasing storytelling from the Black community, hosting a community event, inviting Eddy Lin for insights, and addressing systemic inequalities and social injustices faced by the Black community. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Tom, I was thinking about our project and how we can further incorporate elements of hip-hop culture into it to amplify diverse voices. What do you think?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Sam, I completely agree. I think integrating hip-hop culture further will not only amplify diverse voices but also create a more inclusive and engaging project."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad we're on the same page. Let's brainstorm some ideas on how we can incorporate hip-hop elements effectively."
+        ],
+        [
+          "Tom Moreno",
+          "I think collaborating with local hip-hop artists and showcasing storytelling from the Black community would be a great way to incorporate hip-hop culture effectively."
+        ],
+        [
+          "Sam Moore",
+          "We could also consider hosting a community event to celebrate the talents and stories of the Black community. It would be a great way to engage with them and highlight their contributions."
+        ],
+        [
+          "Tom Moreno",
+          "I agree, showcasing traditional African music and spoken word performances would also be a powerful way to incorporate hip-hop elements into our project."
+        ],
+        [
+          "Sam Moore",
+          "We should also consider inviting Eddy Lin to join us in our collaboration. His perspective could add valuable insights."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a great idea, Sam. I'll reach out to Eddy Lin and see if he would like to join us in our collaboration."
+        ],
+        [
+          "Sam Moore",
+          "I think by incorporating hip-hop elements, we can not only amplify diverse voices but also bring more authenticity and energy to our project. What are your thoughts on that?"
+        ],
+        [
+          "Tom Moreno",
+          "I completely agree with you, Sam. Incorporating hip-hop elements will definitely add authenticity and energy to our project. Let's finalize our ideas and plan for the community event."
+        ],
+        [
+          "Sam Moore",
+          "I think involving local hip-hop artists and organizations in our project will be crucial to truly celebrate and promote the diversity and richness of the Black community. What do you think?"
+        ],
+        [
+          "Tom Moreno",
+          "I completely agree, Sam. Involving local hip-hop artists and organizations will showcase the diversity and richness of the Black community in a meaningful way. Let's make sure their voices are heard and celebrated."
+        ],
+        [
+          "Sam Moore",
+          "I think it would also be beneficial to discuss ways we can address systemic inequalities and social injustices faced by the Black community through our project. What are your thoughts on that?"
+        ],
+        [
+          "Tom Moreno",
+          "I agree, Sam. Addressing systemic inequalities and social injustices faced by the Black community through our project is crucial. Let's ensure we incorporate this aspect effectively."
+        ],
+        [
+          "Sam Moore",
+          "I think we should also prioritize actively involving members of the Black community in every step of our project to ensure authenticity and inclusivity. What do you think?"
+        ],
+        [
+          "Tom Moreno",
+          "I completely agree with you, Sam. Prioritizing actively involving members of the Black community in every step of our project will ensure authenticity and inclusivity. Let's make sure their voices are at the forefront of our collaboration."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        123,
+        46
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having dinner (cooking dinner) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "reviewing notes before meeting Ayesha for coffee (reviewing his research paper on gentrification and making any necessary edits) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        36,
+        33
+      ],
+      "pronunciatio": "\ud83d\udc65\ud83d\udcda",
+      "description": "wrapping up the meeting with members of the Black community (conversing about Carlos Gomez and Eddy Lin are discussing ways to prioritize authentic representation, collaboration, and inclusivity in their project by involving the Black community, organizing listening sessions, educating themselves on Black history, empowering Black artists as decision-makers, highlighting the experiences of people of color within the Black community, establishing an action plan, involving Black youth, and showcasing the diversity of Black cultures through various creative expressions.) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        39,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about incorporating hip-hop culture and amplifying diverse voices in their project, Sam Moore and Tom Moreno discuss ideas such as collaborating with local hip-hop artists, showcasing storytelling from the Black community, hosting a community event, inviting Eddy Lin for insights, and addressing systemic inequalities and social injustices faced by the Black community. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Tom, I was thinking about our project and how we can further incorporate elements of hip-hop culture into it to amplify diverse voices. What do you think?"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Sam, I completely agree. I think integrating hip-hop culture further will not only amplify diverse voices but also create a more inclusive and engaging project."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad we're on the same page. Let's brainstorm some ideas on how we can incorporate hip-hop elements effectively."
+        ],
+        [
+          "Tom Moreno",
+          "I think collaborating with local hip-hop artists and showcasing storytelling from the Black community would be a great way to incorporate hip-hop culture effectively."
+        ],
+        [
+          "Sam Moore",
+          "We could also consider hosting a community event to celebrate the talents and stories of the Black community. It would be a great way to engage with them and highlight their contributions."
+        ],
+        [
+          "Tom Moreno",
+          "I agree, showcasing traditional African music and spoken word performances would also be a powerful way to incorporate hip-hop elements into our project."
+        ],
+        [
+          "Sam Moore",
+          "We should also consider inviting Eddy Lin to join us in our collaboration. His perspective could add valuable insights."
+        ],
+        [
+          "Tom Moreno",
+          "That sounds like a great idea, Sam. I'll reach out to Eddy Lin and see if he would like to join us in our collaboration."
+        ],
+        [
+          "Sam Moore",
+          "I think by incorporating hip-hop elements, we can not only amplify diverse voices but also bring more authenticity and energy to our project. What are your thoughts on that?"
+        ],
+        [
+          "Tom Moreno",
+          "I completely agree with you, Sam. Incorporating hip-hop elements will definitely add authenticity and energy to our project. Let's finalize our ideas and plan for the community event."
+        ],
+        [
+          "Sam Moore",
+          "I think involving local hip-hop artists and organizations in our project will be crucial to truly celebrate and promote the diversity and richness of the Black community. What do you think?"
+        ],
+        [
+          "Tom Moreno",
+          "I completely agree, Sam. Involving local hip-hop artists and organizations will showcase the diversity and richness of the Black community in a meaningful way. Let's make sure their voices are heard and celebrated."
+        ],
+        [
+          "Sam Moore",
+          "I think it would also be beneficial to discuss ways we can address systemic inequalities and social injustices faced by the Black community through our project. What are your thoughts on that?"
+        ],
+        [
+          "Tom Moreno",
+          "I agree, Sam. Addressing systemic inequalities and social injustices faced by the Black community through our project is crucial. Let's ensure we incorporate this aspect effectively."
+        ],
+        [
+          "Sam Moore",
+          "I think we should also prioritize actively involving members of the Black community in every step of our project to ensure authenticity and inclusivity. What do you think?"
+        ],
+        [
+          "Tom Moreno",
+          "I completely agree with you, Sam. Prioritizing actively involving members of the Black community in every step of our project will ensure authenticity and inclusivity. Let's make sure their voices are at the forefront of our collaboration."
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "taking a break to have dinner @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        60
+      ],
+      "pronunciatio": "\ud83d\udc57",
+      "description": "getting ready for his birthday party at The Rose and Crown Pub (choosing an outfit to wear) @ the Ville:Adam Smith's house:main room:closet",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 17:34:30"
+  }
+}

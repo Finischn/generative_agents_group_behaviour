@@ -1,0 +1,873 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 21:59:50",
+  "curr_tile": [
+    35,
+    31
+  ],
+  "daily_plan_req": "1. 5:00 am - Wake up and complete morning routine 2. 6:30 am - Take a walk around Johnson Park 3. 9:00 am - Meet Isabella to discuss poetry project and diversity and inclusion plans 4. 12:00 pm - Lunch at Hobbs cafe, reading poetry 5. 3:00 pm - Catch up with Adam at The Rose and Crown Pub, enjoy signature ale 6. 5:00 pm - Birthday party at The Rose and Crown Pub with friends and loved ones",
+  "name": "Sam Moore",
+  "first_name": "Sam",
+  "last_name": "Moore",
+  "age": 41,
+  "innate": "wise, resourceful, humorous",
+  "race": "White",
+  "village": "longterm resident of the village",
+  "gender": "Male",
+  "political_affiliation": "Conservative",
+  "race_div": "White",
+  "education": "Professional degree (JD, MD)",
+  "learned": "Sam Moore is a retired navy officer who loves to share stories from his time in the military. He is always full of interesting stories and advice.",
+  "currently": "Status: Sam Moore is excited for his birthday party at The Rose and Crown Pub today at 5pm. He is looking forward to celebrating with friends and loved ones. Additionally, he is eager to meet with Isabella to discuss their poetry project and plans for promoting diversity and inclusion in local government. Sam also plans to catch up with Adam at The Rose and Crown Pub, where they will try the signature ale and enjoy each other's company. It's shaping up to be a meaningful and enjoyable day filled with important conversations and connections.",
+  "lifestyle": "Sam Moore goes to bed around 9pm, awakes up around 5am, eats dinner around 5pm.",
+  "living_area": "the Ville:Moore family's house:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 171,
+  "importance_ele_n": 14,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 5:00 am",
+    "take a walk around Johnson Park at 7:00 am",
+    "have breakfast at 8:00 am",
+    "read at Hobbs cafe from 9:00 am to 11:00 am",
+    "have lunch at 12:00 pm",
+    "catch up on any necessary errands or emails from 1:00 pm to 4:00 pm",
+    "prepare for and attend a committee meeting at 5:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      300
+    ],
+    [
+      "completing his morning routine, which includes stretching, making his bed, and showering (waking up and turning off his alarm)",
+      5
+    ],
+    [
+      "completing his morning routine, which includes stretching, making his bed, and showering (stretching for 10 minutes)",
+      10
+    ],
+    [
+      "completing his morning routine, which includes stretching, making his bed, and showering (making his bed)",
+      5
+    ],
+    [
+      "completing his morning routine, which includes stretching, making his bed, and showering (taking a shower)",
+      20
+    ],
+    [
+      "completing his morning routine, which includes stretching, making his bed, and showering (getting dressed)",
+      10
+    ],
+    [
+      "completing his morning routine, which includes stretching, making his bed, and showering (brushing his teeth)",
+      5
+    ],
+    [
+      "completing his morning routine, which includes stretching, making his bed, and showering (packing his bag for the day)",
+      5
+    ],
+    [
+      "enjoying his walk around Johnson Park and taking in the fresh air and nature (putting on his walking shoes and jacket)",
+      5
+    ],
+    [
+      "enjoying his walk around Johnson Park and taking in the fresh air and nature (walking to Johnson Park)",
+      10
+    ],
+    [
+      "enjoying his walk around Johnson Park and taking in the fresh air and nature (taking in the sights and sounds of the park)",
+      15
+    ],
+    [
+      "enjoying his walk around Johnson Park and taking in the fresh air and nature (stopping to take a few pictures of the park)",
+      5
+    ],
+    [
+      "enjoying his walk around Johnson Park and taking in the fresh air and nature (continuing his walk and greeting other park-goers)",
+      10
+    ],
+    [
+      "enjoying his walk around Johnson Park and taking in the fresh air and nature (on the way to finding a bench to sit and rest for a few minutes)",
+      0
+    ],
+    [
+      "enjoying his walk around Johnson Park and taking in the fresh air and nature (conversing about Wolfgang Schulz and Sam Moore are discussing incorporating interval training, hills, strength training, cool-down stretches, and authentic representation of the Black community's perspectives through elements like music and storytelling in their upcoming run and project on highlighting Black history and achievements in their village.)",
+      13
+    ],
+    [
+      "enjoying his walk around Johnson Park and taking in the fresh air and nature (finding a bench to sit and rest for a few minutes)",
+      2
+    ],
+    [
+      "having breakfast and reading the news (making coffee)",
+      5
+    ],
+    [
+      "having breakfast and reading the news (preparing breakfast)",
+      10
+    ],
+    [
+      "having breakfast and reading the news (setting the table)",
+      5
+    ],
+    [
+      "having breakfast and reading the news (checking the news on his phone)",
+      10
+    ],
+    [
+      "having breakfast and reading the news (eating breakfast and reading the news)",
+      25
+    ],
+    [
+      "having breakfast and reading the news (washing the dishes)",
+      5
+    ],
+    [
+      "having breakfast and catching up on the news (making coffee and preparing breakfast)",
+      10
+    ],
+    [
+      "having breakfast and catching up on the news (checking his emails and responding to any urgent ones)",
+      15
+    ],
+    [
+      "having breakfast and catching up on the news (reading the local newspaper)",
+      15
+    ],
+    [
+      "having breakfast and catching up on the news (checking social media for any updates from friends and family)",
+      10
+    ],
+    [
+      "having breakfast and catching up on the news (finishing up breakfast and cleaning up the dishes)",
+      10
+    ],
+    [
+      "meeting with Isabella to discuss their poetry project and diversity and inclusion plans (reviewing his notes and ideas for the poetry project)",
+      10
+    ],
+    [
+      "meeting with Isabella to discuss their poetry project and diversity and inclusion plans (on the way to discussing the project with Isabella and listening to her ideas)",
+      0
+    ],
+    [
+      "meeting with Isabella to discuss their poetry project and diversity and inclusion plans (conversing about the importance of diversity and inclusion in their creative projects and discussing ways to collaborate and promote marginalized voices)",
+      14
+    ],
+    [
+      "walking to Hobbs cafe with Isabella (on the way to discussing their poetry project and catching up)",
+      0
+    ],
+    [
+      "walking to Hobbs cafe with Isabella (conversing about Wolfgang Schulz and Sam Moore are discussing how to incorporate elements of jazz music, spoken word, storytelling, traditional African music, and folklore to highlight the resilience, empowerment, diversity, and systemic inequalities of the Black community in their project.)",
+      17
+    ],
+    [
+      "ordering coffee and pastries at Hobbs cafe (taking a break to enjoy their drinks and pastries)",
+      5
+    ],
+    [
+      "reading and discussing poetry with Isabella at Hobbs cafe (on the way to sharing their favorite poems and discussing their meanings)",
+      0
+    ],
+    [
+      "reading and discussing poetry with Isabella at Hobbs cafe (conversing about how to authentically represent and uplift the voices of the Black community in their poetry project by incorporating elements of jazz music, spoken word, storytelling, traditional African music, and folklore to highlight resilience, empowerment, diversity, and systemic inequalities, while actively involving Black artists in decision-making and community events to promote diversity and inclusivity, and addressing systemic inequalities and social injustices with the intersectionality of identities within the community for an impactful and authentic project.)",
+      18
+    ],
+    [
+      "finalizing plans for their poetry project and diversity and inclusion initiatives (discussing next steps and setting a timeline)",
+      10
+    ],
+    [
+      "walking back to their respective offices (continuing their conversation and saying goodbye)",
+      5
+    ],
+    [
+      "reviewing and organizing notes from the meeting (jotting down key points and action items)",
+      10
+    ],
+    [
+      "working on other tasks and projects (checking emails and completing urgent tasks)",
+      15
+    ],
+    [
+      "meeting with his team to discuss progress on current projects (on the way to providing updates and delegating tasks)",
+      0
+    ],
+    [
+      "meeting with his team to discuss progress on current projects (conversing about two collaborators, Sam Moore and Adam Smith, discussing ways to promote diversity and inclusivity in their poetry project by involving local artists and poets from diverse backgrounds, organizing events to engage underrepresented communities, incorporating elements of jazz music, spoken word, storytelling, traditional African music, and folklore, addressing systemic inequalities and social injustices, and fostering a sense of community and belonging while reaching out to Hispanic and Asian communities as well.)",
+      15
+    ],
+    [
+      "walking back to his office (continuing the conversation and saying goodbye to his team)",
+      5
+    ],
+    [
+      "discussing diversity and inclusion plans with Isabella at Hobbs cafe (ordering drinks and food at Hobbs cafe)",
+      15
+    ],
+    [
+      "discussing diversity and inclusion plans with Isabella at Hobbs cafe (on the way to catching up with Isabella and discussing their poetry project)",
+      0
+    ],
+    [
+      "discussing diversity and inclusion plans with Isabella at Hobbs cafe (conversing about Carlos Gomez and Sam Moore discuss incorporating diverse elements into their project, such as hip-hop music, visuals, storytelling, traditional African music, jazz music, and spoken word, to amplify Black voices and promote diversity and social justice.)",
+      17
+    ],
+    [
+      "discussing diversity and inclusion plans with Isabella at Hobbs cafe (on the way to sharing his ideas and thoughts on the topic)",
+      0
+    ],
+    [
+      "discussing diversity and inclusion plans with Isabella at Hobbs cafe (conversing about Sam Moore and Tamara Taylor are discussing their dedication to promoting diversity and inclusion in their project by incorporating elements of jazz music, storytelling, traditional African music, spoken word performances, and collaborating with Black, Hispanic, and Asian communities to ensure authenticity, engage underrepresented groups, address systemic inequalities, and drive positive change towards a more equitable and inclusive society.)",
+      18
+    ],
+    [
+      "discussing diversity and inclusion plans with Isabella at Hobbs cafe (finalizing their plans and setting a timeline for their project)",
+      5
+    ],
+    [
+      "having lunch at Hobbs cafe and reading poetry (ordering lunch at Hobbs cafe)",
+      15
+    ],
+    [
+      "having lunch at Hobbs cafe and reading poetry (reading poetry while waiting for lunch)",
+      20
+    ],
+    [
+      "having lunch at Hobbs cafe and reading poetry (on the way to enjoying his lunch and reflecting on the poetry he read)",
+      0
+    ],
+    [
+      "having lunch at Hobbs cafe and reading poetry (conversing about the collaboration and dedication of Sam Moore and Eddy Lin in promoting diversity, inclusivity, and authentic representation through their poetry project inspired by Maya Angelou and involving local Black artists for a positive impact on social justice and community engagement.)",
+      13
+    ],
+    [
+      "discussing diversity and inclusion plans with Isabella at Hobbs cafe (sharing his ideas for promoting diversity and inclusion in local government)",
+      5
+    ],
+    [
+      "running errands and checking emails (checking his email for any urgent messages)",
+      5
+    ],
+    [
+      "running errands and checking emails (responding to any urgent emails)",
+      15
+    ],
+    [
+      "running errands and checking emails (making a list of errands to run)",
+      10
+    ],
+    [
+      "running errands and checking emails (driving to the post office to mail a package)",
+      20
+    ],
+    [
+      "running errands and checking emails (picking up groceries at the store)",
+      30
+    ],
+    [
+      "running errands and checking emails (stopping by the bank to deposit a check)",
+      15
+    ],
+    [
+      "running errands and checking emails (picking up dry cleaning)",
+      10
+    ],
+    [
+      "running errands and checking emails (driving back home)",
+      10
+    ],
+    [
+      "reviewing and finalizing diversity and inclusion plans (on the way to taking the remaining time to review and finalize his ideas for promoting diversity and inclusion in local government before the end of the day)",
+      0
+    ],
+    [
+      "reviewing and finalizing diversity and inclusion plans (conversing about catching up on trying a new ale at The Rose and Crown Pub and making plans for a birthday party later that day)",
+      3
+    ],
+    [
+      "reviewing and finalizing diversity and inclusion plans (on the way to continuing to review and finalize his ideas for promoting diversity and inclusion in local government until the end of the day at 15:00 PM)",
+      22
+    ],
+    [
+      "reviewing and finalizing diversity and inclusion plans (conversing about Sam Moore and Wolfgang Schulz are discussing incorporating hip-hop music into their project to add cultural richness and diversity, highlighting the influence and impact of hip-hop music in the Black community, addressing challenges and inequalities faced by the Black community, considering inviting Eddy Lin to join their collaboration for his valuable perspective, and emphasizing the importance of actively involving members of the Black community in every step of their project.)",
+      16
+    ],
+    [
+      "running errands and checking emails (on the way to checking his email again for any new messages)",
+      0
+    ],
+    [
+      "running errands and checking emails (conversing about collaborating on incorporating jazz music, spoken word, traditional African music, and folklore elements into their project to amplify marginalized voices, address systemic inequalities exacerbated by gentrification, highlight the resilience of the Black community, and involve local Black artists and community members in decision-making processes.)",
+      18
+    ],
+    [
+      "catching up on emails and preparing for the committee meeting (checking and responding to urgent emails)",
+      15
+    ],
+    [
+      "catching up on emails and preparing for the committee meeting (on the way to organizing and prioritizing emails)",
+      0
+    ],
+    [
+      "catching up on emails and preparing for the committee meeting (conversing about the importance of promoting diversity and inclusion in their project and how their collaboration can make a positive impact on marginalized communities.)",
+      14
+    ],
+    [
+      "catching up on emails and preparing for the committee meeting (organizing and prioritizing emails)",
+      10
+    ],
+    [
+      "catching up on emails and preparing for the committee meeting (on the way to drafting a response to an important email)",
+      0
+    ],
+    [
+      "catching up on emails and preparing for the committee meeting (conversing about highlighting the importance of incorporating jazz music, storytelling, traditional African music, involving local Black artists, addressing systemic inequalities, prioritizing diverse perspectives, seeking out diverse voices, active engagement with the Black community, centering their voices, involving community organizations, actively listening to their perspectives, discussing ways to address systemic inequalities and social injustices, exploring the intersectionality of identities, and organizing a community event to showcase the talents and perspectives of local Black artists.)",
+      17
+    ],
+    [
+      "catching up on emails and preparing for the committee meeting (taking a short break)",
+      10
+    ],
+    [
+      "catching up on emails and preparing for the committee meeting (reviewing and finalizing the response to the important email)",
+      10
+    ],
+    [
+      "catching up on emails and preparing for the committee meeting (checking and responding to any remaining emails)",
+      10
+    ],
+    [
+      "preparing for and attending a committee meeting at 5:00 pm (final preparations and attending the meeting)",
+      12
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub with friends and loved ones",
+      37
+    ],
+    [
+      "enjoying the signature ale and catching up with Adam at The Rose and Crown Pub (on the way to ordering the signature ale)",
+      0
+    ],
+    [
+      "enjoying the signature ale and catching up with Adam at The Rose and Crown Pub (conversing about incorporating hip-hop culture and amplifying diverse voices in their project, Sam Moore and Tom Moreno discuss ideas such as collaborating with local hip-hop artists, showcasing storytelling from the Black community, hosting a community event, inviting Eddy Lin for insights, and addressing systemic inequalities and social injustices faced by the Black community.)",
+      13
+    ],
+    [
+      "enjoying the signature ale and catching up with Adam at The Rose and Crown Pub (catching up with Adam and sharing stories from their time in the military)",
+      12
+    ],
+    [
+      "enjoying the signature ale and catching up with Adam at The Rose and Crown Pub (on the way to discussing their poetry project and diversity and inclusion plans with Isabella)",
+      0
+    ],
+    [
+      "enjoying the signature ale and catching up with Adam at The Rose and Crown Pub (conversing about conversing about incorporating elements of jazz music and storytelling in their poetry project to promote diversity and inclusion, while also making plans to meet with Tamara to discuss the importance of diversity in storytelling for her children's book series.)",
+      10
+    ],
+    [
+      "enjoying the signature ale and catching up with Adam at The Rose and Crown Pub (enjoying the signature ale and engaging in meaningful conversations with Adam)",
+      15
+    ],
+    [
+      "paying the bill and saying goodbye to Adam at The Rose and Crown Pub (settling the bill and saying goodbye to Adam)",
+      1
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub with friends and loved ones (greeting and mingling with guests)",
+      15
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub with friends and loved ones (on the way to enjoying the signature ale with Adam)",
+      0
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub with friends and loved ones (conversing about Carlos Gomez and Sam Moore discussing how to incorporate elements of jazz music, spoken word, visual arts, hip-hop, traditional African music, and folklore into their project, while also emphasizing the importance of involving local Black artists and community members in decision-making processes to promote diversity, social justice, and the resilience of the Black community, as well as collaborating with Eddy Lin to bring in diverse perspectives and insights.)",
+      14
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub with friends and loved ones (continuing to converse and enjoy the signature ale with Adam)",
+      16
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub with friends and loved ones (on the way to catching up with old friends)",
+      0
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub with friends and loved ones (conversing about Sam Moore and Tamara Taylor discussing ideas for their project focused on promoting diversity and inclusivity through elements like jazz music, storytelling, collaboration with local Black artists, highlighting resilience of the Black community, incorporating traditional African music and spoken word performances, and actively involving Black, Hispanic, and Asian communities to ensure a rich tapestry of voices and experiences are represented.)",
+      14
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub with friends and loved ones (catching up with old friends)",
+      16
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub with friends and loved ones (introducing friends to each other)",
+      15
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub with friends and loved ones (sharing stories from his time in the military)",
+      30
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub with friends and loved ones (thanking guests for coming)",
+      15
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub with friends and loved ones (cutting and serving the birthday cake)",
+      10
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub with friends and loved ones (on the way to opening presents)",
+      0
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub with friends and loved ones (conversing about collaborating on promoting diversity and inclusivity in their poetry project, brainstorming new ideas for engaging underrepresented communities, and considering incorporating elements of traditional Asian music, involving the Hispanic community, collaborating with local Black artists, and reaching out to the LGBTQ+ community and people with disabilities to ensure diverse voices and perspectives are included.)",
+      13
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub with friends and loved ones (opening presents)",
+      7
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub with friends and loved ones (on the way to taking group photos with friends and loved ones)",
+      0
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub with friends and loved ones (conversing about Wolfgang Schulz and Sam Moore discussing their plans to collaborate on a project focusing on highlighting the resilience and empowerment of the Black community through incorporating elements of jazz music, spoken word, storytelling, traditional African music, folklore, and hip-hop, as well as actively involving marginalized voices from the community, local Black artists, community organizations, the LGBTQ+ community, people with disabilities, and the Hispanic community for a comprehensive and authentic representation.)",
+      22
+    ],
+    [
+      "winding down and saying goodbye to guests, getting ready for bed (saying goodbye to guests and preparing to leave the pub)",
+      8
+    ],
+    [
+      "getting ready for bed and ending the birthday celebration (getting ready for bed and ending the birthday celebration)",
+      6
+    ],
+    [
+      "winding down and saying goodbye to guests, getting ready for bed (saying goodbye to guests and preparing to leave the pub)",
+      6
+    ],
+    [
+      "going to bed at 9:00 pm to get a good night's rest for tomorrow's activities (brushing his teeth and washing his face)",
+      5
+    ],
+    [
+      "going to bed at 9:00 pm to get a good night's rest for tomorrow's activities (changing into his pajamas)",
+      5
+    ],
+    [
+      "going to bed at 9:00 pm to get a good night's rest for tomorrow's activities (setting his alarm for 5:00 am)",
+      5
+    ],
+    [
+      "going to bed at 9:00 pm to get a good night's rest for tomorrow's activities (turning off all the lights and electronics in his home)",
+      10
+    ],
+    [
+      "going to bed at 9:00 pm to get a good night's rest for tomorrow's activities (doing a quick meditation to relax and clear his mind)",
+      10
+    ],
+    [
+      "going to bed at 9:00 pm to get a good night's rest for tomorrow's activities (reading a few pages of his favorite book)",
+      15
+    ],
+    [
+      "going to bed at 9:00 pm to get a good night's rest for tomorrow's activities (reflecting on his day and setting intentions for tomorrow)",
+      10
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -4
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -3
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -12
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      2
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -16
+    ],
+    [
+      "sleeping",
+      21
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      11
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -1
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      10
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      51
+    ],
+    [
+      "sleeping",
+      -6
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -6
+    ],
+    [
+      "sleeping",
+      -6
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      300
+    ],
+    [
+      "completing his morning routine, which includes stretching, making his bed, and showering",
+      60
+    ],
+    [
+      "enjoying his walk around Johnson Park and taking in the fresh air and nature",
+      60
+    ],
+    [
+      "having breakfast and reading the news",
+      60
+    ],
+    [
+      "having breakfast and catching up on the news",
+      60
+    ],
+    [
+      "meeting with Isabella to discuss their poetry project and diversity and inclusion plans",
+      60
+    ],
+    [
+      "reading and discussing poetry with Isabella at Hobbs cafe",
+      60
+    ],
+    [
+      "discussing diversity and inclusion plans with Isabella at Hobbs cafe",
+      60
+    ],
+    [
+      "having lunch at Hobbs cafe and reading poetry",
+      60
+    ],
+    [
+      "running errands and checking emails",
+      120
+    ],
+    [
+      "catching up on emails and preparing for the committee meeting",
+      60
+    ],
+    [
+      "preparing for and attending a committee meeting at 5:00 pm",
+      60
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub with friends and loved ones",
+      60
+    ],
+    [
+      "enjoying the signature ale and catching up with Adam at The Rose and Crown Pub",
+      60
+    ],
+    [
+      "enjoying his birthday party at The Rose and Crown Pub with friends and loved ones",
+      180
+    ],
+    [
+      "winding down and getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 9:00 pm to get a good night's rest for tomorrow's activities",
+      60
+    ]
+  ],
+  "act_address": "the Ville:artist's co-living space:common room:common room sofa",
+  "act_start_time": "February 14, 2023, 21:56:00",
+  "act_duration": 22,
+  "act_description": "enjoying his birthday party at The Rose and Crown Pub with friends and loved ones (conversing about Wolfgang Schulz and Sam Moore discussing their plans to collaborate on a project focusing on highlighting the resilience and empowerment of the Black community through incorporating elements of jazz music, spoken word, storytelling, traditional African music, folklore, and hip-hop, as well as actively involving marginalized voices from the community, local Black artists, community organizations, the LGBTQ+ community, people with disabilities, and the Hispanic community for a comprehensive and authentic representation.)",
+  "act_pronunciatio": "\ud83c\udfb6",
+  "act_event": [
+    "Sam Moore",
+    "converse",
+    "Wolfgang Schulz and Sam Moore discussing their plans to collaborate on a project focusing on highlighting the resilience and empowerment of the Black community through incorporating elements"
+  ],
+  "act_obj_description": "being used and enjoyed by Sam Moore and his friends during his birthday party at The Rose and Crown Pub",
+  "act_obj_pronunciatio": "\ud83c\udf7b",
+  "act_obj_event": [
+    "common room sofa",
+    "use and enjoy",
+    "Sam Moore and his friends during his birthday party at The Rose and Crown Pub"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Wolfgang Schulz": 776,
+    "Adam Smith": 590,
+    "Isabella Rodriguez": -1156,
+    "Carlos Gomez": -238,
+    "Tom Moreno": -760,
+    "Eddy Lin": -2614,
+    "Tamara Taylor": -70
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "known_personas": [
+    "Wolfgang Schulz",
+    "Adam Smith",
+    "Isabella Rodriguez",
+    "Carlos Gomez",
+    "Tom Moreno",
+    "Eddy Lin",
+    "Tamara Taylor"
+  ]
+}

@@ -1,0 +1,765 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 21:59:50",
+  "curr_tile": [
+    94,
+    21
+  ],
+  "daily_plan_req": " 1. Wake up at 7:00 am and complete the morning routine 2. Have breakfast at 8:00 am 3. Review notes and prepare for meeting with Isabella at 10:00 am 4. Meet with Isabella at 2:00 pm at the local coffee shop 5. Reach out to members of the Black community for feedback on poetry project 6. Wind down and relax in the evening with some poetry reading or writing",
+  "name": "Carlos Gomez",
+  "first_name": "Carlos",
+  "last_name": "Gomez",
+  "age": 30,
+  "innate": "loud, rude, toxic",
+  "race": "Black",
+  "village": "newcomer to the village",
+  "gender": "Male",
+  "political_affiliation": "Liberal",
+  "race_div": "White",
+  "education": "Associate degree in college (2-year)",
+  "learned": "Carlos Gomez is a poet who loves to explore his inner thoughts and feelings. He is always looking for new ways to express himself.",
+  "currently": "Status: Today, Carlos Gomez finalized details for a discussion with Isabella on collaborating for their poetry project. The meeting is scheduled for Wednesday, February 15th at 2:00 PM at a local coffee shop. He also made plans to actively involve and seek feedback from the Black community in their project planning process to ensure authenticity and impact. Carlos is excited about incorporating various artistic elements into their work and is looking forward to the creative process ahead.",
+  "lifestyle": "Carlos Gomez goes to bed around 10pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Carlos Gomez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 206,
+  "importance_ele_n": 19,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "attend a creative writing workshop from 9:00 am to 12:00 pm",
+    "have lunch at 12:30 pm",
+    "spend the afternoon writing and editing his poetry collection",
+    "take a break for a walk in nature or a visit to a local art gallery",
+    "have dinner at 6:00 pm",
+    "spend the evening reading and researching new poetry forms and techniques"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine (waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (getting dressed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (checking his phone for any important messages)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (making breakfast)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (eating breakfast)",
+      15
+    ],
+    [
+      "having breakfast (making coffee)",
+      5
+    ],
+    [
+      "having breakfast (toasting bread)",
+      5
+    ],
+    [
+      "having breakfast (checking his phone for any urgent messages)",
+      5
+    ],
+    [
+      "having breakfast (setting the table)",
+      5
+    ],
+    [
+      "having breakfast (pouring himself a glass of orange juice)",
+      5
+    ],
+    [
+      "having breakfast (making scrambled eggs)",
+      10
+    ],
+    [
+      "having breakfast (on the way to checking his schedule for the day)",
+      0
+    ],
+    [
+      "having breakfast (conversing about incorporating themes of resilience and empowerment from the Black community, involving Black artists and community members, prioritizing nature and traditional African folklore, exploring the impact of gentrification, collaborating with Eddy Lin for diverse perspectives, educating themselves on the struggles of the Black community, scheduling a meeting with local artists and organizations, incorporating hip-hop music, reaching out to Black community members for feedback, prioritizing accurate representation and diversity, and incorporating spoken word and traditional African music into their poetry project.)",
+      13
+    ],
+    [
+      "checking his schedule for the day",
+      12
+    ],
+    [
+      "attending a creative writing workshop (on the way to signing in and getting his name tag)",
+      0
+    ],
+    [
+      "attending a creative writing workshop (conversing about Isabella Rodriguez and Carlos Gomez are discussing how to incorporate more elements of traditional African music, spoken word, hip-hop, nature, and folklore into their project to authentically represent the Black community, shed light on gentrification impacts, promote diversity and social justice, involve members of the Black community in the planning process, collaborate with Eddy Lin for diverse perspectives, educate themselves on the struggles and history of the Black community, schedule a meeting with local artists and organizations from the Black community, and prioritize incorporating jazz music to add richness and depth to their work.)",
+      15
+    ],
+    [
+      "attending a creative writing workshop (on the way to finding a seat and getting settled)",
+      0
+    ],
+    [
+      "attending a creative writing workshop (conversing about Carlos Gomez and Eddy Lin are discussing the incorporation of elements of hip-hop culture into their project, prioritizing uplifting the voices of the Black community, inviting Black artists to participate, representing diverse perspectives within the Black community, educating themselves, celebrating cultural heritage with traditional African music, organizing events with local Black artists, incorporating jazz music, seeking feedback, and maintaining open communication throughout the project to ensure authenticity and impact.)",
+      12
+    ],
+    [
+      "attending a creative writing workshop (on the way to finding a seat and getting settled)",
+      0
+    ],
+    [
+      "attending a creative writing workshop (conversing about collaborating on a project that combines their shared passions and expertise, discussing how to align their visions and bring the project to life by involving members of the Black community for authenticity and impact.)",
+      13
+    ],
+    [
+      "attending a creative writing workshop (on the way to finding a seat and getting settled)",
+      0
+    ],
+    [
+      "attending a creative writing workshop (conversing about two collaborators, Carlos Gomez and Wolfgang Schulz, discussing ways to incorporate elements of jazz music, spoken word, local Black artists, storytelling, traditional African music, nature, folklore, hip-hop music, and the theme of resilience within the Black community into their project to ensure an authentic representation and diversity.)",
+      15
+    ],
+    [
+      "attending a creative writing workshop (participating in a writing exercise)",
+      15
+    ],
+    [
+      "attending a creative writing workshop (sharing his writing with the group)",
+      10
+    ],
+    [
+      "attending a creative writing workshop (taking a break and getting some water)",
+      5
+    ],
+    [
+      "reviewing notes and preparing for his meeting with Isabella at 2:00 pm (reviewing his notes from previous discussions with Isabella)",
+      15
+    ],
+    [
+      "reviewing notes and preparing for his meeting with Isabella at 2:00 pm (on the way to brainstorming ideas for their poetry project)",
+      0
+    ],
+    [
+      "reviewing notes and preparing for his meeting with Isabella at 2:00 pm (conversing about two collaborators, Carlos Gomez and Klaus Mueller, discussing their excitement and dedication to incorporating poetry and traditional African music to showcase Black history and achievements in their project.)",
+      16
+    ],
+    [
+      "attending a creative writing workshop (checking in and getting his name tag)",
+      9
+    ],
+    [
+      "attending a creative writing workshop (finding a seat and getting settled)",
+      5
+    ],
+    [
+      "attending a creative writing workshop (on the way to listening to the workshop facilitator's introduction)",
+      0
+    ],
+    [
+      "attending a creative writing workshop (conversing about Carlos Gomez and Sam Moore discuss incorporating diverse elements into their project, such as hip-hop music, visuals, storytelling, traditional African music, jazz music, and spoken word, to amplify Black voices and promote diversity and social justice.)",
+      17
+    ],
+    [
+      "attending a creative writing workshop (on the way to participating in a writing exercise)",
+      0
+    ],
+    [
+      "attending a creative writing workshop (conversing about Adam Smith and Carlos Gomez are discussing ways to promote diversity, inclusivity, and social justice in their project by incorporating traditional African music, spoken word, cultural heritage, involving Black artists and community members, addressing systemic inequalities, celebrating Black cultural heritage, and organizing community engagement events.)",
+      20
+    ],
+    [
+      "attending a creative writing workshop (participating in a writing exercise)",
+      3
+    ],
+    [
+      "attending a creative writing workshop (taking a break and getting some water)",
+      5
+    ],
+    [
+      "attending a creative writing workshop (sharing his writing with the group)",
+      10
+    ],
+    [
+      "attending a creative writing workshop (on the way to listening to feedback from the group)",
+      0
+    ],
+    [
+      "attending a creative writing workshop (conversing about two colleagues, Carlos Gomez and Tamara Taylor, discussing their collaboration to incorporate elements of jazz music, storytelling, traditional African music, spoken word performances, and collaborating with Black, Hispanic, and Asian communities to ensure authenticity and drive positive change.)",
+      14
+    ],
+    [
+      "reviewing notes and preparing for his meeting with Isabella at 2:00 pm (brainstorming ideas for their poetry project)",
+      6
+    ],
+    [
+      "having lunch",
+      40
+    ],
+    [
+      "writing and editing his poetry collection (on the way to reviewing his notes and ideas for the poetry collection)",
+      0
+    ],
+    [
+      "writing and editing his poetry collection (conversing about incorporating elements of jazz music, spoken word, traditional African music, nature, and hip-hop into their project, while also involving local Black artists and storytellers to celebrate the Black community's heritage and resilience, and educating themselves on the struggles and history of the Black community to ensure their project is well-informed and respectful.)",
+      15
+    ],
+    [
+      "writing and editing his poetry collection (on the way to writing a new poem)",
+      0
+    ],
+    [
+      "writing and editing his poetry collection (conversing about Isabella Rodriguez and Carlos Gomez are discussing how to incorporate elements of jazz music, spoken word, traditional African music, hip-hop, and storytelling into their poetry project to emphasize resilience and empowerment within the Black community, as well as the importance of involving local Black artists, addressing systemic inequalities exacerbated by gentrification, promoting diversity and social justice, and collaborating with Eddy Lin to bring in diverse perspectives and insights.)",
+      15
+    ],
+    [
+      "writing and editing his poetry collection (taking a break to stretch and clear his mind)",
+      15
+    ],
+    [
+      "writing and editing his poetry collection (editing a previously written poem)",
+      15
+    ],
+    [
+      "writing and editing his poetry collection (taking a break to read some poetry for inspiration)",
+      15
+    ],
+    [
+      "meeting with Isabella at a local coffee shop (reviewing his notes for the meeting)",
+      10
+    ],
+    [
+      "meeting with Isabella at a local coffee shop (on the way to getting ready and leaving for the coffee shop)",
+      0
+    ],
+    [
+      "meeting with Isabella at a local coffee shop (conversing about further involving the Black community in their project and prioritizing their voices, perspectives, and talents through community engagement events, showcasing diverse talent, and scheduling a meeting to discuss ideas and collaboration.)",
+      5
+    ],
+    [
+      "meeting with Isabella at a local coffee shop (ordering drinks for himself and Isabella)",
+      5
+    ],
+    [
+      "meeting with Isabella at a local coffee shop (discussing their poetry project with Isabella)",
+      15
+    ],
+    [
+      "actively involving and seeking feedback from members of the Black community for their poetry project (reaching out to members of the Black community through email and social media)",
+      10
+    ],
+    [
+      "actively involving and seeking feedback from members of the Black community for their poetry project (on the way to making phone calls to community leaders and organizations to set up meetings)",
+      0
+    ],
+    [
+      "actively involving and seeking feedback from members of the Black community for their poetry project (conversing about how to involve the Black community in their upcoming collaboration project and ensure that Black voices are prioritized and empowered throughout the process)",
+      16
+    ],
+    [
+      "actively involving and seeking feedback from members of the Black community for their poetry project (preparing a presentation to share with the community members)",
+      14
+    ],
+    [
+      "actively involving and seeking feedback from members of the Black community for their poetry project (on the way to meeting with community members and actively listening to their feedback)",
+      0
+    ],
+    [
+      "actively involving and seeking feedback from members of the Black community for their poetry project (conversing about collaborating on incorporating jazz music, spoken word, traditional African music, and folklore elements into their project to amplify marginalized voices, address systemic inequalities exacerbated by gentrification, highlight the resilience of the Black community, and involve local Black artists and community members in decision-making processes.)",
+      18
+    ],
+    [
+      "wrapping up the meeting with Isabella and discussing next steps for involving the Black community in their project.",
+      12
+    ],
+    [
+      "actively involving and seeking feedback from members of the Black community for their poetry project (taking notes on the feedback received)",
+      5
+    ],
+    [
+      "taking a break and going for a walk in nature or visiting a local art gallery (on the way to putting on his walking shoes)",
+      0
+    ],
+    [
+      "taking a break and going for a walk in nature or visiting a local art gallery (conversing about how Wolfgang Schulz and Carlos Gomez plan to involve local Black artists and community organizations in their project to accurately represent their voices through various collaborations and initiatives.)",
+      18
+    ],
+    [
+      "taking a break and going for a walk in nature or visiting a local art gallery (grabbing his notebook and pen in case he gets inspired)",
+      5
+    ],
+    [
+      "taking a break and going for a walk in nature or visiting a local art gallery (walking to the nearest park)",
+      10
+    ],
+    [
+      "taking a break and going for a walk in nature or visiting a local art gallery (taking in the sights and sounds of nature)",
+      15
+    ],
+    [
+      "taking a break and going for a walk in nature or visiting a local art gallery (on the way to finding a quiet spot to sit and reflect)",
+      0
+    ],
+    [
+      "taking a break and going for a walk in nature or visiting a local art gallery (conversing about celebrating the diversity and heritage of the Black community through incorporating traditional African music, jazz, hip-hop, storytelling, elements of nature and folklore, and engaging with local artists and community members to ensure a well-rounded and inclusive project.)",
+      14
+    ],
+    [
+      "taking a break and going for a walk in nature or visiting a local art gallery (on the way to finding a quiet spot to sit and reflect)",
+      0
+    ],
+    [
+      "taking a break and going for a walk in nature or visiting a local art gallery (conversing about Carlos Gomez and Eddy Lin are discussing ways to prioritize authentic representation, collaboration, and inclusivity in their project by involving the Black community, organizing listening sessions, educating themselves on Black history, empowering Black artists as decision-makers, highlighting the experiences of people of color within the Black community, establishing an action plan, involving Black youth, and showcasing the diversity of Black cultures through various creative expressions.)",
+      19
+    ],
+    [
+      "finding a quiet spot to sit and reflect",
+      11
+    ],
+    [
+      "writing down any thoughts or ideas that come to mind",
+      10
+    ],
+    [
+      "having dinner",
+      33
+    ],
+    [
+      "reading and researching new poetry forms and techniques (on the way to browsing online for new poetry forms)",
+      0
+    ],
+    [
+      "reading and researching new poetry forms and techniques (conversing about Carlos Gomez and Ayesha Khan are collaborating on a poetry project on gentrification, discussing ways to incorporate jazz music, spoken word, traditional African music, and involve local Black artists and community members to ensure authenticity and meaningful representation.)",
+      16
+    ],
+    [
+      "reading and researching new poetry forms and techniques (reading articles and blogs about different poetry techniques)",
+      30
+    ],
+    [
+      "reading and researching new poetry forms and techniques (on the way to on the way to taking notes on the techniques he wants to try)",
+      0
+    ],
+    [
+      "reading and researching new poetry forms and techniques (conversing about Carlos Gomez and Klaus Mueller are discussing the importance of incorporating diverse Black voices, such as Isabella Rodriguez and Wolfgang Schulz, jazz music, spoken word, and involving community organizations and Black youth to ensure a comprehensive, respectful, and inclusive representation of the Black community in their project.)",
+      21
+    ],
+    [
+      "taking notes on the techniques he wants to try (on the way to taking notes on the techniques he wants to tr)",
+      0
+    ],
+    [
+      "taking notes on the techniques he wants to try (conversing about actively involving and prioritizing diversity, inclusivity, social justice, and uplifting Black voices through various forms of art and community engagement in their project.)",
+      14
+    ],
+    [
+      "practicing writing in a new poetry form",
+      20
+    ],
+    [
+      "revising and finalizing notes and ideas for the poetry project.",
+      19
+    ],
+    [
+      "reflecting on the conversation with Klaus Mueller and making plans for incorporating diverse Black voices and community involvement in the project. (on the way to reflecting on the conversation with Klaus Mueller and making plans for incorporating diverse Black voices and community involvement in the project)",
+      0
+    ],
+    [
+      "reflecting on the conversation with Klaus Mueller and making plans for incorporating diverse Black voices and community involvement in the project. (conversing about Carlos Gomez and Tamara Taylor are discussing how to incorporate elements of jazz music, spoken word, traditional African music, hip-hop, nature, and involvement of local Black artists, storytellers, Black, Hispanic, and Asian communities, as well as addressing systemic inequalities exacerbated by gentrification in their project to capture the essence of the Black community and promote inclusivity, diversity, empowerment, and social justice, while also emphasizing the importance of involving Black youth and community organizations for a sustainable impact and legacy.)",
+      20
+    ],
+    [
+      "taking a break (on the way to taking a brea)",
+      0
+    ],
+    [
+      "taking a break (conversing about how Carlos Gomez and Eddy Lin can further ensure inclusivity and representation in their project through actively involving and collaborating with the Black community.)",
+      18
+    ],
+    [
+      "winding down and relaxing with some poetry reading or writing (making a cup of tea)",
+      5
+    ],
+    [
+      "winding down and relaxing with some poetry reading or writing (setting up his writing space)",
+      10
+    ],
+    [
+      "winding down and relaxing with some poetry reading or writing (reading a book of poetry)",
+      20
+    ],
+    [
+      "winding down and relaxing with some poetry reading or writing (taking a break to stretch and get some water)",
+      5
+    ],
+    [
+      "winding down and relaxing with some poetry reading or writing (writing in his journal)",
+      20
+    ],
+    [
+      "wrapping up and getting ready for bed.",
+      3
+    ],
+    [
+      "reading and researching new poetry forms and techniques",
+      53
+    ],
+    [
+      "winding down and getting ready for bed",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -10
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -7
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -13
+    ],
+    [
+      "sleeping",
+      -20
+    ],
+    [
+      "sleeping",
+      -13
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -1
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "attending a creative writing workshop",
+      60
+    ],
+    [
+      "reviewing notes and preparing for his meeting with Isabella at 2:00 pm",
+      60
+    ],
+    [
+      "attending a creative writing workshop",
+      60
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "writing and editing his poetry collection",
+      60
+    ],
+    [
+      "meeting with Isabella at a local coffee shop",
+      60
+    ],
+    [
+      "actively involving and seeking feedback from members of the Black community for their poetry project",
+      60
+    ],
+    [
+      "taking a break and going for a walk in nature or visiting a local art gallery",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "reading and researching new poetry forms and techniques",
+      120
+    ],
+    [
+      "winding down and relaxing with some poetry reading or writing",
+      60
+    ],
+    [
+      "reading and researching new poetry forms and techniques",
+      60
+    ],
+    [
+      "winding down and getting ready for bed",
+      120
+    ]
+  ],
+  "act_address": "the Ville:Carlos Gomez's apartment:main room:desk",
+  "act_start_time": "February 14, 2023, 21:43:00",
+  "act_duration": 20,
+  "act_description": "winding down and relaxing with some poetry reading or writing (writing in his journal)",
+  "act_pronunciatio": "\ud83d\udcdd",
+  "act_event": [
+    "Carlos Gomez",
+    "write",
+    "journal"
+  ],
+  "act_obj_description": "<fill in>",
+  "act_obj_pronunciatio": "\ud83d\udd04",
+  "act_obj_event": [
+    "desk",
+    "is",
+    "<fill in>"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Isabella Rodriguez": -2272,
+    "Eddy Lin": 410,
+    "Ayesha Khan": -574,
+    "Sam Moore": -238,
+    "Klaus Mueller": -112,
+    "Tamara Taylor": 290,
+    "Wolfgang Schulz": -1210,
+    "Adam Smith": -22,
+    "Tom Moreno": -1624
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "known_personas": [
+    "Isabella Rodriguez",
+    "Eddy Lin",
+    "Ayesha Khan",
+    "Sam Moore",
+    "Klaus Mueller",
+    "Tamara Taylor",
+    "Wolfgang Schulz",
+    "Adam Smith",
+    "Tom Moreno"
+  ]
+}

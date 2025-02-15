@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        19
+      ],
+      "pronunciatio": "\ud83d\uddd3\ufe0f",
+      "description": "returning to Hobbs Cafe after the business meeting (checking the schedule for the rest of the day and making any necessary adjustments) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Eddy Lin are discussing ideas to incorporate traditional African music, spoken word elements, jazz music, and hip-hop music into their collaboration project, while emphasizing the importance of authentic representation and involvement of the Black community in their work. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Eddy, I really enjoyed our discussion about incorporating music and poetry in our collaboration project. Do you have any new ideas to share?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Carlos, I was thinking we could explore incorporating elements of traditional African music into our project as well. What do you think?"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a great idea, Eddy. I think incorporating traditional African music will add a unique and meaningful aspect to our project."
+        ],
+        [
+          "Eddy Lin",
+          "I also think we should consider incorporating spoken word elements to further amplify the voices of marginalized communities, specifically the Black community. What are your thoughts on that?"
+        ],
+        [
+          "Carlos Gomez",
+          "I completely agree, Eddy. I believe adding spoken word elements will provide a powerful platform for expressing the voices of marginalized communities."
+        ],
+        [
+          "Eddy Lin",
+          "I also think it's important to ensure authentic representation of the voices of marginalized communities in our project. How do you think we can best achieve that, Carlos?"
+        ],
+        [
+          "Carlos Gomez",
+          "I think we should also consider incorporating elements of jazz music into our project to further enhance the collaboration."
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I agree. I believe incorporating jazz music will provide a rich and dynamic sound to our project while also honoring the roots of the Black community."
+        ],
+        [
+          "Carlos Gomez",
+          "Hey Eddy, I also think it's crucial for us to ensure that our project reflects diverse perspectives and experiences, including those of the Black community. We should strive to create a platform that amplifies voices that are often unheard."
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I think it's important for us to actively seek out opportunities to collaborate with members of the Black community to ensure the authenticity and accuracy of our project. We should prioritize their narratives and voices in our work."
+        ],
+        [
+          "Carlos Gomez",
+          "Hey Eddy, I completely agree with your points. I believe it's crucial for us to actively involve members of the Black community in our project to ensure their voices are accurately represented. We should prioritize listening to and learning from their experiences to create a truly authentic collaboration."
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I was also thinking about incorporating hip-hop music into our project to further diversify the sound and pay homage to the cultural influences that shape our collaboration. What do you think?"
+        ],
+        [
+          "Carlos Gomez",
+          "Hey Eddy, I think incorporating hip-hop music into our project is a fantastic idea. It will not only diversify the sound but also pay homage to the cultural influences that contribute to our collaboration. I believe it will add a unique and powerful element to our work."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Carlos, I think it would be beneficial for us to attend events or workshops together that focus on the Black community. It will provide us with valuable insights and connections to ensure our project is authentic and impactful."
+        ],
+        [
+          "Carlos Gomez",
+          "Hey Eddy, I think it would be a great idea for us to involve Black community members in our project planning sessions to ensure their perspectives are at the forefront of our collaboration. Engaging with the community directly will not only enrich our work but also create a more genuine and impactful project. What are your thoughts on this approach?"
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I completely agree with your suggestions. It's essential for us to involve members of the Black community in a meaningful way to ensure the authenticity and impact of our project. Let's reach out to various individuals and organizations to begin those collaborations."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "still at the library working on his research paper (writing the introduction for his paper) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "reading at Hobbs cafe (continuing to read his book) (continuing to read his book) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        35
+      ],
+      "pronunciatio": "\ud83d\udc69\u200d\ud83d\udcbc",
+      "description": "attending her classes at Oak Hill College (working on a group project with her classmates) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying for exams (reviewing his flashcards) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Eddy Lin are discussing ideas to incorporate traditional African music, spoken word elements, jazz music, and hip-hop music into their collaboration project, while emphasizing the importance of authentic representation and involvement of the Black community in their work. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Eddy, I really enjoyed our discussion about incorporating music and poetry in our collaboration project. Do you have any new ideas to share?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Carlos, I was thinking we could explore incorporating elements of traditional African music into our project as well. What do you think?"
+        ],
+        [
+          "Carlos Gomez",
+          "That sounds like a great idea, Eddy. I think incorporating traditional African music will add a unique and meaningful aspect to our project."
+        ],
+        [
+          "Eddy Lin",
+          "I also think we should consider incorporating spoken word elements to further amplify the voices of marginalized communities, specifically the Black community. What are your thoughts on that?"
+        ],
+        [
+          "Carlos Gomez",
+          "I completely agree, Eddy. I believe adding spoken word elements will provide a powerful platform for expressing the voices of marginalized communities."
+        ],
+        [
+          "Eddy Lin",
+          "I also think it's important to ensure authentic representation of the voices of marginalized communities in our project. How do you think we can best achieve that, Carlos?"
+        ],
+        [
+          "Carlos Gomez",
+          "I think we should also consider incorporating elements of jazz music into our project to further enhance the collaboration."
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I agree. I believe incorporating jazz music will provide a rich and dynamic sound to our project while also honoring the roots of the Black community."
+        ],
+        [
+          "Carlos Gomez",
+          "Hey Eddy, I also think it's crucial for us to ensure that our project reflects diverse perspectives and experiences, including those of the Black community. We should strive to create a platform that amplifies voices that are often unheard."
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I think it's important for us to actively seek out opportunities to collaborate with members of the Black community to ensure the authenticity and accuracy of our project. We should prioritize their narratives and voices in our work."
+        ],
+        [
+          "Carlos Gomez",
+          "Hey Eddy, I completely agree with your points. I believe it's crucial for us to actively involve members of the Black community in our project to ensure their voices are accurately represented. We should prioritize listening to and learning from their experiences to create a truly authentic collaboration."
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I was also thinking about incorporating hip-hop music into our project to further diversify the sound and pay homage to the cultural influences that shape our collaboration. What do you think?"
+        ],
+        [
+          "Carlos Gomez",
+          "Hey Eddy, I think incorporating hip-hop music into our project is a fantastic idea. It will not only diversify the sound but also pay homage to the cultural influences that contribute to our collaboration. I believe it will add a unique and powerful element to our work."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Carlos, I think it would be beneficial for us to attend events or workshops together that focus on the Black community. It will provide us with valuable insights and connections to ensure our project is authentic and impactful."
+        ],
+        [
+          "Carlos Gomez",
+          "Hey Eddy, I think it would be a great idea for us to involve Black community members in our project planning sessions to ensure their perspectives are at the forefront of our collaboration. Engaging with the community directly will not only enrich our work but also create a more genuine and impactful project. What are your thoughts on this approach?"
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I completely agree with your suggestions. It's essential for us to involve members of the Black community in a meaningful way to ensure the authenticity and impact of our project. Let's reach out to various individuals and organizations to begin those collaborations."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        88,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcb3",
+      "description": "still assisting customers with their orders (checking out customers at the register) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        52,
+        67
+      ],
+      "pronunciatio": "\ud83d\udd0d\ud83d\udcdd",
+      "description": "continuing to work on her children's book series (revising and editing the first draft) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        22,
+        50
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "having lunch (taking a break and going for a walk) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:39:30"
+  }
+}

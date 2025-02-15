@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "hosting her birthday party at Hobbs Cafe from 5:00 pm to 7:00 pm (setting up decorations for the party) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        39,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Eddy Lin are discussing ways to prioritize authentic representation, collaboration, and inclusivity in their project by involving the Black community, organizing listening sessions, educating themselves on Black history, empowering Black artists as decision-makers, highlighting the experiences of people of color within the Black community, establishing an action plan, involving Black youth, and showcasing the diversity of Black cultures through various creative expressions. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Eddy, I appreciate your dedication to involving the Black community in our project. I think it's important for us to continue prioritizing authentic representation and collaboration with Black artists. Have you thought about reaching out to any local organizations for further feedback and support?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Carlos, thank you for the suggestion. I agree that involving local organizations can provide valuable insights and support. I'll start reaching out to them to expand our network and make sure we're incorporating diverse perspectives."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I think it would also be beneficial for us to organize a listening session where we can hear directly from members of the Black community and have an open dialogue about their experiences and perspectives. This way, we can ensure that our project truly reflects and celebrates their voices."
+        ],
+        [
+          "Eddy Lin",
+          "That's a fantastic idea, Carlos. I agree that hosting a listening session would be incredibly valuable for us to gain deeper insights and ensure that we are accurately representing the voices of the Black community. Let's start planning for that and reach out to potential participants."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I also think it's crucial for us to continuously educate ourselves on the history and struggles faced by the Black community to ensure that our project is respectful and impactful."
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I completely agree. It's essential for us to approach this project with sensitivity and knowledge about the Black community's history and struggles. I appreciate your insights, and I'm committed to continuing to educate myself to ensure our work is respectful and impactful."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I believe it would be powerful for us to involve Black artists and storytellers not just as collaborators but also as decision-makers in our project. Their perspectives and creativity are invaluable, and by giving them a significant role, we can ensure that our work truly represents the diversity and richness of the Black community."
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I completely agree with you. Involving Black artists and storytellers not just as collaborators but as decision-makers in our project is essential. Their perspectives and creativity bring a unique depth to our work, and it's crucial that we empower them in this process."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I think it's important for us to also highlight the experiences of people of color within the Black community, such as Black Latinos and Afro-Asians, to ensure diversity and inclusivity in our project."
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I appreciate your insight into highlighting the experiences of people of color within the Black community. It's crucial for us to ensure diversity and inclusivity in our project. I'm committed to amplifying the voices of all marginalized groups to create a truly impactful and representative work."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I think it's important for us to establish a clear action plan with specific timelines and responsibilities. This will help us stay organized and on track to meet our goals effectively."
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I completely agree with you. Establishing a clear action plan with specific timelines and responsibilities will be crucial for keeping us organized and on track to meet our goals effectively."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I think it would be beneficial for us to also involve Black youth in our project to ensure intergenerational perspectives and representation. Their insights and creativity can bring a fresh and dynamic energy to our work."
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I completely agree with you on involving Black youth in our project. Their perspectives and creativity can truly bring a fresh and dynamic energy to our work. Let's make sure to reach out to Black youth organizations and provide them with a platform to share their valuable insights."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I also believe it's important for us to explore ways to showcase the richness and diversity of Black cultures beyond just music and spoken word. We could consider incorporating visual arts, dance, and other creative expressions to truly capture the essence of the Black community."
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I completely agree with you on the importance of showcasing the richness and diversity of Black cultures beyond just music and spoken word. Incorporating visual arts, dance, and other creative expressions will truly capture the essence of the Black community. Let's brainstorm how we can integrate these elements into our project."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcd2\u270f\ufe0f",
+      "description": "attending a lecture at Oak Hill College (taking out his notebook and pen) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        38,
+        48
+      ],
+      "pronunciatio": "\ud83d\udcdd\ud83e\udd1d",
+      "description": "preparing for and attending a committee meeting at 5:00 pm (final preparations and attending the meeting) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        123,
+        46
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having dinner (cooking dinner) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcdd\u2728",
+      "description": "reviewing notes before meeting Ayesha for coffee (organizing his notes and highlighting important information) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        38,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Carlos Gomez and Eddy Lin are discussing ways to prioritize authentic representation, collaboration, and inclusivity in their project by involving the Black community, organizing listening sessions, educating themselves on Black history, empowering Black artists as decision-makers, highlighting the experiences of people of color within the Black community, establishing an action plan, involving Black youth, and showcasing the diversity of Black cultures through various creative expressions. @ <persona> Carlos Gomez",
+      "chat": [
+        [
+          "Carlos Gomez",
+          "Hey Eddy, I appreciate your dedication to involving the Black community in our project. I think it's important for us to continue prioritizing authentic representation and collaboration with Black artists. Have you thought about reaching out to any local organizations for further feedback and support?"
+        ],
+        [
+          "Eddy Lin",
+          "Hey Carlos, thank you for the suggestion. I agree that involving local organizations can provide valuable insights and support. I'll start reaching out to them to expand our network and make sure we're incorporating diverse perspectives."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I think it would also be beneficial for us to organize a listening session where we can hear directly from members of the Black community and have an open dialogue about their experiences and perspectives. This way, we can ensure that our project truly reflects and celebrates their voices."
+        ],
+        [
+          "Eddy Lin",
+          "That's a fantastic idea, Carlos. I agree that hosting a listening session would be incredibly valuable for us to gain deeper insights and ensure that we are accurately representing the voices of the Black community. Let's start planning for that and reach out to potential participants."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I also think it's crucial for us to continuously educate ourselves on the history and struggles faced by the Black community to ensure that our project is respectful and impactful."
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I completely agree. It's essential for us to approach this project with sensitivity and knowledge about the Black community's history and struggles. I appreciate your insights, and I'm committed to continuing to educate myself to ensure our work is respectful and impactful."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I believe it would be powerful for us to involve Black artists and storytellers not just as collaborators but also as decision-makers in our project. Their perspectives and creativity are invaluable, and by giving them a significant role, we can ensure that our work truly represents the diversity and richness of the Black community."
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I completely agree with you. Involving Black artists and storytellers not just as collaborators but as decision-makers in our project is essential. Their perspectives and creativity bring a unique depth to our work, and it's crucial that we empower them in this process."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I think it's important for us to also highlight the experiences of people of color within the Black community, such as Black Latinos and Afro-Asians, to ensure diversity and inclusivity in our project."
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I appreciate your insight into highlighting the experiences of people of color within the Black community. It's crucial for us to ensure diversity and inclusivity in our project. I'm committed to amplifying the voices of all marginalized groups to create a truly impactful and representative work."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I think it's important for us to establish a clear action plan with specific timelines and responsibilities. This will help us stay organized and on track to meet our goals effectively."
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I completely agree with you. Establishing a clear action plan with specific timelines and responsibilities will be crucial for keeping us organized and on track to meet our goals effectively."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I think it would be beneficial for us to also involve Black youth in our project to ensure intergenerational perspectives and representation. Their insights and creativity can bring a fresh and dynamic energy to our work."
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I completely agree with you on involving Black youth in our project. Their perspectives and creativity can truly bring a fresh and dynamic energy to our work. Let's make sure to reach out to Black youth organizations and provide them with a platform to share their valuable insights."
+        ],
+        [
+          "Carlos Gomez",
+          "Eddy, I also believe it's important for us to explore ways to showcase the richness and diversity of Black cultures beyond just music and spoken word. We could consider incorporating visual arts, dance, and other creative expressions to truly capture the essence of the Black community."
+        ],
+        [
+          "Eddy Lin",
+          "Carlos, I completely agree with you on the importance of showcasing the richness and diversity of Black cultures beyond just music and spoken word. Incorporating visual arts, dance, and other creative expressions will truly capture the essence of the Black community. Let's brainstorm how we can integrate these elements into our project."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        35,
+        32
+      ],
+      "pronunciatio": "\ud83c\udfa4",
+      "description": "wrapping up operations and closing The Willow Market and Pharmacy for the day. (conversing about Tom Moreno and Tamara Taylor discussing incorporating elements of hip-hop culture, collaborating with local hip-hop artists, showcasing storytelling from the Black community, hosting a community event to celebrate the talents and stories of the Black community, collaborating with Black artists and organizations, and incorporating traditional African music and spoken word performances into their project.) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "taking a break to have dinner @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        70
+      ],
+      "pronunciatio": "\ud83d\udebf",
+      "description": "getting ready for his birthday party at The Rose and Crown Pub (taking a shower) @ the Ville:Adam Smith's house:bathroom:shower",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 17:23:10"
+  }
+}

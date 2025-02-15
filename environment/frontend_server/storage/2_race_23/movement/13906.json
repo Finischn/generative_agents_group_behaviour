@@ -1,0 +1,277 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "working on party preparations for her birthday party at 2:00 pm (setting up decorations and arranging tables and chairs) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        91,
+        29
+      ],
+      "pronunciatio": "\ud83e\udd64",
+      "description": "meeting with Isabella at a local coffee shop (ordering drinks for himself and Isabella) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        114,
+        51
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "meeting with Isabella Rodriguez and Wolfgang Schulz at the community center to discuss their project on gentrification (listening to Isabella and Wolfgang's feedback and suggestions) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        80,
+        43
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about catching up on trying a new ale at The Rose and Crown Pub and making plans for a birthday party later that day @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Tom, have you tried the new ale they have at The Rose and Crown Pub? I heard it's really good and perfect for the birthday party tonight!"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Sam, I haven't tried it yet, but I'll make sure to give it a shot tonight! Thanks for the recommendation."
+        ],
+        [
+          "Sam Moore",
+          "I'm looking forward to celebrating with everyone tonight. It's going to be a great time!"
+        ],
+        [
+          "Tom Moreno",
+          "I'm excited for the party too! I'll definitely try the new ale and make sure to have a great time celebrating with everyone."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad we could catch up quickly here, looking forward to seeing you at the party later!"
+        ],
+        [
+          "Tom Moreno",
+          "Definitely, I'll see you there, Sam. Have a great day!"
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        63,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two collaborators, Ayesha Khan and Eddy Lin, discussing ways to accurately represent and prioritize the voices and narratives of the Black community in their project, including reaching out to community members, artists, and storytellers, incorporating elements of nature and traditional African folklore, continuously educating themselves on systemic inequalities, organizing listening sessions, challenging biases, and supporting initiatives that promote equity and justice for the Black community. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Eddy, I really appreciate the insights and perspectives you bring to our project. I think it's crucial that we continue to prioritize authenticity and inclusivity in our collaboration. What are your thoughts on reaching out to more community members to ensure we are accurately representing their voices?"
+        ],
+        [
+          "Eddy Lin",
+          "Absolutely, Ayesha. I agree that it's essential to involve a diverse range of voices in our project. I think setting up a community feedback session would be a great way to ensure we are accurately representing their perspectives and experiences. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Eddy. Let's arrange a community feedback session as soon as possible to ensure we are accurately representing the voices and experiences of the Black community in our project."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Ayesha, I think it would be valuable to also involve local Black artists and storytellers in our project to ensure a diverse range of perspectives and talents are represented. What do you think about reaching out to some artists for collaboration?"
+        ],
+        [
+          "Ayesha Khan",
+          "I agree, Eddy. Collaborating with local Black artists and storytellers will provide a more comprehensive and authentic representation of the Black community's experiences and perspectives. Let's reach out to them as soon as possible to ensure their voices are heard."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I was thinking we could also consider incorporating elements of nature and traditional African folklore into our project to further celebrate the diversity and cultural heritage of the Black community. What are your thoughts?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I think incorporating elements of nature and traditional African folklore into our project is a fantastic idea. It will add depth and richness to the representation of the Black community. Let's brainstorm some ways to seamlessly integrate these elements into our collaboration."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I also believe it's important for us to continuously educate ourselves on the struggles and experiences of the Black community to ensure we approach this project with respect and understanding. How do you think we can incorporate ongoing learning into our collaboration?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I think it would also be beneficial for us to organize listening sessions with members of the Black community to hear directly from them about their experiences and perspectives. This way, we can ensure that our project truly reflects their voices and stories."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I think it's crucial for us to continuously engage with members of the Black community and listen to their stories and experiences. By prioritizing their voices and perspectives, we can create a more meaningful and impactful project. How can we ensure that their narratives are at the forefront of our collaboration?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I truly value your commitment to ensuring the accurate representation and empowerment of the Black community in our project. I believe it's important for us to continuously challenge ourselves to confront our biases, educate ourselves on systemic inequalities, and actively work towards dismantling them. By acknowledging our privilege and actively supporting the Black community, we can create a more equitable and just society."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I believe it's important for us to acknowledge the systemic inequalities that exist and actively work towards dismantling them. By supporting initiatives that promote equity and justice for the Black community, we can contribute to a more inclusive and fair society."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I appreciate your commitment to supporting initiatives that promote equity and justice for the Black community. As a Black person, I want to emphasize the importance of actively listening to Black voices, uplifting Black narratives, and acknowledging the impact of systemic inequalities on our communities. It's vital for us to work together to create a truly inclusive and equitable project that reflects the diversity and strength of the Black community."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, your insights and perspectives are invaluable to me. I'm grateful for the opportunity to collaborate with you and learn from your experiences. I want to continue prioritizing the voices and narratives of the Black community in our project. How can we ensure that their stories are always at the forefront of our work?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I believe it's important for us to actively address the disparities and injustices faced by the Black community. By amplifying their voices and advocating for equality, we can make a meaningful impact. How can we work together to ensure our project contributes to positive change?"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I wholeheartedly agree with your perspective on actively addressing the disparities and injustices faced by the Black community. Let's work together to ensure our project contributes to positive change and creates a more equitable society."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        36,
+        33
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "studying or working on projects (conversing about how to authentically represent the Black community's perspectives by incorporating spoken word elements, traditional African music, involving Black artists and storytellers, collaborating with local community organizations, celebrating resilience and strength, creating safe and inclusive spaces, educating themselves on Black history and struggles, continuously seeking feedback, organizing listening sessions, and prioritizing empowering Black voices in their project.) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        63,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two collaborators, Ayesha Khan and Eddy Lin, discussing ways to accurately represent and prioritize the voices and narratives of the Black community in their project, including reaching out to community members, artists, and storytellers, incorporating elements of nature and traditional African folklore, continuously educating themselves on systemic inequalities, organizing listening sessions, challenging biases, and supporting initiatives that promote equity and justice for the Black community. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Ayesha Khan",
+          "Hey Eddy, I really appreciate the insights and perspectives you bring to our project. I think it's crucial that we continue to prioritize authenticity and inclusivity in our collaboration. What are your thoughts on reaching out to more community members to ensure we are accurately representing their voices?"
+        ],
+        [
+          "Eddy Lin",
+          "Absolutely, Ayesha. I agree that it's essential to involve a diverse range of voices in our project. I think setting up a community feedback session would be a great way to ensure we are accurately representing their perspectives and experiences. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "I completely agree, Eddy. Let's arrange a community feedback session as soon as possible to ensure we are accurately representing the voices and experiences of the Black community in our project."
+        ],
+        [
+          "Eddy Lin",
+          "Hey Ayesha, I think it would be valuable to also involve local Black artists and storytellers in our project to ensure a diverse range of perspectives and talents are represented. What do you think about reaching out to some artists for collaboration?"
+        ],
+        [
+          "Ayesha Khan",
+          "I agree, Eddy. Collaborating with local Black artists and storytellers will provide a more comprehensive and authentic representation of the Black community's experiences and perspectives. Let's reach out to them as soon as possible to ensure their voices are heard."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I was thinking we could also consider incorporating elements of nature and traditional African folklore into our project to further celebrate the diversity and cultural heritage of the Black community. What are your thoughts?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I think incorporating elements of nature and traditional African folklore into our project is a fantastic idea. It will add depth and richness to the representation of the Black community. Let's brainstorm some ways to seamlessly integrate these elements into our collaboration."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I also believe it's important for us to continuously educate ourselves on the struggles and experiences of the Black community to ensure we approach this project with respect and understanding. How do you think we can incorporate ongoing learning into our collaboration?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I think it would also be beneficial for us to organize listening sessions with members of the Black community to hear directly from them about their experiences and perspectives. This way, we can ensure that our project truly reflects their voices and stories."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I think it's crucial for us to continuously engage with members of the Black community and listen to their stories and experiences. By prioritizing their voices and perspectives, we can create a more meaningful and impactful project. How can we ensure that their narratives are at the forefront of our collaboration?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I truly value your commitment to ensuring the accurate representation and empowerment of the Black community in our project. I believe it's important for us to continuously challenge ourselves to confront our biases, educate ourselves on systemic inequalities, and actively work towards dismantling them. By acknowledging our privilege and actively supporting the Black community, we can create a more equitable and just society."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I believe it's important for us to acknowledge the systemic inequalities that exist and actively work towards dismantling them. By supporting initiatives that promote equity and justice for the Black community, we can contribute to a more inclusive and fair society."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I appreciate your commitment to supporting initiatives that promote equity and justice for the Black community. As a Black person, I want to emphasize the importance of actively listening to Black voices, uplifting Black narratives, and acknowledging the impact of systemic inequalities on our communities. It's vital for us to work together to create a truly inclusive and equitable project that reflects the diversity and strength of the Black community."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, your insights and perspectives are invaluable to me. I'm grateful for the opportunity to collaborate with you and learn from your experiences. I want to continue prioritizing the voices and narratives of the Black community in our project. How can we ensure that their stories are always at the forefront of our work?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I believe it's important for us to actively address the disparities and injustices faced by the Black community. By amplifying their voices and advocating for equality, we can make a meaningful impact. How can we work together to ensure our project contributes to positive change?"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I wholeheartedly agree with your perspective on actively addressing the disparities and injustices faced by the Black community. Let's work together to ensure our project contributes to positive change and creates a more equitable society."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        80,
+        44
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about catching up on trying a new ale at The Rose and Crown Pub and making plans for a birthday party later that day @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Tom, have you tried the new ale they have at The Rose and Crown Pub? I heard it's really good and perfect for the birthday party tonight!"
+        ],
+        [
+          "Tom Moreno",
+          "Hey Sam, I haven't tried it yet, but I'll make sure to give it a shot tonight! Thanks for the recommendation."
+        ],
+        [
+          "Sam Moore",
+          "I'm looking forward to celebrating with everyone tonight. It's going to be a great time!"
+        ],
+        [
+          "Tom Moreno",
+          "I'm excited for the party too! I'll definitely try the new ale and make sure to have a great time celebrating with everyone."
+        ],
+        [
+          "Sam Moore",
+          "I'm glad we could catch up quickly here, looking forward to seeing you at the party later!"
+        ],
+        [
+          "Tom Moreno",
+          "Definitely, I'll see you there, Sam. Have a great day!"
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        33,
+        45
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "taking a break to go for a walk or do some exercise (going for a walk around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "continuing his research and gathering information about the local mayor election (taking notes on the candidates' key points and potential impact on the community) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 14:37:40"
+  }
+}

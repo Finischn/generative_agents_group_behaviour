@@ -1,0 +1,163 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        84,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Tom Moreno offering help with party preparations to Isabella Rodriguez, who requests assistance with setting up tables and chairs for the party tomorrow. @ <persona> Tom Moreno",
+      "chat": [
+        [
+          "Tom Moreno",
+          "Hey Isabella, I noticed you're busy with the party preparations. Do you need any help with anything?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering to help, Tom. I appreciate it. I'm actually all set for now, but I'll keep you in mind if I need any assistance later."
+        ],
+        [
+          "Tom Moreno",
+          "Is there anything I can do to help make your party preparations smoother?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thanks, Tom! Actually, there is something you could help with. Could you make sure all the tables and chairs are set up properly for the party tomorrow?"
+        ],
+        [
+          "Tom Moreno",
+          "Sure! I'll make sure the tables and chairs are set up perfectly for the party tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Tom! I really appreciate your help with setting up the tables and chairs. It's going to make the party perfect!"
+        ],
+        [
+          "Tom Moreno",
+          "Is there anything else you need help with for the party?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Tom. I think the tables and chairs are the main things right now. I appreciate your help!"
+        ]
+      ]
+    },
+    "Carlos Gomez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending a creative writing workshop (sharing his writing with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "still at the library working on his research paper (conducting a literature review) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        59,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "reading at Hobbs cafe (reading his book) (reading his book) (reading his book) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending her classes at Oak Hill College (taking notes during the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "attending morning classes (conversing about Wolfgang Schulz and Eddy Lin are discussing how to authentically represent and amplify the voices of marginalized communities, specifically the Black community, in their project through the incorporation of spoken word elements.) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "attending classes at Oak Hill College (conversing about Wolfgang Schulz and Eddy Lin are discussing how to authentically represent and amplify the voices of marginalized communities, specifically the Black community, in their project through the incorporation of spoken word elements.) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        83,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Tom Moreno offering help with party preparations to Isabella Rodriguez, who requests assistance with setting up tables and chairs for the party tomorrow. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Tom Moreno",
+          "Hey Isabella, I noticed you're busy with the party preparations. Do you need any help with anything?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering to help, Tom. I appreciate it. I'm actually all set for now, but I'll keep you in mind if I need any assistance later."
+        ],
+        [
+          "Tom Moreno",
+          "Is there anything I can do to help make your party preparations smoother?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thanks, Tom! Actually, there is something you could help with. Could you make sure all the tables and chairs are set up properly for the party tomorrow?"
+        ],
+        [
+          "Tom Moreno",
+          "Sure! I'll make sure the tables and chairs are set up perfectly for the party tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Tom! I really appreciate your help with setting up the tables and chairs. It's going to make the party perfect!"
+        ],
+        [
+          "Tom Moreno",
+          "Is there anything else you need help with for the party?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Tom. I think the tables and chairs are the main things right now. I appreciate your help!"
+        ]
+      ]
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        74
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "continuing to work on her children's book series (outlining the plot for the next book) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udce7",
+      "description": "having lunch (checking his emails and responding to any urgent ones) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:18:50"
+  }
+}

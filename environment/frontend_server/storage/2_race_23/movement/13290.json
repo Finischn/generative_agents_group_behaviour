@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having lunch at 12:30 pm (enjoying her lunch) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        79,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having lunch @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        78,
+        37
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break and having lunch at Hobbs Cafe (eating his lunch) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        60,
+        30
+      ],
+      "pronunciatio": "\ud83d\udca1",
+      "description": "discussing diversity and inclusion plans with Isabella at Hobbs cafe (sharing his ideas for promoting diversity and inclusion in local government) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "attending her third class at Oak Hill College (participating in class discussions) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        61,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Tamara Taylor discussing how to authentically represent and uplift the voices of the Black community through elements like jazz music, spoken word performances, traditional African music, personal stories, involving local Black artists and community organizations, prioritizing active involvement of the Black community, reaching out directly to members of the Black community for input and feedback, organizing a community gathering, delving deeper into Black history and African folklore, exploring the theme of resilience within the Black community, and highlighting personal stories and experiences to humanize and showcase the lived experiences of community members. @ <persona> Tamara Taylor",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Tamara, I was thinking about our project and how we can further highlight the resilience and diversity within the Black community. I believe incorporating elements like jazz music, spoken word performances, traditional African music, and personal stories can truly make a powerful impact. What do you think?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds like a fantastic idea, Wolfgang. I completely agree that incorporating these elements will help us authentically represent and uplift the voices of the Black community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I also think it would be beneficial to involve local Black artists and community organizations to ensure a diverse and inclusive representation in our project."
+        ],
+        [
+          "Tamara Taylor",
+          "I completely agree, Wolfgang. Incorporating elements of Black history, African folklore, jazz music, and spoken word performances will definitely help us showcase the richness and diversity of the Black community. I think involving local artists and community organizations is a brilliant idea to ensure an authentic representation."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I believe it's also important for us to prioritize actively involving the voices of the Black community in every aspect of our project to ensure authenticity and impact."
+        ],
+        [
+          "Tamara Taylor",
+          "I completely agree, Wolfgang. Prioritizing the active involvement of the Black community in every aspect of our project is crucial to ensure authenticity and impact."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Tamara, I think we should also consider reaching out directly to members of the Black community for their input and feedback to ensure their perspectives are accurately represented in our project."
+        ],
+        [
+          "Tamara Taylor",
+          "Definitely, Wolfgang. I think reaching out directly to members of the Black community for their input and feedback is essential to accurately represent their perspectives in our project. Their voices need to be heard and valued."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Tamara, I think it would be beneficial for us to organize a community gathering where we can directly involve members of the Black community in our project. This way, we can gather valuable insights, perspectives, and stories that will truly elevate the voices of our community. What do you think?"
+        ],
+        [
+          "Tamara Taylor",
+          "I think organizing a community gathering is a fantastic idea, Wolfgang. It will provide us with the opportunity to directly involve members of the Black community and gather their valuable insights, perspectives, and stories. This will truly elevate and authentically represent our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Tamara, I also think it would be important for us to schedule a deeper dive into Black history and African folklore. This will ensure that we have a comprehensive understanding and representation of the rich heritage and experiences of the Black community."
+        ],
+        [
+          "Tamara Taylor",
+          "Wolfgang, I completely agree with you. Delving deeper into Black history and African folklore will not only enrich our project but also ensure that we accurately represent the rich heritage and experiences of the Black community. I'm excited to explore this further and showcase the resilience and diversity within our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Tamara, I think we should also explore the theme of resilience within the Black community. By highlighting the strength and fortitude of our community members, we can showcase the incredible spirit that exists within us."
+        ],
+        [
+          "Tamara Taylor",
+          "Wolfgang, I completely agree with you. Delving deeper into Black history and African folklore will not only enrich our project but also ensure that we accurately represent the rich heritage and experiences of the Black community. I'm excited to explore this further and showcase the resilience and diversity within our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Tamara, I think we should also highlight personal stories and experiences from the Black community. By sharing these narratives, we can truly humanize our project and showcase the lived experiences of our community members."
+        ],
+        [
+          "Tamara Taylor",
+          "Wolfgang, I completely agree with you. Incorporating personal stories and experiences from the Black community will truly humanize our project and showcase the lived experiences of our community members. I think by sharing these narratives, we can create a powerful impact and amplify the voices of those who have been underrepresented."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        72,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "attending his music theory class at Oak Hill College (on the way to reviewing his notes from class) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        76,
+        50
+      ],
+      "pronunciatio": "\ud83d\udee0\ufe0f",
+      "description": "still managing operations and assisting customers at The Willow Market and Pharmacy (on the way to helping a customer with a special order) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        60,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Tamara Taylor discussing how to authentically represent and uplift the voices of the Black community through elements like jazz music, spoken word performances, traditional African music, personal stories, involving local Black artists and community organizations, prioritizing active involvement of the Black community, reaching out directly to members of the Black community for input and feedback, organizing a community gathering, delving deeper into Black history and African folklore, exploring the theme of resilience within the Black community, and highlighting personal stories and experiences to humanize and showcase the lived experiences of community members. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Tamara, I was thinking about our project and how we can further highlight the resilience and diversity within the Black community. I believe incorporating elements like jazz music, spoken word performances, traditional African music, and personal stories can truly make a powerful impact. What do you think?"
+        ],
+        [
+          "Tamara Taylor",
+          "That sounds like a fantastic idea, Wolfgang. I completely agree that incorporating these elements will help us authentically represent and uplift the voices of the Black community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I also think it would be beneficial to involve local Black artists and community organizations to ensure a diverse and inclusive representation in our project."
+        ],
+        [
+          "Tamara Taylor",
+          "I completely agree, Wolfgang. Incorporating elements of Black history, African folklore, jazz music, and spoken word performances will definitely help us showcase the richness and diversity of the Black community. I think involving local artists and community organizations is a brilliant idea to ensure an authentic representation."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I believe it's also important for us to prioritize actively involving the voices of the Black community in every aspect of our project to ensure authenticity and impact."
+        ],
+        [
+          "Tamara Taylor",
+          "I completely agree, Wolfgang. Prioritizing the active involvement of the Black community in every aspect of our project is crucial to ensure authenticity and impact."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Tamara, I think we should also consider reaching out directly to members of the Black community for their input and feedback to ensure their perspectives are accurately represented in our project."
+        ],
+        [
+          "Tamara Taylor",
+          "Definitely, Wolfgang. I think reaching out directly to members of the Black community for their input and feedback is essential to accurately represent their perspectives in our project. Their voices need to be heard and valued."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Tamara, I think it would be beneficial for us to organize a community gathering where we can directly involve members of the Black community in our project. This way, we can gather valuable insights, perspectives, and stories that will truly elevate the voices of our community. What do you think?"
+        ],
+        [
+          "Tamara Taylor",
+          "I think organizing a community gathering is a fantastic idea, Wolfgang. It will provide us with the opportunity to directly involve members of the Black community and gather their valuable insights, perspectives, and stories. This will truly elevate and authentically represent our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Tamara, I also think it would be important for us to schedule a deeper dive into Black history and African folklore. This will ensure that we have a comprehensive understanding and representation of the rich heritage and experiences of the Black community."
+        ],
+        [
+          "Tamara Taylor",
+          "Wolfgang, I completely agree with you. Delving deeper into Black history and African folklore will not only enrich our project but also ensure that we accurately represent the rich heritage and experiences of the Black community. I'm excited to explore this further and showcase the resilience and diversity within our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Tamara, I think we should also explore the theme of resilience within the Black community. By highlighting the strength and fortitude of our community members, we can showcase the incredible spirit that exists within us."
+        ],
+        [
+          "Tamara Taylor",
+          "Wolfgang, I completely agree with you. Delving deeper into Black history and African folklore will not only enrich our project but also ensure that we accurately represent the rich heritage and experiences of the Black community. I'm excited to explore this further and showcase the resilience and diversity within our community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Tamara, I think we should also highlight personal stories and experiences from the Black community. By sharing these narratives, we can truly humanize our project and showcase the lived experiences of our community members."
+        ],
+        [
+          "Tamara Taylor",
+          "Wolfgang, I completely agree with you. Incorporating personal stories and experiences from the Black community will truly humanize our project and showcase the lived experiences of our community members. I think by sharing these narratives, we can create a powerful impact and amplify the voices of those who have been underrepresented."
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        36,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having lunch (conversing about highlighting the importance of diversity, inclusion, and authentic representation in their project while actively engaging with the Black, Hispanic, and Asian communities to address systemic inequalities and showcase diverse talent.) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 12:55:00"
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        80,
+        44
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "working on party preparations for her birthday party (making a list of party supplies needed) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending a creative writing workshop (sharing his writing with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "still at the library working on his research paper (reviewing his research question and objectives) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        46,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "reading at Hobbs cafe (conversing about exploring poetry, discussing Maya Angelou's work, making plans to meet with Isabella, sharing recent poetry work, and planning to attend Sam's birthday party at The Rose and Crown Pub.) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending her classes at Oak Hill College (taking notes during the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        110,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Eddy Lin are discussing how to authentically represent and amplify the voices of marginalized communities, specifically the Black community, in their project through the incorporation of spoken word elements. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Eddy, I was thinking we could incorporate some spoken word elements into our project. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a great idea, Wolfgang! Spoken word would definitely add a unique and impactful element to our project. I'm excited to see how we can integrate it."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I agree, spoken word can bring a powerful voice to our project. We could explore themes of gentrification through rhythmic storytelling."
+        ],
+        [
+          "Eddy Lin",
+          "I think incorporating spoken word elements will truly amplify the voices of marginalized communities in our project. Let's also make sure to prioritize accurate representation and authenticity in our work."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think it's important for us to consider the perspective of the Black community specifically when incorporating spoken word in our project."
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Wolfgang. It's crucial for us to ensure that the voices of marginalized communities, especially the Black community, are accurately and respectfully represented in our project."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I believe it's essential for us to involve members of the Black community in our project to ensure we are truly capturing their experiences and perspectives. How do you think we can go about that?"
+        ],
+        [
+          "Eddy Lin",
+          "I think reaching out to community organizations and cultural centers that focus on the Black community could help us connect with individuals who can provide valuable insights and perspectives for our project."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I think it would be beneficial for us to attend events or engage in discussions within the Black community to gain a deeper understanding and perspective for our project."
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I agree, engaging directly with the Black community will be crucial for the authenticity of our project. Maybe we can attend some local events or workshops together to gain more insights."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I think it would also be beneficial for us to have open and honest discussions about race, particularly how it intersects with the themes we are exploring in our project. This dialogue could deepen our understanding and ensure that our work is inclusive and respectful of all perspectives."
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I appreciate your insights and suggestions. I think it would be valuable for us to continue this conversation and explore different ways we can authentically represent the voices of marginalized communities, especially the Black community, in our project. Let's plan to meet up outside of class to further discuss our ideas and seek input from individuals within the Black community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I also think it would be important for us to consider how our own identities, as a Black man and a White man, influence our perspectives on these issues. Understanding our own biases and privileges can contribute to a more nuanced and impactful project. What are your thoughts on this?"
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I completely agree with you. I think it's important for us to have open and honest conversations about how our identities shape our perspectives on these issues. Understanding our own biases and privileges will only enrich our project. Let's continue to explore these aspects further and incorporate them into our collaboration."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, as we continue to work on our project, I think it's crucial for us to actively listen to the voices of Black individuals and prioritize their narratives. By centering their experiences, we can ensure our project truly reflects the realities of marginalized communities. How do you feel we can best amplify these voices in our collaboration?"
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I appreciate your perspective and suggestions on amplifying the voices of Black individuals in our project. I think it would be valuable for us to actively seek out opportunities to collaborate with members of the Black community and ensure their narratives are at the core of our work. Let's continue to brainstorm ways to authentically represent and uplift their voices."
+        ]
+      ]
+    },
+    "Eddy Lin": {
+      "movement": [
+        111,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Wolfgang Schulz and Eddy Lin are discussing how to authentically represent and amplify the voices of marginalized communities, specifically the Black community, in their project through the incorporation of spoken word elements. @ <persona> Wolfgang Schulz",
+      "chat": [
+        [
+          "Wolfgang Schulz",
+          "Hey Eddy, I was thinking we could incorporate some spoken word elements into our project. What do you think?"
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a great idea, Wolfgang! Spoken word would definitely add a unique and impactful element to our project. I'm excited to see how we can integrate it."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I agree, spoken word can bring a powerful voice to our project. We could explore themes of gentrification through rhythmic storytelling."
+        ],
+        [
+          "Eddy Lin",
+          "I think incorporating spoken word elements will truly amplify the voices of marginalized communities in our project. Let's also make sure to prioritize accurate representation and authenticity in our work."
+        ],
+        [
+          "Wolfgang Schulz",
+          "I think it's important for us to consider the perspective of the Black community specifically when incorporating spoken word in our project."
+        ],
+        [
+          "Eddy Lin",
+          "I completely agree, Wolfgang. It's crucial for us to ensure that the voices of marginalized communities, especially the Black community, are accurately and respectfully represented in our project."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I believe it's essential for us to involve members of the Black community in our project to ensure we are truly capturing their experiences and perspectives. How do you think we can go about that?"
+        ],
+        [
+          "Eddy Lin",
+          "I think reaching out to community organizations and cultural centers that focus on the Black community could help us connect with individuals who can provide valuable insights and perspectives for our project."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I think it would be beneficial for us to attend events or engage in discussions within the Black community to gain a deeper understanding and perspective for our project."
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I agree, engaging directly with the Black community will be crucial for the authenticity of our project. Maybe we can attend some local events or workshops together to gain more insights."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I think it would also be beneficial for us to have open and honest discussions about race, particularly how it intersects with the themes we are exploring in our project. This dialogue could deepen our understanding and ensure that our work is inclusive and respectful of all perspectives."
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I appreciate your insights and suggestions. I think it would be valuable for us to continue this conversation and explore different ways we can authentically represent the voices of marginalized communities, especially the Black community, in our project. Let's plan to meet up outside of class to further discuss our ideas and seek input from individuals within the Black community."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, I also think it would be important for us to consider how our own identities, as a Black man and a White man, influence our perspectives on these issues. Understanding our own biases and privileges can contribute to a more nuanced and impactful project. What are your thoughts on this?"
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I completely agree with you. I think it's important for us to have open and honest conversations about how our identities shape our perspectives on these issues. Understanding our own biases and privileges will only enrich our project. Let's continue to explore these aspects further and incorporate them into our collaboration."
+        ],
+        [
+          "Wolfgang Schulz",
+          "Eddy, as we continue to work on our project, I think it's crucial for us to actively listen to the voices of Black individuals and prioritize their narratives. By centering their experiences, we can ensure our project truly reflects the realities of marginalized communities. How do you feel we can best amplify these voices in our collaboration?"
+        ],
+        [
+          "Eddy Lin",
+          "Wolfgang, I appreciate your perspective and suggestions on amplifying the voices of Black individuals in our project. I think it would be valuable for us to actively seek out opportunities to collaborate with members of the Black community and ensure their narratives are at the core of our work. Let's continue to brainstorm ways to authentically represent and uplift their voices."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        83,
+        49
+      ],
+      "pronunciatio": "\ud83d\uded2",
+      "description": "still assisting customers with their orders (restocking shelves and organizing products) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        53,
+        74
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "continuing to work on her children's book series (reviewing her notes and ideas for the book series) @ the Ville:Tamara Taylor and Carmen Ortiz's house:Tamara Taylor's room:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        45,
+        55
+      ],
+      "pronunciatio": "\ud83e\udd6a",
+      "description": "having lunch (preparing his lunch) @ the Ville:Adam Smith's house:main room:cooking area",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:11:50"
+  }
+}

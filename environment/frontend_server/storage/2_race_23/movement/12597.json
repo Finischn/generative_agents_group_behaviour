@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udccb",
+      "description": "returning to Hobbs Cafe after the business meeting at 11:00 am (reviewing the cafe's inventory and making a list of items that need to be restocked) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        25
+      ],
+      "pronunciatio": "\ud83c\udff7\ufe0f",
+      "description": "attending a creative writing workshop (checking in and getting his name tag) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        95,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "still at the library working on his research paper (writing the introduction for his paper) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "meeting with his team to discuss progress on current projects (conversing about two collaborators, Sam Moore and Adam Smith, discussing ways to promote diversity and inclusivity in their poetry project by involving local artists and poets from diverse backgrounds, organizing events to engage underrepresented communities, incorporating elements of jazz music, spoken word, storytelling, traditional African music, and folklore, addressing systemic inequalities and social injustices, and fostering a sense of community and belonging while reaching out to Hispanic and Asian communities as well.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how Eddy and Ayesha can authentically incorporate traditional African music, spoken word performances, hip-hop elements, and storytelling from the Black community into their project, ensuring they prioritize uplifting voices and experiences, and educating themselves on the struggles faced by the Black community, with Ayesha recommending 'The New Jim Crow: Mass Incarceration in the Age of Colorblindness' as a valuable resource. @ <persona> Eddy Lin",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Ayesha, I was thinking about how we can incorporate elements of traditional African music into our project. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "I agree, incorporating traditional African music would add a rich cultural layer to our project. We could also consider reaching out to local artists from the Black community for their input and collaboration."
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a great idea. I'll do some research and see how we can best incorporate traditional African music into our project. Do you have any specific artists or styles in mind that we should focus on?"
+        ],
+        [
+          "Ayesha Khan",
+          "We could also look into incorporating elements of spoken word performances to further amplify the voices of the Black community."
+        ],
+        [
+          "Eddy Lin",
+          "That's a great idea, Ayesha. I'll start reaching out to local artists from the Black community to involve them in our project and ensure an authentic representation of their voices."
+        ],
+        [
+          "Ayesha Khan",
+          "It's important for us to educate ourselves on the struggles faced by the Black community and the impact of gentrification when incorporating elements of traditional African music."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I've also been considering incorporating hip-hop elements into our project to further amplify the voices and experiences of the Black community. What are your thoughts on that?"
+        ],
+        [
+          "Ayesha Khan",
+          "That's a great idea, Eddy. I think incorporating hip-hop elements would definitely help us showcase the diversity and richness of the Black community's culture."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I was also thinking about how we can incorporate storytelling from the Black community into our project. What do you think about focusing on specific narratives to highlight the experiences of marginalized voices?"
+        ],
+        [
+          "Ayesha Khan",
+          "I think it's crucial for us to actively involve members of the Black community in our project to ensure authentic representation and give them a platform to share their stories."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I want to make sure we are accurately representing the voices and experiences of the Black community. Would you be open to sharing your personal narrative or insights to help guide our project?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I appreciate your dedication to authentically representing the Black community in our project. I think it would be beneficial for us to organize a meeting with local artists from the Black community to gather their perspectives and ensure our work truly reflects their voices."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I think it's crucial for us to prioritize uplifting the voices of the Black community in our project. How do you feel about organizing a workshop with local Black artists to showcase their talents and perspectives?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I think it's important for us to continuously educate ourselves on the struggles and experiences of the Black community to ensure our project is respectful and impactful. Have you considered any resources or books that could help broaden our understanding?"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I wanted to ask if you have any recommendations for books or resources that could help educate us further on the experiences and struggles of the Black community. I believe it's important for us to continuously expand our knowledge to ensure our project is as impactful and respectful as possible."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I appreciate your openness to learning and working towards authentically representing the Black community in our project. One book that I highly recommend for us to read is 'The New Jim Crow: Mass Incarceration in the Age of Colorblindness' by Michelle Alexander. It delves into the systemic inequalities faced by the Black community and would provide us with valuable insights for our project."
+        ]
+      ]
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        76,
+        29
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "studying for exams (taking a break to eat a snack) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how Eddy and Ayesha can authentically incorporate traditional African music, spoken word performances, hip-hop elements, and storytelling from the Black community into their project, ensuring they prioritize uplifting voices and experiences, and educating themselves on the struggles faced by the Black community, with Ayesha recommending 'The New Jim Crow: Mass Incarceration in the Age of Colorblindness' as a valuable resource. @ <persona> Ayesha Khan",
+      "chat": [
+        [
+          "Eddy Lin",
+          "Hey Ayesha, I was thinking about how we can incorporate elements of traditional African music into our project. What do you think?"
+        ],
+        [
+          "Ayesha Khan",
+          "I agree, incorporating traditional African music would add a rich cultural layer to our project. We could also consider reaching out to local artists from the Black community for their input and collaboration."
+        ],
+        [
+          "Eddy Lin",
+          "That sounds like a great idea. I'll do some research and see how we can best incorporate traditional African music into our project. Do you have any specific artists or styles in mind that we should focus on?"
+        ],
+        [
+          "Ayesha Khan",
+          "We could also look into incorporating elements of spoken word performances to further amplify the voices of the Black community."
+        ],
+        [
+          "Eddy Lin",
+          "That's a great idea, Ayesha. I'll start reaching out to local artists from the Black community to involve them in our project and ensure an authentic representation of their voices."
+        ],
+        [
+          "Ayesha Khan",
+          "It's important for us to educate ourselves on the struggles faced by the Black community and the impact of gentrification when incorporating elements of traditional African music."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I've also been considering incorporating hip-hop elements into our project to further amplify the voices and experiences of the Black community. What are your thoughts on that?"
+        ],
+        [
+          "Ayesha Khan",
+          "That's a great idea, Eddy. I think incorporating hip-hop elements would definitely help us showcase the diversity and richness of the Black community's culture."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I was also thinking about how we can incorporate storytelling from the Black community into our project. What do you think about focusing on specific narratives to highlight the experiences of marginalized voices?"
+        ],
+        [
+          "Ayesha Khan",
+          "I think it's crucial for us to actively involve members of the Black community in our project to ensure authentic representation and give them a platform to share their stories."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I want to make sure we are accurately representing the voices and experiences of the Black community. Would you be open to sharing your personal narrative or insights to help guide our project?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I appreciate your dedication to authentically representing the Black community in our project. I think it would be beneficial for us to organize a meeting with local artists from the Black community to gather their perspectives and ensure our work truly reflects their voices."
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I think it's crucial for us to prioritize uplifting the voices of the Black community in our project. How do you feel about organizing a workshop with local Black artists to showcase their talents and perspectives?"
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I think it's important for us to continuously educate ourselves on the struggles and experiences of the Black community to ensure our project is respectful and impactful. Have you considered any resources or books that could help broaden our understanding?"
+        ],
+        [
+          "Eddy Lin",
+          "Ayesha, I wanted to ask if you have any recommendations for books or resources that could help educate us further on the experiences and struggles of the Black community. I believe it's important for us to continuously expand our knowledge to ensure our project is as impactful and respectful as possible."
+        ],
+        [
+          "Ayesha Khan",
+          "Eddy, I appreciate your openness to learning and working towards authentically representing the Black community in our project. One book that I highly recommend for us to read is 'The New Jim Crow: Mass Incarceration in the Age of Colorblindness' by Michelle Alexander. It delves into the systemic inequalities faced by the Black community and would provide us with valuable insights for our project."
+        ]
+      ]
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\ud83d\uded2",
+      "description": "still managing operations and assisting customers at The Willow Market and Pharmacy (assisting customers with finding products and answering questions) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        44,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "wrapping up the meeting and heading back to continue writing for her children's book series. (conversing about collaborating to promote diversity and inclusivity in literature by incorporating elements of traditional African music, folklore, and jazz music, involving local Black artists and community members in decision-making, shedding light on systemic inequalities exacerbated by gentrification, and amplifying the voices of the Black community through storytelling and spoken word performances.) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        35,
+        31
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f\ud83c\udfb6",
+      "description": "checking and responding to emails and messages (conversing about two collaborators, Sam Moore and Adam Smith, discussing ways to promote diversity and inclusivity in their poetry project by involving local artists and poets from diverse backgrounds, organizing events to engage underrepresented communities, incorporating elements of jazz music, spoken word, storytelling, traditional African music, and folklore, addressing systemic inequalities and social injustices, and fostering a sense of community and belonging while reaching out to Hispanic and Asian communities as well.) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 10:59:30"
+  }
+}

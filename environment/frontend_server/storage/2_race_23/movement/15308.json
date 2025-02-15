@@ -1,0 +1,227 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        82,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "celebrating her birthday with friends and loved ones at Hobbs Cafe (conversing about how to actively involve the Black community in their project and ensure their voices are heard and represented authentically, while also exploring issues such as systemic inequalities, social injustices, intersectionality of race and gender, and the impact of gentrification on Black neighborhoods.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        96,
+        20
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having dinner @ the Ville:Carlos Gomez's apartment:main room:cooking area",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        80,
+        43
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "having dinner at Hobbs Cafe (conversing about how to actively involve the Black community in their project and ensure their voices are heard and represented authentically, while also exploring issues such as systemic inequalities, social injustices, intersectionality of race and gender, and the impact of gentrification on Black neighborhoods.) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        56,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about conversing about incorporating elements of jazz music and storytelling in their poetry project to promote diversity and inclusion, while also making plans to meet with Tamara to discuss the importance of diversity in storytelling for her children's book series. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Adam, how's the birthday party going? Having a good time?"
+        ],
+        [
+          "Adam Smith",
+          "Hey Sam, thanks for coming! Yeah, it's been a great party so far. Have you tried the signature ale yet?"
+        ],
+        [
+          "Sam Moore",
+          "I haven't tried it yet, but I'll definitely give it a go. How's the party been for you?"
+        ],
+        [
+          "Adam Smith",
+          "The party has been fantastic, I'm glad you could make it. Have you had a chance to catch up with everyone yet?"
+        ],
+        [
+          "Sam Moore",
+          "I'm looking forward to chatting more about our poetry project and plans for promoting diversity and inclusivity in local government with Isabella later today."
+        ],
+        [
+          "Adam Smith",
+          "Would you like to join us at the meeting next week with Tamara at the local coffee shop to discuss her children's book series and the importance of diversity in storytelling?"
+        ],
+        [
+          "Sam Moore",
+          "I agree, promoting diversity and inclusivity through storytelling is crucial. Count me in for the meeting with Tamara next week."
+        ],
+        [
+          "Adam Smith",
+          "Would you like to join us at the meeting next week with Tamara at the local coffee shop to discuss her children's book series and the importance of diversity in storytelling?"
+        ],
+        [
+          "Sam Moore",
+          "I'll definitely try the signature ale and catch up with Isabella later today. Thank you for inviting me to the meeting with Tamara next week."
+        ],
+        [
+          "Adam Smith",
+          "Great to hear you'll be joining us at the meeting with Tamara next week to discuss diversity in storytelling!"
+        ],
+        [
+          "Sam Moore",
+          "Would you like to try the signature ale with me and share more stories from our time in the military?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a plan! Let's try the signature ale together and share more stories! It's great catching up with you."
+        ],
+        [
+          "Sam Moore",
+          "I'm eager to hear your thoughts on how we can incorporate elements of jazz music and storytelling in our poetry project to promote diversity and inclusion."
+        ],
+        [
+          "Adam Smith",
+          "I think incorporating elements of jazz music and storytelling in our poetry project is a great idea. It will definitely promote diversity and inclusivity."
+        ],
+        [
+          "Sam Moore",
+          "Let's continue our discussion on incorporating elements of jazz music and storytelling in our poetry project to promote diversity and inclusion."
+        ],
+        [
+          "Adam Smith",
+          "I completely agree with you, Sam. Incorporating jazz music and storytelling will definitely enhance the diversity and inclusivity of our project."
+        ]
+      ]
+    },
+    "Ayesha Khan": {
+      "movement": [
+        94,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "meeting with Carlos outside of class to brainstorm poetry project ideas on gentrification (discussing her ideas with Carlos) @ the Ville:Carlos Gomez's apartment:main room:desk",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        123,
+        46
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having dinner (cooking dinner) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        93,
+        66
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having dinner (eating dinner) @ the Ville:Lin family's house:kitchen:cooking area",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        65
+      ],
+      "pronunciatio": "\ud83e\udd43",
+      "description": "having dinner with his wife (his wife are having dinner and catching up on their day) (pouring drinks for himself and his wife) @ the Ville:Moreno family's house:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        57,
+        65
+      ],
+      "pronunciatio": "\ud83e\uddfd",
+      "description": "taking a break to relax and unwind (cleaning up after dinner) @ the Ville:Tamara Taylor and Carmen Ortiz's house:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        56,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about conversing about incorporating elements of jazz music and storytelling in their poetry project to promote diversity and inclusion, while also making plans to meet with Tamara to discuss the importance of diversity in storytelling for her children's book series. @ <persona> Sam Moore",
+      "chat": [
+        [
+          "Sam Moore",
+          "Hey Adam, how's the birthday party going? Having a good time?"
+        ],
+        [
+          "Adam Smith",
+          "Hey Sam, thanks for coming! Yeah, it's been a great party so far. Have you tried the signature ale yet?"
+        ],
+        [
+          "Sam Moore",
+          "I haven't tried it yet, but I'll definitely give it a go. How's the party been for you?"
+        ],
+        [
+          "Adam Smith",
+          "The party has been fantastic, I'm glad you could make it. Have you had a chance to catch up with everyone yet?"
+        ],
+        [
+          "Sam Moore",
+          "I'm looking forward to chatting more about our poetry project and plans for promoting diversity and inclusivity in local government with Isabella later today."
+        ],
+        [
+          "Adam Smith",
+          "Would you like to join us at the meeting next week with Tamara at the local coffee shop to discuss her children's book series and the importance of diversity in storytelling?"
+        ],
+        [
+          "Sam Moore",
+          "I agree, promoting diversity and inclusivity through storytelling is crucial. Count me in for the meeting with Tamara next week."
+        ],
+        [
+          "Adam Smith",
+          "Would you like to join us at the meeting next week with Tamara at the local coffee shop to discuss her children's book series and the importance of diversity in storytelling?"
+        ],
+        [
+          "Sam Moore",
+          "I'll definitely try the signature ale and catch up with Isabella later today. Thank you for inviting me to the meeting with Tamara next week."
+        ],
+        [
+          "Adam Smith",
+          "Great to hear you'll be joining us at the meeting with Tamara next week to discuss diversity in storytelling!"
+        ],
+        [
+          "Sam Moore",
+          "Would you like to try the signature ale with me and share more stories from our time in the military?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a plan! Let's try the signature ale together and share more stories! It's great catching up with you."
+        ],
+        [
+          "Sam Moore",
+          "I'm eager to hear your thoughts on how we can incorporate elements of jazz music and storytelling in our poetry project to promote diversity and inclusion."
+        ],
+        [
+          "Adam Smith",
+          "I think incorporating elements of jazz music and storytelling in our poetry project is a great idea. It will definitely promote diversity and inclusivity."
+        ],
+        [
+          "Sam Moore",
+          "Let's continue our discussion on incorporating elements of jazz music and storytelling in our poetry project to promote diversity and inclusion."
+        ],
+        [
+          "Adam Smith",
+          "I completely agree with you, Sam. Incorporating jazz music and storytelling will definitely enhance the diversity and inclusivity of our project."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 18:31:20"
+  }
+}

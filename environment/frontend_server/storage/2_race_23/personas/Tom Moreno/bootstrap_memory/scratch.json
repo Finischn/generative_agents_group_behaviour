@@ -1,0 +1,678 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 21:59:50",
+  "curr_tile": [
+    61,
+    25
+  ],
+  "daily_plan_req": "1. Wake up at 7am and complete the morning routine 2. Open The Willow Market and Pharmacy at 8am 3. Manage operations and assist customers with their orders throughout the morning 4. Reach out to Ayesha Khan to offer support for her poetry project on gentrification and social issues 5. Attend a future event to learn more about her community vision 6. Have dinner with his wife at 5pm",
+  "name": "Tom Moreno",
+  "first_name": "Tom",
+  "last_name": "Moreno",
+  "age": 29,
+  "innate": "rude, aggressive, energetic",
+  "race": "White",
+  "village": "longterm resident of the village",
+  "gender": "Male",
+  "political_affiliation": "Conservative",
+  "race_div": "Hispanic",
+  "education": "Less than high school degree",
+  "learned": "Tom Moreno is a grocery shop keeper at The Willow Market and Pharmacy who loves interacting with customers. He is always willing to help out and make sure everyone is taken care of.",
+  "currently": "Status: Tom Moreno spent the morning at The Willow Market and Pharmacy, managing operations and assisting customers with their orders. In the afternoon, he reached out to Ayesha Khan to offer his support for her poetry project on gentrification and social issues. He also made plans to attend one of her future events to learn more about her community vision before making a decision on the local mayor election. Tom is grateful for the insightful conversations he had with friends about the mayoral candidates and projects involving the Black community.",
+  "lifestyle": "Tom Moreno goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Moreno family's house:Tom and Jane Moreno's bedroom",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 168,
+  "importance_ele_n": 20,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "open The Willow Market and Pharmacy at 8:00 am",
+    "work at the grocery counter until 5:00 pm",
+    "go home and have dinner with his wife at 5:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine (waking up and turning off his alarm)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (stretching and doing some light exercises)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower and getting dressed)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (making breakfast for himself and his wife)",
+      20
+    ],
+    [
+      "waking up and completing his morning routine (eating breakfast with his wife)",
+      10
+    ],
+    [
+      "opening The Willow Market and Pharmacy (unlocking the doors to The Willow Market and Pharmacy)",
+      5
+    ],
+    [
+      "opening The Willow Market and Pharmacy (turning on the lights and music in the store)",
+      5
+    ],
+    [
+      "opening The Willow Market and Pharmacy (checking the inventory and restocking any items that are low)",
+      15
+    ],
+    [
+      "opening The Willow Market and Pharmacy (setting up the cash register and counting the cash from the previous day)",
+      10
+    ],
+    [
+      "opening The Willow Market and Pharmacy (checking the schedule for the day and making sure all employees are accounted for)",
+      10
+    ],
+    [
+      "opening The Willow Market and Pharmacy (organizing the displays and making sure everything is neat and tidy)",
+      10
+    ],
+    [
+      "opening The Willow Market and Pharmacy (checking the store's social media pages and responding to any messages or comments)",
+      5
+    ],
+    [
+      "managing operations and assisting customers at The Willow Market and Pharmacy (checking inventory levels and restocking shelves)",
+      10
+    ],
+    [
+      "managing operations and assisting customers at The Willow Market and Pharmacy (greeting customers and answering any questions they may have)",
+      15
+    ],
+    [
+      "managing operations and assisting customers at The Willow Market and Pharmacy (helping customers find specific items and making recommendations)",
+      15
+    ],
+    [
+      "managing operations and assisting customers at The Willow Market and Pharmacy (ringing up customers' purchases at the register)",
+      10
+    ],
+    [
+      "managing operations and assisting customers at The Willow Market and Pharmacy (bagging items and assisting customers with carrying their purchases to their cars)",
+      10
+    ],
+    [
+      "still managing operations and assisting customers at The Willow Market and Pharmacy (restocking shelves and organizing products)",
+      30
+    ],
+    [
+      "still managing operations and assisting customers at The Willow Market and Pharmacy (assisting customers with finding products and answering questions)",
+      45
+    ],
+    [
+      "still managing operations and assisting customers at The Willow Market and Pharmacy (checking inventory and placing orders for restocking)",
+      30
+    ],
+    [
+      "still managing operations and assisting customers at The Willow Market and Pharmacy (taking a short break)",
+      10
+    ],
+    [
+      "still managing operations and assisting customers at The Willow Market and Pharmacy (managing the cash register and handling transactions)",
+      45
+    ],
+    [
+      "still managing operations and assisting customers at The Willow Market and Pharmacy (on the way to helping a customer with a special order)",
+      20
+    ],
+    [
+      "still managing operations and assisting customers at The Willow Market and Pharmacy (conversing about collaborating on uplifting marginalized voices in the community through their poetry projects)",
+      12
+    ],
+    [
+      "reaching out to Ayesha Khan to offer support for her poetry project on gentrification and social issues (checking his schedule to make sure he has enough time to reach out to Ayesha)",
+      5
+    ],
+    [
+      "reaching out to Ayesha Khan to offer support for her poetry project on gentrification and social issues (drafting an email to Ayesha expressing his interest in her poetry project)",
+      15
+    ],
+    [
+      "reaching out to Ayesha Khan to offer support for her poetry project on gentrification and social issues (on the way to proofreading and editing the email)",
+      0
+    ],
+    [
+      "reaching out to Ayesha Khan to offer support for her poetry project on gentrification and social issues (conversing about collaborating and planning a community event to showcase Ayesha Khan's poetry project on gentrification and social issues, involving Adam Smith, Tom Moreno, Ayesha, Carlos, Klaus, Eddy, and local artists to promote diversity, inclusivity, and incorporate elements of jazz music and storytelling.)",
+      9
+    ],
+    [
+      "reaching out to Ayesha Khan to offer support for her poetry project on gentrification and social issues (on the way to proofreading and editing the email)",
+      0
+    ],
+    [
+      "reaching out to Ayesha Khan to offer support for her poetry project on gentrification and social issues (conversing about two collaborators, Tom Moreno and Wolfgang Schulz, discussing how to authentically involve and uplift the Black community in their project through community engagement, decision-making involvement, showcasing talents, addressing systemic inequalities, and promoting social justice.)",
+      16
+    ],
+    [
+      "reaching out to Ayesha Khan to offer support for her poetry project on gentrification and social issues (proofreading and editing the email)",
+      5
+    ],
+    [
+      "reaching out to Ayesha Khan to offer support for her poetry project on gentrification and social issues (sending the email to Ayesha)",
+      5
+    ],
+    [
+      "reaching out to Ayesha Khan to offer support for her poetry project on gentrification and social issues (checking his email for a response from Ayesha)",
+      10
+    ],
+    [
+      "still managing operations and assisting customers at The Willow Market and Pharmacy (on the way to restocking shelves and organizing products)",
+      0
+    ],
+    [
+      "still managing operations and assisting customers at The Willow Market and Pharmacy (conversing about collaborating on a project focusing on incorporating themes of resilience and empowerment from the Black community, involving Black artists and community members, educating themselves on the struggles and experiences of the Black community, prioritizing their representation and contributions, and actively engaging with them in decision-making processes to create a meaningful and impactful work.)",
+      19
+    ],
+    [
+      "still managing operations and assisting customers at The Willow Market and Pharmacy (restocking shelves and organizing products)",
+      10
+    ],
+    [
+      "still managing operations and assisting customers at The Willow Market and Pharmacy (on the way to checking inventory and placing orders for restocking)",
+      0
+    ],
+    [
+      "still managing operations and assisting customers at The Willow Market and Pharmacy (conversing about catching up on trying a new ale at The Rose and Crown Pub and making plans for a birthday party later that day)",
+      3
+    ],
+    [
+      "still managing operations and assisting customers at The Willow Market and Pharmacy (checking inventory and placing orders for restocking)",
+      30
+    ],
+    [
+      "still managing operations and assisting customers at The Willow Market and Pharmacy (on the way to assisting customers with finding products and answering questions)",
+      0
+    ],
+    [
+      "still managing operations and assisting customers at The Willow Market and Pharmacy (conversing about how to involve the Black community in their upcoming collaboration project and ensure that Black voices are prioritized and empowered throughout the process)",
+      16
+    ],
+    [
+      "still managing operations and assisting customers at The Willow Market and Pharmacy (assisting customers with finding products and answering questions)",
+      30
+    ],
+    [
+      "still managing operations and assisting customers at The Willow Market and Pharmacy (managing the cash register and handling transactions)",
+      30
+    ],
+    [
+      "still managing operations and assisting customers at The Willow Market and Pharmacy (on the way to taking a break)",
+      0
+    ],
+    [
+      "still managing operations and assisting customers at The Willow Market and Pharmacy (conversing about incorporating more elements of hip-hop culture into their project, including collaborating with local hip-hop artists, incorporating elements of spoken word and traditional African music, incorporating storytelling from the Black community, prioritizing inclusivity and collaboration with Black artists and storytellers, creating opportunities for Black community members to lead in decision-making processes, empowering their voices, educating themselves on the struggles and experiences of the Black community, and creating safe and inclusive spaces for the Black community to share their stories and talents.)",
+      15
+    ],
+    [
+      "still managing operations and assisting customers at The Willow Market and Pharmacy (restocking shelves and organizing products)",
+      11
+    ],
+    [
+      "wrapping up operations and closing The Willow Market and Pharmacy for the day.",
+      1
+    ],
+    [
+      "wrapping up operations and closing The Willow Market and Pharmacy for the day. (on the way to wrapping up operations and closing The Willow Market and Pharmacy for the day)",
+      0
+    ],
+    [
+      "wrapping up operations and closing The Willow Market and Pharmacy for the day. (conversing about Tom Moreno and Tamara Taylor discussing incorporating elements of hip-hop culture, collaborating with local hip-hop artists, showcasing storytelling from the Black community, hosting a community event to celebrate the talents and stories of the Black community, collaborating with Black artists and organizations, and incorporating traditional African music and spoken word performances into their project.)",
+      17
+    ],
+    [
+      "wrapping up operations and closing The Willow Market and Pharmacy for the day.",
+      1
+    ],
+    [
+      "wrapping up operations and closing The Willow Market and Pharmacy for the day.",
+      1
+    ],
+    [
+      "having dinner with his wife (setting the table for dinner)",
+      5
+    ],
+    [
+      "having dinner with his wife (cooking dinner)",
+      30
+    ],
+    [
+      "having dinner with his wife (on the way to checking on the customers at The Willow Market and Pharmacy)",
+      0
+    ],
+    [
+      "having dinner with his wife (conversing about incorporating hip-hop culture and amplifying diverse voices in their project, Sam Moore and Tom Moreno discuss ideas such as collaborating with local hip-hop artists, showcasing storytelling from the Black community, hosting a community event, inviting Eddy Lin for insights, and addressing systemic inequalities and social injustices faced by the Black community.)",
+      13
+    ],
+    [
+      "having dinner with his wife (serving dinner)",
+      2
+    ],
+    [
+      "having dinner with his wife (his wife are having dinner and catching up on their day) (setting the table for dinner)",
+      5
+    ],
+    [
+      "having dinner with his wife (his wife are having dinner and catching up on their day) (heating up the food)",
+      10
+    ],
+    [
+      "having dinner with his wife (his wife are having dinner and catching up on their day) (pouring drinks for himself and his wife)",
+      5
+    ],
+    [
+      "having dinner with his wife (his wife are having dinner and catching up on their day) (his wife are sitting down to eat)",
+      40
+    ],
+    [
+      "having dinner with his wife (clearing the table and doing the dishes)",
+      20
+    ],
+    [
+      "having dinner with his wife (checking his phone for any urgent messages from The Willow Market and Pharmacy)",
+      30
+    ],
+    [
+      "spending quality time with his wife after dinner (helping his wife clean up after dinner)",
+      10
+    ],
+    [
+      "spending quality time with his wife after dinner (washing the dishes)",
+      15
+    ],
+    [
+      "spending quality time with his wife after dinner (catching up with his wife about their day)",
+      35
+    ],
+    [
+      "discussing the local mayoral election with friends (meeting up with his friends at a local coffee shop)",
+      5
+    ],
+    [
+      "discussing the local mayoral election with friends (ordering drinks for himself and his friends)",
+      5
+    ],
+    [
+      "discussing the local mayoral election with friends (catching up with his friends and discussing their day)",
+      10
+    ],
+    [
+      "discussing the local mayoral election with friends (on the way to bringing up the topic of the local mayoral election)",
+      0
+    ],
+    [
+      "discussing the local mayoral election with friends (conversing about collaborating on involving local Black artists and community organizations in their project to accurately represent their voices and experiences, prioritizing inclusivity, diversity, and social justice.)",
+      19
+    ],
+    [
+      "discussing the local mayoral election with friends (on the way to his friends are discussing the different candidates and their platforms)",
+      0
+    ],
+    [
+      "discussing the local mayoral election with friends (conversing about how to authentically involve the Black community in their project and ensure their voices are represented and empowered throughout the process)",
+      18
+    ],
+    [
+      "discussing the local mayoral election with friends (sharing his thoughts and opinions on the candidates)",
+      15
+    ],
+    [
+      "still discussing the local mayoral election with friends (listening to his friends' opinions on the mayoral candidates)",
+      15
+    ],
+    [
+      "still discussing the local mayoral election with friends (sharing his own thoughts on the candidates)",
+      15
+    ],
+    [
+      "still discussing the local mayoral election with friends (discussing the projects involving the Black community with his friends)",
+      30
+    ],
+    [
+      "still discussing the local mayoral election with friends (taking a break to grab some snacks and drinks)",
+      10
+    ],
+    [
+      "still discussing the local mayoral election with friends (continuing the discussion on the mayoral election)",
+      30
+    ],
+    [
+      "still discussing the local mayoral election with friends (sharing information about Ayesha Khan's poetry project with his friends)",
+      15
+    ],
+    [
+      "still discussing the local mayoral election with friends (making plans to attend one of Ayesha's future events)",
+      4
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -12
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      12
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -2
+    ],
+    [
+      "sleeping",
+      -1
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -1
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -1
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      4
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -13
+    ],
+    [
+      "sleeping",
+      2
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "opening The Willow Market and Pharmacy",
+      60
+    ],
+    [
+      "managing operations and assisting customers at The Willow Market and Pharmacy",
+      60
+    ],
+    [
+      "still managing operations and assisting customers at The Willow Market and Pharmacy",
+      180
+    ],
+    [
+      "reaching out to Ayesha Khan to offer support for her poetry project on gentrification and social issues",
+      60
+    ],
+    [
+      "still managing operations and assisting customers at The Willow Market and Pharmacy",
+      180
+    ],
+    [
+      "having dinner with his wife",
+      180
+    ],
+    [
+      "spending quality time with his wife after dinner",
+      60
+    ],
+    [
+      "discussing the local mayoral election with friends",
+      60
+    ],
+    [
+      "still discussing the local mayoral election with friends",
+      120
+    ]
+  ],
+  "act_address": "the Ville:The Rose and Crown Pub:pub:microphone",
+  "act_start_time": "February 14, 2023, 21:52:00",
+  "act_duration": 18,
+  "act_description": "discussing the local mayoral election with friends (conversing about how to authentically involve the Black community in their project and ensure their voices are represented and empowered throughout the process)",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Tom Moreno",
+    "converse",
+    "about how to authentically involve the Black community in their project and ensure their voices are represented and empowered throughout the process"
+  ],
+  "act_obj_description": "picking up conversations about the local mayoral election and actively capturing the discussions happening",
+  "act_obj_pronunciatio": "\ud83d\udcac",
+  "act_obj_event": [
+    "microphone",
+    "pick up",
+    "conversations about the local mayoral election"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Adam Smith": -2248,
+    "Isabella Rodriguez": -8662,
+    "Ayesha Khan": -1900,
+    "Eddy Lin": -1114,
+    "Sam Moore": -760,
+    "Klaus Mueller": -2482,
+    "Wolfgang Schulz": 620,
+    "Carlos Gomez": -1624,
+    "Tamara Taylor": 752
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [],
+  "known_personas": [
+    "Adam Smith",
+    "Isabella Rodriguez",
+    "Ayesha Khan",
+    "Eddy Lin",
+    "Sam Moore",
+    "Klaus Mueller",
+    "Wolfgang Schulz",
+    "Carlos Gomez",
+    "Tamara Taylor"
+  ]
+}

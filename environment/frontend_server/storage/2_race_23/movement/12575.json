@@ -1,0 +1,97 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udccb",
+      "description": "returning to Hobbs Cafe after the business meeting at 11:00 am (reviewing the cafe's inventory and making a list of items that need to be restocked) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        94,
+        21
+      ],
+      "pronunciatio": "\ud83c\udfa4",
+      "description": "reviewing notes and preparing for his meeting with Isabella at 2:00 pm (conversing about two collaborators, Carlos Gomez and Klaus Mueller, discussing their excitement and dedication to incorporating poetry and traditional African music to showcase Black history and achievements in their project.) @ the Ville:Carlos Gomez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        94,
+        21
+      ],
+      "pronunciatio": "\ud83e\udd1d",
+      "description": "still at the library working on his research paper (conversing about two collaborators, Carlos Gomez and Klaus Mueller, discussing their excitement and dedication to incorporating poetry and traditional African music to showcase Black history and achievements in their project.) @ the Ville:Carlos Gomez's apartment:main room:desk",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "meeting with his team to discuss progress on current projects (conversing about two collaborators, Sam Moore and Adam Smith, discussing ways to promote diversity and inclusivity in their poetry project by involving local artists and poets from diverse backgrounds, organizing events to engage underrepresented communities, incorporating elements of jazz music, spoken word, storytelling, traditional African music, and folklore, addressing systemic inequalities and social injustices, and fostering a sense of community and belonging while reaching out to Hispanic and Asian communities as well.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42\ud83d\udcdd",
+      "description": "attending her first class at Oak Hill College (actively listening and taking notes during the lecture) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        95,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying for exams (reviewing practice problems) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending his music theory class at Oak Hill College (working on an in-class assignment) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        51
+      ],
+      "pronunciatio": "\ud83d\uded2",
+      "description": "still managing operations and assisting customers at The Willow Market and Pharmacy (assisting customers with finding products and answering questions) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        64,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "wrapping up the meeting and heading back to continue writing for her children's book series. (conversing about collaborating to promote diversity and inclusivity in literature by incorporating elements of traditional African music, folklore, and jazz music, involving local Black artists and community members in decision-making, shedding light on systemic inequalities exacerbated by gentrification, and amplifying the voices of the Black community through storytelling and spoken word performances.) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        35,
+        31
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f\ud83c\udfb6",
+      "description": "checking and responding to emails and messages (conversing about two collaborators, Sam Moore and Adam Smith, discussing ways to promote diversity and inclusivity in their poetry project by involving local artists and poets from diverse backgrounds, organizing events to engage underrepresented communities, incorporating elements of jazz music, spoken word, storytelling, traditional African music, and folklore, addressing systemic inequalities and social injustices, and fostering a sense of community and belonging while reaching out to Hispanic and Asian communities as well.) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 10:55:50"
+  }
+}

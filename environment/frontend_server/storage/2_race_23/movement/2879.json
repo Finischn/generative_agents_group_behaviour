@@ -1,0 +1,97 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "opening Hobbs Cafe and having breakfast (checking the inventory and restocking any items that are low) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Carlos Gomez": {
+      "movement": [
+        96,
+        24
+      ],
+      "pronunciatio": "\ud83c\udf92",
+      "description": "waking up and completing his morning routine (packing his bag for the workshop) @ the Ville:Carlos Gomez's apartment:main room:closet",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        122,
+        47
+      ],
+      "pronunciatio": "\ud83c\udfad",
+      "description": "waking up and completing his morning routine (conversing about the exploration of themes in Shakespeare's plays and the impact of gentrification in low-income communities between Ayesha Khan and Klaus Mueller) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Sam Moore": {
+      "movement": [
+        37,
+        70
+      ],
+      "pronunciatio": "\ud83d\udec1\ud83d\udc57",
+      "description": "getting ready for the day (showering and getting dressed) @ the Ville:Moore family's house:bathroom:shower",
+      "chat": null
+    },
+    "Ayesha Khan": {
+      "movement": [
+        122,
+        47
+      ],
+      "pronunciatio": "\ud83c\udfad",
+      "description": "having breakfast (conversing about the exploration of themes in Shakespeare's plays and the impact of gentrification in low-income communities between Ayesha Khan and Klaus Mueller) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Wolfgang Schulz": {
+      "movement": [
+        103,
+        30
+      ],
+      "pronunciatio": "\ud83d\ude97",
+      "description": "attending morning classes (commuting to campus) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Eddy Lin": {
+      "movement": [
+        95,
+        74
+      ],
+      "pronunciatio": "\ud83d\udcc5\ud83d\udcda",
+      "description": "waking up and completing his morning routine (checking his schedule and making sure he has all necessary materials for his classes) @ the Ville:Lin family's house:Eddy Lin's bedroom:desk",
+      "chat": null
+    },
+    "Tom Moreno": {
+      "movement": [
+        75,
+        66
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "waking up and completing his morning routine (making breakfast for himself and his wife) @ the Ville:Moreno family's house:kitchen:cooking area",
+      "chat": null
+    },
+    "Tamara Taylor": {
+      "movement": [
+        55,
+        67
+      ],
+      "pronunciatio": "\ud83d\uddd3\ufe0f",
+      "description": "having breakfast (checking her schedule for the day) @ the Ville:Tamara Taylor and Carmen Ortiz's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        69,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcf1",
+      "description": "researching and gathering information about the local mayor election (checking social media for any updates or discussions about the election) @ the Ville:The Rose and Crown Pub:pub:shelf",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:59:50"
+  }
+}
