@@ -1,26 +1,77 @@
 
 
-# Generative Agents: Interactive Simulacra of Human Behavior 
-
+# Generative Agents: Group Behaviour Simulation
 <p align="center" width="100%">
 <img src="cover.png" alt="Smallville" style="width: 80%; min-width: 300px; display: block; margin: auto;">
 </p>
 
-## Changes in This Version
-This is a minorly changed version of the original repository:  "[Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/joonspk-research/generative_agents)."
-
-The most important changes are:
-- **Model**: Switched to `gpt-3.5-turbo-instruct`, replacing deprecated models `text-davinci-002` and `text-davinci-003`
-- **Phaser**: Changed settings to show entire map of village
-- **Inner Voice**: "Call -- Inner Voice" added to insert thoughts into persona's memory
-
-**Note**: When starting a new game run the game at least one timestep before using any of the "call" commands specified in reverie.py
 
 
+## New Features and Changes
 
-Below original readme:
+This version builds upon the original repository, *Generative Agents: Interactive Simulacra of Human Behavior*, extending the framework to investigate group behaviour among generative agents.
+
+### Key Changes:
+- **Behavioural Tracking:** Implemented additional behavioural tracking mechanisms to study intergroup interactions, information spread, and group identity salience.
+- **Conversation Mode Selection:** Function to set the conversation prompts to either race-based or village-based group settings.
+- **Agent Group Awareness:** Added history files to load agent-specific awareness of their own group membership. When meeting other agents for the first time, agents automatically become aware of the other agent's group membership.
+- **Automated Interviews:** A new command to conduct interviews with all agents based on predefined questions.
+  
+- **Model Update:** Switched to `gpt-3.5-turbo-instruct`, replacing deprecated models `text-davinci-002` and `text-davinci-003`.
+- **Phaser Update:** Adjusted settings to display the entire village map.
+
+
+### **Set Conversation Prompts to Race or Village Context**
+
+You can define the context for agent conversations by selecting one of the two available conversation modes:
+
+```plaintext
+set conv mode race
+```
+
+or
+
+```plaintext
+set conv mode village
+```
+
+This determines whether the village or race prompts are used for agent interactions.
+
+### **Set Awareness of Group Membership for Agents**
+
+To ensure agents are aware of their own group identity, load the corresponding history file:
+
+- **For race-based identity:** 
+
+  ```plaintext
+  call -- load history the_ville/agent_history_init_n10_race_ownIdentity.csv
+  ```
+
+- **For village-based identity:** 
+
+  ```plaintext
+  call -- load history the_ville/agent_history_init_n10_village_ownIdentity.csv
+  ```
+
+This enables agents to recognize and articulate their own group identity. Only load history files after running the simulation for at least one step to ensure proper initialization.
+
+### **Interview All Agents**
+
+To conduct structured interviews with all agents based on predefined questions, run:
+
+```plaintext
+call -- interview all
+
+questions.txt
+```
+
+This command will systematically prompt each agent with a series of questions, allowing researchers to analyze how group identity influences their responses.
 
 ---
+
+## Below: **Original README**
+---
+
 
 
 
